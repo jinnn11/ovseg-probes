@@ -1,0 +1,9 @@
+pycocotools
+lvis
+numpy
+matplotlib
+Pillow
+pytest
+ipywidgets
+requests
+tqdm
