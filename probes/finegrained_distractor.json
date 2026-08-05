@@ -1,0 +1,4642 @@
+[
+  {
+    "distractor_box": [
+      164.58,
+      361.36,
+      469.45000000000005,
+      640.0
+    ],
+    "has_distractor": true,
+    "image_id": 83741,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=backpack",
+    "pair_id": "fg_1288",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_1288",
+    "prompt": "suitcase",
+    "target_box": [
+      0.63,
+      521.53,
+      439.96999999999997,
+      637.5999999999999
+    ],
+    "target_mask": {
+      "counts": "`W1>l`0f2L4O1O1O1O1O100000000000000001O00000000000000000000001O00001O1O001O1O1OO1O1O1O1N2O1O10000000000000000000000000000O100000000000000O10000000000O10000000000O1000000000000000000O1000000000000000000000000O10000000000000000000000000000000000000000000000000000001O00001O00001O00001O00000000O1000000O100000O1000O100000000000000000000O100000000000000001O0O1000000000000000001O0000000000000000001O000000000000000000001O0000000000000000000000000000001O000000000000000000001O0000000O2O000000001O0000000000001O00005K5KO100O1N2N2M3O1O1000000000000000000000000000000001O00001O001O1O2N0000000000001O0000000000000001O0000000001O000000000000000000000000000000001O00000000000000000000000000000000000001O0000000000000000000000000000000000000000000000000000000O100000001O0000000001O1O1O001O1O1O1O001O1O1O2N2N2N2N1O2N2N3M2N2N3M2N2N1O1O1O1O2N1O1O1O2N1N2O2N1O1O1O2N1O2N2N3M2N3M3M2N3M3M2N3M2M3N2N3M2NU\\h0",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      0.63,
+      521.53,
+      439.96999999999997,
+      637.5999999999999
+    ],
+    "has_distractor": true,
+    "image_id": 83741,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=suitcase",
+    "pair_id": "fg_1288",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_1289",
+    "prompt": "backpack",
+    "target_box": [
+      164.58,
+      361.36,
+      469.45000000000005,
+      640.0
+    ],
+    "target_mask": {
+      "counts": "hbW3:dc05K4M3M3M3M3L4M2N3L3N3M2N2M3N2N2N2M2O2N2N2N2N2N2N2N1N3N2M3N1N3N2N1O2N2N1N3N100O1O2L3N2N2M3O1O2N1O1O100O1O100O100O2O000O10000O100O100N3N1N2O1O1O100O2N1O100O1O1O2N1O1O100O2N1O:F1O2OO0100O00JUAXKl>g4610O0100O100O10000O100O10000O1000000O10001O001O3M2N0O2O000000000O1000000000000000000000000001O0000000000000000000001O0000000O100O100O10000O100000000O1001O0000001O001O001O1O1O1O1O1O001O1O1O1O3M2N3M4L3M3M00O12N001VNb@PO`?m0c@QOb?h0a@WO`?f0b@YOa?c0b@\\O_?`0d@_O_?=c@B`?0l@0V?Ll@3W?Il@6W?Ek@:Y?Bi@<[?@g@?\\?\\Og@c0]?XOe@f0e?PO\\@P1[a0O0O2O001N101O0O2O001O1N101O001N2O001O1O0O101O001O000O2O001O001O0000001O01O6J2N1001OO1O100O10O10000O101N100O1O1O0O2M3O1000O010O100O100O100O101O0O10100O001m^O^Oe>b0UACm>?k@EW?=`@Ed??R@CU`0>`_ODi`0c0`^ODia0S1:F9E<CVZ6",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      144.38,
+      4.86,
+      301.19,
+      184.96
+    ],
+    "has_distractor": true,
+    "image_id": 146627,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=suitcase",
+    "pair_id": "fg_2315",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2315",
+    "prompt": "backpack",
+    "target_box": [
+      298.24,
+      64.31,
+      399.26,
+      218.43
+    ],
+    "target_mask": {
+      "counts": "[\\l34U=:QCP1Q;T1@4L4L3N0O1O1O1O2M3M3N3L3M4L4M3M4L4L4L2O2N2N00M3N2N2M3O2N2N110O00100O0100O100O10001N100O110O00001O00001O10O01O1O1O101N2N2N2O1N2NaMYG<e8@cG?[8\\OnGoNBb0`8;VHaNNn0l7>\\I_Od6?aI^O`6>fI_OZ6>lI_OU6>PJ_OP6`0TJZOP6c0]3O2M2O101N1O2O0O2O0O2O0O2O1O1N2O1O1O3L3N2N1O1O2Nm\\T3",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      298.24,
+      64.31,
+      399.26,
+      218.43
+    ],
+    "has_distractor": true,
+    "image_id": 146627,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=backpack",
+    "pair_id": "fg_2315",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2316",
+    "prompt": "suitcase",
+    "target_box": [
+      144.38,
+      4.86,
+      301.19,
+      184.96
+    ],
+    "target_mask": {
+      "counts": "STl15R<e1VOk0ZOi0YOg0YOf0[O1O1000O0100O1000000O010000000001O000000O00100O10000001O00O1O1O2N1OKkGVKU8f49D<O1O1O2M3M2O2M3M3N2N2O1O1N2O0O00110O01O0010O0O2O1O1O100O100O101N100O100O1000O010000000000000000O10O10000000000000001O000001O01O0O1000001O10O011N2O0O01O1O001N1N3M201O10O101N3NO1O1O001O100O001O100O010O2O0O100001001O2N6LN8G8H1aLdFh1JPOf::_EAo:2UE^Od;5lX]4",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      315.37,
+      378.68,
+      423.94,
+      510.8
+    ],
+    "has_distractor": true,
+    "image_id": 170992,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=backpack",
+    "pair_id": "fg_2697",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2697",
+    "prompt": "handbag",
+    "target_box": [
+      398.82,
+      386.08,
+      508.15999999999997,
+      539.61
+    ],
+    "target_mask": {
+      "counts": "]li75ic03N2N2N2N2N2N2N100O1N3L3O1N2O1O1N2O1ATOi]Om0na0h0K4O100O100O10000O100N2O1O1O100O1O2O000O10O10O10O0100O010O10O010000O010000000O10O10001N101N101N102M2O0O1000M3M200LjM_^OW2`a031RNb^O[1Xa0XNg^O61I7d1n`0kNZ@Ho?9h10h\\OBUc0=P]OAnb0>:0O2NN3K50N1001O1ONH`\\O8`c040O100O1O1100001N10000I\\\\O2dc0MUTb2",
+      "size": [
+        640,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      398.82,
+      386.08,
+      508.15999999999997,
+      539.61
+    ],
+    "has_distractor": true,
+    "image_id": 170992,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=handbag",
+    "pair_id": "fg_2697",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2698",
+    "prompt": "backpack",
+    "target_box": [
+      315.37,
+      378.68,
+      423.94,
+      510.8
+    ],
+    "target_mask": {
+      "counts": "gZU62jc0f0[O8I6J3I7N3K4F:N100O2E:K6I6N2O1O2N1O1O1O1O1N2O2N1O1O1N2O1O1O2N100O1O001I7N200O1O10O0100O100O1O10O1000004L1N100O2O2M100OM40O1O1N3N1N2O1N2O1O001N110O0mMj_O=W`0UO[@f0f?lN[_OIX1Z1\\?mNl@Q1U?oNl@o0U?QOk@o0U?POl@o0U?QOk@m0V?TOk@j0V?UOk@j0V?VOk@h0V?XOk@f0V?YOl@c0W?]Ok@=Y?Ck@7W?Hm@3U?Mj@O\\?0c@0^?0`@0b?0]@0d?O[@1g?OV2O001N110O001O1O010O00nWW4",
+      "size": [
+        640,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      48.9,
+      54.74,
+      244.67000000000002,
+      303.71999999999997
+    ],
+    "has_distractor": true,
+    "image_id": 172475,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=suitcase",
+    "pair_id": "fg_2713",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2713",
+    "prompt": "backpack",
+    "target_box": [
+      85.19,
+      228.96,
+      308.83,
+      462.9
+    ],
+    "target_mask": {
+      "counts": "QnY11_?5SONSB6g=1SB4i=1QB1n=4mALo;h0gD3Z;:WDGj;>nCCT<m1O1O001O1M4K6I6O2M2N3N1O2O001N1000000001O00000O2M2O1O2M2O2O02O2M2O1N2O1N4M4L3L5L4L5J5L3L4L2N2O1N2N3M2O0O1O2N101N1O2O0O1O1O100O1O2N100O1O101N1O100O1O2O0O2N101N1O2N101O0O2O000O2O001O0O2O000O2N100O2N10000O2O000O10000000O101N100O10000O10000100O1O1O0010O001N1O2N2O1O1O1O2N1O1O1O1O2N1O1O1O1O2N1O1O1N3N1N2O2N1N3M2N2O2L3M3M4L3M4M3M2N3M3M2O0O101N101O00001N101O000O2O001N101O1N101O1N5L2N2M4L4M7H8I7H6J3M4L5J5L2M3N2N1O2N2N2N2O1D<I7H8L5Mb0]O8I\\ko0",
+      "size": [
+        500,
+        375
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      85.19,
+      228.96,
+      308.83,
+      462.9
+    ],
+    "has_distractor": true,
+    "image_id": 172475,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=backpack",
+    "pair_id": "fg_2713",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2714",
+    "prompt": "suitcase",
+    "target_box": [
+      48.9,
+      54.74,
+      244.67000000000002,
+      303.71999999999997
+    ],
+    "target_mask": {
+      "counts": "PRh0>S?6K5L4K4L5L4RBUOl<o1J3M4L4M2M3N2M3M4M2M3N3L3M3N2M4M6I4M3L4L3N3L7J5J4L6J3M4M3L3M3M2N3M2N2N3M3M2M3N1N2M4J500O100O1000O1000O10O100O10000O1ZOUGcJk8\\5VGdJi8]5WGcJi8\\5XGcJi8\\5XGdJg8]5ZGbJf8]5[GcJd8]5]GbJc8_5]GaJc8^5^GaJb8_5_G^Jd8b5]GYJf8g5\\GTJg8l5`01O000010O01O2N2O0O0010O00000O2O0O11O0001O010O01O00010O010O01O1O1O010O1O1O100O1O100O100O2O0O1O2O0O2O0O2O001N101N101N10001N101O0O101O1N101O001O00001N101O001O001O1O001O0010O010O000010O0010O1O010O010O1O101N10O01O101N1O100O2N100OlMiETMe0K_O>T:l1k2mNT1^Oc0]Ol\\o1",
+      "size": [
+        500,
+        375
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      184.61,
+      141.07,
+      259.19,
+      232.07
+    ],
+    "has_distractor": true,
+    "image_id": 188044,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=backpack",
+    "pair_id": "fg_2951",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2951",
+    "prompt": "suitcase",
+    "target_box": [
+      306.21,
+      270.29,
+      367.28999999999996,
+      373.18
+    ],
+    "target_mask": {
+      "counts": "fUP43W=6K7H8H7L5J5K6J5YD_NY;U2E6QEfM`:]2\\EhM`:b2O2O1O000O10000000O1O01000000O1000000O100O1O00100O1O1001O00000O10002L4N2N2N2N0O2M2O3L5L6J7H8G9H?^O^ia3",
+      "size": [
+        428,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      306.21,
+      270.29,
+      367.28999999999996,
+      373.18
+    ],
+    "has_distractor": true,
+    "image_id": 188044,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=suitcase",
+    "pair_id": "fg_2951",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2952",
+    "prompt": "backpack",
+    "target_box": [
+      184.61,
+      141.07,
+      259.19,
+      232.07
+    ],
+    "target_mask": {
+      "counts": "i`]28b<c0M3N13N0O10cNUOXFj0g9XOXFi0g9WOZFi0e9XOZFm0a9TO_Fm0^9UOPF^1n9cNiEf1V:[NcEl1\\:TN`EQ2`:oM\\EU2c::001O1O001O00O1O1O1O100O10000O10000000O10001O000000000000001O00001O001OO1O100000O1`M]EW2c:hM_EW2b:gM_EY2a:dMcE[2g:00O2O1O2O1N3L9H2M3M6I>QOgC1W^o4",
+      "size": [
+        428,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      212.81,
+      127.58,
+      299.27,
+      168.43
+    ],
+    "has_distractor": true,
+    "image_id": 237284,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=handbag",
+    "pair_id": "fg_3694",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_3694",
+    "prompt": "suitcase",
+    "target_box": [
+      99.92,
+      168.74,
+      305.71,
+      309.33000000000004
+    ],
+    "target_mask": {
+      "counts": "fnQ13e:2N2N1O1QN0TI2i69dGEn03]7g0_HZOa7o0UHQOk7Z1jGgNV8\\1fGeNZ8m1O010O01O1O001000OhMgGS2c8M3M2M3N00O1O10O01O100O011N7J3L0100O001O1O001O0010O01O001O001O1N101O1O0001O1O001O1N101O1O0O2O1O0O101O000O2O0O10001N100O100O1O1O001O0010O010O1O100O1O010O1O100O00100O1O010O1O100O1O1O101N1O2O0O1O100O1O1O100O1O100O0001M21O10N10010O01O10O01O100O00100O1O010O10O01O10O01O10O01ON3M21O010O1O2O0O1O2O1N1O2O0O2N101N2N2O0O1OoNjN`HW1`7QOXHn0h7TOVHl0k7VORHk0m7ZOoGe0Q8^OlGb0S8BjG?V8DgG;[8FcG9^8Q11N1O2O001O000O2N1O2O1N2N2M2]OQGZOR9:YGEi8KgG3[8HiG7^9N3KhTQ2",
+      "size": [
+        345,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      99.92,
+      168.74,
+      305.71,
+      309.33000000000004
+    ],
+    "has_distractor": true,
+    "image_id": 237284,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=suitcase",
+    "pair_id": "fg_3694",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_3695",
+    "prompt": "handbag",
+    "target_box": [
+      212.81,
+      127.58,
+      299.27,
+      168.43
+    ],
+    "target_mask": {
+      "counts": "TmW24d:2O00000000001N100DKRF7m9;L4O1O1O1O2O1O2N1O1000O10O001N100000O10O010000000001O01O01O01O0100O001O1O1O1O1O1O1O1O1O10O01O001O001O2N1O1O1O1O2N1O1O00001O00001O0000001O00000000001LTbS2",
+      "size": [
+        345,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      86.01,
+      144.45,
+      207.42000000000002,
+      242.39999999999998
+    ],
+    "has_distractor": true,
+    "image_id": 264250,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=handbag",
+    "pair_id": "fg_4055",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4055",
+    "prompt": "suitcase",
+    "target_box": [
+      282.18,
+      250.78,
+      462.29,
+      319.32
+    ],
+    "target_mask": {
+      "counts": "gfk22W:4N2N3L3N1O1O0HF^F;c97N1M6M2Nd0\\O3M2N2O1N100O10000O10000O10000O100O101O00nMjGOOm1_8N000000000O101O001O5K00000000000000001O00000000000000000000000000000000000000000000000000000000000O100000000O100O10000O010O10000O1000000O01000000000O1000O1000000000O11O1O003M1N4M1O0000000000O10000000O001O10O100000000O1000O100O1000O02O00001O0O10001O0000000001O0O2OW1iN000O1O1O1O1N20001N2N2N2MmP<",
+      "size": [
+        332,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      282.18,
+      250.78,
+      462.29,
+      319.32
+    ],
+    "has_distractor": true,
+    "image_id": 264250,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=suitcase",
+    "pair_id": "fg_4055",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4056",
+    "prompt": "handbag",
+    "target_box": [
+      86.01,
+      144.45,
+      207.42000000000002,
+      242.39999999999998
+    ],
+    "target_mask": {
+      "counts": "bQl02d04l8NQG6l8LPG9m8JjF>T9?N2N2O1N100O1O1N101O00001O2N`0@1O2N001O00000000O1000O010000O10O10O0100O010O10O10O10O10O10O010O0100O1O001O1O1O1O1O1O1O00100O1O2N1O1O10000000000O01000000O10001O0O0100O12M3N2N2N2M3N3M2N8VN_GX1l8O1O1O1N2O1O1O1N2O1O1O1N2O1O1O1N3N1O2N2M3N1O2N2M4LZin2",
+      "size": [
+        332,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      364.37,
+      296.27,
+      542.26,
+      480.0
+    ],
+    "has_distractor": true,
+    "image_id": 274449,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=backpack",
+    "pair_id": "fg_4218",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4218",
+    "prompt": "handbag",
+    "target_box": [
+      202.54,
+      331.62,
+      265.46,
+      444.79
+    ],
+    "target_mask": {
+      "counts": "\\_o21o>3M2N2N2N2N2O1N2O1O001O100000O100000O01000O101N100O101O0O2M2N3N1N3M2O2M3M2O2M4M4K5K5K5K5LO2L4N2N2N2_NWCNG;T=B]CLBb0S=^OfCb0\\<[OeCd0\\=O3N2M2N3M3M3N2Mb[_5",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      202.54,
+      331.62,
+      265.46,
+      444.79
+    ],
+    "has_distractor": true,
+    "image_id": 274449,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=handbag",
+    "pair_id": "fg_4218",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4219",
+    "prompt": "backpack",
+    "target_box": [
+      364.37,
+      296.27,
+      542.26,
+      480.0
+    ],
+    "target_mask": {
+      "counts": "d_[53l>3N2M4N10001O001`LBZH>d7B_H=^7EcH<Z7DhH<V7ElH9S7GnH:P7GPI:m6GTI:j6GVI9i6HWI9g6GZI:d6G\\I:a6G`I:^6GbI9]6GcI;[6FeI;Y6EhI<V6EjI<S6FmI<P6DQJ=m5DSJ>j5BWJ?\\LROQ9`0cJg0\\5ZOdJf0\\5[OeJc0[5^OfJ`0Z5AhJ<X5EiJ9V5IkJ5U5L`Hj0QOXO_8NZHZ1oNfNh80SHd1ROZNk83mGl1ROSNQ92iGR2oNoMX90eGQ3\\8oL`GT3`8mL[GW3e8jLWGY3j8gLSG[3m8fLPG\\3Q9dLmF]3T9cLiF_3X9aLfF`3[9`LbFb3_9o01O1O1O1O1O1O1O1O1O1O1O1O001O001O001O1O2N1O1O1O2N1O0000000000000000000000000000O1N2M3N2N2M3N2N2O10000000000001O00001O00001O001O00001\\KVFP4j9nKYFQ4h9kK\\FT4d9jK_FU4b9gKbFX4^9eKfFZ4Q:O1O002N1O1O1O001O001O00001O1O2N2N2N2N2N2N2N2N3M3M3M2N3M5K5K5K4L5K5K5K8H;E3M3M2N1O2N1O1O2N1O1O2N2N2N2N=CY_]1",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      55.53,
+      300.41,
+      158.61,
+      386.37
+    ],
+    "has_distractor": true,
+    "image_id": 278097,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=handbag",
+    "pair_id": "fg_4272",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4272",
+    "prompt": "suitcase",
+    "target_box": [
+      347.83,
+      176.01,
+      533.5899999999999,
+      502.21999999999997
+    ],
+    "target_mask": {
+      "counts": "V][54\\?7J6K6I6I7J6K5L4L4J6I7I7L4L4M3L4M3L4M6J9F4M3K5K4I8H8YObKlEg4S:?00K5G9F:F:G9XNbImIh6W5WJYJV6_5SJSJZ6j5k1O0O2O1O1O1O1O1O100O1O10000O1000000O10O100000000000000000000001O0000000000000000001O00001O001O001O001O1O001O001O000001O00001O001O001O001O1O1O1O1O1O1O2N2N2N2N4L5K4L4L4L3M5K5`GnHQ8c7I8H9G:F9G9G8H9G9G9G0000001O00001O2N2N4L4L2N1O1O000000000000000000001O00000000001O0000001O00001O001O2N1O2N1O2N3FmDjKU;e3h0UOk0Ah0YOZ1aNPfc1",
+      "size": [
+        503,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      347.83,
+      176.01,
+      533.5899999999999,
+      502.21999999999997
+    ],
+    "has_distractor": true,
+    "image_id": 278097,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=suitcase",
+    "pair_id": "fg_4272",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4273",
+    "prompt": "handbag",
+    "target_box": [
+      55.53,
+      300.41,
+      158.61,
+      386.37
+    ],
+    "target_mask": {
+      "counts": "Tkk06^?7J7I6J3M3N1N3N2N1O2M2O2N1O100O1000000000000O100000O100000000O100000000O10000000000O1000000001O00000000000000001O01O01O00100O1O1O2N1O2M2N1O2N101N101O001O000000000000000K4O2N1O2N1O2N1O1O21N2N2N2UOfBUOc=d0_BYOc=6cB\\OM:b=4XCDl<6b1Eon[7",
+      "size": [
+        503,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      207.52,
+      367.6,
+      372.67,
+      489.54
+    ],
+    "has_distractor": true,
+    "image_id": 292991,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=backpack",
+    "pair_id": "fg_4487",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4487",
+    "prompt": "suitcase",
+    "target_box": [
+      105.46,
+      268.33,
+      330.89,
+      463.34
+    ],
+    "target_mask": {
+      "counts": "^cc13T?j0VOn0mNl0D9H7H4M4K5K4M7I8H4L2M3N2N101O1O001N2O001O1O1O1O1O1N2O1O1O1O1O1O1O1N101O1O001O1O001N2O001O001O1O001N101O1O001O00000O1000001O0000000O100000000000000O100001O0000001O00000000000O010000O10000O100000000O100000000O100000O1000O100000000O100000000O10000000000O010000000O1000O2M2O1N2O1O11O000000000000001O000000O1O1O3M3M3M3M2N1N2N1O2N2N101N2N2N102M2O2M2O2M2O2M20001N101N101OO010O0100O011O0O101N101O0O101N101N1O2N1O1O2N1N3I6H9J6N1O2N2N1O2B>SNl100O10000O100O\\Ve0",
+      "size": [
+        500,
+        375
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      105.46,
+      268.33,
+      330.89,
+      463.34
+    ],
+    "has_distractor": true,
+    "image_id": 292991,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=suitcase",
+    "pair_id": "fg_4487",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4488",
+    "prompt": "backpack",
+    "target_box": [
+      207.52,
+      367.6,
+      372.67,
+      489.54
+    ],
+    "target_mask": {
+      "counts": "^oU3>_>JkAb0f=l0K4M4J5K6L3M4K5L3N3M2N2O2O0O2N1O001O1O001N1010O01O00001O01O00O2O0000000000001O0O10001O00000000000000001O0000001O0000001O0000000000001N10000000000000000O2O0000000O2OO1000000O1000001O00000000000000001N1000001N101N1O101N100O1O10O0O2N1O2O0100O1N3O001O0O101O1O001N101O001O1O00O1O11WM_C]2b<aMbC\\2_<bMeC[2\\<cMgC[2[<bMhC[2l<M2N3L4M2M3M2O2M3N1APBXOR>e0oAZOT>b0oA]OR>?RB_OQ>8WBFl=7VBGn=6SBFR>7h0N2MZQ1",
+      "size": [
+        500,
+        375
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      188.39,
+      298.2,
+      368.88,
+      585.13
+    ],
+    "has_distractor": true,
+    "image_id": 327211,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=suitcase",
+    "pair_id": "fg_5045",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5045",
+    "prompt": "backpack",
+    "target_box": [
+      94.63,
+      150.14,
+      215.53,
+      303.98
+    ],
+    "target_mask": {
+      "counts": "ebk15m0Oka04d]OJN7\\b0?_]OF`b09^]OK`b07^]OJab0l0O1O1N3J]Nk]Og1a0ZNi`01e^Oe1>_Nk`0_2N2N1N2O2M2O101N1O1O1O2GnL`_OT3_`07O1N3N1O1O1O2O0O11O11M2l_OVLn?P4N2N100O2O000O100GnKc@S4]?9N1N20000O2O00000O1000O2N1Lf@aKZ?_440003L4M001O0O1000000O2N100O10O012M2N1OK]@nKd?Q450001]LS@R3m?nLT@Q3l?oLV@o2k?QMV@m2j?SMX@j2j?VMV@i2j?WMX@g2i?YMX@e2i?ZMY@d2h?\\MY@DHh2n?dMf@W2[?iM\\ADhNa1m?jNfAT1\\>kNfAR1\\>nNeAo0]>POdAn0^>RObAl0a>ROaAk0a>TO`Aj0c>UO_Ad0g>[O\\A>h>B^A5f>I]A3f>LYA4h>LVA4m>KRA4Q?Km@5U?Ki@5aa0O00010OS]OOma0`0Z]O_O2:db0j06J4Kj0WOjWo3",
+      "size": [
+        640,
+        420
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      94.63,
+      150.14,
+      215.53,
+      303.98
+    ],
+    "has_distractor": true,
+    "image_id": 327211,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=backpack",
+    "pair_id": "fg_5045",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5046",
+    "prompt": "suitcase",
+    "target_box": [
+      188.39,
+      298.2,
+      368.88,
+      585.13
+    ],
+    "target_mask": {
+      "counts": "ime32jc0`0B8I6\\NQOm_OS1g?Jc_O9Q`09g_OIS`0c0d_O@V`0W2J7M2O2M9H9G7I7J7H7I8jA`J^=a6@1O2N8H7I3M3N1N1O000001N1N2O1N2L4N2O1O100O1000cNWIcEh6]:]I_Ec6a:cIYE]6f:lIRET6n:YI`Dd07S6Y;YIiDc7X;[HPE^7R;`HWEV7S<G3MO10000000001O2N2N3M2N1O2M1N2O1O1000N2K4LkNVI^Ej6b:XI[Eh6f:aIQE_6P;iIgDW6Y;RIbD`00^6R<d08G8I5K2N0000001O1O1O1O1O0000O1000000000000000000O010000000000000000000O1000O100000O1000000O10000000O10000000001O0000001O0O2O12N1O3NO1N7J9G4K4Li0WO9G5K5K5K4M4L3L5K4L5J6J5H9_O`0K6K4K6K5K5J6K6I5L3L4L3N3L3M5K9G6FY[o0",
+      "size": [
+        640,
+        420
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      474.86,
+      169.75,
+      523.79,
+      232.1
+    ],
+    "has_distractor": true,
+    "image_id": 328110,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=backpack",
+    "pair_id": "fg_5055",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5055",
+    "prompt": "handbag",
+    "target_box": [
+      530.48,
+      164.04,
+      577.74,
+      242.51999999999998
+    ],
+    "target_mask": {
+      "counts": "]bl6<m<2YCI\\<g0K001N1WOROTEn0i:TOYEj0f:WO\\Eh0b:WOaEj0\\:UOfEm0V:TOlEl0R:SOPFm0o9SORFm0l9TOTFm0k9ROWFn0h9ROYFn0f9QO\\Fn0d9RO]Fn0c9QO^Fn0c9RO]Fn0b9RO_Fn0n:O10O10000O010001O0O2O00O10O01FVOTDk0m;72N3N2M5K4L4L6H5Ke`i0",
+      "size": [
+        425,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      530.48,
+      164.04,
+      577.74,
+      242.51999999999998
+    ],
+    "has_distractor": true,
+    "image_id": 328110,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=handbag",
+    "pair_id": "fg_5055",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5056",
+    "prompt": "backpack",
+    "target_box": [
+      474.86,
+      169.75,
+      523.79,
+      232.1
+    ],
+    "target_mask": {
+      "counts": "bZU67n<6K5K3O1O0L[OfC480Q<4SDHo;6a0O3O1N2O00100000000OVD0^:0aE1^:0`E2_:NaE2`:N_E3`:M_E5a:K^E6a:OZE2f:OXE2j:LTE7k:ITE8l:IQE9n:HPE;n:FQE;o:EoD=Q;CnD=S;DjD=V;DiD;X;EgD<Y;DgD<Z;BfD?Z;@fD`0];]OdDc0^;YOcDh0o;O10O00O1O1O9_O^n_1",
+      "size": [
+        425,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      299.96,
+      304.54,
+      527.5,
+      633.7
+    ],
+    "has_distractor": true,
+    "image_id": 330478,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=suitcase",
+    "pair_id": "fg_5088",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5088",
+    "prompt": "handbag",
+    "target_box": [
+      408.16,
+      128.28,
+      570.4100000000001,
+      301.2
+    ],
+    "target_mask": {
+      "counts": "ZXo71nc02M3N3M2N3M2N2M4K4M2N3M3M2N3L4L4M3N2M3N2N2N2N2M3M2O2L4L4M2O2M3M2N3M1N2E;N201N2000O0100000000000000000O10000O10O1000O1000000O10000O10]_OkL[`0]3O101O00001O00001O00010O00010O01N2N1M4M4J4M4N4L2O1O0L4N2N2N2M3N2N2N2N2M4M2M3N2M3N2N2N3dNd]OP1^b0nNe]Oo0]b0POe]Om0ib0M3L4M2N2N2N2N4L4LeN1Z13M4M2N2N00N2O2O1OO1O1N2O1O100O1N200000O10O1O001O1O11O0O2O002N2M3M3N2N2N2N2N2NhoP1",
+      "size": [
+        640,
+        623
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      408.16,
+      128.28,
+      570.4100000000001,
+      301.2
+    ],
+    "has_distractor": true,
+    "image_id": 330478,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=handbag",
+    "pair_id": "fg_5088",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5089",
+    "prompt": "suitcase",
+    "target_box": [
+      299.96,
+      304.54,
+      527.5,
+      633.7
+    ],
+    "target_mask": {
+      "counts": "bSl56^c0<D<C=D<D<D<F:I7I7J6I7I7I7I7J6I7I7K5K5K5K5L4N2M3O1O100O1O100O10000O10000O1000000O10001O00000O10000000000001O00000000001O00000000000000000000001O000000000000000000000000001O0000000000000000F:^Ob0]Oc0@`0C=D<mNbGWFk8g9h0N2N2O1O1O1O10000O100000000O1000000O100000000000000000000000000000000000000000000000000000000001O00000000001O000000001O0000001O000000001O0000001O0000001O00001\\JRFT1n9^N`Fb1a9nMnFR2S9_M[Gb2d8PMkGo2V8dLVH\\3k7WLaHi3`7jKmHU4T7^KXIb4i6lJhIT5Y6cJPJ\\5Z:0001O00001O001O00001O00001D;D=C=C=C=B>C=C=D=E;M:F3N1N101N100O1O1O1N3G:Fmlj1",
+      "size": [
+        640,
+        623
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      262.76,
+      367.81,
+      358.03,
+      568.61
+    ],
+    "has_distractor": true,
+    "image_id": 335656,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=suitcase",
+    "pair_id": "fg_5188",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5188",
+    "prompt": "backpack",
+    "target_box": [
+      174.88,
+      194.96,
+      299.06,
+      352.11
+    ],
+    "target_mask": {
+      "counts": "je]32kc03N2M3M2O1N101N100O0010OXOh02N3Mg]OUOba0j0[^O]O:C_`0Q1R_OB<_Ok`0f0d^O0>\\O`a0R1\\^OQOca0P1Z^OSOea0n0X^OROja0P1Q^OQOma0a1cMSNgBo1[=QNaBR2_=oM^BR2d=oMWBS2j=nMTBS2m=nMPBU2o=lMoAV2o=lMoAU2Q>mMlAU2S>lMkAU2T>mMjAU2U>lMhAW2W>kMfAV2Z>kMcAW2^>iM^A[2a>gM\\AZ2e>fMYA[2g>fMWA\\2i>eMUA[2l>eMSA[2n>fMn@]2R?dMe@c2\\?]M^@h2d?j01N101N2N1O1O2O0O2N2N1O2N10N1N2N101O10000O100000O1000001N2O001O1N2N2M4M4K=C3M2eMl^Oi1Ua0UNn^Oh1Ta0UNP_Oh1Sa0VNo^Og1Sa0ZNm^Oc1Ua0]Nl^Oa1Ua0`Nk^O`1Xa0]Nh^Ob1Xa0_Ni^Oa1>WNl?9f_Ob1:WNP`06h_On0GYO=ET`05i_Oj0I\\O6HW`02m_Of0H3^`0WOl_Ob0G3b`0ZOi_O`0G0e`0Ae_O;IMi`0Gb_O7aa0Jb^O1`a0Nb^ON`a03W100O0100O100O0100O010O100001O03M4L3M^S_2",
+      "size": [
+        640,
+        426
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      174.88,
+      194.96,
+      299.06,
+      352.11
+    ],
+    "has_distractor": true,
+    "image_id": 335656,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=backpack",
+    "pair_id": "fg_5188",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5189",
+    "prompt": "suitcase",
+    "target_box": [
+      262.76,
+      367.81,
+      358.03,
+      568.61
+    ],
+    "target_mask": {
+      "counts": "fkT53\\11g`0<U_OGc`0`0[_OB\\`0g0e^OSOc07_`0P1m^OlNa04Y`0[1T_OeN=2W`0T2`_OnMZ`0o2I3O6I7J7H7I7I8I6N2N2N3O0O101[AkJ\\>`5M1O0O10000000O1O1IfAfJ\\>Z5510OO2O001O0O20O000000CaJXB`5h=_JYBa5g=_JZB`5f=`JZB`5f=`JZBb5Q>1O000000M300000O1000O2O00001O00001O00001ObAfJV>c5O100O01O10O00O2N1E;M3M4M2FUA]Km>Z4a0F;E:D=C<F;E;_Oa0\\Oe0K8WOP]O0gfZ1",
+      "size": [
+        640,
+        426
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      388.02,
+      0.0,
+      427.0,
+      171.44
+    ],
+    "has_distractor": true,
+    "image_id": 346668,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=handbag",
+    "pair_id": "fg_5354",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5354",
+    "prompt": "backpack",
+    "target_box": [
+      102.07,
+      182.0,
+      223.07999999999998,
+      325.56
+    ],
+    "target_mask": {
+      "counts": "dPP23jc08I5K5J6I7K6L4K2N2K5K5N2N2I7I6O2M2O2M2O2M2O2N1N2O1O2N1N2O2O0O100O2O0O100O2O00001O0O10001O0O100O2O0O10001N1000001N10000^Ob0I701O000000001O0000O10000000000fKb@R4_?lKe@Q4g?N2M2O1N3N1N2O0O10O010O10O0kLh_Od2X`0[Mj_Oc2V`0^Mk_Oa2U`0^Mn_O_2R`0bMo_O]2P`0cMR@[2o?eMS@Y2l?gMX@V2g?kM\\@Q2e?nM_@o1a?QNb@l1^?SNf@j1Z?VN^AQ1b>oNgAc0_>]OfA7a>HdANc>1aAEe>:b2O0O2O001N2O001N2O1O0O2OeYo3",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      102.07,
+      182.0,
+      223.07999999999998,
+      325.56
+    ],
+    "has_distractor": true,
+    "image_id": 346668,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=backpack",
+    "pair_id": "fg_5354",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5355",
+    "prompt": "handbag",
+    "target_box": [
+      388.02,
+      0.0,
+      427.0,
+      171.44
+    ],
+    "target_mask": {
+      "counts": "Qcb7f0Vc09G;E8I7I6I5B>K5M3L5L3\\NdMl@S3S?o0N2N2N<D3M0000000005K2N5K7I3M8H6I3QL`@Z3V`0L2O3L4L5K5J3N2NdM",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      249.85,
+      76.27,
+      418.03999999999996,
+      147.14999999999998
+    ],
+    "has_distractor": true,
+    "image_id": 376045,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=suitcase",
+    "pair_id": "fg_5848",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5848",
+    "prompt": "handbag",
+    "target_box": [
+      216.02,
+      142.9,
+      274.92,
+      210.64
+    ],
+    "target_mask": {
+      "counts": "nX_2=T;:I5L4LXOoEOn91WFMg92\\FNb91bFN]90fF0X90jF0U9OnFO]:1O001O0iNMjF3V9NiF1X9OhF1X90fF1Z9OfF1Z90eF0[90eF0g80bFMH5n0Ng83aF4f0Ji83_F5f0Ij87ZF3j0Gl8h0QGYOo8i0oFWOQ9j0mFXOS9e10O2O1O1O2L4M2N4L3N3M2O2N1N2O2M2O1N3M2N2O2M2O2M2O1N3M2O1N3MXWb2",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      216.02,
+      142.9,
+      274.92,
+      210.64
+    ],
+    "has_distractor": true,
+    "image_id": 376045,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=handbag",
+    "pair_id": "fg_5848",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5849",
+    "prompt": "suitcase",
+    "target_box": [
+      249.85,
+      76.27,
+      418.03999999999996,
+      147.14999999999998
+    ],
+    "target_mask": {
+      "counts": "`ek2;Y;4L3N3O0001O1N1O2O000000000000000000000000000000000000000000000000000000000000000000000000001O0000000000000000000000N:E5G8L5L2M4M2N2N2O1N2O1O001O1N10100O1O100O01000000001O000000000O1000O100000000000000000000000O100000000000000000000O10001O000000000000O1001O1O01N1O100000000000000000000000001N10001O1O0O1O2I6M3O2L4M2N3N2M3N5J4L5L3M4L4EgDOSYn0",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      480.83,
+      234.86,
+      542.26,
+      316.06
+    ],
+    "has_distractor": true,
+    "image_id": 392575,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=backpack",
+    "pair_id": "fg_6079",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6079",
+    "prompt": "handbag",
+    "target_box": [
+      152.77,
+      220.36,
+      196.95000000000002,
+      301.68
+    ],
+    "target_mask": {
+      "counts": "[oW2;`>:B<M3M3M3M2N0000001O0000001O0000001O00000O2L3N2N2N1N01O1fNoBf0R=XOSCa0Q=\\OZ1O2N10100O10001O01O01O2NS^_6",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      152.77,
+      220.36,
+      196.95000000000002,
+      301.68
+    ],
+    "has_distractor": true,
+    "image_id": 392575,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=handbag",
+    "pair_id": "fg_6079",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6080",
+    "prompt": "backpack",
+    "target_box": [
+      480.83,
+      234.86,
+      542.26,
+      316.06
+    ],
+    "target_mask": {
+      "counts": "PhQ73k>3L4L4M3M2O2N2M4M8H2N2M3N1O1O1N3N2N1O2N1O2N1O2O0M3M4N1O1O2N100O100N2M3O100O10O01O01O101N1O2N2N1N3N1N3N2M2O2\\Od0M2O2O3UO[B4Z>M3Mfe]1",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      111.65,
+      501.16,
+      195.96,
+      640.0
+    ],
+    "has_distractor": true,
+    "image_id": 415958,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=backpack",
+    "pair_id": "fg_6426",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6426",
+    "prompt": "handbag",
+    "target_box": [
+      0.0,
+      362.11,
+      44.04,
+      431.07
+    ],
+    "target_mask": {
+      "counts": "_;5:Z1ha0fNX^OZ1ha0gNW^OY1ia0gNW^OY1ja0fNU^O[1ka0eNU^O[1la0eNS^O\\1ma0dNo]O_1Qb081O00N2N2O1O1O1O10000O101O000000000001O00001O1O1O2M2O2N1O3L3^Ni]OW1`b0O1N3J7E<Gnc_7",
+      "size": [
+        640,
+        428
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      0.0,
+      362.11,
+      44.04,
+      431.07
+    ],
+    "has_distractor": true,
+    "image_id": 415958,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=handbag",
+    "pair_id": "fg_6426",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6427",
+    "prompt": "backpack",
+    "target_box": [
+      111.65,
+      501.16,
+      195.96,
+      640.0
+    ],
+    "target_mask": {
+      "counts": "^cV2b0Wc07O1N2N2O1N200O1O1O1O1O1O1O1N2O1O1O1N2O1O1O1O1N2O1[M^NkBc1U=aNfB`1[=ZOhAh0X>\\OcAe0]>_O]Ac0c>CVA>j>Im@9S?Mf@4Z?0`@2`?2[@Of?U2000000000000001O1O001O1O001O1O1O001O1O1O1O1O1O2N1O1O1O1O3M3M2N3M3M2N3M3M3M:F9G9G9G8H9G9G8H9G9GT\\`4",
+      "size": [
+        640,
+        428
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      342.05,
+      334.07,
+      447.76,
+      423.91999999999996
+    ],
+    "has_distractor": true,
+    "image_id": 449412,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=handbag, distractor=backpack",
+    "pair_id": "fg_6906",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6906",
+    "prompt": "handbag",
+    "target_box": [
+      47.83,
+      289.71,
+      89.97999999999999,
+      413.41999999999996
+    ],
+    "target_mask": {
+      "counts": "[[d05R=4L4M3M4L7I2M3N3M2N2N2M3N2N2N2M4M2N2M3M3K5I7M_O\\EbNa:T1nEjNo9n0\\FROb9n0aFRO\\96cE3T1GV95jENV1Mn83QFKU12h81WFHV17a8OXH0e7O_H1^7JjH6S7JUI1h60]IM_64[3O1O011O2Mm`T7",
+      "size": [
+        426,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      47.83,
+      289.71,
+      89.97999999999999,
+      413.41999999999996
+    ],
+    "has_distractor": true,
+    "image_id": 449412,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=handbag",
+    "pair_id": "fg_6906",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6907",
+    "prompt": "backpack",
+    "target_box": [
+      342.05,
+      334.07,
+      447.76,
+      423.91999999999996
+    ],
+    "target_mask": {
+      "counts": "Te^4:j<;D;C<J5M4M2M4L1N2O1O1NQNlDl1Y;0N2O1N2O1O100O100O100O100O10000O100O100O100O100O100O100O10000O100O10000O100O10000O100O100O10000O10000O10000O010O11O5K6J5K3M4L3M3M3M2N2L4K6K5J5K100O003DdCF`<8:N2M3N3MUk0NlTO3H8O02O0O2N2O0O1NU`_2",
+      "size": [
+        426,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      478.62,
+      242.24,
+      546.32,
+      351.51
+    ],
+    "has_distractor": true,
+    "image_id": 511625,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=backpack, distractor=suitcase",
+    "pair_id": "fg_7866",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7866",
+    "prompt": "backpack",
+    "target_box": [
+      406.42,
+      59.32,
+      498.85,
+      214.79999999999998
+    ],
+    "target_mask": {
+      "counts": "\\jY51Z=2N2oC0b:0ZE6e:J[D4=:V;C[Dc1g:XNjEW2m9jMSFW2l9iMSFX2k8gMfG1[O\\2m8eMgGOZOb2k8_MkGOWOh2l8YMhGNWO12o2k8SMjG4YOm2k8nLlG5WOS3i8jLnG`3Q8aLnGa3Q8`LnG`3Q8bLnG_3Q8cLlG_3S8bLkG_3U8cLiG^3V8cLhG^3W8eLfG\\3\\8dLaG^3^8dL`G\\3`8fL]G[3c8h0O00010O01O2N1O1O2N1O2N1O1O2N1O1O1O0000001O0O10000000000000000000O1O1O1O010O1O1O1O001O1O1O001O10O100SLUGX3m8fLUGY3j8gLXGW3i8hLZGV3e8jL]GT3d8kL^GS3d8kL_GS3a8lLbGQ3`8mLfGm2[8SMjGg2Y8VMmGe2T8YMQH_2T8_MQHV2W8jMUHa1S8_NUI0V7Nfnj1",
+      "size": [
+        428,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      406.42,
+      59.32,
+      498.85,
+      214.79999999999998
+    ],
+    "has_distractor": true,
+    "image_id": 511625,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bags, tier=confusable, target=suitcase, distractor=backpack",
+    "pair_id": "fg_7866",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7867",
+    "prompt": "suitcase",
+    "target_box": [
+      478.62,
+      242.24,
+      546.32,
+      351.51
+    ],
+    "target_mask": {
+      "counts": "U_X6c0f<a0_Oe0]Oe0[O6K1N1O1O100O1O1O100O1O2O0O1O1O100O100O10001K4M3O1O1OeLZFR3P:000N2O12N1O00000000000000000000000O10000N2O1N2O1N2O1N2O1N2O2M5L9F>C`0_Oc0]OfoV1",
+      "size": [
+        428,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      199.45,
+      185.36,
+      234.6,
+      407.25
+    ],
+    "has_distractor": true,
+    "image_id": 11010,
+    "image_source": "lvis_v1_train",
+    "notes": "group=knife_scissors, tier=distinct, target=scissors, distractor=knife",
+    "pair_id": "fg_0171",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_0171",
+    "prompt": "scissors",
+    "target_box": [
+      265.57,
+      234.01,
+      340.5,
+      415.9
+    ],
+    "target_mask": {
+      "counts": "S[o4`0^b0:H8I5L4L4L3M4L3K4dNoN_@X1^?Y1oNP1_Oa0B?G8O10000001O7H9H9F<ET1kN3M5K3L5^Oa0jNW1N17R^OmN[a0b1M1N010O01O00001N10001O0O2O0O101N1O1O1O1O1O2N1O001O1O1N2O1O0O2O1N2O1N2N1O2N3L4L4L9DTcQ5",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      265.57,
+      234.01,
+      340.5,
+      415.9
+    ],
+    "has_distractor": true,
+    "image_id": 11010,
+    "image_source": "lvis_v1_train",
+    "notes": "group=knife_scissors, tier=distinct, target=knife, distractor=scissors",
+    "pair_id": "fg_0171",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_0172",
+    "prompt": "knife",
+    "target_box": [
+      199.45,
+      185.36,
+      234.6,
+      407.25
+    ],
+    "target_mask": {
+      "counts": "cTg39hb0o0QOg1T_O`Mj=g4UOb0^O>B3M3N2N2M3N1O1O1O2O0OnLgC[OX<d0SDSOm;l0YDoNf;Q1aDhN_;Y1eDWNg;h1_DSN`;n1hDbM`;]2TEcLX;^3X2O3M5K6J6J6J6J7I<D`0@h0hNoQQ7",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      29.75,
+      77.87,
+      281.01,
+      121.06
+    ],
+    "has_distractor": true,
+    "image_id": 22270,
+    "image_source": "lvis_v1_train",
+    "notes": "group=knife_scissors, tier=distinct, target=scissors, distractor=knife",
+    "pair_id": "fg_0351",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_0351",
+    "prompt": "scissors",
+    "target_box": [
+      49.15,
+      107.69,
+      287.45,
+      273.07
+    ],
+    "target_mask": {
+      "counts": "[Ug03g>:H7K5K4L3N2M3N2N2M2O2N1O2N1O2O0O1O2O0O2N1UCdNR<\\1jCmNQ<S1mCQOP<P1nCSOQ<m0nCVOP<j0oCXOo;n1O1N2N2O0O2O0O101O001O00000O101O0000000010O001O001O001N101O001O001O1N101O001O1N101N101O0O2O0O100O1O100O1O100O1O001O1O1O001N2N1N3N1M4YOf0M4N2N1010O01O1O001O1O1O1O1O00001O010O001O010O001O001O01O01O010O0010O01O010O0010O0010O0010O010O01O010O010O010O0010O010O01O01O010O01O010O0010O01O010O0010O010O01O010O0010O01O010O0010O01O010O001O10O01O010O0010O01O10O01O0010O01O010O1O010O0010O01O1O010O0010O01O10O01O010O1O0010O01O10O01O1O101Me[U5",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      49.15,
+      107.69,
+      287.45,
+      273.07
+    ],
+    "has_distractor": true,
+    "image_id": 22270,
+    "image_source": "lvis_v1_train",
+    "notes": "group=knife_scissors, tier=distinct, target=knife, distractor=scissors",
+    "pair_id": "fg_0351",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_0352",
+    "prompt": "knife",
+    "target_box": [
+      29.75,
+      77.87,
+      281.01,
+      121.06
+    ],
+    "target_mask": {
+      "counts": "WU><`>7K2O2N10001O0O10001N100O100000000O10000000000O1000000000000O10000000000O01000000000O1000000000000O10000000000O1001O000000001O000O2O00O100000000000000001O0000000000000000000000O10000000O10000000000000000000O10O1000000000000000000O100000O100000000000O1000000000000000O1000O1000000000000000000O10O1000000000000000O10000000000000O100000O1000000000000000000O10O100000000000000000O1000000000O10000000O1000000000000000000O10O100000000000000000O1000000000O10000000O1000000O100O2N2O1N3M2M2O1O1N2O1N2O0O2O1N2O^VX5",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      441.34,
+      65.01,
+      638.88,
+      189.68
+    ],
+    "has_distractor": true,
+    "image_id": 78478,
+    "image_source": "lvis_v1_train",
+    "notes": "group=knife_scissors, tier=distinct, target=scissors, distractor=knife",
+    "pair_id": "fg_1217",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1217",
+    "prompt": "scissors",
+    "target_box": [
+      116.77,
+      94.66,
+      440.28,
+      270.85
+    ],
+    "target_mask": {
+      "counts": "lof15g>3O1O100O100O101O100O010O100O101O00001N101O000hB]OS<d0lC]OS<c0mC^OR<c0mC^OR<b0nC_OQ<b0nC_OR<`0nCAQ<`0nCAQ<?oCAR<>nCCQ<>nCCQ<=nCDR<=oCBQ<=RD@n;a0SD^Ol;b0UD]Ok;c0VD]Oj;b0VD^Oj;b0WD^Oh;c0WD]Oi;c0XD]Og;c0ZD\\Of;d0ZD]Of;c0YD]Og;c0YD^Of;b0YD_Og;a0YD_Og;b0XD_On:4[D=g0_Ok:=XD5l0^Oj:e0TDMR1_Og:b1XE^Nf:d1ZE]Nc:f1\\EZNc:g1]EYNb:j1\\EWNb:m1]EQNb:T2[EkMe:`2QE`Mm:a2UE]Mj:c2XE\\Mg:e2ZE[Me:e2\\EZMc:g2]EYMb:h2^EXMb:h2^EYMa:f2aEYM_:g2aEYM_:g2aEZM]:c0nDX1e0UN]:a0VET1>ZN\\:`0ZET1:]N[:=`ES15`N[:<cER12bN[:<eEQ1OcN\\:;iEo0KfN\\:;kEn0HgN]::oEl0DjN]:9RFk0AlN]:9TFj0^OmN_:8VFh0[OPO_:8XFg0XOQO`:8ZFe0VOSO`:9\\Fb0SOUOa:9^F`0POXOb:8`F?lNZOe:6aF>jN\\Oe:6dF<eN_Og:5fF:cNAg:6gF8`NCi:5iF6^NEj:5iF5ZNHm:3kF3UNMP;1kF4QNLU;OlFf0T9[OkFe0V9ZOkFe0U9\\OkFb0V9_OiFa0X9_OhF`0X9AgF?Y9CfF<[9DeF;[9GcF9^9GbF8^9IbF6_9K_F5b9K^F4b9N\\F2e9N[F1e91YF0g91XFNh93WFMj94UFKl95SFKo95PFJR:6lEKU:4kEKW:5gELZ:3fEL\\:4bEM`:1`ENd:0ZE1i:LWE3m:JiD_OUOg0V<GdDDUOe0Z<D_DJUOb0`<AZDNUOb0b<_OXD0UOa0f<]OTD3VO`0g<\\OQD6WO?j<YOnC9WO?m<VOkCW1n<2N1O1O1O1O1N2O1O1O20O1O2N101N1O2N101N1O2N1O2O0O2N1O2O0O00010O00010O001O01O01O001N1O1O2O0100O100O11O00O010O0010O00001O010O000010O0001O010O000010O00010O01O01O010O00010O00010O0010O00010O00010O01O01O01O010O00010O010O00010O0010O00010O00010O000DkAMV>2jAOU>1lANT>3kAMV>2kANT>2lANT>2mAMT>2lANT>2mAMS>3mAMT>3lAMS>3mAMS>3nALS>3nALR>4nALR>4oAKR>4nAMQ>3PBLP>5oALQ>3PBLP>4PBMo=3RBLo=3QBNn=2SBMm=3SBMn=3RBLn=4RBLn=4SBLm=3SBMm=3TBLm=3SBMm=3TBLl=5SBKn=4SBKm=5SBKm=5TBJm=5SBKm=5?01O01O01O00001O00010O00001O000010O0001O00001O00010O0000m]n2",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      116.77,
+      94.66,
+      440.28,
+      270.85
+    ],
+    "has_distractor": true,
+    "image_id": 78478,
+    "image_source": "lvis_v1_train",
+    "notes": "group=knife_scissors, tier=distinct, target=knife, distractor=scissors",
+    "pair_id": "fg_1217",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1218",
+    "prompt": "knife",
+    "target_box": [
+      441.34,
+      65.01,
+      638.88,
+      189.68
+    ],
+    "target_mask": {
+      "counts": "]i^62j>:H6K101N2N1000000O1001O01N101N101O0O1010O010O0010O0100O010O1O010O010O10O0100O00100O10O0100O010O100O010O10O0100O10O0100O010O100O010O10O0100O010O010O10O010O0100O010O010O10O10O010O010O10O10O010O01000O010O010O010O10O010O01000O0100O010O010O10O0100O010O0100O0100O010O010O01000O010O010O0100O010O00100O1O010O10O0100O00100O010O10O0100O010O10O0100O010O00100O010O10O0100O0010O0100O010O010O010O0100N101O1Oi9",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      307.88,
+      139.82,
+      423.8,
+      389.56
+    ],
+    "has_distractor": true,
+    "image_id": 99159,
+    "image_source": "lvis_v1_train",
+    "notes": "group=knife_scissors, tier=distinct, target=scissors, distractor=knife",
+    "pair_id": "fg_1562",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1562",
+    "prompt": "scissors",
+    "target_box": [
+      0.78,
+      385.34,
+      350.40999999999997,
+      479.68999999999994
+    ],
+    "target_mask": {
+      "counts": "ml0b0\\>2O10O1000O10O10O10O1000O10O1000O01000000O01000O10O1000O10O10O100000O1000O100000O10O10000000O10O100000O10000000000`B]Oc<c0]C]Oc<c0\\C^Od<b0[C_Oe<b0ZC^Of<b0YC_Og<a0YC_Og<b0WC_Oh<b0WC_Oi<a0VC@j<a0UC_Ol<`0SCAm<`0QCAo<?PCBP=?nBBR=>mBCS=>lBBT=?jBBV=a0dBB\\=Q1001N100000000000001O0000000000001O000000000000000000000000001O00000000000000000000000000000000001O000000000000000000000000000000001O000000000000000000001O00001O00000000O100O10000O10000O1000000O100001O00000000001O00001O0O010O010O10O01O1O0M40O01000O01000O0100O0100O0100O010O10O10O10O010O01000O0100O010O01000O010O10O01000O0100O010O10O0100O010O10O0100O01000O010O10O0100O010O10O0100O010O10O0100O01000O010O10O0100O010O10O0100O010O10O0100O10O10O10O0100O010O100O010O10O0100O010O100O010O10O0100O010O100O010O10O0100O010O100O10O0100O10O0100O10O01O2O0O2N10maW4",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      0.78,
+      385.34,
+      350.40999999999997,
+      479.68999999999994
+    ],
+    "has_distractor": true,
+    "image_id": 99159,
+    "image_source": "lvis_v1_train",
+    "notes": "group=knife_scissors, tier=distinct, target=knife, distractor=scissors",
+    "pair_id": "fg_1562",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1563",
+    "prompt": "knife",
+    "target_box": [
+      307.88,
+      139.82,
+      423.8,
+      389.56
+    ],
+    "target_mask": {
+      "counts": "c``43k>5K4L5M3L3N3M3M2N3M2O1O101N1O100000001O00000O1O1O1O2N1O10000000001O000000O1M4M2N2M3N2N2M3N`BUOm<i0SCYOm<d0SC_Om<?SCDl<:TCHl<6SCMn<OSC3m<KSC8l<FSC=m<@TCb0l<\\OTCf0l<XOSCk0`=3M2M3N2N2M4M2N2M30001O000000001O000000001O000000001O00000000O1O1N2O1O100001O00001O00001O0000001O00001O]NiB[1_=0O2NO1O1O4KQ1POVlT3",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      297.16,
+      257.39,
+      326.72,
+      449.86
+    ],
+    "has_distractor": true,
+    "image_id": 486306,
+    "image_source": "lvis_v1_train",
+    "notes": "group=knife_scissors, tier=distinct, target=scissors, distractor=knife",
+    "pair_id": "fg_7466",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_7466",
+    "prompt": "scissors",
+    "target_box": [
+      432.48,
+      286.39,
+      502.39,
+      423.86
+    ],
+    "target_mask": {
+      "counts": "`lZ68e>5L4L4L3N2M3N2M3N1N3N1N2N3M2N3L3N2N2N3L3N2N2N2nMIYE9e:R2O21N3M5K5K5K6J5J6K5K6I6K5K5K7J1N2N100O1O1O2N1O2M3N2N1N3N1O1O2M2O1N3N1N3M2O2M2N3M2N3M3L4KdYP2",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      432.48,
+      286.39,
+      502.39,
+      423.86
+    ],
+    "has_distractor": true,
+    "image_id": 486306,
+    "image_source": "lvis_v1_train",
+    "notes": "group=knife_scissors, tier=distinct, target=knife, distractor=scissors",
+    "pair_id": "fg_7466",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_7467",
+    "prompt": "knife",
+    "target_box": [
+      297.16,
+      257.39,
+      326.72,
+      449.86
+    ],
+    "target_mask": {
+      "counts": "fd[42l>5L2M3M3M3SMI_Eg1W:eN[Eh1Y:eNaE`1W:iNdEZ1U:l1H9J5K5K4N3M3M2N2O0O10N3G8\\Oi0UOk0WOi0Aa0[Oe0\\Oh0XOb^b4",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      434.0,
+      239.8,
+      502.40999999999997,
+      383.58000000000004
+    ],
+    "has_distractor": true,
+    "image_id": 18670,
+    "image_source": "lvis_v1_train",
+    "notes": "group=utensils, tier=confusable, target=spatula, distractor=spoon",
+    "pair_id": "fg_0293",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_0293",
+    "prompt": "spatula",
+    "target_box": [
+      422.65,
+      211.89,
+      627.3,
+      273.87
+    ],
+    "target_mask": {
+      "counts": "^mo54\\>8G100000001O00000O10001O00000000001N1000000000001O0O10000000001O000O10000000001O000O10000000000000001N100000000000N2K4L5M3M3M3Mlg20VXM1N2N2N2N2N2L3FC^Bb0b=6O10000000000O1000O100O01000O100O010O1O1O001O10OO2N101N101O0O2O00001O1N101O001O1O0010O01000O01000O01000O10O10O1000O10O1000O1000O1000000O0100000O1000O10O1000000O010000000O1000O10O1000000O0100000O010000000O010000O01000O10O0100O1000O0100O1O100O1O2N10ke5",
+      "size": [
+        464,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      422.65,
+      211.89,
+      627.3,
+      273.87
+    ],
+    "has_distractor": true,
+    "image_id": 18670,
+    "image_source": "lvis_v1_train",
+    "notes": "group=utensils, tier=confusable, target=spoon, distractor=spatula",
+    "pair_id": "fg_0293",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_0294",
+    "prompt": "spoon",
+    "target_box": [
+      434.0,
+      239.8,
+      502.40999999999997,
+      383.58000000000004
+    ],
+    "target_mask": {
+      "counts": "goT69U>9H5K3M3M3M3N1N3N1N3NJlBROR=m0QCQOo<n0UCPOj<P1WCPOh<P1YCPOf<P1\\CoNc<P1`0FdB[O^=e0cBZO^=e07O1OO10000O10D_BJ`=5eBG[=9=001O001O000O2O00000N101N2N2N2O0O2M2O2N2N1O2N201N1001O2O0O1O1O2N2N2N3M2N3L5L^Yn1",
+      "size": [
+        464,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      546.15,
+      314.63,
+      600.8,
+      427.0
+    ],
+    "has_distractor": true,
+    "image_id": 144371,
+    "image_source": "lvis_v1_train",
+    "notes": "group=utensils, tier=confusable, target=tongs, distractor=spoon",
+    "pair_id": "fg_2257",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2257",
+    "prompt": "tongs",
+    "target_box": [
+      312.1,
+      20.14,
+      517.37,
+      238.79000000000002
+    ],
+    "target_mask": {
+      "counts": "YZR46S=3N2O1N2O00001N1O1N3N100F\\OkCg0S<ZOlCg0S<ZOlCg0T<YOkCi0S<XOkCj0S<XOlCi0R<801O000O11M201ON21O0O1002ON10O100000O1N21N101OO1000O10O1O1000O01000000000O01O100000O100000O10O10000002N3L4M3M1O2N2N2N2M3N2N2N2O1N3Mbi0O_VO2N2N3M3L4M2N4L4L4K4M3ON6J6J1O2M3N2N2N1O1O2N1N2O1O1O2NUT41jkK5J7I6L4L03N0O6J3M2N2N2MP_a0LRa^O5L4L4M1O0O2N1N2K5N2N2L41O1O2N3L3N2M3N2M3M3M4L3M[Xc1",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      312.1,
+      20.14,
+      517.37,
+      238.79000000000002
+    ],
+    "has_distractor": true,
+    "image_id": 144371,
+    "image_source": "lvis_v1_train",
+    "notes": "group=utensils, tier=confusable, target=spoon, distractor=tongs",
+    "pair_id": "fg_2257",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2258",
+    "prompt": "spoon",
+    "target_box": [
+      546.15,
+      314.63,
+      600.8,
+      427.0
+    ],
+    "target_mask": {
+      "counts": "YPT77R=3M4L3M4K5L5L3M3M4L4M5J4M2M3M2jEYNf8h1SG^Nl8e1mF`NS9b1fFcNY9a1ZFiNf9^200ON3J5J7J6J6J6G900000001N101O0O2O0O2O1N101N2O1N2O1N3M3M3M4K4L7I6I9Ecm?",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      497.14,
+      113.73,
+      530.85,
+      279.12
+    ],
+    "has_distractor": true,
+    "image_id": 154616,
+    "image_source": "lvis_v1_train",
+    "notes": "group=utensils, tier=confusable, target=spatula, distractor=spoon",
+    "pair_id": "fg_2442",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2442",
+    "prompt": "spatula",
+    "target_box": [
+      454.08,
+      128.36,
+      494.9,
+      291.31
+    ],
+    "target_mask": {
+      "counts": "\\Pl8?[c09I5O10O01O00ET]OCkb04_]OK`b0Mh]O4hb0;A>000000O10F:M3M3Lh\\OGQc05Q]OMob00n\\O6Yc03NNo`0MikNLo2Nb<c0_@@6Lf1e0^=6e@BOHh1a0_=;i@]O0Hf1`0a=;i@^OP26X==i@VOU26Y=c0c@TOW24[=h0_@QOX20RN1g>o0bCF^<:aCG^<:bCF^<2hC1V<IPD8o;AXD`0e?K8IQhi2",
+      "size": [
+        640,
+        639
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      454.08,
+      128.36,
+      494.9,
+      291.31
+    ],
+    "has_distractor": true,
+    "image_id": 154616,
+    "image_source": "lvis_v1_train",
+    "notes": "group=utensils, tier=confusable, target=spoon, distractor=spatula",
+    "pair_id": "fg_2442",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2443",
+    "prompt": "spoon",
+    "target_box": [
+      497.14,
+      113.73,
+      530.85,
+      279.12
+    ],
+    "target_mask": {
+      "counts": "ckf9;bc05K6L3M4M1N2QMROiBP1a<[Oj@9R2?o<YOo@c0i15V=VOQAo0`1N]=ROSAS1Z11b=iNTAc1d01W>YNVAh1`03Y>SNVAi1e05T>QNWAg1\\1F]=bNWAg1`1DZ=eNUAf1c1E^=3jBLV=OPC1``0O1O100O1O1O1O1N2N2N3M4K6J7IoWS2",
+      "size": [
+        640,
+        639
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      119.89,
+      331.6,
+      152.32999999999998,
+      422.97
+    ],
+    "has_distractor": true,
+    "image_id": 166766,
+    "image_source": "lvis_v1_train",
+    "notes": "group=utensils, tier=confusable, target=spoon, distractor=tongs",
+    "pair_id": "fg_2614",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2614",
+    "prompt": "spoon",
+    "target_box": [
+      343.92,
+      44.88,
+      611.31,
+      187.9
+    ],
+    "target_mask": {
+      "counts": "oT_45T=2O0O2O001O010O01O01O010O010O01O01O010O010O01O01O010O01O01O010O01O010O00010O010O001O001O001O001O001O1O001O001O00dfT20]YkM1N1O101N1O1O101N1O2N101N2N2O0O10O[C@`<a0`CA^<>bCE[<;fCD[<<dCEOLW<?kCDO1R<;nCEO3P<9PDD13o;8QDEO3P<9PDD12P<9PDEO3P<9PDDO4R<7PD1P<OoC1R<OmC2S<c0O01N2O1O1N2N2N2N3M2N3L5JQm;",
+      "size": [
+        426,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      343.92,
+      44.88,
+      611.31,
+      187.9
+    ],
+    "has_distractor": true,
+    "image_id": 166766,
+    "image_source": "lvis_v1_train",
+    "notes": "group=utensils, tier=confusable, target=tongs, distractor=spoon",
+    "pair_id": "fg_2614",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2615",
+    "prompt": "tongs",
+    "target_box": [
+      119.89,
+      331.6,
+      152.32999999999998,
+      422.97
+    ],
+    "target_mask": {
+      "counts": "lWb12X=3M2O2M:G001nC^OY;h0^D[Ob;f0[D\\Oe;e0VD^O3H_;X1_DjNa;V1]DmNc;R1[DQOe;m0ZDUOf;Y10O10^D`NX;_1eDdN];d11201OL5K6J5K5K5K4L4L4L4L4LecZ6",
+      "size": [
+        426,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      94.71,
+      144.16,
+      194.66,
+      305.40999999999997
+    ],
+    "has_distractor": true,
+    "image_id": 467146,
+    "image_source": "lvis_v1_train",
+    "notes": "group=utensils, tier=confusable, target=spoon, distractor=spatula",
+    "pair_id": "fg_7187",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7187",
+    "prompt": "spoon",
+    "target_box": [
+      539.62,
+      0.0,
+      614.26,
+      73.17
+    ],
+    "target_mask": {
+      "counts": "RWj52n:1O1O1O1O2O0O1O1O1O1O100O100O1O100O100O1O1O100O1O1O100O1O00M3L301N2N2N110O10O10O10O01000O010000O01000O01000O010O10O10O10O10O10O10O101N2O1O1N2O1O1Okn8",
+      "size": [
+        353,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      539.62,
+      0.0,
+      614.26,
+      73.17
+    ],
+    "has_distractor": true,
+    "image_id": 467146,
+    "image_source": "lvis_v1_train",
+    "notes": "group=utensils, tier=confusable, target=spatula, distractor=spoon",
+    "pair_id": "fg_7187",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7188",
+    "prompt": "spatula",
+    "target_box": [
+      94.71,
+      144.16,
+      194.66,
+      305.40999999999997
+    ],
+    "target_mask": {
+      "counts": "ePQ14l:21OANnE2o91PFOn97mEKP:d0N3M2N3M2N3M2N3M2N3M2N3M2N3M2N3M2N3M2M4L3M4M2N3N101N1O2O001O001O001O001O01O01O000000000000000000O1O1N2N2N1NO2O010000O01000O2O2N2VNfGj0]8ROhGk0Z8SOiGj0Z8SOiGj0X8TOmGg0V8WOmGf0T8YOoGd0S8YOQHc0o7^OTH?j7CYH:f7G]H6a7KdH0[72hHJW78lHES7<f12O10M5N100M4M201O01OO1O1O3M_ci4",
+      "size": [
+        353,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      431.02,
+      0.0,
+      640.0,
+      127.41
+    ],
+    "has_distractor": true,
+    "image_id": 56332,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=cup, distractor=mug",
+    "pair_id": "fg_0876",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_0876",
+    "prompt": "cup",
+    "target_box": [
+      429.19,
+      0.0,
+      640.0,
+      129.17
+    ],
+    "target_mask": {
+      "counts": "fSY67c>b0]O>B=H6L3M2N3M3M3M2N3M2N2N2N1O1O1O1O2N1O1O1O1O1O1O1O1O001O1O001O001O001O001O001O001O1O001O001O1O001O1O00000000000000000000001O00000000001O0000001O0000001O000000001O0000001O000000001O0000001O000000001O0000001O00001O0000001O00001O00001O00001O00001O00001O00001O0000O100O100O1O100O100O100O100O100O10000O100O100O100O1O100O100O1O100O100O1O100O100O1O100O1O1N2O1O1N2O1O1O1N2O1O1N2O1O1N2O1O1N2O1O100O10000000000000000O10000000000",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      429.19,
+      0.0,
+      640.0,
+      129.17
+    ],
+    "has_distractor": true,
+    "image_id": 56332,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=cup",
+    "pair_id": "fg_0876",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_0877",
+    "prompt": "mug",
+    "target_box": [
+      431.02,
+      0.0,
+      640.0,
+      127.41
+    ],
+    "target_mask": {
+      "counts": "PQZ6V1j=9G4L4L4L4L4L3M4L2N2N2N2N2N1O2O000001O00000000000000O0100O10O10O10O0100O010O10O10O010O010O010O010O010O010O001O001O00001O001O001O00010O00001O01O01O0010O0001O01O01O01O0001O01O0001O0001O01O000010O000000010O0000001O01O01O00001O01O01O0000000010O01O000000O1000000O101O0O1000000O10000O10000O10000O100O100O10000O100O100O10O10O100O1O1O10O01O1O1O1O10O0dNUNeEj1\\:WNcEh1^:XNbEg1_:ZN`Ee1a:\\N^Eb1d:^N[Eb1f:_NYE`1h:aNWE]1k:cNTE]1m:dNRE[1o:fNPEX1R;iNmDV1T;kNjDU1W;lNhDS1Y;mNgDQ1[;POdDo0];ROaDm0a;TO^Dj0d;WOZDi0g;XOXDg0i;[OTDf0l;[OSDe0m;]OQDc0o;^OoCc0Q<_OmC`0T<BiC?W<CfC>Z<T100000000000YO_CoNa<o0aCQO_<m0dCRO\\<l0fCTOZ<",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      203.65,
+      408.75,
+      313.16,
+      479.59000000000003
+    ],
+    "has_distractor": true,
+    "image_id": 79170,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=wine glass",
+    "pair_id": "fg_1225",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_1225",
+    "prompt": "drinking glass",
+    "target_box": [
+      203.57,
+      408.37,
+      313.22,
+      480.0
+    ],
+    "target_mask": {
+      "counts": "RRP3g0U>8H7I4L4N2M3M3N2N2N2O1O100O1O100O100O100O100O1000000O100000000O10000000000O10000000000000000000000000000O10000001O00000000000000000000001O00000000001O0000001O0000001O00001O00001O00001O001O001O1O001O2N1O2N3M2N5K5J6G8GTkh4",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      203.57,
+      408.37,
+      313.22,
+      480.0
+    ],
+    "has_distractor": true,
+    "image_id": 79170,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=wine glass, distractor=drinking glass",
+    "pair_id": "fg_1225",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_1226",
+    "prompt": "wine glass",
+    "target_box": [
+      203.65,
+      408.75,
+      313.16,
+      479.59000000000003
+    ],
+    "target_mask": {
+      "counts": "TRP3b0Y>:G7J5K3M3L4M3M3N2O1N2O100O100O1O100O10O10O10000O10000O10000000000O1000000000000O100000000000000000000000000000000000000000000000000001O000000000000001O000000001O00001O00001O00001O001O001O1O001O1O1O1O1O2N3M3M3M4L5H<_OTkh4",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      287.91,
+      80.51,
+      443.58000000000004,
+      239.2
+    ],
+    "has_distractor": true,
+    "image_id": 100316,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=drinking glass",
+    "pair_id": "fg_1577",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_1577",
+    "prompt": "mug",
+    "target_box": [
+      245.15,
+      416.03,
+      378.24,
+      595.89
+    ],
+    "target_mask": {
+      "counts": "mbi47^c0a0G9F7J5L4M4K4L5L2M4L3N3M2M4M2N2N3L3N2N2O1N2N2N2N2N2N101N2N2O0O2O1N2O0O2N10001O0O2O001N10001N10001O001N10001O1O1O1N101O1O2N1O2N1O1O2N2N2N3N1N2N4L4L4L2O2M2N2N1O0010O010O001O00001O0O2O001O001N101N1O2O0iNfAfL]>U3QB`LP>]3\\1M3M3M3M2O2M3N2N2N2N2N2N2N2N2N2N3M2N2N3M2M4L4M3L4L4L4L7G:G:CVYo1",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      245.15,
+      416.03,
+      378.24,
+      595.89
+    ],
+    "has_distractor": true,
+    "image_id": 100316,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=mug",
+    "pair_id": "fg_1577",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_1578",
+    "prompt": "drinking glass",
+    "target_box": [
+      287.91,
+      80.51,
+      443.58000000000004,
+      239.2
+    ],
+    "target_mask": {
+      "counts": "aTd5h0Tc0=C7I7K5K4L5K5K5L4K5K4L3N3L3N2M3N3L3N2N3M2N2N2N1O2N2N1O2N2N101N2O1N1O2O1N101N2O1N101N2O000O2O000O100O2O000O10001O0O10001O0O1000000O10000000O100000000000000O100000000000000O100O101O0O100O10001N10000O2O0O2O000O2O0O2N101N101N101N1O2O0O2O1N1O2O1N101N2N101N2O1N101M3N2N2M3N2N3M2M4M2N2M4M2N3L3N2N3M3L4K6J5K5K6K4K6J5Kd[f0",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      379.85,
+      169.18,
+      483.51,
+      435.88
+    ],
+    "has_distractor": true,
+    "image_id": 148839,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=wine glass",
+    "pair_id": "fg_2357",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2357",
+    "prompt": "drinking glass",
+    "target_box": [
+      379.44,
+      169.29,
+      483.99,
+      434.65
+    ],
+    "target_mask": {
+      "counts": "lc[54Q>k0UO=C=F:F:F9G:F9G8J7K4L4M4M2N2O1N2O1O1N2O1N2O1O1N2O1O1O1N2O1O001O1N2O1O1O1O1O001O1O2N3bIjJ]3W5[LPKe3R5mKZKS4g4SKRLm4Y4nIaLR6n50000O100000000000oMYKZJg4k4WLRKi3m4\\LoJd3P5`LmJ`3Q5eLlJ[3S5iLjJW3T5T3N1O1O1O1O1O1O1O1O2N1O1O1O1N3N1O1O2N1O1O2N1O1N2O2N3M3M3L:E=D9G7I8G8I7I8G7I8F:E;F:FXYV2",
+      "size": [
+        463,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      379.44,
+      169.29,
+      483.99,
+      434.65
+    ],
+    "has_distractor": true,
+    "image_id": 148839,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=wine glass, distractor=drinking glass",
+    "pair_id": "fg_2357",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2358",
+    "prompt": "wine glass",
+    "target_box": [
+      379.85,
+      169.18,
+      483.51,
+      435.88
+    ],
+    "target_mask": {
+      "counts": "SR\\5i0[=a0A<G8H9G8H9H7H8H7J7H8I6N3M2N2O1N2O2M2O1O1N2O1O001N2O1O1O1O1N2O1O1O1O1O1O000O2O002N1gIhJY3Z5cLhJ]3Z5]LkJb3]5nKlJQ4T6aJZJ_5\\7OO1O1O1000000001O_MRKbKm4S4\\LoJd3o4eLjJ[3T5jLiJV3V5R3N3N100O100O1O2N1O1O1O101N1O1O1O1O2N1O1O1O2N1O1O2N1N3N2N2N3L6J8I7H8H8H8H8G9H8G:F9E<Ca0]OUYV2",
+      "size": [
+        463,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      481.4,
+      0.0,
+      636.63,
+      82.27
+    ],
+    "has_distractor": true,
+    "image_id": 216194,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=cup, distractor=drinking glass",
+    "pair_id": "fg_3350",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_3350",
+    "prompt": "cup",
+    "target_box": [
+      227.06,
+      0.0,
+      458.73,
+      183.27
+    ],
+    "target_mask": {
+      "counts": "X^Z33l>6J2N2M3M3M3M4M4L3N2M2O1N3N1N3N1O2N1O2N2N1OUOgB1W=NmB1Q=NSC0l<0UC0j<0WC0h<0ZCOe<1\\COc<1^COa<1aCN^<2cCN\\<2dC0Z<0gC0X<1gC0X<0iC1V<OjC1U<OkC2T<OlC2S<MmC4R<JQD7m;GdC[O:n0R<BaCK:d0S<YObC`079V<6gCIX<<eCCZ<b0fC[OX<j0jCPOU<U1nCdNQ<a1RDXNm;m1VDlMi;Z2;6J8G5L2N2N3M2N2M3N2M2N3M3N1O2O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O2N3M3M3M3M2N2N2N3M1O1O1O1O1O001O1O1O1O1O2N1O1O1O0O1000000000000000000000001O0000000000000000000000O10000O10000O1000000O10000O10000O10000O10000O100O1O1O1O100O1O1O1O100N2O1O1O1O1O1N2O1O1O1O1N200O1O100O100O1O100O1O100O2N100N3L3N2N3M2M4M2N3M3M3N1N3M3N2M2O2M3M3M3M3L5L3M3L5L3L4M3M4K7I6I8H8H7Ihid2",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      227.06,
+      0.0,
+      458.73,
+      183.27
+    ],
+    "has_distractor": true,
+    "image_id": 216194,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=cup",
+    "pair_id": "fg_3350",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_3351",
+    "prompt": "drinking glass",
+    "target_box": [
+      481.4,
+      0.0,
+      636.63,
+      82.27
+    ],
+    "target_mask": {
+      "counts": "ZnQ74h03R=9`BM\\=n0K5O1O1O001O1O1O1O001O1O001O001O1O001O1O001O001O1O001O001O1O001O001O1O001O1O001O1O00001O001O001O00001O001O00001O001O001O000000000000O1000000000000O1000000O1000000O100000000O1000000O100O10000O2O000O100O100N2O1O1N2O1N2O1O1N2O1N2O1O1N2O1N2O1O1N2O1O1N2O1N2O1O1N2O1N2O1O1N2O1N2O1O1N2O1O1N2O1N2O1O1N2O1N2O1O1NQl1",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      362.26,
+      226.93,
+      422.65,
+      361.65999999999997
+    ],
+    "has_distractor": true,
+    "image_id": 220942,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=cup, distractor=wine glass",
+    "pair_id": "fg_3435",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_3435",
+    "prompt": "cup",
+    "target_box": [
+      417.52,
+      284.62,
+      498.96,
+      357.8
+    ],
+    "target_mask": {
+      "counts": "k[i4o0c:;I4K4M3N1N2N2O0O2O1N101N10001N101O00001N10001O0000001O0000001O000000000000001O000001O000O1000001O000O10001O0O2O0O2O0O2O001N101O1N2O001O1N3N1O5`NoEP1]:O000O2O1O001N2Of1",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      417.52,
+      284.62,
+      498.96,
+      357.8
+    ],
+    "has_distractor": true,
+    "image_id": 220942,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=wine glass, distractor=cup",
+    "pair_id": "fg_3435",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_3436",
+    "prompt": "wine glass",
+    "target_box": [
+      362.26,
+      226.93,
+      422.65,
+      361.65999999999997
+    ],
+    "target_mask": {
+      "counts": "fiT4?R;`0E5L3L3cGlNS6W1hImNU6V1hImNV6T1hIoNV6S1gIoNW6T1gInNW6T1fInNX6T1gIlNY6U1fIkNZ6V1dIlN[6U1dIkN\\6V1cIkN\\6V1bIkN]6W1bIiN^6W1bIjN]6W1bIiN^6W1bIjN]6W1bIiN^6X1aIhN_6X1aIhN^6Z1aIgN^6Y1bIgN^6Y301OO1000000iNiHnMW7_1\\IaNd6Z1aIfN_6Y1cIeN^6[1bIeN^6[1bIeN^6Z1dIeN\\6[1dIdN^6Z1dIeN\\6Z1eIfN[6Y1gIfNZ6X1gIhNY6W1iIgNX6X1jIgNV6X1lIfNV6X1kIhNU6W1mIgNT6X1nIfNT6W1oIgNR6X1PJfNR6W1VJcNk5[1Y2N3M3L5J5L5G=^OQok0",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      315.32,
+      121.1,
+      376.40999999999997,
+      230.86
+    ],
+    "has_distractor": true,
+    "image_id": 243373,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=wine glass, distractor=mug",
+    "pair_id": "fg_3767",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_3767",
+    "prompt": "wine glass",
+    "target_box": [
+      361.72,
+      101.42,
+      424.77000000000004,
+      350.52
+    ],
+    "target_mask": {
+      "counts": "T]R7P1X4VOV:T1aEQOY:V1cElNX:Z1fEfNV:a1fEaNU:f1hEZNT:l1iEVNR:Q2kEoMQ:W2lEkMo9[2oEeMo9_2oEaMn9d2PF\\Mn9h2oEYMo9j2PFWMd9B^C[3m2SMd9X3ZFhLf9Y3YFgLf9\\3XFdLh9]3VFdLi9^3VFcLh9`3VF`Lj9a3TF`Lk9c3SF]Lm9d3QF]Lo9d3PF\\LP:f3mE[LS:f3lE[LS:f3kE[LU:f3jEZLV:f3iE[LW:f3gE[LY:e3gE[LY:f3eE\\LZ:e3dE\\L\\:d3cE]L]:e3aE[L_:h3ZE\\Lf:h3kDcLU;`3]DlLb;W3oCUMQ<]500000001O00000O_NUDoJk;W4QEgKo:m3_ERL`:m3cEQL]:o3dEoK]:P4eEoK[:Q4eEoKZ:R4gEmKZ:Q4gEoKY:o3jEPLV:n3lERLT:k3PFTLQ:h3SFWLm9g3VFXLj9c0Ug0",
+      "size": [
+        640,
+        426
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      361.72,
+      101.42,
+      424.77000000000004,
+      350.52
+    ],
+    "has_distractor": true,
+    "image_id": 243373,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=wine glass",
+    "pair_id": "fg_3767",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_3768",
+    "prompt": "mug",
+    "target_box": [
+      315.32,
+      121.1,
+      376.40999999999997,
+      230.86
+    ],
+    "target_mask": {
+      "counts": "dRU61hc09I5L4K6K4N2O1002O1N2N2N1O1O1O001O00aN^O`_Ob0\\`0Bd_O>Y`0Ff_O:X`0Hh_O8W`0Ii_O7W`0Ii_O7W`0Ii_O7W`0Ii_O7W`0Ih_O8X`0Ig_O7X`0Jg_O7Y`0If_O7[`0Jb_O8^`0Ha_O=U`0Jg_O;S`0Ii_O<T`0GW_On0h`0V1N2N100O2O0O101O001O0OVNX@^Oh?:c@C]?9k@CU?8SAEm>7ZAFf>5bAI]>3jAJV>1RBLn=1VBNk=NZB0f=L`B2h`0O2O0OkPo0",
+      "size": [
+        640,
+        426
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      217.6,
+      5.08,
+      318.19,
+      184.92000000000002
+    ],
+    "has_distractor": true,
+    "image_id": 272738,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=drinking glass",
+    "pair_id": "fg_4187",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4187",
+    "prompt": "mug",
+    "target_box": [
+      77.05,
+      82.76,
+      209.49,
+      185.77
+    ],
+    "target_mask": {
+      "counts": "]Yl06`;3YE6[9M`F>Y9DbFc0Y9@cFe0Z9_O_Ff0^9l0N2M3M3N2M2O1N2O2M2O1O1O0O2O1O1N10001O0O2O0000000O100000000000001O0O1000000000000000O100000000000000O1000000O10001O000000001O000O101O0O101N100O2N1O2M2O2N2gMXG`1k8ZN\\Ga1a9L2M3N2N100O10000O10O10000O100000000O100000001OO10000000000O2O001N100O2O1N101N2N102M2N2N3L4L5Kn]Z3",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      77.05,
+      82.76,
+      209.49,
+      185.77
+    ],
+    "has_distractor": true,
+    "image_id": 272738,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=mug",
+    "pair_id": "fg_4187",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4188",
+    "prompt": "drinking glass",
+    "target_box": [
+      217.6,
+      5.08,
+      318.19,
+      184.92000000000002
+    ],
+    "target_mask": {
+      "counts": "Uk_2>V;=E8H5L3L8I7H8I6I5L4^IgM^3]2\\LeMd3_2VLcMj3_2TL`Mm3c2PL\\MQ4f2nKYMQ4k2mKSMT4o2dKlLYN3T6S3`KlL\\N0T6U3_KlL]NMU6X3]KlLi4U3UKmLj4T3UKmLj4T3UKmLj4T3UKkLl4W3QKjLo4W3PKhLQ5Y3nJfLR5[3mJfLS5[3lJdLU5]3jJcLV5]3iJcLX5^3gJbLY5^3jI\\L`05g5`3hIjL2FV6b3eI[M\\6g2bIYM^6P40O10000O10000001O000000001O001O1OgNbImL2]O\\6e3dIhL5DV6b3hIdL7JQ6a3jI_L;0j5`3iJ`LW5_3jJbLU5^3lJaLT5^3mJcLR5\\3oJdLQ5[3PKfLo4Z3RKfLm4Y3TKgLl4X3UKiLj4V3XKiLi4V3WKkLh4T3YKlLg4S3[KmLd4R3^KmLb4R3`KnL_4Q3cKnL^4P3dKPM[4o2gKPMY4o2jKPMU4o2nKnLS4Q3[2N1N2N2O1N2O2M2N2M4K4L4L5J5L5K4K5L5G8G:F;EcdR2",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      339.46,
+      99.44,
+      524.0699999999999,
+      328.88
+    ],
+    "has_distractor": true,
+    "image_id": 312896,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=mug",
+    "pair_id": "fg_4817",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4817",
+    "prompt": "drinking glass",
+    "target_box": [
+      160.0,
+      0.0,
+      362.61,
+      165.29
+    ],
+    "target_mask": {
+      "counts": "k[V2b0Y=>D:G7I8I6J6J6J5K5L4L4L4L4M2M4M2M4L3N3L3N2M3N3M2O1O1O1O1O1O1O1O001O1O1O1O1O001O1O1O1O001O1O1O001O001O001O001O001O001O00001O00001O00001O001O0000001O0000001O000000001O000000001O0000000000000000000000000000000000000000000000000000O100000000000000000000000000001O0000000000O100000000000000O1000000000000O10000O10000O100O100O100O1O100O1O100O1O1O1O1O1N2O1N2O1O1N2K5J6K7M2M4M2M3N3L3M4L4M3L4L4L4L5J5L5J7H8H8H9Da0XO_SX3",
+      "size": [
+        450,
+        600
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      160.0,
+      0.0,
+      362.61,
+      165.29
+    ],
+    "has_distractor": true,
+    "image_id": 312896,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=drinking glass",
+    "pair_id": "fg_4817",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4818",
+    "prompt": "mug",
+    "target_box": [
+      339.46,
+      99.44,
+      524.0699999999999,
+      328.88
+    ],
+    "target_mask": {
+      "counts": "ofe47i=2N3M3N1M4L3`LBYIb0\\61YI2[6<`IFX6e0cI]O[6i0_IYO_6m0\\IUOa6P1ZIROd6S1WIoNf6V1VImNf6X1VIjNh6Z1UIhNi6Z1TIhNj6\\1SIfNk6\\1RIfNl6]1RIeNl6]1QIeNm6_1PIbNo6`1nHbNQ7`1mHaNR7a1kHbNS7a1jH`NV7a1gH`NY7c1cH^N]7e1_H]N`7h1ZHYNe7R401O00O101O00001O0O101O0O100N2O2N1O2N1N3N2M2N3M3O0O2O0O2O001O001O001000O10000000000000O1001N1000001O0O1000001O000O11O000001O0000000001O0000000O10000000001O0O1000000O1000000O101N10001N10000O2O0O2O0O2O0O101N1O2O1N2N2O1N101N1O2O0O2N2O0O2O1N1O2O0O2N2O1N2N2N1O2N2N2N2N2N2M3N3M4L3M3L5K4L4L4L4L3M4I6K6L5J7I=A9E\\WQ1",
+      "size": [
+        450,
+        600
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      318.99,
+      185.97,
+      425.61,
+      283.74
+    ],
+    "has_distractor": true,
+    "image_id": 316561,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=mug",
+    "pair_id": "fg_4887",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4887",
+    "prompt": "drinking glass",
+    "target_box": [
+      348.66,
+      116.28,
+      419.3,
+      204.22
+    ],
+    "target_mask": {
+      "counts": "dmo3[2\\9O0O2O0010O0100O10O10O10000O1000O10000000O10000000000000001O000000000000000001O000001O00000001O01O000001O0001O01O00M4K4K6J5K5K6J5L5J6J5K7I]am0",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      348.66,
+      116.28,
+      419.3,
+      204.22
+    ],
+    "has_distractor": true,
+    "image_id": 316561,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=drinking glass",
+    "pair_id": "fg_4887",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_4888",
+    "prompt": "mug",
+    "target_box": [
+      318.99,
+      185.97,
+      425.61,
+      283.74
+    ],
+    "target_mask": {
+      "counts": "_Qe37Z;;I4L4M3L3N2N2N2N3M1O2O1O0O2O0O2O1O0O2O001O0O10001O0000001M4D>J3N3M3N0O2O1O1N101N101O001N10001O0000001N1000001O000000001O0000000000000001O0000000O1000001O0O10001O0O100O101N100O101N1M3N3L3N3L3N3L3N3K4I8I7H8H8I8G;EPmj0",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      9.88,
+      432.49,
+      52.46,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 370045,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=wine glass, distractor=mug",
+    "pair_id": "fg_5750",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5750",
+    "prompt": "wine glass",
+    "target_box": [
+      77.45,
+      364.15,
+      115.46000000000001,
+      431.53
+    ],
+    "target_mask": {
+      "counts": "_oU11[?=F6J7I7J5O1N2O1N2O1O1N2O1O1O1O0O6K9G00O101BgB_NY=`1>O1O1O1O1O1O2N1O2M6K5J6J5L5Iabn3",
+      "size": [
+        500,
+        375
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      77.45,
+      364.15,
+      115.46000000000001,
+      431.53
+    ],
+    "has_distractor": true,
+    "image_id": 370045,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=wine glass",
+    "pair_id": "fg_5750",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5751",
+    "prompt": "mug",
+    "target_box": [
+      9.88,
+      432.49,
+      52.46,
+      500.0
+    ],
+    "target_mask": {
+      "counts": "RZ5?S?g0ZO<E1N1WB_N_=a1`B`N_=b1^B`Nb=i1O1000000O10000O1000000O100000000000000O1001O000000000000001J_BWNa=d1dB\\N]=c1cB]N^=a1?E[Ym4",
+      "size": [
+        500,
+        375
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      555.78,
+      0.0,
+      640.0,
+      105.37
+    ],
+    "has_distractor": true,
+    "image_id": 440212,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=drinking glass",
+    "pair_id": "fg_6779",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6779",
+    "prompt": "mug",
+    "target_box": [
+      422.81,
+      37.42,
+      639.78,
+      279.05
+    ],
+    "target_mask": {
+      "counts": "f_V6=^>9H7K3M3N1O1M3N3M2N2N3L3M3L5M2M4L3M4L3M3L5L3L5K4M4K4L5L3L5K4L5J5J6K6G8E<H7L5M2N3L3N3N1N3N2M2O2N1O2M3N1O2N101N2N101N2O0O2O1N101N2O0O2O1N101O1N2O001N2O1O001O1N2O1O1O000O100000O1000O10000000O01000O10000O10000O2O0O1O100O1O100O1O1O1O1O2N1O1O1N2N2O1N3M2N2M3M4M2N20001O0000010O00010O0001O01O01O00010O0001O01O01O01O010O01O010O010O0010O010O01O10O01O010O00100O001O100O001O1O1O001O1O1O001N2O1O1N2O1N2O1N3N1N2N2iLZFQ1i9iN]FU1d9hN_FV1d9fN_FX1c9fN_FW1e9eN^FY1d9dN^F[1e9aN^F]1e9_N^F^1g9\\N]Fb1g9XN\\Fg1h9RN]Fl1k9hM[FV2X;O2N2M2NoJ",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      422.81,
+      37.42,
+      639.78,
+      279.05
+    ],
+    "has_distractor": true,
+    "image_id": 440212,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=mug",
+    "pair_id": "fg_6779",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6780",
+    "prompt": "drinking glass",
+    "target_box": [
+      555.78,
+      0.0,
+      640.0,
+      105.37
+    ],
+    "target_mask": {
+      "counts": "XeT82k>4K4J6K6L3L4M3N3L3M3M3O2O00001O0000001O001O001O001O001O001O001O001O1O001O001O1O001O001O1O001O1O001O1O001O1O1O1O1O1O1O1O1O1O1O1O1O1O2N1O1O2N1O2N1O2N2N2N2N3M4LO1O1O1N2O1",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      423.11,
+      0.61,
+      573.02,
+      183.62
+    ],
+    "has_distractor": true,
+    "image_id": 449675,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=drinking glass",
+    "pair_id": "fg_6915",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6915",
+    "prompt": "mug",
+    "target_box": [
+      539.52,
+      70.37,
+      640.0,
+      187.73000000000002
+    ],
+    "target_mask": {
+      "counts": "aiP78l<8L4L4L3M4M2M2N3M2O2M2N3N2N1N3N1O2N1K6H8H7K6I6M4M2M3N3L3N3N100O2N1O1O2O01O0001O000000001O000001O00001O000010O0001O000O2O000O2O00001N10000O2N100O2N100N3M2M3N3K4M3L5K4L4L5L3L4L5L3M3M4N1O2O0O2N1O2N1O2NWM",
+      "size": [
+        426,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      539.52,
+      70.37,
+      640.0,
+      187.73000000000002
+    ],
+    "has_distractor": true,
+    "image_id": 449675,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=mug",
+    "pair_id": "fg_6915",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6916",
+    "prompt": "drinking glass",
+    "target_box": [
+      423.11,
+      0.61,
+      573.02,
+      183.62
+    ],
+    "target_mask": {
+      "counts": "QT`55l<:L3M4L4K4M4L4L3M4L4L3M4L4L3M4L4L3M4K4M4L3M4L3M4L4L3M4L3M3M4L3M4K4M3M4L3M3M4L3M3M4L3M4L3M3M4K3N30000000000000000000O10000000000O100O100O100O100N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2M3N2N2M4M2N2M3N2N2M3N2N2M3N2N2N2M3N2N2M3N2N2M3N2N2M3N2N2M3N2N2N2M3N2M3N2M3M3N2M3N2M3N2M3N2M3N2Mokk0",
+      "size": [
+        426,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      141.52,
+      24.59,
+      250.76,
+      191.52
+    ],
+    "has_distractor": true,
+    "image_id": 457566,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=cup, distractor=drinking glass",
+    "pair_id": "fg_7039",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7039",
+    "prompt": "cup",
+    "target_box": [
+      141.8,
+      23.73,
+      250.27,
+      192.47
+    ],
+    "target_mask": {
+      "counts": "[cR2:3f1^<g0G8G5M2M4L4L3M4M2M2N3N2N1N3N1O1N2O1O1N2O1O2M2O001N101O1N101O004K3N1O001O1N2O1O001O1O001O001O1O000000001O000000000000000001O00000000001GWFXKj9g4XFWKi9g4[FVKf9i49O2O000O2O01O01O01O01O010O00100N1O2M3N3K4M4I8L5K6J6J7H7J6I8H7I8H8H9F:E;E_ff5",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      141.8,
+      23.73,
+      250.27,
+      192.47
+    ],
+    "has_distractor": true,
+    "image_id": 457566,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=cup",
+    "pair_id": "fg_7039",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7040",
+    "prompt": "drinking glass",
+    "target_box": [
+      141.52,
+      24.59,
+      250.76,
+      191.52
+    ],
+    "target_mask": {
+      "counts": "]cR25i0g0[<i1UO7J5K4L3M4M3L3M3M3M3M3N2M2O1O2M2O1O1N2O1O2M101O0O2O001O1O002M3N3M001O1O1N2O1O1O00001O001O00001O001O000000000000000000000000000000000001M2J6M3O2O000O2O000010O01O00010O1O010N2O1N2H8N2N1O2M4M3ZLmDZ3V;aLREY3a;I6I8I7H8H7I8G9E:F;D=@`Wf5",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      69.84,
+      294.76,
+      147.45,
+      354.59
+    ],
+    "has_distractor": true,
+    "image_id": 506605,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=cup",
+    "pair_id": "fg_7778",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7778",
+    "prompt": "mug",
+    "target_box": [
+      69.87,
+      294.72,
+      147.85000000000002,
+      354.83000000000004
+    ],
+    "target_mask": {
+      "counts": "ffk0:U<7K4K4L3N2N2M3N2M3N3M2N4K4M2N1O0O2O0000001O000O10000000000000O100000000O10000O10000O1O1O1O1N2N3L3N2N3N1O1O2O1N2SOaDe0h;NO010O010O01O100O010O1O1O100O2N1O2N2N2M4Lh[P6",
+      "size": [
+        401,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      69.87,
+      294.72,
+      147.85000000000002,
+      354.83000000000004
+    ],
+    "has_distractor": true,
+    "image_id": 506605,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=cup, distractor=mug",
+    "pair_id": "fg_7778",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7779",
+    "prompt": "cup",
+    "target_box": [
+      69.84,
+      294.76,
+      147.45,
+      354.59
+    ],
+    "target_mask": {
+      "counts": "ffk0:V<6J5K4M3L4M2M3N2N1N3N2N6I4M1O001O0O100000001O0O1000000000O100000000000000O10000O100O100O1O1N3M2N2M3M3O2N1O2O1N2N9HO01O010O10O0100O010O1O100O2N1O2N1O2M4LZhP6",
+      "size": [
+        401,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      308.02,
+      0.0,
+      518.92,
+      224.99
+    ],
+    "has_distractor": true,
+    "image_id": 514440,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=cup",
+    "pair_id": "fg_7912",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7912",
+    "prompt": "drinking glass",
+    "target_box": [
+      305.76,
+      0.0,
+      520.65,
+      226.51
+    ],
+    "target_mask": {
+      "counts": "imf55jb08I8H7J7K4L3M3L5L3M4L3M4L3M3M4L3M4M2M4M2M3N3L3N3L3N3L3M3N3L3N3L3N3L3N2WBmK\\<W4`CjK`<X4\\CjKd<Y4XChKh<Z4TChKk<\\4QCeKo<]4oBcKQ=_4lBcKS=`4iBaKV=b4gB_KY=d4cB]K]=e4aB\\K^=U5O101O001N2O2N2N2M2O1O000O2O001O0O101O000O2O00000O2O000000001O00001O001O00001O001O00001O001O001O001O1O001O001O001O1O001O001O1O001O1O001O1O001O1O0000N3N1O1O2N1gNgCfKZ<Y4hCeKY<Y4kCdKW<Z4kCdKV<[4mCbKT<]4oC_KT<_4PDZKT<e4oCUKU<i4T1O2N1O1O1N3N1O1O2N1O1N2O2N1O1O1O2M2O1O1O2N1O1N3N1O1O1O2N1N3N1O2N2N1N3N1O2N1O2N2M2O2N1O2N1O2M3N1O2N1O2N2M2O2N2N2N1O2N2N1O2M3N2N1O2N2N2N2N2N2N2N2M3N2M5K4M3L4M5H9AhZf1",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      305.76,
+      0.0,
+      520.65,
+      226.51
+    ],
+    "has_distractor": true,
+    "image_id": 514440,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=cup, distractor=drinking glass",
+    "pair_id": "fg_7912",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7913",
+    "prompt": "cup",
+    "target_box": [
+      308.02,
+      0.0,
+      518.92,
+      224.99
+    ],
+    "target_mask": {
+      "counts": "RTh56hb0:H7J6J6J5M4L4L3M4L3M4L3M4K4N3L3N3L3N3L3N3L3M4M2M3N3L3N3L3N3L3N3L3VBoK]<T4_CmKa<U4\\CmKb<W4YCkKg<W4VCjKi<Z4RChKn<Z4oBgKQ=\\4jBgKT=\\4iBeKW=^4fBbKY=a4dB`K\\=c4`B_K_=S5O2O1O1N101O1N8I0O10000O10001N10001N10001O00001O00001O00001O000010O0001O0000001O001O00001O001O001O001O001O001O001O1O001O010O001O001O001O001O0010O01OO100O101N100fNiCeKY<Y4kCcKW<[4lCcKV<Z4nCbKT<]4oC_KS<_4SD[Ko;d4WDoJR<o4R1N2O1O2N1O1O1O2M2O1O1O2N1O1O2M2O1O1O2N1O2M2O2N1O2N1O2N1N3N1O1O2N1O2N1N3N1O2N1O2N1O2M2O2N2N1O2N2N1N3N1O2N2N2N2N1N3N2N2N2N2N2N2N1O2N2N2N2N2N2N2N3L4M2M4M4K7J6Ck`g1",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      316.67,
+      154.49,
+      358.3,
+      237.44
+    ],
+    "has_distractor": true,
+    "image_id": 573815,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=mug, distractor=drinking glass",
+    "pair_id": "fg_8790",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_8790",
+    "prompt": "mug",
+    "target_box": [
+      13.76,
+      281.23,
+      54.87,
+      381.73
+    ],
+    "target_mask": {
+      "counts": "jg51^<2O1O2N1O2N1O1O1O101N2N2N1O2O2M2N2O1N4M3M3M3M3M3O1O01O:GN1O3>AM4L4L4M3LN2N2N3L4VOeD5Vk]5",
+      "size": [
+        400,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      13.76,
+      281.23,
+      54.87,
+      381.73
+    ],
+    "has_distractor": true,
+    "image_id": 573815,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cup_mug_glass, tier=confusable, target=drinking glass, distractor=mug",
+    "pair_id": "fg_8790",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_8791",
+    "prompt": "drinking glass",
+    "target_box": [
+      316.67,
+      154.49,
+      358.3,
+      237.44
+    ],
+    "target_mask": {
+      "counts": "nok3g0a;<VETOa9Y1QFoNm9l1N101N101O00001O001N100010O000000000000000O2O00000O100O2N1B>F:M3M4L3M4K5J5JVZg1",
+      "size": [
+        400,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      281.81,
+      465.86,
+      507.13,
+      612.0
+    ],
+    "has_distractor": true,
+    "image_id": 66360,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_1018",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1018",
+    "prompt": "plate",
+    "target_box": [
+      11.43,
+      284.28,
+      566.9799999999999,
+      612.0
+    ],
+    "target_mask": {
+      "counts": "iS74bb0o0SOe0_O`0A>C:I7H6K3L4M3M3M3L4M3M3M3N2N2M3N2N2M3N2M3N2N2N2N2N2N2N2N2N2N2N2O1N2O1N2N2O1N2O1N2O1N2O1N2O1N2O1N2O1N2O1N2O1O1N2O1O1O1O1N2O1O1O1O1N2O1O1O1O1O1O1O1O1O1O1O1O1O1O1N2O100O1O1O1O1O1O1O1O1O100O1O1O1O1O1O100OiLSEYNl:e1ZEXNe:f1_EYN`:f1dEXN\\:g1fEXNY:g1jEXNU:h1mEWNR:i1PFVNo9j1SFUNm9j1UFUNj9k1XFTNg9m1ZFRNe9n1]FQNc9n1_FQN`9o1bFPN]9P2eFoM[9Q2eFoMZ98mE^Nk0Y1W93]F\\N=`1V90eF[N7d1S9OmFYN1g1Q9OTGVNLj1P9NYGTNIm1m8FhGYN\\OP2k8POcHmNdNR2i8mNhHPO`NR2g8nNkHoN_NR2e8oNnHmN_NS2c8POoHlN_NS2a8QOSIiN^NU2^8QOTKn0l4POWKo0h4PO[Ko0e4oN^KP1a4oNbKP1]4POeKo0[4POgKo0X4POkKo0U4POmKo0R4QOPLn0o3ROSLm0m3QOVLn0i3ROYLm0g3RO[Lm0d3SO^Ll0a3TOaLk0_3TOcLk0\\3UOiJXORMb1U8UOjJZOQM`1T8VOlJ\\OnL^1V8UOmJ^OmL\\1U8VOoJ@kLY1V8WOoJAkLW1U8XOQKCiLT1V8XORKEhLR1U8YOUKFeLP1V8YOVKHdLn0U8ZOXKJbLk0V8[OXKKbLi0V8[OYKN`Lf0V8\\O[KO_Ld0V8\\O\\K2]La0V8]O^K3\\L?V8^O^K4\\L=U8_O`K6ZL:V8_OaK8YL8U8@cK:WL5V8AbK<XL2V8AcK>WL0U8BeK`0ULMV8BfKb0TLKU8DfKd0TLGV8DgKf0SLEU8EhKh0SLBU8FhKj0RL_OV8FhKm0RL\\OU8HiKn0QLYOV8HiKQ1QLVOV8HiKT1QLSOU8JiKV1QLoNV8JjKX1PLmNU8KkK[1oKiNV8LjK]1PLfNV8LjK`1PLcNU8NkK4^K1`0MW8MlK0gK260W8NlKMlK410V8OnKKoK6LOW80nKISL7HOW81hMNQJ0V82lMMnI0V83nMMkIOW84QNKhI0V85TNKfIOV86UNKeINU87YNKaIMV88ZNK`ILV89[NK_IKV89^NK\\IKU8;`NKZIIV8<aNKYIHV8=bNKb25aMJ^26cMK[25fMKY25hMKV25mMJR26oMKo15RNKl16UNJj15XNKg15ZNLc15^NKa15`NK_15cNJ\\16dNKZ16gNJX16hNLV14kNLT14lNMR14oNLP14POMo03ROMl04TOMk03UOOi01XOOg02XOOf02ZOOe01[O0d01[O0d00\\O1b00^O2`0O_O2`0N@2`0N@2?0_O1a0O_O1a0O_O1a00]O1b00^O0b00^O0b01\\O0d00\\O0d00\\O0d00[O1e0OZO2f0NZO2e00YO1g0OXO2h0NXO2h0NWO3i0MWO3i0MVO4j0MTO4l0LSO5l0LSO5m0KRO6n0JQO7o0JoN7Q1JlN8T1HkN9U1GiN;W1FfN<Z1DdN>\\1BbN`0^1@`Nb0_1@eN;[1ElN4T1LSOMm04YOEg0;@^O`0b0GWO9i0NPO2Q1P90000001O0000001N1000001O0000001O00001O00001O001O00001O001O00010O001O001O001O00001O001O001O00010O001O001O1O2O1N2N1O2N1O1O2O3L6J6J5K3M10O00000010O000000010O000010O01O1O010O1O001O10O01O010O0010O0010O00010O0010O01O010O00100O001O010O1O010O00100O0010O010O01O010O010O10O01lAhL[<W3dCkL[<V3bClL^<T3aCmL`<S3]CPMb<P3]CQMd<o2ZCRMf<n2YCTMg<l2XCTMh<l2XCTMi<l2UCVMj<j2VCVMk<j2SCXMl<h2TCXMm<h2RCXMn<i2QCXMo<g2PCZMP=g2oBYMR=f2nB[MQ=f2nBZMS=f2lBZMT=f2kB\\MU=d2jB\\MV=d2jB]MV=c2hB^MY=b2eB_M[=a2dBaM\\=_2cBbM\\=c2^B_Mb=a2[BaMe=`2WBdMi=\\2TBgMl=Y2mAmMS>c300O10O10O100O01000O0100000O010000000O100000000O10001O0000000O1000001O1O001O001O1O001O001cDeJn8\\5mFgJT9Y5iFiJX9X5cFkJ^9V5]FmJd9S5XFPKi9R5RFPKo9Y5dEjJ]:`5UEcJl:g5fD\\J\\;e61O1O2N1O1O1O2N1O1O1O2N1O1O2N1O2N1O2N1O2N1O2N2N1O2N2N1O2N2N1O2N2N2N2N2N2N2N3M2N3M2N3M2N3M3M2L5J6K6I7H7J8H8F:F:F;E<@c0ZOo\\j0",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      11.43,
+      284.28,
+      566.9799999999999,
+      612.0
+    ],
+    "has_distractor": true,
+    "image_id": 66360,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_1018",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1019",
+    "prompt": "bowl",
+    "target_box": [
+      281.81,
+      465.86,
+      507.13,
+      612.0
+    ],
+    "target_mask": {
+      "counts": "gRY5h0Ub0?D8G8I7I7K5K5K4L2N2N2N2O1N2N2N2O1N2O1N2O1N2O1O1O1O1O1O1O1O1O1OPOd@ZN[?b1QAWNn>e1YAYNg>`1bA^N]>^1jA`NU>]1RB`Nm=^1XB`Nh=^1\\B`Nc=_1aB_N^=`1gB]NX=[1SCcNm<[1WCcNh<\\1`200010O100O10O010O010O00001N101N101O00100O01000O0100O0100O010O10O100O1000O01000000000000O1000000000000O100000000000O10000O10000O10000O100O10000O10000000001O000000001O01O0001O01O000001O0001O0001O0000010O0010O01O010O01O01O010O010O0100O00100O01000O010O10000O2O00O0101O5J5LO01d@^NU=a1jB`NW=`1fBbN[=]1cBeN^=[1_BgNb=X1[BkNf=V1VBlNk=U1QBmNP>T1jAPOW>R1cAQO^>Q1n@@R?c0i@_OX?V21O1O1O1O2N1O1O2N1O1O1O2N1O1O2N1O2N2N2N1O2N2N2N1O2N3M4L3J7H7I8Gb0[OaVn1",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      495.21,
+      272.02,
+      638.77,
+      360.12
+    ],
+    "has_distractor": true,
+    "image_id": 81906,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_1266",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1266",
+    "prompt": "plate",
+    "target_box": [
+      0.73,
+      245.22,
+      185.36999999999998,
+      360.58
+    ],
+    "target_mask": {
+      "counts": "Zd0W2b8RNeGn1Z8SNfGm1Z8SNeGn1Z8SNfGm1Z8SNfGm1Y8TNgGl1Y8TNgGl1X8UNhGk1X8UNhGk1W8VNhGk1X8UNhGk1W8VNiGj1W8VNiGj1V8WNjGi1V8WNjGi1U8XNkGh1U8XNkGh1T8YNlGg1T8YNlGg1S8ZNmGf1S8ZNmGf1S8ZNmGf1R8[NnGe1R8[NmGf1R8[NnGe1R8[NnGe1Q8\\NoGd1Q8\\NoGd1P8]NPHc1P8\\NQHd1n7]NRHc1n7]NRHc1n7]NRHc1m7^NSHb1m7^NSHb1m7^NSHb1m7^NSHb1l7_NTHa1l7_NTHa1l7_NTHa1k7`NUH`1k7`NUH`1k7`NUH`1k7`NUH`1j7aNVH_1j7aNVH_1j7aNVH_1i7bNXH]1h7cNXH]1h7dNWH\\1h7eNXH[1h7eNXH[1h7eNYHZ1g7fNYHZ1f7gNZHY1f7gN[HX1e7hN[HV1g7jNZHS1g7oNYHn0i7ROWHl0k7TOVHh0m7XOTHg0l7XOWHe0i7\\OXHa0j7_OVH?l7@VH=l7CTH;n7ERH:n7GRH8o7HQH6Q8JoG4S8LmG2U8NkG0V81jGMX83hGKZ85fGI\\87dGGe0XOc6Q1hHEd0]Oc6o0iHBc0Bd6m0hH_Od0Fd6k0hH]Oc0Ke6h0hH[Oc0Oe6e0iHZOa04f6b0iHXOa08f6`0iHVO`0=g6=iHTO?b0h6:hHSO`0e0h68hHQO?j0i65_HnN22e0m0j63_HnN20d0R1k60[HoN0OQ1T1d6M\\HoN00n0V1f6K\\HoN00k0Y1i6H[HoN11i0Z1k6E\\HPO00h0]1l6C[HQO00f0_1n6A\\HPO00d0a1P7^O]HPO00b0d1Q7\\O\\HQO00a0e1S7ZO\\HQO0O?i1U7VO]HQOO1=j1W7TO\\HRO00;l1Y7QO]HROO19o1[7nN]HROO16R2^7jN]HTON06T2_7hN]HSOO14U2`7gN]HSOO04W2`7fN\\HSO011OOW2d7eN]HTOO010OX2e7cN[HVOO010OX2f7aN\\HVOO10O0Y2e7aN[HWOO010OY2f7_N\\HWOO10O0Z2e7_N\\HWON110OZ2f7]N\\HXOO10O0[2e7]N\\HXOO001O[2f7[N\\HYOO10OO]2f7ZN\\HYOO001O\\2g7YNZHZO010OO^2g7WNZH\\O0O01O]2g7WNZH[O0e2f7k00000001O001O001O001O1O1O1O001O1O1O1O001O100O1O001O1O1O001O1O1O1O001N1O2N1N3N1O2N1O2N1N3N1O2N1N3N1N3N1N3L3N3L3N3M2M6K4J7J7FPTP5",
+      "size": [
+        361,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      0.73,
+      245.22,
+      185.36999999999998,
+      360.58
+    ],
+    "has_distractor": true,
+    "image_id": 81906,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_1266",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1267",
+    "prompt": "bowl",
+    "target_box": [
+      495.21,
+      272.02,
+      638.77,
+      360.12
+    ],
+    "target_mask": {
+      "counts": "aj^5a0b:<E;H3M2N2M3N2N2N2O1OHcFfN\\9Z1gFdNW9\\1mFbNR9_1PG_No8b1;QOeF2Z9NPGIo87[G@d8`0R101O0G\\ENd:3]EGh:93001O010O0010O01O0100O010O010O1O010O1NSEHl:92O010000O0100001NIUE2k:Klf00_YO001O000O010kD010k::TEEh:?O1O1O1N10001OM3O1O10000O1000O10O1O100O100000000001O000000001O00001O0000O2O0000000001O01O000001O00001O010O001O0001O0000000010O001O00O20O1O0010O00010O00001O00`2",
+      "size": [
+        361,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      298.2,
+      249.14,
+      507.75,
+      368.89
+    ],
+    "has_distractor": true,
+    "image_id": 84815,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_1309",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1309",
+    "prompt": "bowl",
+    "target_box": [
+      151.3,
+      176.41,
+      308.98,
+      274.57
+    ],
+    "target_mask": {
+      "counts": "VQo11P=:K6L3M3M3M3N101N2N5K4M1N3N2N2N1N2O1O2M2O1O1N2O1N2O1N2O0O2O0O2O001N101N101O0O2O0O2O001N101O0O101O0O101O0O101O0O101O0O100000000O100000000O100000000O100000001N1000O1000O1001O0O1000000000000O10000000001N10000O100O101O0O100O2O000O100O2O0O100O2O000O2O0O2O0O101N1O2N1O2N1O2N1O101N1O2N1O2M2N2O2M2N3N1N2N3K4L5L4N2N2N2M4L4LU`Y4",
+      "size": [
+        426,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      151.3,
+      176.41,
+      308.98,
+      274.57
+    ],
+    "has_distractor": true,
+    "image_id": 84815,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_1309",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1310",
+    "prompt": "plate",
+    "target_box": [
+      298.2,
+      249.14,
+      507.75,
+      368.89
+    ],
+    "target_mask": {
+      "counts": "ZXl34o<;G9H8K5J4M2M4M2M4M2N2N3M2M3N2N2N2N2NXNVES1h:kNcEn0\\:POiEn0U:POPFo0n9POWFn0h9oN]FP1a9oNdFo0Z9POjFn0V9QOlFo0R9QOPGo0n8QOSGo0m8POUGP1i8oNYGR1e8mN^GR1^:0O010O10O01O1O0010O01O001O0010OO2O001O001O001N101O00001O000O2O00001O00001O001O000O101O00001O0000001O0000001O00001O00000000001O0001O001O001O001O001O001O001O1O001O001O1O010O1O001O1O001O1O0O2O00001O00001O00001N10000000000000O10O1000000O010000O010000O010000O01000O10O0100O010O100O010O10O010O00010O0001O00001O00001O0N2N3TOeNfE]1\\:gN\\E[1f:iNREZ1o:?2M3N2M3M2O3L4L4M4K4L4M4K4K5F;EQdf1",
+      "size": [
+        426,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      0.35,
+      177.02,
+      397.65000000000003,
+      505.43000000000006
+    ],
+    "has_distractor": true,
+    "image_id": 85481,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_1317",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1317",
+    "prompt": "bowl",
+    "target_box": [
+      403.36,
+      272.68,
+      638.31,
+      463.45000000000005
+    ],
+    "target_mask": {
+      "counts": "^Vl71lc0:F:F:F:E;F:F8I4M3M3M3M3M3M3M3M3M3M3M3M3M3M3M3M3N2M2N3N1N2O2M2N2O2M2O1N3M2O1N2O0O2O1N2O0O2O1N2N101N2O1N101O1O0O2O001O1O0O2O001O1O0O2O001O001N1000001O0O101O0000001O0000001O0000000000001O0001O00000001O00000000000000001O01O0000000000000000001O00000000000000001O00001N1000001N10000O2O000O101O0O101O0O10001N10001N10001N101O0O101O0O101O0O2O000O2O001N101O0O2N2N1O2O1N1O2N1O2O1N1O2N2N101N2N2N1O2O1N1O2N2O0O2N2N2N101N2N2N2O1N2N2N2N2N2N2N2N2N2M3N3M3M2N3M2N3L4M2N3L3N4K5K5K4L7I9Hdl0",
+      "size": [
+        640,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      403.36,
+      272.68,
+      638.31,
+      463.45000000000005
+    ],
+    "has_distractor": true,
+    "image_id": 85481,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_1317",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1318",
+    "prompt": "plate",
+    "target_box": [
+      0.35,
+      177.02,
+      397.65000000000003,
+      505.43000000000006
+    ],
+    "target_mask": {
+      "counts": "V7d0\\c0i1Z@oNj8P1PEX1P;gNTEW1j:iNYEV1e:iN`EU1_:jNdET1[:lNgET1X:iNmEU1R:iNSFV1k9gNZFX1f9fN^FY1`9fNcFZ1\\9dNhFZ1W9eNlF[1R9eNPGZ1P9dNTG[1j8eNXGZ1h8eNZG[1d8eN_GY1`8fNcGZ1\\8eNfGZ1Y8fNjGY1U8fNmGY1R8gNPHY1o7fNSHY1l7gNWHW1h7jNYHV1f7iN\\HV1c7jN_HV1`7jNbHT1]7lNeHS1[7lNhHS1V7nNoHm0Q7ROQIn0m6ROVIl0j6TOWIk0h6UOZIk0d6VO^Ih0b6XO_Ig0`6ZOaIf0^6ZOdId0[6]OfIb0Z6]OiIb0U6_OlI`0T6@mI?S6AnI?P6BQJ=o5BSJ=m5CTJ<k5EVJ;i5EWJ;h5EZJ:f5F[J:d5F]J9b5G`J8`5H`J9_5GbJ8]5HeJ7[5IeJ7Z5JgJ6X5JiJ5W5JkJ5T5LlJ5S5KnJ4R5LoJ3P5MQK3o4MRK2n4NSK2k4OUK1k4NWK1i4NXK2g4N[K2d4N\\K2c4N^K2b4M`K2`4MaK4]4MdK2\\4MeK3[4LfK4Z4KhK4W4MiK4V4KlK4T4KmK5S4KmK5R4KPL4P4KQL6n3ITL6l3JTL6k3JVL6j3IWL7i3IWL7i3HXL9f3G\\L8d3G]L9c3G]L9c3F^L:b3E_L<_3EaL;_3DcL;]3DdL<\\3CeL=Z3CgL=Y3BhL?W3@jL`0V3_OlL`0S3AmL?S3@nL`0R3_OoLa0Q3_OoLb0o2^ORMb0n2]OTMb0l2^OTMb0l2]OUMc0k2\\OVMd0i2\\OXMd0h2\\OXMd0h2[OZMd0f2\\OZMd0f2\\OZMd0f2[O[Me0d2\\O\\Md0d2\\O]Mc0c2\\O^Me0a2[O_Me0a2[O_Me0a2ZO`Mf0`2ZOaMe0^2[OcMe0]2[OcMe0]2ZOdMf0\\2YOeMg0[2YOfMf0Z2YOgMg0X2ZOhMf0X2YOiMg0W2YOjMf0V2YOkMg0U2XOmMg0S2YOmMg0S2XOoMg0P2ZOPNf0P2YORNf0n1YOSNg0m1YOSNg0m1XOTNh0l1XOTNh0l1WOVNh0i1XOXNh0h1XOXNh0h1WOYNi0g1WOYNi0g1VOZNj0f1VOZNj0f1UO[Nk0e1UO[Nk0e1TO\\Nl0d1SO]Nl0d1TO\\Nl0d1SO]Nm0c1SO^Nl0b1SO_Nm0a1SO_Nm0a1RO`Nn0`1RO`Nn0`1QOcNm0]1ROfNl0Z1TOhNj0X1UOiNk0W1UOjNj0V1UOkNk0U1TOmNk0S1POROP1n0POSOo0m0POTOo0m0QOTOn0l0QOUOo0k0QOUOo0k0POVOP1j0POVOP1m901O000OoFUOoNk0o0WOQOi0n0YOQOg0n0ZOROf0n0[OQOe0o0[OQOe0o0\\OQOc0o0^OPOb0P1^OPOa0Q1@nN`0R1@nN`0R1AnN>R1BnN>R1CmN=T1BlN>T1BlN>T1CkN=U1ClN;U1FjN:V1FjN:V1GiN9W1GiN8X1HhN8Y1HfN8Z1HfN8Z1IeN7[1IeN6\\1KcN5^1JbN6^1KaN5_1KaN4`1M_N3a1M_N3b1M]N3c1M]N3c1N\\N1e1O[N1e10[NOf10ZN0f11YNNh12XNNh13WNMi13WNMi14VNKl14TNLl15SNKm15SNJn17QNIo17QNIo18PNHP29oMFS29mMGS2:kMGU2:jMEW2;iMEW2<hMDY2<fMC[2>dMB\\2?bMB^2?aMA_2`0_M@c2`0\\M@d2c0YM]Og2f0UMZOl2g0SMYOn2f0QM[Oo2f0PMZOP3f0nL[OS3f0jL\\OW3c0hL^OX3b0fL_O[3b0cL_O]3a0bL@_3?_LBb3?\\LBd3>[LBg3>WLCi3=VLDj3<ULDl3=RLDo3;PLEQ4<mKES4;kKGV48iKHX49eKI[47dKI]48`KJa45\\KNd42YK0h41VK0k4OUK0l41RK0n40RK0o40oJ0R50nJ0R50mJ0U50jJ0V50iJ1W50gJ0[5OeJ1[50cJ0^50bJ0_50_J0b50^J0b51\\JOf50YJ0h51WJOi51VJOl51SJOm51RJOP61nI0R60nIOS62kIOV60iI0X61gIN[61dI0\\61bIO`61_IOa61^IOd61ZI0f60YI0h61VIOl60TI0l61RIOP70oH1Q70mH0U70iH1W7OhH1Z7OeH0]7ObH2^7O`H1b7N]H2d7OZH2g7MXH3i7MVH3l7MQH5o7KoG6S8JkG6V8JhG8Y8GeG:]8FaG:`8F_G:c8FZG<g8CXG=i8DUG<m8CRG>o8AoF`0S9@kF`0V9@iFa0X9_OfFa0\\9^OcFb0_9]O`Fc0b9\\O]Fd0d9]OZFc0h9\\OXFc0j9\\OUFe0l9[ORFe0o9[OPFe0R:[OjEg0X:XOeEj0]:UO`Em0b:RO[EP1g:oNVES1k:mNREV1o:jNmDX1U;gNhD[1Z;dNfD[1\\;eNbD[1`;dN`D[1a;eN_DZ1c;eN\\D[1f;dNZD[1h;eNVD[1l;dNTD[1n;dNPD\\1S<cNlC]1V<bNhC_1Z<`NeC`1^<^N`Cc1b<]N[Cd1g<ZNXCg1j<XNTCh1o<WNoBj1S=TNlBm1W=QNgBP2[=oMcBR2_=lMaBT2a=mM\\BR2g=oMVBP2n=PNoAP2S>PNd@Jg0U2i>QN]@Ki0S2n>RNU@Nk0P2R?^Nm@a1W?^Nh@`1\\?^Nc@b1_?^N_@a1e?]N[@a1h?_NV@a1m?^NQ@a1S`0^Nj_Ob1Y`0^Ne_O`1``0_N]_O`1i`0cNP_O[1Va0c06J6J6K5I7H9G>C=B>Bgmf4",
+      "size": [
+        640,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      412.23,
+      79.3,
+      499.79,
+      243.66000000000003
+    ],
+    "has_distractor": true,
+    "image_id": 100959,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=saucer",
+    "pair_id": "fg_1593",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1593",
+    "prompt": "bowl",
+    "target_box": [
+      472.38,
+      53.06,
+      500.0,
+      196.61
+    ],
+    "target_mask": {
+      "counts": "Uo\\57X;l0TO?C<C:G9H7J6K5J5L4N3L3M3N3L3NWMWHg1g7QNfHl1X7RNmHm1Q7QNTIn1j6QNYIo1e6PN^IP2`6PNcIo1\\6PNfIP2X6PNjIo1U6QNmIo1R6QNoIo1o5QNPKQ1[3",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      472.38,
+      53.06,
+      500.0,
+      196.61
+    ],
+    "has_distractor": true,
+    "image_id": 100959,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=saucer, distractor=bowl",
+    "pair_id": "fg_1593",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1594",
+    "prompt": "saucer",
+    "target_box": [
+      412.23,
+      79.3,
+      499.79,
+      243.66000000000003
+    ],
+    "target_mask": {
+      "counts": "\\Pg4<T;=E9I6J6K5K5L3L4M3L4M3M3M3M2N3M2N3M2N3M2N2N2O1N3M2O1N2N2O1N2N3N1N2O1N2O0O2O1N2O1O1N2O001N2O1O0O2O1O1O0O2O1O1O0O2O1O001NPM\\Io0d6cNUJS1j5eNcJW1\\5aNPK[1P5_NYK_1f4\\NbKb1]4YNiKf1V4XNoKg1Q7O2O0O2O0O101N100O100O100O10O0100O100O1OkI",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      5.56,
+      166.85,
+      303.13,
+      433.28
+    ],
+    "has_distractor": true,
+    "image_id": 106150,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_1655",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1655",
+    "prompt": "bowl",
+    "target_box": [
+      185.65,
+      65.91,
+      324.01,
+      180.7
+    ],
+    "target_mask": {
+      "counts": "[mj2m0e>5J6J6J7K3L4M3M2M3O1N3M2N3M2O2N1N3N1O0O2N2O0O2O1N101N2O0O2O0O2O0O2O1O001O0O2O001O0000001O0O101O0000001O000000001O000000000010O0000000000001O01O0000000001O0O10000O2O00001N100O2O0O101N100O2O001N100O2O0O1O2O0O2N101N101N1O2O1N1O2N2N1O2N2N2N1O2N2N2M2O2N2N2M3N2N2M3N3L3N2M4L4L4L7HWY4",
+      "size": [
+        500,
+        333
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      185.65,
+      65.91,
+      324.01,
+      180.7
+    ],
+    "has_distractor": true,
+    "image_id": 106150,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_1655",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_1656",
+    "prompt": "plate",
+    "target_box": [
+      5.56,
+      166.85,
+      303.13,
+      433.28
+    ],
+    "target_mask": {
+      "counts": "fV3e0i>a0_O;G9H0ZB[N_=S2I6J6J6J5L4KZOcC^NW<c2M3L5LmNTDbNh;g2M4L3N2M4M2M3N3M2M3N[NTEfNi:T3N2M4M2N3M2N2M4M2N2N2N2N1O2O1N2N2N2N2O^KaFYO2h2\\9nMeFVO3l2V9oMhFRO5o2Q9oMkFoN8R3k8PNmFmN:S3g8PNPGkN<5\\O^2V9cNRGiN=0F_2k8gNSGhN?NHb2d8jNUGdNa0MIe2_8kNWGaNc0LJh2[8mNXG\\N^1g2X7nNTIS1j6oNUIQ1k6oNUIR1i6oNWIR1h6nNXIR1g6POXIQ1g6oNYIR1e6oN[IQ1e6oN[IR1c6oN\\IS1c6mN]IS1c6mN]IT1a6nN_IQ1a6oN_IR1_6POaIo0_6QOcIfNnM_1]8LiIZNTNg1S8NdJ1Z50fJ0Z50fJ1X5OiJ1W5OjJ1T5OmJ1S5NnJ3P5MQK3o4KSK6k4JVK6j4JVK7h4JXK6h4XORHnNX3j1d4XOWHhNJL[3T2d4VO[HhNX3P2\\4WOWLg0h3[OWLe0i3[OXLe0f3\\O[Lc0e3]O\\Lb0d3^O\\Lc0b3^O_La0a3@^L`0b3_O^Lb0a3YOYHgNX4Q2^3VO]HhNT4S2_3UOgLk0X3XOeLj0Z3VOeLk0[3UOeLk0[3TOeLn0Y3SO]HfNV4X2]3UObLl0^3TOaLn0^3ROaLo0_3RO_Lo0`3SO_Lm0a3SObLk0]3WOdLf0\\3[OeLc0[3\\OhLc0W3]OkLa0U3_OkLa0T3AkL?U3BkL>T3CXKYNmNS2k5FVKWNPOR2j5GiHWNT21ZOP2i5IfHYNV2O[Oo1h52kJQN\\Om1i51aJTNUN0a1j1h52cJ_ND_1i51dJ`ND_1g51eJaNC^1h51eJbNA^1j51dJcN@\\1l51cJfN^OZ1o50_JkN@V1P60_JlN@T1Q60hImMCR1a0R1T6OgIoMBT1@lNi0S2^6NfIPNBY1:j0^6MeIQNCX19k0_6LdISNCU1:m0_6KdISNER18Q1_6JcITNGP17R1_6JcIUNGm07U1_6IbIXNGh09W1^6JaIXNGf0:Y1^6J_IXNJc09\\1^6I_IYNDf0>Z1_6H]IZNCe0b0Y1^6IZI]NCa0e0Z1^6IXIbN_O;k0[1^6IUIJ6d0e6DoHL<`0e6HiH^NO<d0]1d6i0jHiLMg0e0f1d6i0nHdL0j0=i1e6g0_I[MNm1c6g0cIYMJP2c6f0fIXMHQ2b6f0hIWMHR2`6f0iIXMGR2`6e0kIXMFR2`6d0lIXMET2_6d0mIWMET2^6d0nIXMDT2^6d0oIVMDV2]6c0QJVMCV2\\6d0QJVMCV2\\6c0TJUM@W2]6d0UJSM^OY2]6d0ZK\\Og4c0YK]Og4c0ZK\\Of4d0ZK\\Of4d0ZK\\Of4d0ZK\\Of4d0YK]Og4c0YK\\Oh4d0XK\\Oi4d0VK\\Oj4d0VK\\Oj4d0UK]Ok4d0TK\\Ol4d0TK\\Ol4e0SK[On4d0RK[Oo4e0PK\\OP5e0oJ[OQ5f0nJZOS5e0mJ[OS5f0lJZOT5f0lJZOU5f0iJZOX5f0hJZOX5f0hJZOX5f0hJZOY5e0gJZOZ5f0fJZOZ5f0fJZO[5e0eJZO\\5f0dJZO\\5f0cJ[O^5d0bJ[O_5d0bJ\\O^5d0bJ\\O_5b0bJ]O_5c0aJ]O`5a0aJ_O_5`0bJ_O_5`0bJ@_5>bJB^5=cJB_5<bJD^5;cJE]5:dJE^59bJH^56dJI^55cJK]53eJL\\53eJM\\50fJO[5JlJ6U5ASK>n4YO[Kg0f4QOaKn0`4nNcKS1^4kNcKT1_4jNbKV1^4iNbKW1`4hN`KX1`4gNaKY1`4fN_KZ1b4eN_K[1b4dN^K[1c4eN\\K\\1e4dNZK[1h4dNXK[1i4fNUKZ1m4eNRK\\1n4dNRK[1P5dNfG5j1W1b6dN]G>m1n0h6cNYGc0l1j0l6dNTGg0n1e0o69nHGT7:iHFY7<aHFa7=XHFh7>RHCP8`0iGBY8a0`GAb8a0YG@i8c0oF@R9d0dFA^9Y32N2N2N2N2N2N2N2O1N3M2N2N2N2N2N2N2N2M3N2N3L3N2N2M4M3L3N3L4L4L4L4L4L4L5K5J6J6J7I6J6J6G;F>B=Cd[>",
+      "size": [
+        500,
+        333
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      48.31,
+      157.14,
+      339.24,
+      275.51
+    ],
+    "has_distractor": true,
+    "image_id": 131725,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_2055",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_2055",
+    "prompt": "bowl",
+    "target_box": [
+      216.18,
+      77.7,
+      370.42,
+      169.76
+    ],
+    "target_mask": {
+      "counts": "SRQ26Y96L5L3N2N3M2N3N3L3M3N2M3N1N3N2MZORHJl73XHNf71[H0c7O`H1_7McH4[7LgH3Y7LhH4X7JjH6V7IlH6T7ImH7S7HnH8S7FoH9Q7FPI:P7EQI;o6DSI<l6CUI=k6BWI>i6^OZIb0l710O01O010O1O001O00010O001O001O01O01O1O1O1O1O1O1O001O1O1O1O1O1O000010O000001O00001O00001O0000001O00001O0000001O00001O00001N10O100O100O10O0100O100O1O10O0100O1O100O010O1O10O01O00mNPOdIo0^6SO_Il0b6UO\\Ik0e6VOZIi0g6XOXIf0k6ZOSIf0n6[OQIc0Q7_OmH?V7BgH=[7EcH9_7G`H8b7I]H5f7KYH3i7NUH0n71QHMR83mGKU85kGHY88dGH_88^GHd8b03N1O2O1N1O2O0O2N2N1N3N5J[]4",
+      "size": [
+        308,
+        385
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      216.18,
+      77.7,
+      370.42,
+      169.76
+    ],
+    "has_distractor": true,
+    "image_id": 131725,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_2055",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_2056",
+    "prompt": "plate",
+    "target_box": [
+      48.31,
+      157.14,
+      339.24,
+      275.51
+    ],
+    "target_mask": {
+      "counts": "^d>1_9;F6J6K4M2N2N2N3L3N2O1N2N2N2N101N2N101N2O0O2N101N2N10XO]HQO05b7=`H]O1O05^7?eHZON106\\7>TIYOB7Y7a0_I@`6`0aI_O^6b0cI^O\\6b0dI^O[6c0fI]OY6c0jIZOV6f0kIZOS6g0nIXOR6i0mIWOR6j0oIVOP6j0PJVOo5k0RJUOm5j0TJVOl5j0UJVOi5j0XJVOh5b0PI\\OZ11e5b0TIZOY15b5`0gJ_OX5a0iJ_OW5b0iJ^OV5c0iJ]OW5c0iJ]OV5`0TI]Og13T5a0oJ@P5a0oJ@P5:WKFg49[KHd46_KIa46`KK_45aKK^45cKL\\44eKK[45eKK[44fKMX43iKMW42kKNT40nK0R4MQL4n3JTL6l3HWL7c6001O01O0001O0001O0001O000PMIdL6\\3JdL7[3HfL8Z3HfL8Y3IhL6X3JhL7Z60000010O001O1O000010O0001O0000001O0000010O00000000001O00000001O0001O000000000000000000000000000000000000000000000000000000000000000000001O000000000000O010000000O100000000O1000000O100000000O100000000O1000O100000O10O10O10000O10O10O10000O10O10O100000O01000000O0100000O01000O10O10O10O10O10O10O01^MHhK8X4JeK6]4JbK6^4LWILV27d40\\K0e4O[K0f40YK1g40WK0k40UIIi17R51RIJl15S51PIJm14T56lJJU55hJMY55cJM]54SIBV1:i54nHEX17j5<VJDk5<TJCm5=SJCn5>hH]OQ15X6d0^ISOA9R7d0ZIUOC7T7d0XIVOB8W7a0VIXOA8Z7`0TIYOB7Z7?TI[OB5\\7>PI@B4^7=oHNS75iHKW75iHJY76fHJ[76dHI]79`HGb7U10O2N2N101N2N1O2N2O1N2N1O2M4M2N2N2M4M3L5K5I_d=",
+      "size": [
+        308,
+        385
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      480.05,
+      75.38,
+      604.69,
+      194.44
+    ],
+    "has_distractor": true,
+    "image_id": 142177,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_2211",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_2211",
+    "prompt": "plate",
+    "target_box": [
+      33.43,
+      85.36,
+      380.23,
+      430.81
+    ],
+    "target_mask": {
+      "counts": "Ug?:V>n0[O<D<F9H9G8G9H7J6K5J6K5J5L4L4L4L4M3L4L4L4MQKWFj4R:O0mLmEW1R:gNoEZ1Q:cNRF^1m9`NYF]1f9aN]F^1e8QMjG_1Ca1_8SMmG\\1F`1Z8VMQHX1Gc1U8WMTHU1Hd1R8XMVHS1Je1m7[MYHn0Lh1h7[M\\Hm0Mh1e7]M^HHB;<a2a7_MaHDH66i2^7_McHBL20KZOR3U8`MfH@L2M9\\O[2S8lMhH]OM1M:_O[2l7XM]H3a0NK1N7EZ2b7\\MfI0XO2L5F^2V:\\MUF4Fa2U:ZMkFh2g:0001O00XKZMUMf2i2\\MWMd2g2_MXMa2f2aMZM_2d2cM[M^2b2fM]MZ2a2hM_MX2_2jM`MV2_2lMaMT2]2mMcMT2\\2kMfMU2X2]MYI3_4a2V2\\McIKY4i2R2]MeIKX4h2R2^MfIJX4i2Q2]M_Nd2_1]MbNc2\\1^MgN`2W1aMkN^2S1cMPOZ2P1fMSOX2k0jMVOU2h0lM[OQ2d0iMFU28gMOX2OiM4T2LlM6k0gI4Q6SO8e0kI8l5SO:MgI<6c0h5UO<JiI<5d0d5WO?HiI;6f0a5WO`0GlI96g0]5[O?FPJ56j0Y5\\Oa0EkJo0c4\\Ob0EkJo0b4^Ob0ClJ4kNc0f5Gb0BnJ2mNc0b5Jb0BSKMlNe0]5Nc0@^Ka0o3Oc0@^Kb0m30d0^O`Ka0l31d0^O_Kc0k3Og0^O^Kc0j30h0\\O_Ke0h3Oi0\\O`Kd0f31k0YO`Kg0d30g2OXM3h2MWM3i2MVM4k2LTM4l2LSM5n2KQM5o2KQM4P3MnL4R3LnL4R3MlL6R3JnL8o2IPM:m2HRM9n2FQM<n2DRM<n2EQM<n2DQM=o2CQM=n2EPM<o2EQM;o2FoL<Q3CoLe0i2[OVMg0j2YOUMh0j2XOUMh0m2WOSMh0n2YOQMf0P3ZOPMd0S3[OlLe0U3[OkLe0U3[OkLe0V3[OiLe0W3[OhLf0X3ZOhLf0X3ZOhLf0X3ZOhL:^KSOk7b0fL;bKROf7d0hL:dKQO_7j0lL5fKRO]7h0lL6iKRO[7g0lL7jKQO[7g0kL8kKQOZ7f0kL8mKQOX7g0jL9nKPOY7g0hL9PLoNX7h0hL8RLoNW7h0gL9RLPOV7g0gL9TLPOV7f0fL9VLPOT7g0fL8WLQOT7g0dL7YLSOR7f0eL6[LTOo6f0fL5\\LVOl6f0gL5]LVO@HQ7n0RM4]LXO[OHV7m0RM3]L^O`6`0SM2]L]OZ6i0XMJ^L\\OT6Q1^MC^L\\OQ6T1`MA_LZOS6T1^MB_LYOT6U1]MB_LWOT6Y1]MA]LWOU6Y1^MA\\LVOW6X1]MC[LTOZ6X1[MEZLQO_6X1WMHYLoNc6X1SMIZLmNg6X1nLI^LlNh6Z1jLKn34RLLn34RLLo33QLMP42PL0n30RLOP40PLOR40nK0S4OmK1PLiNM0j7U1YL2mKmNNMm7S1XL3kKROn7k0WL>k3ATL`0m3^OTL?o3AQL>P4BQL<Q4CoK<S4CmK<T4DlK<S4EmK<Q4EoK;Q4EoK;Q4EoK;P4FPL:P4EQL<n3DRL<n3DRL<m3ESL<l3DTL=k3CVL8hKiNo7P1YL6kKiNk7Q1ZL5mKiNh7R1\\L5m3KSL5m3KSL6l3JTL6m3HTL9k3GUL9l3FTL:l3FUL3fKnNW8m0TL5fKmNV8n0TL5R4JnK7Q4IoK7R4GoK:eKPOQ8f0[L9dKQOQ8f0[L:cKPOR8f0[L;bKnNT8f0[Lc0e3]O[Lb0f3^O[La0d3@\\L?d3A]L?c3A]L?b3B^L?`3AaL?_3AbL?\\3BdL>U3HlL7U3IlL5U3KkL4V3KkL5U3KkL4V3LkL2U3NlLOW31iLNS3POUHT1i4KQ38PMHi2QO`HX1g4Gj2QO\\HZ1k4Cj2`0VM@k2>VMBj2>WMAj2=WMEh2:XMGUKROV72fHT1Q5MZ28fMH[27eMI[26gMNT22lMOS20oMMR24nMKm1nNoHV1V5Lk19UNHj18WNIh15YNMc15^NL`13aNO]11dNOZ11gNOX12iNMW12jNNY1NiN2W1MiN3X1KjN4V1KkN6U1IlN6T1ImN8R1GPO8P1HPO8P1GRO9m0FUO9k0GUO:ZOfNXLo0`4:XOoNQLf0g4<VOnNTLe0h4?POlNYLd0h4c0lNhN]Ld0i4f0fNgNbLb0h4g0fNfNcLb0i4h0cNeNeLb0j4h0aNfNeLa0k4j0`NcNgLa0k4j0^NfNgL`0l4h0]NiNgL>n4g0[NlNgL<P5f0YNoNhL9Q5f0WNROgL8S5f0UNTOcL:Y5`0TNWOaL:]5=RNZO_L:a5;oM]O]L9f58lMA\\L8i57ZIPOP4m0jLNm54XIROm3R1kLHR63VISOS4m0bLNW62QIUOV4m0_LL\\66UM0\\LJa66mL6`LDd66dL`0eLZOi6;[L=jLXOm6;WL`0fLXOV77SLc0cLXO[75QLf1Q4ZNnKe1T4]NcKiNQMh2^7bNYKkNXMa2b7eNTKkNZM^2d7gNQKlNZM\\2g7cNTKROSMZ2k7bN_HlNX2j2\\5ZNZHmN^2d2Z5_NWHnN`2`2[5hNnGiNf2^2^5nN_JS1d5lNjGcN\\2a2m5jNgGhNY2]2R6jNeGhNc11kN]2P8hNaGkNc12hN\\2W8fN^GkN]1MgN81]2`8gNaGgN3070D5O\\2e8fN\\GmNLL3290Hk2f8YNWGXO1E80Jh2j8nNTG\\N51Lc2m8POQG\\N35O\\2Q9SOlF[N290X2T93kFKY9l22M4M3L3N3K5L3L5L4L4K6K4K5K6K4K6J7I6I8I7H8H8F;D?B`0[Oidi3",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      33.43,
+      85.36,
+      380.23,
+      430.81
+    ],
+    "has_distractor": true,
+    "image_id": 142177,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_2211",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_2212",
+    "prompt": "bowl",
+    "target_box": [
+      480.05,
+      75.38,
+      604.69,
+      194.44
+    ],
+    "target_mask": {
+      "counts": "YTQ7;c>g0TOl0TO:G6I7I7I7J6I7K500O1001O000000000000000000000000001O000001O00000000000000000001O000000000000000000000000001O0000000000000000000000000O2O0000000000000000000O1000001O0000000000000O1000000000001O000000000O10000000000000001O000O10006J>B>B>B>B>B>B>BUW`0",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      213.02,
+      38.8,
+      441.68,
+      187.57
+    ],
+    "has_distractor": true,
+    "image_id": 212587,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_3304",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_3304",
+    "prompt": "plate",
+    "target_box": [
+      196.12,
+      54.74,
+      639.62,
+      395.11
+    ],
+    "target_mask": {
+      "counts": "ePl26^>c0B?B9G:I6L4K5K5K5L3L4L4M3L4M3MVM^DZ2_;dMkDW2R;gMWEU2e:kM_EU2^:iMgEV2W:hMnEX2o9gMUFY2h9eM^FY2`9eMeF[2W9eMlF[2m:1O001O001O1O001O00001O00001O00001O00001O00001N10001N100O10000O101N100O100O100O2O0O1O100O1O101N1O010O1O100O1O10O01O100O1O100O1O001O100O1O1O1O010O1O1O1O1O10O01O1O1O1O001O1O1O1O1O001O1O1O10O01O1O1O1O1O001O1O1O1O001O1O1O001O001O001O1O0O2O001O1O001O001O1O0O2O001O1O001O001O0O2O1O0O2O001N2O001O0O2O1O0O2OlM^GjMb8R2dGmMZ8P2lGnMT8o1QHPNn7l1YHQNg7l1]HTNa7j1bHVN^7h1dHXN\\7f1fH[NX7d1jH\\NV7b1lH_NS7_1oHaNP7^1RIbNn6\\1TIeNk6Z1VIfNi6Y1YIhNf6V1\\IjNc6U1_IlN`6R1bInN]6R1cIoN]6P1dIQOZ6o0gIQOY6n0hISOV6l0lITOT6k0lIWOR6i0oIWOQ6h0PJXOo5h0SJXOl5f0XJXOg5f0]JZOP2jN\\Ni1G]O^5b0dJ^Ol1jNYNe1NBh1iNYNd11Cf1jNWNb15Ed1iNVNa17Fc1iNUNa18Hb1hNTN_1<Ia1gNRN`1>I`1hNQN^1`0K^1hNPN\\1e0K[1iNoM\\1i0IY1kNlM[1n0IV1lNlMZ1P1JS1mNkMY1T1IR1nNhMY1Y1Go0POhMX1[1Hl0QOgMW1_1Gk0QOeMX1b1Fi0SOcMW1g1Ee0UOcMU1j1Ec0VOaMV1n1Cb0WO^MV1R2B`0YO\\MU1V2B=YO\\MU1Y2A<ZOXMV1^2_O:[OWMV1`2@8[OVMU1c2@8[ORMV1h2^O6]OPMU1k2_O4^OnLS1o2_O4_OjLR1T3^O2BfLP1Z3^O0DcLm0_3@NE_Lk0d3@MG\\Lh0j3@JKVLg0Q4_OIKRLf0W4_OGMmKf0^4\\OE1hKc0e4]OB2dKb0l4\\OA4]Kb0S5ZO@X2b0hM_OU2c0lM\\OP2h0PNYOk1k0UNUOg1o0ZNPOa1U1_NlN\\1X1dNhNY1[1hNeNT1^1lNbNQ1a1oN_Nn0d1RO]Nj0f1WOYNf0j1ZOWNb0l1^OTN?o1ARN;Q2EoM9S2HlM5V2LkM0X20hMNZ22gMJ\\26dMG_2:`MDb2<_MBa2?_M@b2`0_M^Ob2b0^M\\Od2e0\\MYOe2g0[MXOf2h0ZMVOg2k0ZMTOf2l0ZMTOe2n0[MQOe2o0[MQOe2o0\\MPOc2Q1^MnNb2R1^MnNa2T1_MkNa2U1_MlN_2U1bMjN]2W1cMiN\\2X1eMhNY2Z1gMfNW2[1iMfNU2[1lMeNR2\\1nMeNQ2[1PNeNn1]1RNcNl1^1TNcNj1^1WNcNf1^1ZNdNc1]1^NcN`1^1`NcN^1^1cNaN\\1`1eN_NZ1b1fN]NZ1d1gN[NX1g1gNXNY1i1hNWNV1j1jNXNS1i1nNWNP1j1QOVNn0j1ROWNl0j1UOVNi0k1WOUNh0l1YOTNg0k1ZOUNi0g1WOYNl0d1UO\\Nn0`1SO_NQ1]1oNcNQ1]1PObNQ1]1POcNo0]1QOcNP1\\1QOcNo0]1RObNn0^1RObNo0]1RObNn0^1RObNo0]1ROaNo0_1RO_NP1`1PO_NQ1a1PO]NQ1c1W6O001O000000001O0000000O2O0000O0100000000O10O1000O10000000O010`IcN]O]1d0hN^I2n4W1d1@\\N`0e1_O[N`0g1@WNa0j1^OVNb0j1_OUNa0l1^OTNa0n1^OQNc0P2]OoMc0Q2]OoMc0R2]OlMc0V2\\OjMd0W2\\OhMd0X2\\OgMd0[2\\OdMd0]2[ObMf0_2ZOfKWO_N_1m5YOcKZO_N]1n5ZOaK[O_N[1R6ZO]K]O`NY1T6YO\\K_O^NY1W6XOYKA_NV1Y6YOWKC^NU1\\6XOlI^OZO7=S1_6XO[ILGJ>R1b6XOaHc0>UO>P1d6XO\\Hg0`0SO=P1h6WOWHi0b0RO<o0m6Q1fHQN:P1Q7o0cHXN4k0Z7m0`HcNJa0h7k0]HQO]O6W8i0ZHm0h7SOVHn0k7ROSHo0n7QOPHo0R8QOlGP1U8oNkGP1W8POgGP1[8POcGQ1^8oN`GQ1c8nN[GS1f8b22N3N1N2N2O2M2N2O2M2O1N3M2O1N3M2N3M3M3M3M2N3M3M3M3M2N3M3M3M3L4L4L4L5L3L5K4L5L3_MlJ",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      196.12,
+      54.74,
+      639.62,
+      395.11
+    ],
+    "has_distractor": true,
+    "image_id": 212587,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_3304",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_3305",
+    "prompt": "bowl",
+    "target_box": [
+      213.02,
+      38.8,
+      441.68,
+      187.57
+    ],
+    "target_mask": {
+      "counts": "[nS3?]>:F7K4K6K4L4M3L3N3L3N3M2M4MZN^C8LNd<IcC5N1]<KfC2O3Y<KjC0O5U<LmCHEI:d0R<KPDF6?h;MQDD7`0f;LUDB5d0d;KWD@8d0_;MXE0g:^OlC=`14b:_OQD;^16_:@TD1NNb1`0Z:BVDOh1?Q:DWDKj1a0n9DYDIk1c0j9F\\F;b9F`F8_9IcF6\\9JeF6Y9LhF3V9MlF2T9MnF3P9MRG2m8NTG3k8MVG2i8NXG3g8L[G3d8M]G4b8L_G3`8MbG3]8LdG4[8MfGMSMLV;6iGKTMNR;8jGJUMNP;7mGIUMOm:9nGGUM2l:6QHGSM3l:6ZHJe76\\HKc75]HKb75_HL`74`HL_73cHM]72cH0\\7OeH1Z7NhH2X7NgH4X7KiH5V7JkH7U7GlH;S7DnH<Q7DPI<P7DPI<P7CQI>n6BSI=l6CUI=k6CTI>l6BTI>k6CUI>j6BVI>j6AWI?h6BYI=g6DXI<h6DXI=g6CYI=f6DZI<f6D[I;e6E[I;e6E[I;d6E]I;c6E]I<b6D_I;a6E_I;a6D`I<`6D`I<_6EaI;_6EbI:^6EcI<\\6DdI<\\6DdI<\\6DdI<\\6DeI;[6EeI;Z6EgI;Y6EgI;Y6EgI;Y6EgI;Y6EgI;Y6EgI;Y6EgI;Y6EhI:X6EiI;W6EiI;W6EiI;W6EiI;W6EiI<V6DjI<V6DjI<V6DjI<V6DjI<V6DjI<V6DjI<V6DjI<V6DjI<V6EiI:X6FhI:X6FhI:X6FhI:X6FgI;Y6EgI;Y6FfI:Z6FfI:Z6FfI:[6EeI;[6DfI<Z6CgI=Y6CgI<^:100000000000O10O10000O10O1000O1000OSLGTI:l6HRI8n6IQI7P7HoH8R7ImH7S7ImH7S7JkH7V7HjH7W7JhH6X7KfH6Z7KeH4]7LbH4^7LaH5_7L`H4a7K_H4b7M\\H4d7L\\H4d7L\\H4e7KZH5g7KYH5h7JXH6h7JWH6j7IWH7j7HVH7k7HUH9l7FTH:l7GRH9P8GoG9Q8IlG7U8JjG6W8IhG7Y8IgG7Z8HeG8\\8HdG8]8GbG:^8FbG9`8F_G:b8F^G:c8F[G:f8FZG:g8EXG;i8EVG;l8DTG<m8CRG=o8CPG=R9ClF>T9BkF>W9BgF>[9BcF>^9BaF?`9A^F?d9@\\F?e9BYF>i9AVF`0k9_OTFa0n9_OPFa0W<000L4O1N2O1N2O1N1K60O101N101N2O0OO1G94K5L8F>Bdfl2",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      56.11,
+      108.39,
+      342.5,
+      320.14
+    ],
+    "has_distractor": true,
+    "image_id": 286717,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_4397",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_4397",
+    "prompt": "plate",
+    "target_box": [
+      0.0,
+      275.36,
+      427.0,
+      570.37
+    ],
+    "target_mask": {
+      "counts": "h9a5`>S1mNO1000O[LgBd0Y=mNfBkM2MLT3\\=SOiBiMN1NR3\\=oNcBjM53O1MU3\\=lN]CiMWO[3]=kN^CW1b<fNaCZ1^<eNcC[1^<dNfCY1Y<gNhCX1Y<gNgCZ1X<gNgCY1Z<bNjC_1U<aNkC_1V<YNRDg1m;YNSDg1m;YNTDg1k;YNUDg1l;XNTDi1k;VNVDj1j;UNXDk1g;TNZDl1g;SNYDn1f;RNZDo1e;QN[Do1e;PN\\DQ2c;oM]DQ2c;oM]DR2b;nM^DR2b;nM_DQ2b;nM^DS2a;jMhBiNf1\\3b;iMjBkNe1\\3a;fMlBmNd1]3`;eMjD[2U;`MjBSOQ2]3U;_MQEa2P;]MQEd2n:XMWEg2i:ZMWEf2h:ZMXEf2h:ZMYEe2g:[MZEe2e:]MYEc2g:]MZEb2f:^MZEc2e:]M\\Eb2c:`M]E_2c:aM^E_2a:_MaEa2_:\\MeEc2[:[MhEd2X:ZMjEg2U:UMoEk2Q:VMnEj2R:VMoEj2o9WMZC^O\\2[3Z:YMTC^Od2Y3X:^MjEc2U:[MlEf2T:VMPFj2P:SMSFm2m9PMVFQ3h9mL[FS3e9jL^FV3b9hLaFX3]9hLdFX3\\9fLgFY3X9gLjFX3V9gLkFZ3S9fLoFY3Q9fLQGY3n8gLTGY3k8gLUGY3k8fLWGY3i8gLWGZ3h<O1O00100O1O10O01O00010O001O100O1O1O001O010O001O1O1O00100O1O001O1O010O001O000001O0001O000001O01O0000000000000000010O000000000000000000000000001O000000000001O0001O000000O10000001O00000000000000O1000000001O00000000000000000O10O100O10000000000001O00000O101O0000O10000000000000000000O010000O100O10O0100O1O100O1O001O1O1O100O01000001O1O1N10000000000O100000O100O001O1O1O1O1O00100001O002M2O1O00001O0O2O001O0O2O001O1N101O001N101O00000O2O00000O10001O0O1000000O10000O10000O1000000O10000O10000O10001N10000O1000000O10000O010O100O10000O100O100O10000O100O100O10000O010O100O10000O010O100O10O0100O010O10O0100O10O0010O01O010O010O0oLaNcC_1X<gNgCX1V<lNjCT1P<SOoCl0k;[OUDe0i;^OVDa0];`NRBT1_2<\\;fNmAT1g26Y;6eDJZ;9eDF[;=bDD];>aDB_;?^DCb;?\\DBd;>[DBe;`0YD@h;a0VD@i;b0TD_Ol;c0RD]Om;e0RD\\Om;f0PD[OP<g0nCYOn;m0PDTOn;o0PDQOP<R1lCoNS<T1kCmNS<U1kClNT<W1jCiNU<Y1iCiNU<Y1hCiNW<Y1gChNY<Y1dCjNZ<Y1aCjN_<W1_CjNa<W1\\ClNb<V1fBmL4Q2V=U4N200O2\\G",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      0.0,
+      275.36,
+      427.0,
+      570.37
+    ],
+    "has_distractor": true,
+    "image_id": 286717,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_4397",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_4398",
+    "prompt": "bowl",
+    "target_box": [
+      56.11,
+      108.39,
+      342.5,
+      320.14
+    ],
+    "target_mask": {
+      "counts": "PVS13gc0:E;E:L5J5L5K5K4K5L3M3M2N3L4M2N3M3L3O2M3M2N3M3M2O2M2N2N2N2N2O1N3M2N2N2O1N2N2O2M2N2O1N2O1N2N2O1N2N2O1N2O001N2O1O1N2O1O1N2O1O001N2O1O1N2O1O0O2O1O1N2O1O0O2O1O1O0O1000000O10001O000O10001O000O2O001O0O2O1O2N2N2M2O00000O10001N10000O10000O1000001N10000O10000O10000000000000000000000000O1000000000000000000000000000000O100000001O00000000000O10000000000000000O2O000O1000000O10000O1000000O10001N100O101N10000O2O0O10000O2O0O10001N10000O2O000O101O0O10001N1O2N1O2N1O2N101N1O2N1O2N1O2N1O2N1O2N1O2N1O2N2N1O2N2N1N3N2N1N3N2N2M2O2N2M2O2N2M3N1O2M4M2N2M3N3L3N2N2L4M4K4M4K5L3L5L4L4L4K5L6G9E;F:E[Zd1",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      315.52,
+      61.94,
+      634.17,
+      233.84
+    ],
+    "has_distractor": true,
+    "image_id": 288224,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_4424",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_4424",
+    "prompt": "plate",
+    "target_box": [
+      183.03,
+      232.48,
+      546.75,
+      452.45
+    ],
+    "target_mask": {
+      "counts": "iRf2;]>`0C<E7J6J6K4L4K5M2M4M3L4L3N3L3N3M2N3M2M4M2N2N2N2O1N2N2N2N2N2N2O1N2N2N2N2N2O1N2N2O1N2N2O1N1O2O1N2N101N2O0O2O1N2O0O2O1N2O0O2OYKjFe3T9VL[Gb3d8XLhGb3X8ZLPHc3n7^LUH`3j7`LZH\\3f7cL^H[3`7fLdHV3\\7jLgHT3X7kLnHP3Q7QMUIj2j6VM\\Id2c6\\MbIa2c6YM`Id2a9N1N2O1N2O1N2O1N101N2O0O100O1O100O100O010O100O010O100O10O010O0010O0001O010O001O0010O01O00000010O0001O0000001O01O01O0000001N10001O000O101O00001N1000001O0O101O00000O2O00000O100000001N100000000O1000001O0O100000000O101O000000000O10000000000000000000000O1000000000000O10000000000O100000000O10000O1000000O0100000O100000O10O10000000000O01000000000O1000O100000O1000O1000O1000O1000O100000O01000O10O10OfMUMaHk2^7VMbHj2]7WMbHi2_7XM`Hh2_7[M^Hf2b7fMRHY2o7hMoGY2P8iMoGV2R8kMlGV2Q8oMmGQ2o7TNlFPOe0l2\\8gNcGY1Z8kNdGU1Z8oNdGR1X8SOdGP1\\8QO\\GU1d8mNTGZ1m8[22O0O2O1O0O2O0O2O1N101O1N101N2O0O2O1O0O2O1N1O2O1N1O2O1N2O1N2N2O0O2N2O1N2O1N2N2O1N2N2O0O2O1N2N3M2M3N2N3M2N2M3N3M2N2N3L3N2N4L3L4K5L4L5J5L4L4K7J6H8G;F>AWX[1",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      183.03,
+      232.48,
+      546.75,
+      452.45
+    ],
+    "has_distractor": true,
+    "image_id": 288224,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_4424",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_4425",
+    "prompt": "bowl",
+    "target_box": [
+      315.52,
+      61.94,
+      634.17,
+      233.84
+    ],
+    "target_mask": {
+      "counts": "mVd4;c>4L4L4M3M2N2N3M2N2N2O2M2N2O2M4M3L4M4K4M2N3L4M3M2M3N2N2M4M2M3N2N1N2O1O1N2O2N1N2O1O1N2O1O2N1N2O1O1O1N101O00000O100000000O100000O1000000000000000000000000000O100000O100000000000000000000000000000000O10000000000000000001O1O010O001O1O1O2N1O1O2N1O1O2N1O1O2O0O1O2N1O2N1O1O2N1O101N1O1O2N1O1O2N100O1O000000000001O0000000000001O000000001O01O00000001O000000001O00000000001O0000001O000O10001O000000001O000000001O00001O000O101O000O2O0000001N10001O000O101N100O2O0O10001N100O2O0O101N1O101N100O2O0O2N100O2O0O101N101N1O101N1O1O2N101N1O1O2N1O2N1O2N1O2N1O2N1O2N2N1O2N1O2N1N3N1O2N2N1O2N1O2N1O2N2N1N3O1N2O0O2O1N101N2O1N101N2O1N2N2N2O1N2N2O1N2N3N2M2M4L5K6Gee2",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      343.64,
+      0.0,
+      500.0,
+      80.24
+    ],
+    "has_distractor": true,
+    "image_id": 360031,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=platter, distractor=bowl",
+    "pair_id": "fg_5584",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_5584",
+    "prompt": "platter",
+    "target_box": [
+      339.64,
+      37.56,
+      500.0,
+      105.91
+    ],
+    "target_mask": {
+      "counts": "`ml32e;1N101N101O0O101O001N2O1O0O3N2N1O002N1N3N2N2N1O2N2M2O1O1O1O10O100O1O001O1O100O1O001O100O0101N100O10O001N2O001O001O001VO`E;o:O00001O0000010O01O001O001O1O1O1O1O1O2N2N01O000001O0000001O000001O0001O000000000000010O000000000000001O0000000001O00000001O00000000000000000000001O0000000001O000000000000000000000DXEIh:7<O100O1O1O100O1OaM",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      339.64,
+      37.56,
+      500.0,
+      105.91
+    ],
+    "has_distractor": true,
+    "image_id": 360031,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=platter",
+    "pair_id": "fg_5584",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_5585",
+    "prompt": "bowl",
+    "target_box": [
+      343.64,
+      0.0,
+      500.0,
+      80.24
+    ],
+    "target_mask": {
+      "counts": "Xom32e;2N2N2N2N2N2N1O2N1O1O2N1O2N1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O001O1O1O001O1O1O001O1O1O001O1O001O1O001O1O001O1O001XFXN_9Q2O1O001O001O001O001O00001O001O000000001O000000000000001O00000000000000001O0000000000000000000000000000001O0000000000000000000000000000000000001O000000000000000000000000000000001O0000000000000000000000",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      0.0,
+      452.69,
+      398.27,
+      613.71
+    ],
+    "has_distractor": true,
+    "image_id": 479629,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_7353",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_7353",
+    "prompt": "bowl",
+    "target_box": [
+      0.0,
+      297.98,
+      398.04,
+      548.32
+    ],
+    "target_mask": {
+      "counts": "j:b3]`04L4K5L4LXNV@nM0T1h?l0\\@PNLT1g?j0`@QNIV1e?g0f@mMK\\1]?g0i@mMJ]1\\?f0UAZOi>g0WAZOg>g0ZAYOd>h0]AXOb>h0_AXO_>i0XAjMC^1T?h0WAnMDY1T?j0YAnMBX1T?k0YAnMBX1S?k0[AmMBY1R?j0]AmM@Z1Q?k0`AjM^O\\1Q?j0bA_O\\>c0cAkM_OV1m>o0eAiM_OY1k>n0gAgM_O\\1g>_NVA^2c0gM@]1e>aNXAY2d0gM@_1d>bNXAW2d0gMAa1a>cNZAU2c0gMAb1b>dNZAQ2c0fMDf1]>eN\\Ao1k0\\Oi=fN\\An1j0]Oh=hN^Ai1j0[NXO=`>@^Ag1j0[N\\O<Z>m1]BcMZO?Y>G`Aa1P1UNYOc0U>IbA^1S1RNXOf0S>8lA7^1Ae<McA\\O`0S1Z1Cb<3ZB3Z1I[<3^B1Z1JW<5bBNY1MT<4fBMX1MR<5iBLW1Nn;6mBKV1Nm;6PCJU1Oj;7SCGV10f;9WC@eNH_2?d;8[C\\O[1:Z;:]CYO[1<W;;_FF`9:aFE_9:bFG\\99fFFZ99gFHW99jFFV99lFGS98nFHQ99PGFP99QGHn88SGGl89UGHj87XGHh88XGHg88[GHd88\\GHd88]GHa89`GF`8;_GEa8;_GF_8<aGC_8>`GC_8=aGC_8=bGB]8`0bGA]8?cGA]8=fGCY89kGGT89mGHR86QHIo76RHJn75SHLl73VHLi74XHMg72ZHNf72[HNd71]HOb71`HO_70bH0^70bH1]7NeH1Z70fH1Y7NhH2X7NiH2V7MkH3U7MkH4T7LmH3R7NnH3Q7MoH3Q7MPI3o6LRI4n6LRI5l6LTI4l6KVI5i6KWI5i6JXI7g6HZI8f6G\\I9b6H^I8b6H^I9a6G_I9a6G_I:`6FaI9_6FbI;]6EcI;]6EcI<\\6DdI<[6DgI<X6DhI<X6DhI=W6DhI<X6DiI;W6FhI:X6GgI:X6GgI9Y6GgI9Y6HgI7X6KgI6X6JhI6X6KgI5Y6KgI5Y6JiI6V6IkI7U6IkI7U6HlI8T6HlI8T6GmI:Q6GPJ8P6GQJ9o5GQJ9o5FRJ;m5ESJ;m5ESJ;m5ETJ:l5FTJ;k5DVJ<j5DVJ<j5DVJ<j5DVJ=i5CXJ<h5DXJ<h5DXJ<h5DXJ=g5CYJ=g5BZJ>f5BZJ>f5B[J>d5B\\J>d5B\\J>d5B\\J>d5A]J`0b5@^J`0b5@^J`0b5@^J`0b5@^Ja0a5_O_Ja0a5_O_Ja0a5DZJ<f5DZJ<f5DZJ<f5DZJ<f5DZJ<f5DZJ<f5DZJ<f5C[J=e5B\\J>d5A]J?c5A]J?c5@^J`0b5_O_Ja0a5^O`Jb0`5]OaJc0_5]OaJc0_5\\ObJd0^5\\ObJd0^5\\ObJd0^5^O`Jb0`5@^J`0b5A]J?c5B\\J>d5B\\J>d5C[J=e5C[J=e5DZJ<f5C[J=e5C[J=e5C[J=f5BZJ>f5BZJ>f5BZJ>f5BZJ>f5BZJ>f5BZJ>f5BZJ>f5CYJ<h5FlCCS6g0Q6MoI3R6MmI3S6MmI3S6NkI3U6NjI2V6NjI2V6OiI1W6OiI1W6NjI2V6NjI1X6NhI2X6NhI2X6OgI1Y60fI0Z60fI0Z62dIN\\63cIM^65_IKa65_IKa65_IKa65_IKa65_IKa64`IKa65_IKb64]IMc6FiCFd5d0c6BnI>R6_OQJa0o5@PJ`0Q6@nI`0R6@nI`0R6AmI?S6BlI>T6CkI=V6BjI>V6CiI=W6DhI;Y6FfI:[6FdI:\\6FcI;]6FbI:^6FbI:^6GaI8a6H^I8b6H]I8d6I[I7e6I[I7f6IYI6h6JXI6h6JWI6j6KUI5l6JTI5m6KSI5m6KSI5n6JQI6P7JPI6P7JPI5Q7LnH4S7KmH4T7LlH4T7LkH5U7KkH4W7LhH4X7LhH3Y7NeH3[7MeH2]7NbH2^7O`H2`70^HOc75YHKh78SHHn78RHHn79QHGP89oGFR8;lGFT8;kGEU8<jGCX8<gGEY8=eGB\\8?cGA^8d0\\G[Oe8f0SCnN_3=^9g0nBQOb37b9j0gBROf34c9_1\\FaNe9`1ZF_Nh9`1XF`Nh9`1WF`Nk9_1UFaNk9_1UF`Nl9a1RF`No9_1QF`NP:a1nE`NS:_1mE`NT:`1lE`NU:`1iEaNW:_1iE`NX:a1fE`N[:_1eEaN[:`1dE_N^:a1`E`N`:`1`E_Nb:a1\\E`Nd:`1[EaNe:`1ZE_Nh:a1VE`Nj:b1SE_Nn:b1PE]NQ;e1lD\\NU;f1hDZNX;h1eDXN];g1bDZN^;g1aDXNa;g1^DZNb;g1]DXNe;g1ZDZNf;g1YDXNi;g1VDZNj;g1UDXNm;g1RDZNn;g1QDXNQ<f1oC[NR<c1oC\\NR<c1nC^NS<`1nC_NS<`1`AnMV2c0[<]1_AQNV2b0\\<T1ZA]N3OV2`0^<U1ZAYN23V2?_<T1`A]NP2?a<T1^A]NQ2?c<T1[A]NR2?d<S1YA_NR2>f<T1VA_N_1KnNb0_>T1SA_N_1MnN?a>`1_BSNoN>c>^1\\BVNPO<f>]1cAWNC536h>^1aAPOECl>[1_ASODCm>Z1^ASODDP?X1RA^OMZOR?X1n@ANXOV?X1h@A2XOW?k2h@UMY?k2f@UM\\?j2c@VM_?h2`@YMb?d2`@\\Ma?a2`@_Mb?^2_@bMb?]2^@cMd?Z2]@gMd?V2]@jMe?S2]@lMe?Q2\\@oMf?n1X@VNi?k1R@WNP`0k22N2N2N2N2O1N2N2N2N2N2N2N2N2N3L3M3N2M4L4M3L5K4L4M3L4L5L5J6J6J8F<Djfa0",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      0.0,
+      297.98,
+      398.04,
+      548.32
+    ],
+    "has_distractor": true,
+    "image_id": 479629,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_7353",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_7354",
+    "prompt": "plate",
+    "target_box": [
+      0.0,
+      452.69,
+      398.27,
+      613.71
+    ],
+    "target_mask": {
+      "counts": "j>[2fa0O100O10000O01000O100O10O10O100O10O10O100O10O10O100O0100O010O01000O010O010O010O010O0100O01O010O010O010O010O0010O010O010O010O01O010O01O010O01O010O010O00010O01O010O10O01O010O1O010O1O010O1O10O01O100O010O1O010O1O010O0010O01O10O01O01O00000010O00000001O01O0001O000001O01O00000010O00000001O01O0001O0000000010O000001O0000000001O000000000000001O000001O00000001O00000000000000000000000001O00000000000000O10000000000000000000000O10O10000O1000000O1000O010000O1000000O10000O01000O1000000O10000O10O10O1000O10O10000O01000O1000O10O10000O01000O10O10O100000O0100O100O010O100O010O100O10O0100O100O010O1000O0100O1000O00100O001O010O1O0010O01O00100O0010O010O10O10O010O10O0100O0100O0100O010O01O001O00010O001O000010O01O001O01O01O00000010O001O001O001O001OO2N100O100O1O1000000000O10000O010O10000O10000OO2O0O4M6J6J6J4L5K4J[ea0",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      128.69,
+      189.84,
+      601.27,
+      425.86
+    ],
+    "has_distractor": true,
+    "image_id": 483453,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_7413",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_7413",
+    "prompt": "plate",
+    "target_box": [
+      48.78,
+      218.89,
+      131.49,
+      281.51
+    ],
+    "target_mask": {
+      "counts": "_ed09o<5L4M2N2N2N2N2N2N2O0O2N1O2O1N1O2N2O0O1O2O0O2O0O2O00kNXDh0f;UO_Dj0a;TOfDg0Y;YOhDh0W;WOkDh0T;SO`D0=l0Z;SOfDm0m;01N2N012M0000010O1O1O011N001O0000011N001O0000O1O101O00000003M1O1O0010O0001O00001O0000001O000001OFmoc6",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      48.78,
+      218.89,
+      131.49,
+      281.51
+    ],
+    "has_distractor": true,
+    "image_id": 483453,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_7413",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_7414",
+    "prompt": "bowl",
+    "target_box": [
+      128.69,
+      189.84,
+      601.27,
+      425.86
+    ],
+    "target_mask": {
+      "counts": "oQf16Q=8I7I7I7I6I6M4K4M3M3M3L4M4L3M3M3L4M3M3M3L3N3M2N3M3N1N3M2N3N2M2N3N1N3M2N2O2M2N3N1N3N1N3N1N3N1N2N3N1N3N1N3N1N3N1N3N1N2O2N1N3N1N2O1O0O2O1N2O1O1N101N2O1O1N2O001N2O1O1O1N101O1N2O1O1O0O2O1O1N2O001O1N2O1O1O0O1000000O1000000O1000000O10000000000O1000000000000O1000000000000O100000000000000O1000O100000000000O10000000000000000000000O1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001O00000000000000000000000000001O000000000000000000000000001O000000000000000000001O00000000001O00000000001O00000000001O00000O10001O00000000001O000000001O00000000001O000000001O0000001O0000001O0000001O0000001O00001O0000001O0000001O0000001O0000001O00001O0000001O0000001O0000001O0000001O00001O00001O001O00001O001O00001O001O00001O001N1O1O2N1O2N1O1O2N1O2N1O1O2N1O2N1O2N1O2N1O2N1O2N2N1O2N1O2N1O2M3N1N3N1N3N1N3N2M2O2M2O2M2O2M2O2M3N2M2O2M3N2M2O2M3N2N1N3N2N2N1O2N2N1O2N3L3M3M4L3M3M3M4L3L4M4L3L4L7I:F;DWo?",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      36.78,
+      7.06,
+      352.67999999999995,
+      246.77
+    ],
+    "has_distractor": true,
+    "image_id": 486638,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_7471",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_7471",
+    "prompt": "plate",
+    "target_box": [
+      204.65,
+      200.36,
+      631.0600000000001,
+      509.8
+    ],
+    "target_mask": {
+      "counts": "RWW3e0T?=C=H8I7J5J7I6J6K4L4L4L4L4L4L4L4M3M3L4M2M4M2M4M2M4M2M4M3M2M4M2N2N2N2N3M2N2N2N2NYLlEd1Q:XNYFd1e9XNVGS1h8mN\\GQ1b8XNSFYOi1\\2R8YNbHe1\\7[NhHc1V7^NnH_1Q7`NSI^1k6bNYI\\1e6dN_IZ1_6fNdIY1Z6fNkIX1T6gNPJW1n5hNVJW1h5hN\\JW1b5fNcJZ1\\5dNgJ\\1W5dNkJ\\1S5dNPK[1o4cNTK\\1k4dNWK\\1h4cN[K\\1c4dN_K\\1_4cNdK]1[4bNgK^1W4bNlK\\1T4cNnK]1P4cNRL]1l3cNVL]1i3bNYL^1e3bN]L]1c3bN_L^1_3bNcL^1\\3aNfL^1Y3bNiL^1U3bNmL^1R3`NQM_1n2aNTM_1k2`NWM`1g2`N[M_1e2`N]M`1a2`NaM`1^2^NeMa1Z2`NgM`1X2_NjM`1U2`NmM`1R2`NoM`1o1`NSN_1m1aNTN_1j1aNXN^1h1aNYN`1e1aN\\N^1d1aN^N_1`1bNaN^1^1aNdN^1[1bNgN^1X1bNhN^1X1aNjN_1T1aNnN^1R1bNoN^1o0bNSO]1m0cNTO]1k0bNVO^1i0cNXO]1g0bN[O]1d0dN\\O]1c0bN_O]1`0dN@]1?cNB\\1>dNC\\1;dNF\\1:dNG\\18dNI[16fNJ[15dNM[13eNM\\12dNO[10fN1Y1OgN1Z1NeN4Z1KfN6[1IdN9[1X70]HeN=[1V70O01O01O01O01O01O010O01O01O01O01O010O00010O00010O0010O0001O01O01O0010O000010O000001O0001O01O00000010O000001O00001O01O0001O000000001O01O00000000000001O01O000000000001O000000000000001O00000000000000001O00000000000000O2O000000000000000000O1000000000000000000000O10O100000000O10000O10000O10000O10O1000O1000O010000O0100000O10O1000O10O10O10000O010O100O10O10O100O010O10O01000O0100O010O10O10O010O10O010O0100O001^IXNiNh1Y1XNeNi1[1XNcNi1^1WN`Ni1a1YN\\Nh1e1XNYNh1h1ZNUNg1l1YNSNf1n1\\NoMe1R2[NlMf1T2\\NiMd1Y2\\NeMe1\\2\\NaMd1`2]N^Md1c2[N[Mf1f2[NWMg1j2YNTMh1m2XNQMh1Q3XNnLh1R3YNlLg1V3XNjLh1W3XNgLi1Z3WNeLh1\\3YNbLh1_3XN_Lh1c3XN[Li1f3WNYLh1h3XNWLh1k3XNSLi1n3WNQLh1Q4XNmKh1T4ZNiKg1X4YNgKf1[4YNdKg1^4XNbKh1_4WN`Ki1a4XN]Kh1e4YNWKi1j4XNRKi1P5WNlJk1V5UNgJm1Z5SNcJn1_5SN]Jn1e5RNXJP2h5QNUJP2m5QNPJo1R6TNhIn1Y6XN^Ii1d6[NVIe1l6[NQIg1P7YNnHg1T7YNjHf1Y7ZNbFROd1d2l7ZN_FUOa1a2R8ZN[FYO^1^2Y8YNWF]OY1]2b8lNRF]Nk0m2U9POeFR1]9PO\\FS1f9POSFR1o9QOkEP1W:\\22N2N3M2N3M2N3M2N2N3M2M4M2M4M2M3N3L3N3L4M3L4M3L4M3L3L5L4K5L4K5K7J6I7I7J6F:@SV4",
+      "size": [
+        514,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      204.65,
+      200.36,
+      631.0600000000001,
+      509.8
+    ],
+    "has_distractor": true,
+    "image_id": 486638,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_7471",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_7472",
+    "prompt": "bowl",
+    "target_box": [
+      36.78,
+      7.06,
+      352.67999999999995,
+      246.77
+    ],
+    "target_mask": {
+      "counts": "gdb0c0\\?7J6J6J4M2N2N2M3N2N2N2M3N1O2N2O1N1O2O1N2N5L5J4L3N1N3M3N2M2O2M3M2O2M2O1N3N1N2O2M2O1N3M2O1N3N1O1N2O1N3N1O1N2O1N2O2M2O1O1N2O1N2O1O1N2O1N101N2O1O1N2O0O2O1O1N101O1N101O1O0O2O1O0O2O1O0O2O1O001N2O001N2O001O0O2O002M2O2N1O2M2O2N1N3N1O1O001N101O001O1O001N10001O00001O000O2O00001O00001O0O101O00001O00000O1000001O0000000000001O000O100000001O0000000000000O100000000000000000000000O1O100O2O0O1O100O10000O1000000O1000000O10000O2O0O10000O100O100O10000O100O10000O100O10001N100O10000O1O1O100O1O1O101N1O1O2M2O1O1O2M2I7M3M4M2N2N2O2M2N2O101N1O100O2N100O1O2O0O1O2M2N2O2M2N3N2M2N3N2M2N3M3M2N3N2M2N3M2N3M3M3M2N3M3M2N3L4M3M2N3M3M3L4L4L5J5L4J6K5L4M3L4N4Lh0XObo_4",
+      "size": [
+        514,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      52.21,
+      340.4,
+      270.28,
+      567.67
+    ],
+    "has_distractor": true,
+    "image_id": 490871,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_7526",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_7526",
+    "prompt": "plate",
+    "target_box": [
+      50.18,
+      217.18,
+      306.88,
+      536.69
+    ],
+    "target_mask": {
+      "counts": "`Xn0n0ga0e0A?B:H3O00002O0O1O2N2O1O0O2O1O2N1O1N3O001O1O0O2O1O001O1O010O100O010O1O100O100O11O00000001O000000001O00001O0001O01O00001O010O00001O010O001O0010O010O0100O010O010O10O0100O010O100O01000O010O100O100O010O10000O1000O10O100000000O10000000O100001N1000000000000000000O1000001O0000000000001O0000001O0000001O00010O00001O010O000010O01O001O01O01O10O01O010O1O010O00100O1O010O1O10OaFiKQ4X4mKhKU4X4iKiKW4X4gKhK[4X4cKiK]4X4`KiKb4W4\\KiKe4X4YKiKh4W4VKiKk4X4RKjKo4V4oJjKR5W4lJiKV5W4gJkKY5V4eJjK]5W4_JkKa5V4]JjKe5V4XJkKj5U4TJkKm5V4PJkKR6R4oInKS6Q4kIPLW6n3iIRLY6m3fISL[6l3dIUL^6j3aIVLa6h3]I[Ld6d3ZI]Lh6b3RFlK_2c0`7`3QFPLZ2b0g7]3nEULV2?n7Z3mEYLQ2>T8W3kE_Lk1<[8U3iEcLf19e8Q3fEjL]18o8m2cEoLX16W9i2bEUMo05a9d2`E_Md0Oo9a2]EnMLJi:V2[ENg:1YEMk:0UE0m:ORE1P;MQE2Q;MnD2U;LlD3W;KhD4[;KeD3_;JaD5b;J]D6f;HZD6i;HWD7m;GSD7Q<GnC9T<EmC9W<FgC9]<FbC7c<H[C7i<IUC4o<LoB3V=KiB2]=LaB3d=MWB3n=]26I7J7H9H7H9H9F9G:D>Ba0YO\\ne5",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      50.18,
+      217.18,
+      306.88,
+      536.69
+    ],
+    "has_distractor": true,
+    "image_id": 490871,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_7526",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_7527",
+    "prompt": "bowl",
+    "target_box": [
+      52.21,
+      340.4,
+      270.28,
+      567.67
+    ],
+    "target_mask": {
+      "counts": "a`o0o0ma0;F;F9J7I6J7J4K5L4L4L4L4M3L4L4L4M2M4L4M2M3N2M3N2N2N3M2N2N2N2N2N2N2N2N1O2N2N2N1N3N2N2O0O2N2N2N1O2N2N2N1O2O0O101N101N1O101N100O2O0O2N100O2O000O2O001N10001N10001N10001O0O10000O10000O101O0O100000000000000O2O000000O10000000O10000001O00000000000O1000000O100000000O10001O0O1000001N10000O2O0O100O2O0O100O2O0O101N101N100O2O0O101N1O2O0O101N1O2O1N101N2N101N2N2N1O2N2N1O2N2N2N2N2N2N2N2N2N2N2N2M3N2N2M4M3M2M4M2M4L4M2M4L3M4L3M4L4L5J6K5K5K5I7I9F<E;DYo[6",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      54.97,
+      104.45,
+      603.32,
+      351.04
+    ],
+    "has_distractor": true,
+    "image_id": 572441,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=saucer",
+    "pair_id": "fg_8769",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_8769",
+    "prompt": "plate",
+    "target_box": [
+      58.6,
+      105.31,
+      602.65,
+      350.09000000000003
+    ],
+    "target_mask": {
+      "counts": "kkh02Y=0O2O1N2O1N1101O2NO010O1TLJaJ7^5IbJ7]5KbJ6\\5KdJ6[5KcJ7[5KdJ5[5LfJ4Y5MfJ4X5MhJ4V5JmJ6S5JnJ6P5GWGNi3<o4DWK<h4EXK<f4E[K;d4D]K<b4E^K<a4H[K8d4J\\K6c4K\\K6b4K^K5b4L]K5a4L`K3`4M`K4^4MbK3^4MbK4\\4LeK5Z4HhK9W4GjK:U4GjK9V4GjK:T4HkK9T4GlK9S4NfK4Y4LgK4X4MhK4W4KjK5U4LlK4S4KnK5R4KnK5Q4LoK5P4KQL4o3NoK3o3NQL2o3NRL1n3NSL3k3NUL2k3MVL4i3LXL3g3H\\H_On3j0e3CdH@g3m0e3_OhLa0W3\\OnLd0Q3XOSMh0m2UOVMl0h2RO[Mn0b7O01QKRO_Mn0a2RO_Mo0_2ROaMn0_2SO`Mn0^2SObMm0^2SOcMl0]2TOcMm0[2TOeMl0[2UOdMk0\\2UOdMl0Z2UOfMk0Z2UOgMj0Y2VOgMk0W2WOiMh0W2XOiMh0W2XOjMg0U2ZOkMg0T2YOmMf0S2ZOnMe0Q2\\OQNc0n1]OTNa0l1_OUN`0j1AWN?h1AYN>g1AZN?e1B[N>e1B[N?d1@^N?a1B_NEgJg0j6DaN=^1_OgN`0Y1AfN?Y1BhN>W1BiN>W1BiN>W1ChN=X1ChN>V1CjN=V1CjN=V1DhN>W1BiN>W1CgN>X1EdN>[1DcN<]1FbN9^1HaN8_1HbN8\\1IdN7\\1IeN6[1JfN5Z1KfN6Y1JhN5X1KhN5W1LiN4W1LjN4U1LkN4U1LkN4U1LlN3S1NmN3R1MnN3R1NmN2S1NnN1R1OmN3Q1NnN3R1MmN4S1LoN2Q1NROOn01RO0m00SO0l02SONm02SONm02SOOl01TOOl01TOOl01TOOl01TO0k00RO3m0NRO3n0NQO2o0NQO3n0MRO3n0NQO2o0NQO2o0NRO1n0OSO1k00VOOj01VOOj02VOMj03WOMh03XOMh03XOMh03XOMh04XOKg06YOJg06YOJg06XOLg04XOMh04WOLi04VOMj04TOMl03SONl02UONk0L[O4e0H_O9`0CE<;\\OMd03YO0g00XO0i00UO1l0V61O2O00000001O0001O0000000000001O000000000000000000001O00000001O00000000000001O0000000001O00000000000001O0000000O10000000000000000000000O100000000001O00001O001O001O1O1O1O1O1O1O001O1O1O1O1O001O00001O001O001O00001O00000000O10000O100O100O1O1O1O1O1N2O1N2O1O1N2O1O1N2O1N2O001N2O1N2O1O1N200O1O1O1O1O1N2O0O2O1N2O1O100001O001O00001O000O2O001O00001O0000001O0000001O000O101O000000001O0O100000000O101O00000O100000000O10001O000O100000000O1000000000O010000000O0100000000O01000000O01000O1000O010000O10O01000O010O10O10O01O010O10O01O10O01O010O1O001O010O1O001O1O001N1O2O1N1O2O0O2N2N1O2N1O2N2N1O2N2N1O2N1O2O001O001O0O2O001O0O2O1N101O0O2N1O1O2N1O1O2N1O1O2M2O1N3M2N2O2O02N101N2N2O0O2N2N2N2N1O3M2M3N2N3M2N2N2N3M2M3N3M2N2N2M4L4L3N3L4L4L3M4M3L3L7F>B>BeV?",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      58.6,
+      105.31,
+      602.65,
+      350.09000000000003
+    ],
+    "has_distractor": true,
+    "image_id": 572441,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=saucer, distractor=plate",
+    "pair_id": "fg_8769",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_8770",
+    "prompt": "saucer",
+    "target_box": [
+      54.97,
+      104.45,
+      603.32,
+      351.04
+    ],
+    "target_mask": {
+      "counts": "VSg01Y=101mENk62UI0j6NWI3P:1O1O1O1O01000000O10O1ULI`J8^5JaJ6_5IbJ8\\5HeJ9Y5IeJ8[5IdJ8Z5JeJ7Z5JeJ7Y5JgJ6X5KhJ6W5FnJ9Q5HoJ9P5HoJ9o4CZGOh3=n4DWK=g4CZK>e4B[K>d4FZK:d4H[K8e4IZK8d4J[K6e4J\\K6b4K^K6a4K^K5a4K`K6_4KaK4^4MaK5^4JcK6\\4HgK9X4EjK;U4GjK:U4FkK:T4HkK9T4HPH@g3h0Y4HnGCh3f0X4MhK3X4MhK4V4MjK3V4LkK4T4MlK4S4JoK6P4LoK5P4KYHYOc3k0S41nK0Q4OPL1P4OPL2n3NSL2m3NSL2m3NSL3k3MWL2i3MXL4g3D`HAi3k0f3BeH@g3n0d3\\OkLe0T3XOoLh0P3VOTMj0k2ROYMn0f2QO\\Mo0d2RO[Mo0c2RO]Mn0c2RO]Mn0c2RO^Mn0`2TO_Ml0a2TO_Mm0`2SO`Mm0_2TObMk0^2UObMl0]2TOcMl0\\2UOeMk0Z2VOeMj0[2VOeMj0Z2WOgMi0X2WOhMi0X2WOiMh0V2YOjMh0U2XOlMg0T2YOlMh0R2YOoMf0Q2ZOoMf0Q2ZOQNe0n1[OUNb0j1_OVNa0j1_OVNb0i1^OWNb0h1_OXNa0h1_OXNb0g1]OZNc0f1]OZNc0e1^O\\Nb0c1^O_N`0a1\\OfNa0Z1@eN`0Z1AfN`0Y1@hN?X1AhN?X1AhN`0V1BiN>W1BbNDoJj0_6BbNGjJj0c6AaNd0^1_O`Na0`1@_N`0a1B]N?b1B]N>c1B]N>b1C^N=b1C^N>a1B_N>a1BbN;^1EdN:Z1GhN7X1IiN6W1JjN5V1KjN6U1JlN5S1LmN4S1LmN4S1MlN4S1LjN7V1IiN8V1IjN7V1IjN8U1HkN8U1HkN8U1HmN6S1JQO3m0NSO2m0OSO0m00SO0m00SO0m00TO0k00SO2m0NRO3m0ORO1n0ORO1n0OQO3n0LQO6o0KoN6Q1KnN5Q1LoN4Q1LPO3P1MPO4o0LRO3n0NRO1n0OSO0m00SO0m00TOOk02VONi03VOMj03WOLi04WOLi04WOLi05VOKj05WOJi06WOKg06YOJg06YOJg07VOKj05UOLk04UOLk05TOLk04UOLk04TOMk01WO0i00UO2k0LTO7l0HUO8k0FWO:h0iNWJc0W5d0k0TOYOl0h0nN]OR1d0gNBY1Y6O001O0001O000000000000001O000000000000001O01O00000000000001O00000000000000001O0000000000000001O0000000000O10001O0000000O1000000001O00000000001O0000000000002N2N1O1O2N1O1O1O001O001O001O001O00001O00001O0000001O0000000000O1O1O1O1N2O1O1O1N2O1O1N2O1O1O1N2O1O1N2O001O1N2O1O1N2O1N2O1O1O100O1N2N2O1N2N2N200001N101O00001O00001O001N10001O001O00001O000O101O00001O000O10001O0000001N10000000000O101O000000000O10000000000O10000000000O1000O1000O1000000O1000O1000O100000O0100000O10O10O10O10O1000O01000O0100O10O10O10O01O10O01O100O001O1O001O001O1O001O1O001O001O1O0O2N1O2N2N1O2N2N1O2N1O2N1N3N1010O01N1O2O001N2O0O2O001N100O2O0O1O2O0O2M2O1O2N1N3N1O1O1O2M2O1N3O01O2N101N2N2N1O2N2N2O0O2N2N2N2M3N2N2N2N3M2N2N2M3N3M2M3M4M2M4L3M4L4L3M4M3L4L5J6I9GmV?",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      246.79,
+      138.46,
+      348.63,
+      217.54000000000002
+    ],
+    "has_distractor": true,
+    "image_id": 578821,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=plate, distractor=bowl",
+    "pair_id": "fg_8880",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_8880",
+    "prompt": "plate",
+    "target_box": [
+      522.73,
+      195.41,
+      590.1700000000001,
+      286.47
+    ],
+    "target_mask": {
+      "counts": "`ih9<eb07J3N3L3M3M3N3N1N1O2N2N2N2N2N2O1N2O1N2O1N2O1N2O0O2O001O1O0O2O001O001O001O001N101O001O0O101O001N101O00001N101O000O2O00001O0O2O00001N1en<",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      522.73,
+      195.41,
+      590.1700000000001,
+      286.47
+    ],
+    "has_distractor": true,
+    "image_id": 578821,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bowl_plate, tier=distinct, target=bowl, distractor=plate",
+    "pair_id": "fg_8880",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_8881",
+    "prompt": "bowl",
+    "target_box": [
+      246.79,
+      138.46,
+      348.63,
+      217.54000000000002
+    ],
+    "target_mask": {
+      "counts": "khc4=cb09J2M4M3N1N3M[OU^O4ja0IZ^O8ca0Fa^O;]a0Ah^O?oa00O1O2O0O101N1O100O100O1O100O1O100O1O1O100O1O001O0001O000001fNlNb@T1^?mNb@R1^?nNb@R1^?nNb@R1^?nNb@S1\\?nNd@R1\\?nNd@R1\\?nNd@R1]?mNc@S1]?nNb@R1^?nNb@R1^?oNa@Q1_?oNa@Q1_?oN`@R1`?nN`@R1`?nN`@R1`?nN`@R1`?nN`@R1`?nN`@Q1a?oN_@Q1a?oN_@Q1a?nN`@Q1b?nN^@R1b?mN_@S1a?mN_@R1j`00O10O1000O010mNnNT@R1l?POU_O1f0n0U`0ZOi_Of0Y`0ZOf_Of0Z`0[Oe_Od0\\`0]Oc_Ob0^`0_O`_Ob0a`0^O^_Oa0c`0@\\_O?e`0BY_O?g`0BX_O<k`0DS_O<n`0EQ_O9Ra0Gl^O8Va0Jh^O5Za0Lc^O3_a0O_^O0ca0f02N3N1N3N2L4L4M3L4K5J;FnPm4",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      465.15,
+      279.99,
+      528.96,
+      421.0
+    ],
+    "has_distractor": true,
+    "image_id": 77784,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=beer bottle, distractor=water bottle",
+    "pair_id": "fg_1203",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_1203",
+    "prompt": "beer bottle",
+    "target_box": [
+      183.46,
+      282.5,
+      229.98000000000002,
+      421.0
+    ],
+    "target_mask": {
+      "counts": "ib[21Q=?B>Bc0]Oe0ZO5K3M3YOg0QOlLeG\\3Z8h000O100O100000000000000000000002N5K6J6J5K6J5K6J5K6J2N2N1O1O2N1O4L4L7I7IQ1oNcUX5",
+      "size": [
+        421,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      183.46,
+      282.5,
+      229.98000000000002,
+      421.0
+    ],
+    "has_distractor": true,
+    "image_id": 77784,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=water bottle, distractor=beer bottle",
+    "pair_id": "fg_1203",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_1204",
+    "prompt": "water bottle",
+    "target_box": [
+      465.15,
+      279.99,
+      528.96,
+      421.0
+    ],
+    "target_mask": {
+      "counts": "^`o51P=6aCa1^9WO]Fl0a9VO]Fl0b9VO]Fj0a9YO^Fg0b9YO^Fg0b9ZO]Ff0[9VNbFU1Nj0[9VNgFT3Y9mLeFT3Z9nLeFR3[9<O1L4O100O100O1O10000O1000000M3J600000000O10000000000001O;E1O00001O00001O001O001O0QNmFLe9A\\F?e9@\\F?e9@[F`0e9_O]F`0d9_O]F4P:JQFH^:7dEYOj:g0ZEnNP;n0f0]OgZ]1",
+      "size": [
+        421,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      237.96,
+      47.58,
+      309.6,
+      232.96999999999997
+    ],
+    "has_distractor": true,
+    "image_id": 136575,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=wine bottle, distractor=water bottle",
+    "pair_id": "fg_2122",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2122",
+    "prompt": "wine bottle",
+    "target_box": [
+      339.68,
+      44.93,
+      404.1,
+      268.69
+    ],
+    "target_mask": {
+      "counts": "^co4b0k=d0\\Oe0A>F;D;E:G:I6N2O2M2N3N1N2O1N3M2O1N2O1N2O2K4G9G9@`0H8F;K4L4G17L5K5M201O10O1000000000000000000000000001G8E;G9G:YMZFIo9IaFLi9EhFOa9HjFM`9KmDTOi1e0d93eFBe9O]DKS2Kj94Ve^3",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      339.68,
+      44.93,
+      404.1,
+      268.69
+    ],
+    "has_distractor": true,
+    "image_id": 136575,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=water bottle, distractor=wine bottle",
+    "pair_id": "fg_2122",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2123",
+    "prompt": "water bottle",
+    "target_box": [
+      237.96,
+      47.58,
+      309.6,
+      232.96999999999997
+    ],
+    "target_mask": {
+      "counts": "ae_3`0Z>>D>C>C`0@?B>B<C:G1N2O1QOSLjFn3S9\\LdFf3[9aL^F`3a9cL[F_3d9cLXF`3h9l0O100O1000O010000cFkJo8U5QGkJo8U5PGlJP9S5PGnJP9R5PGnJP9R5PGnJP9R5PGnJP9R5PGnJP9S5oFlJR9U5lFlJT9T5kFmJU9_5001O0000000O10010O0000001O0010O01O001UKhFl3a9iKcFU4U:01N1O2O0O2N1O2O0O2M3M2N4B>Gg0SM]dj4",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      200.0,
+      0.0,
+      259.8,
+      136.67
+    ],
+    "has_distractor": true,
+    "image_id": 144431,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=wine bottle, distractor=water bottle",
+    "pair_id": "fg_2260",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2260",
+    "prompt": "wine bottle",
+    "target_box": [
+      147.99,
+      0.0,
+      213.0,
+      147.19
+    ],
+    "target_mask": {
+      "counts": "Yhm1c0f<f1YNi0XO8I2N1O1O1O100O1O2O0N2O1O1N2N2K5D<J60000000000000000000000000000000001O000000000005K:F5K4L2N2N1O1O1O1O1O1O1O0O2O1O0O3N2N2N4^OhPb5",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      147.99,
+      0.0,
+      213.0,
+      147.19
+    ],
+    "has_distractor": true,
+    "image_id": 144431,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=water bottle, distractor=wine bottle",
+    "pair_id": "fg_2260",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2261",
+    "prompt": "water bottle",
+    "target_box": [
+      200.0,
+      0.0,
+      259.8,
+      136.67
+    ],
+    "target_mask": {
+      "counts": "j\\c2i0`<7K001O001O1O1O1O2N2N5K7VEIR8i2O001O00000000001O00O1N2O1O1N2O1O1N2O1O1N2O1N2O1O1N200O10000O1000000O100000000O1001O001O1OZNjFVO\\9BiGAagn4",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      431.48,
+      284.92,
+      480.0,
+      445.21000000000004
+    ],
+    "has_distractor": true,
+    "image_id": 450748,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=wine bottle, distractor=water bottle",
+    "pair_id": "fg_6929",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6929",
+    "prompt": "wine bottle",
+    "target_box": [
+      392.79,
+      374.15,
+      462.98,
+      589.39
+    ],
+    "target_mask": {
+      "counts": "UUf76bc09H8G9G9H8G9F:H8H8H8F:F:J5M4M3M3M3N2N2N2N2N2O1N2O1N2N2O1N2M3J6G9H8H8]O]J_Bl5\\=>M3N200O1O100000000000000001K4K5J6K5K5K6I6I7aL[A]1k>\\N^A[1j>\\N_A\\1h>\\NaA]1f>[NcA\\1d>\\NeA]1c>`N_AY1m>aNUAV1Pa0H9F:D<DPV:",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      392.79,
+      374.15,
+      462.98,
+      589.39
+    ],
+    "has_distractor": true,
+    "image_id": 450748,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=water bottle, distractor=wine bottle",
+    "pair_id": "fg_6929",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_6930",
+    "prompt": "water bottle",
+    "target_box": [
+      431.48,
+      284.92,
+      480.0,
+      445.21000000000004
+    ],
+    "target_mask": {
+      "counts": "b[^85ec05L5K5K5K5J6I7M3L4N2O1N2O1O1O2N1O100O2g_OTN\\>l1\\A]Nb>e1UAeNh>\\1PAmNo>T1i@TOU?m0e@[OY?g0e@ZOY?R1Z@QOe?c22O001N2OFQLd@o3W?>N301O10O1000000000000001O000SG",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      379.1,
+      96.37,
+      427.05,
+      254.54
+    ],
+    "has_distractor": true,
+    "image_id": 461467,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=wine bottle, distractor=water bottle",
+    "pair_id": "fg_7107",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7107",
+    "prompt": "wine bottle",
+    "target_box": [
+      202.94,
+      73.35,
+      239.35,
+      215.46
+    ],
+    "target_mask": {
+      "counts": "j\\k1j1\\7l0WO2O2N1N3N100O2N1O1I7POP1O10000O101O00000010O00001O2cLPK[2T6L1O2N1O1O2N2N3M3`NTT\\2",
+      "size": [
+        299,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      202.94,
+      73.35,
+      239.35,
+      215.46
+    ],
+    "has_distractor": true,
+    "image_id": 461467,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=water bottle, distractor=wine bottle",
+    "pair_id": "fg_7107",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7108",
+    "prompt": "water bottle",
+    "target_box": [
+      379.1,
+      96.37,
+      427.05,
+      254.54
+    ],
+    "target_mask": {
+      "counts": "Pm^34l8<C=K4O2O0O1VMnNZMR1e2PO[Mo0d2SO[Mn0c2TO\\Ml0d2UO\\Mj0d2WO[Mj0d2WO[Mi0e2XO[Mg0e2[OYMf0f2[OYMe0g2\\OXMe0e2^O[Ma0Y2LfM4X2OgM3X2MhM3Y2LfM5Z2KeM6[2JdM8[2HdM9\\2GbM;^2EaM<_2D`M=`2C^M`0a2A]M`0c2EWM<i2IoL:Q3KhL8W30^L3b3;jKKV4_29iKUKb3_5G9G8G:F:G9F:F;ZOf0\\Od0EUVe0",
+      "size": [
+        299,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      238.7,
+      16.24,
+      328.41999999999996,
+      340.8
+    ],
+    "has_distractor": true,
+    "image_id": 472478,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=water bottle, distractor=beer bottle",
+    "pair_id": "fg_7269",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7269",
+    "prompt": "water bottle",
+    "target_box": [
+      449.9,
+      84.8,
+      480.0,
+      278.46999999999997
+    ],
+    "target_mask": {
+      "counts": "\\_i8a0Zc08K6J5E:L3L4L4M2O2N2G9N2M2hNkMd@V2X?RNc@o1Z?XN`@k1Z?]Nb@d1W?gNc@\\1U?oNd@T1T?Q2H8D;K6M2M3N3M2M3N2[M",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      449.9,
+      84.8,
+      480.0,
+      278.46999999999997
+    ],
+    "has_distractor": true,
+    "image_id": 472478,
+    "image_source": "lvis_v1_train",
+    "notes": "group=bottles, tier=confusable, target=beer bottle, distractor=water bottle",
+    "pair_id": "fg_7269",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_7270",
+    "prompt": "beer bottle",
+    "target_box": [
+      238.7,
+      16.24,
+      328.41999999999996,
+      340.8
+    ],
+    "target_mask": {
+      "counts": "jae4l1ea0X2TN9H9G8H3M3M3M3M3M3N2N2M3N1N3F:D<C<C>_O`0_Oa0^Oc0WOVGiE[9T:;N1O1O2O000O2O00001N101O000000000O1000000000000000000001O00000O101N10000O2O001N2O1N5[FjEO020e8e;[O<E>Ak0VOa0^O6J2O2M2N2O2M2N2N2O1N4H8H8H7@a0mNR1iNW1mNbkn2",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      314.19,
+      94.73,
+      375.90999999999997,
+      156.0
+    ],
+    "has_distractor": true,
+    "image_id": 144597,
+    "image_source": "lvis_v1_train",
+    "notes": "group=headwear, tier=distinct, target=helmet, distractor=hat",
+    "pair_id": "fg_2262",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_2262",
+    "prompt": "helmet",
+    "target_box": [
+      224.98,
+      110.88,
+      308.74,
+      183.58999999999997
+    ],
+    "target_mask": {
+      "counts": "^cY3:_>;J5K4L4L4M3L4M2N3M2N3N1N3M2N2O1N101N100O10000O10000O10000O10000000001O0000000000000001O0000001O00001O001O00001O001O1O1O1O1O00101N1O1N2O002M3N1O2N2M3N3M2M3M4K5K4M2]OeA=d>EVPk4",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      224.98,
+      110.88,
+      308.74,
+      183.58999999999997
+    ],
+    "has_distractor": true,
+    "image_id": 144597,
+    "image_source": "lvis_v1_train",
+    "notes": "group=headwear, tier=distinct, target=hat, distractor=helmet",
+    "pair_id": "fg_2262",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_2263",
+    "prompt": "hat",
+    "target_box": [
+      314.19,
+      94.73,
+      375.90999999999997,
+      156.0
+    ],
+    "target_mask": {
+      "counts": "lYc43k>4K4M4lAD]=`0\\BI_=:^BI_=;]BH`=m0N3N1O1O1O1O1O00CkBQOT=m0QCPOP=m0UCQOj<n0\\CnNd<Q1e001O1O001O1O1N2O1O1O1O1O1O2O0O2N101N2N2O1N101N1O10O10O1000O0100000O101O2N2N0001M2N4Kmdk3",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      358.79,
+      75.51,
+      439.76,
+      141.49
+    ],
+    "has_distractor": true,
+    "image_id": 219926,
+    "image_source": "lvis_v1_train",
+    "notes": "group=headwear, tier=distinct, target=hat, distractor=helmet",
+    "pair_id": "fg_3407",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_3407",
+    "prompt": "hat",
+    "target_box": [
+      269.69,
+      55.16,
+      375.17,
+      181.24
+    ],
+    "target_mask": {
+      "counts": "^^Q5:d0I\\a0=`^OF[a0?b^ODZa0a0b^OB[a0a0c^OAZa0a0d^OBYa0W1M4L3M5K5K7J9F2O0O2N2N1O2O1N2N1M4M3N101O1O001O001O001O001O001O0O2O001N1000001O0001O0010O01O1O00100O001O1O010O1O1O001O1O1O010O1O1O1O1O1O2N1O1O1O2N1O1O2N1O1N3N1N3N1N2N3M2N3M3M3M3L4M4L3M3M4K4M5I6I8I6Ib`]4",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      269.69,
+      55.16,
+      375.17,
+      181.24
+    ],
+    "has_distractor": true,
+    "image_id": 219926,
+    "image_source": "lvis_v1_train",
+    "notes": "group=headwear, tier=distinct, target=helmet, distractor=hat",
+    "pair_id": "fg_3407",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_3408",
+    "prompt": "helmet",
+    "target_box": [
+      358.79,
+      75.51,
+      439.76,
+      141.49
+    ],
+    "target_mask": {
+      "counts": "jdf62Pc03N1O2M3N2N2N2N2M6L4K4L5K4M3L4M1N100000000000000O1000000000000000000000000000000000O10000000000000001O000000001O000010O01O00100O010O02O1O0001O000O10002N1N3K4L<EQfV3",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      378.87,
+      129.97,
+      486.11,
+      224.31
+    ],
+    "has_distractor": true,
+    "image_id": 339115,
+    "image_source": "lvis_v1_train",
+    "notes": "group=headwear, tier=distinct, target=beanie, distractor=cap",
+    "pair_id": "fg_5245",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_5245",
+    "prompt": "beanie",
+    "target_box": [
+      379.23,
+      130.29,
+      485.46000000000004,
+      224.45
+    ],
+    "target_mask": {
+      "counts": "jVn4:k<`0C8H7I5K4M2N3M3N1N3N2N1O2O0O2N1O2N1O2N1O2N1O2N100O2O0O2O0O2O0O2O001N100O100000000000O10O10000000O100000001O000O1000001O00000O2O00001O00001N101O001O001O1N2O1N101O1N2O0O3N2N2M3N2M4M2N3L4L5K7J7H4L3M3N2M5K2O1N3M2NR^P2",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      379.23,
+      130.29,
+      485.46000000000004,
+      224.45
+    ],
+    "has_distractor": true,
+    "image_id": 339115,
+    "image_source": "lvis_v1_train",
+    "notes": "group=headwear, tier=distinct, target=cap, distractor=beanie",
+    "pair_id": "fg_5245",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_5246",
+    "prompt": "cap",
+    "target_box": [
+      378.87,
+      129.97,
+      486.11,
+      224.31
+    ],
+    "target_mask": {
+      "counts": "gVn4`0f<=F:E4L4M3M3M3M2O2M3N1O2N1O2N1O2N1O2N1O2O1N1O2N101N1O101N100O2O000O2O000O1000000O10000000O100000000000000O101O000000000O101O00001O00001O00001O1O1O0O2O1N101O1N101N2O1N102M2O1N4M3L4M2M4M2M4L4M3QOkCa0d<K2O1N3N4K2N3M2O1N1OgPP2",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      182.63,
+      7.7,
+      432.01,
+      100.2
+    ],
+    "has_distractor": true,
+    "image_id": 170803,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cooking_vessels, tier=confusable, target=pot, distractor=frying pan",
+    "pair_id": "fg_2690",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2690",
+    "prompt": "pot",
+    "target_box": [
+      440.25,
+      17.45,
+      640.0,
+      204.53
+    ],
+    "target_mask": {
+      "counts": "PZ^67g>5L4M2N1O2N1O1O\\OjA?U>@oA>P>BTB;k=EVB:j=FWB:h=FZB9e=H[B7e=I\\B7c=I^B7a=I`B6`=JaB6f07o:D[D4b0a0n:[O`D5=i0n:ROfD48P1P;lNhD53U1S;fNkD4N[1V;aNlD5I^1[;^NlD3Ed1^;YNmD4@g1c;UNmD4\\Ol1a;mMbD2a0[2f:lMgDJc0Z2b:SNkD_O=d2f:RNSEV2j:Q1N3N1O2N101N1O2N1O2O0O2N1O2O0O2N101N100O2N101O0O2O0O2O001N101O0O2O001O001N101O001O001N101O00001O0O2O001O001O001O001O001O001O001N101O001O001O001O001O0000000010O000000000O10001O0O1000000O101OO010000O10000O10001N101O0O2O0O101N100O2O0O101N1O101N100O2N1O1N2N3M2N2N3L3N2N3M2N3M2N3L3N3M2N3M2N3M2M4M2N3M3M2N3M2N3M2N3M3M2N3L3N3M2N3M2N3M2N3M2N3MbN",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      440.25,
+      17.45,
+      640.0,
+      204.53
+    ],
+    "has_distractor": true,
+    "image_id": 170803,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cooking_vessels, tier=confusable, target=frying pan, distractor=pot",
+    "pair_id": "fg_2690",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_2691",
+    "prompt": "frying pan",
+    "target_box": [
+      182.63,
+      7.7,
+      432.01,
+      100.2
+    ],
+    "target_mask": {
+      "counts": "_ie25i>3N2N1O2O1N1O10000000001O0000O101O00000O100000001O000001O0001O00001O0000010O00001O01O0001O01O01O0001O01O010O01O010O01O01O010O01O010O01O010O01O01O010O01O000O2O00101N10O01O010O`AOR>0jA8R>IjA<T>DlA>S>8O2N2N1O1M3O2M2N2N3M2O1N2N2O1O1N101N2O1O0O2O001N101N2O0O2O001N101N100O2O001O0O2O00001O000O10001O000O10001O0000000O10001O0000000O1000000000000000000O100000000001O0000000000000000000000000O100000000O2O0000000O1000001N1000000O10001N10000O2O00000O2O0O100O2N100O1O2O0O1O2O0O2N100O2O0O2N1O2M2O2N2N1O2M3N1O2N2N1N4M2N3L3L7Ii^Q3",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      99.87,
+      309.29,
+      199.87,
+      417.25
+    ],
+    "has_distractor": true,
+    "image_id": 208845,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cooking_vessels, tier=confusable, target=pan, distractor=kettle",
+    "pair_id": "fg_3232",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_3232",
+    "prompt": "pan",
+    "target_box": [
+      276.92,
+      335.86,
+      402.0,
+      411.52
+    ],
+    "target_mask": {
+      "counts": "j_]54kc02O1O1M;C5L4N2N2N2N2N2O0O2O001N101N101N10001N10001N1000001N100000001O000O10001O000000000000000O2O00000000000O1000000000001N10000000O100000O1000000000000000O10000000000O1000000O2O0O10000O101N1O01O00001O00aNg]OW1Zb0iNg]On0ab0ROa]Oc0hb0^OX]Oa0hb0_OY]O?hb0AZ]O=fb0C[]O=db0C^]O;cb0E]]O;bb0E`]O9ab0F`]O9`b0Gb]O6`b0Ja]O4_b0Ld]O0^b00h010O100O100O100Oa]`1",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      276.92,
+      335.86,
+      402.0,
+      411.52
+    ],
+    "has_distractor": true,
+    "image_id": 208845,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cooking_vessels, tier=confusable, target=kettle, distractor=pan",
+    "pair_id": "fg_3232",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_3233",
+    "prompt": "kettle",
+    "target_box": [
+      99.87,
+      309.29,
+      199.87,
+      417.25
+    ],
+    "target_mask": {
+      "counts": "fjn12mc02b\\OMmb04Q]OOlb03Q]O0nb01P]O1ob0OQ]O2nb0OQ]O2nb0OP]O3ob0NP]O3Pc0?O100000001R]O]O^b0T1MjNa]On0]b0POe]OQ1Zb0mNi]OS1Vb0lNk]OU1Sb0lNm]OT1Sb0kNn]OV1Qb0iNP^OW1oa0iNR^OV1oa0iNQ^OX1Va0mNQ_OJB11Y1Xa0TOP_OAG4OX1Ya0WOQ_OQ1m`0UOo^Ol0o`0aNo^O:MW1Qa0`NZ_Oo1d`0PNa_Om1^`0SNf_Ok1X`0UNk_OOXOb1l`0_NV@`1i?`NY@_1f?bNY@`1f?_NZ@b1e?_N[@a1e?^N[@c1d?^N\\@b1c?^N]@d1b?]N]@c1c?]N\\@d1c?]N]@c1c?]N\\@d1d?\\N[@e1e?[NZ@g1d?ZN\\@f1d?ZN[@g1e?YNZ@h1f?XNU@FZOS2a`0XNP@P2P`0PNo_OQ2Q`0oMo_OQ2Q`0oMo_OQ2Q`0oMo_OQ2Q`0oMP@P2P`0PNR@G]OQ2a`0XNX@h1i?WNX@h1h?XNX@h1h?XNY@g1g?YNZ@f1g?YNY@f1h?ZNZ@d1f?\\N\\@b1e?]N[@c1e?^NZ@b1g?]NY@c1g?]NZ@a1h?_NW@a1i?`NV@`1k?`NU@_1l?aNT@^1m?bNS@\\1o?dNP@\\1Q`0eNm_O[1T`0fNg_OFXOd1Ra0gNa_OH]O`1Ua0lNS_OIH[1Wa0]Oi^Oc0Ya0XOj^Og0Ya0UOi^Oj0[a0oNi^OQ1Tb0N1O2dN`]OU1bb0hN`]OW1fb0O1N2M2O2N2M3N3L3N3K8HTd^5",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      335.34,
+      301.11,
+      476.37,
+      390.79
+    ],
+    "has_distractor": true,
+    "image_id": 569450,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cooking_vessels, tier=confusable, target=frying pan, distractor=pot",
+    "pair_id": "fg_8711",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_8711",
+    "prompt": "frying pan",
+    "target_box": [
+      16.57,
+      332.33,
+      140.53,
+      422.46999999999997
+    ],
+    "target_mask": {
+      "counts": "P\\82m>2N2N2O1N1O1O1bNFUD;h;IVD8f;MXD4e;1XD0g;2XDMi;5TDKl;7RDIo;8oCHQ<;lCEU<<iCDW<?eCA]<?bCB]<?bCA_<?`CA`<a0^C_Oc<a0\\C_Od<b0\\C]Od<d0[C\\Of<d0ZC\\Oe<f0YCZOh<f0WCZOi<g0WCXOj<h0UCXOk<i0TCWOm<i0SCVOn<k0nBWOR=j0lBXOT=Y11O001O001O10O01O1O001O1O010O0010000000O2O0000O1O1O1O1O01000000000000O1000000000000O0100000000O1000000O1000000O100000000O101O000O101O00001N100O101N1O1O101N1O101N1O2M2N2N3N1L6J;FVbY7",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      16.57,
+      332.33,
+      140.53,
+      422.46999999999997
+    ],
+    "has_distractor": true,
+    "image_id": 569450,
+    "image_source": "lvis_v1_train",
+    "notes": "group=cooking_vessels, tier=confusable, target=pot, distractor=frying pan",
+    "pair_id": "fg_8711",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_8712",
+    "prompt": "pot",
+    "target_box": [
+      335.34,
+      301.11,
+      476.37,
+      390.79
+    ],
+    "target_mask": {
+      "counts": "P[m48e>5M2O1O2N2N2N1O00000O10M5L4N0000KP1SO7J3M3N1N2O1N2O1N2O1N2O1O1N101O0O2O001O0O101O0O101O0000001O00001O0O1000001O0000001O0000001O0000000000010O0000000000000000000000O10001O000000001O0O1000001O0O10000O2O000O2O0O101N101N101N101N1O2N2N1O2N1N3N2K5K5YOg0J6O000003L4M00000001O000O1N2O2N2N2N4Kla\\2",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      223.41,
+      22.89,
+      385.08,
+      260.95
+    ],
+    "has_distractor": true,
+    "image_id": 352585,
+    "image_source": "lvis_v1_train",
+    "notes": "group=pillow_cushion, tier=confusable, target=pillow, distractor=cushion",
+    "pair_id": "fg_5460",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5460",
+    "prompt": "pillow",
+    "target_box": [
+      247.92,
+      33.5,
+      388.4,
+      261.28
+    ],
+    "target_mask": {
+      "counts": "TQk42lc0201O1O001O1O001O10O01O1O010O1O001O10O^ALX95eF1W90fF7U9IiF>R9CkFd0P9]OmFk0m8UOoEF]M\\1_<mNfBAY3=]MV1d<lNfBBV3a0]MR1f<oNjE4[Mo0k<nNgE7[Mm0m<mNfE9ZMk0P=nNiBZOe2R1]Mh0V=mNgBYOd2T3d:dMhBXOa2V3h:bMgBYOV2^3S;ZMgBXOR2b3V;[MdDj2];VM]Do2c;SMnC[3R<eLlC\\3U<eLkBnNg0]4^<nL`CS3`<nL]CS3d<PMVCR3j<RMPCQ3P=o10010O00001O000O101O0O10O1O100N2O1N2N3M2O1N2N2O2M2N2N2O1N3M2N2O1N2N2N3N1N2O1N2O2M2O1N2O1N2E<F9L4K5L4L4L5J5L4L4L4N3M2N2N2N2N2N3M2N2N2N2N2N3M2N2M3N2N2N3M2M3M3M3M4L3M3M3M3M3N3N1O1O1O2N3M4L3M3LnYh0",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      247.92,
+      33.5,
+      388.4,
+      261.28
+    ],
+    "has_distractor": true,
+    "image_id": 352585,
+    "image_source": "lvis_v1_train",
+    "notes": "group=pillow_cushion, tier=confusable, target=cushion, distractor=pillow",
+    "pair_id": "fg_5460",
+    "phenomenon": "finegrained_confusable",
+    "probe_id": "finegrained_5461",
+    "prompt": "cushion",
+    "target_box": [
+      223.41,
+      22.89,
+      385.08,
+      260.95
+    ],
+    "target_mask": {
+      "counts": "gP\\41PX10o[O10O01O100O00100O1O010O010O0010O01O010O1O010O0010O010O01O010O001O010O001O10O01O0cAIQ98iF0U9OgF9U9HiF<T9EiFa0S9_OlFf0Q9ZOlFo0m8QOmEGaM]1_<mNnEM\\MX1e<kNmE5UMS1o<hNiE:SMQ1S=fNhE<PMQ1X=cNeEa0nLP1\\=aNbEb2_:^M^Ee2a:]M[Ee2e:]MUEg2k:[MlDm2T;TMdDR3\\;PM\\DW3c;lLWDW3i;lLQDX3n;lLkCW3V<lLcCX3\\<kLPCf3P=e1010O01O0010O01O0010O0N2O1N3N1N2O1N3N1N2O1N2O2M2O1N2O1N2O2M2O1N2N2O1N2O2M2O1N2WOi0L4K5L5J5L4I7I7J6N2M4M2M3N2M3N2M3N3M2M3N2N2N2O1N3M2O1N2O1N2N2O2M2N2O1N2N2N2N3M2N2N2N2N2N2N3N1O1N2O1O1O3L4M3MQVj0",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      168.13,
+      0.0,
+      419.07,
+      184.66
+    ],
+    "has_distractor": true,
+    "image_id": 545071,
+    "image_source": "lvis_v1_train",
+    "notes": "group=seating, tier=distinct, target=stool, distractor=chair",
+    "pair_id": "fg_8317",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_8317",
+    "prompt": "stool",
+    "target_box": [
+      367.07,
+      0.0,
+      517.41,
+      134.43
+    ],
+    "target_mask": {
+      "counts": "omY57a>3N2N000L4L4L5J4N0000O4M3M4L3010010O10O10001N10000O10O6K;Ej[72SdH>Ba0_Ok0TO2O1O1jDPN_9R2YFVNe9n1QF[Nl9h1mE^NR:e1fEaNY:Q3O0000001O001O1O0000O100O100O100O10000O10000O100O10000O1K5L4L4K5L4K5M3N2N2N2N200O1O1O1O1O100O100O100O100O10000O100O100O101O1N2O1N2O1O1N2O1N101O1N2O1N2O1O1O1O1O1O`ChN_;X1WDROi;P20O1O1N2N2\\OhCcNZ<S1RDgNR<P1Q1F:F:GWmh1",
+      "size": [
+        474,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      367.07,
+      0.0,
+      517.41,
+      134.43
+    ],
+    "has_distractor": true,
+    "image_id": 545071,
+    "image_source": "lvis_v1_train",
+    "notes": "group=seating, tier=distinct, target=chair, distractor=stool",
+    "pair_id": "fg_8317",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_8318",
+    "prompt": "chair",
+    "target_box": [
+      168.13,
+      0.0,
+      419.07,
+      184.66
+    ],
+    "target_mask": {
+      "counts": "`h]21i>2N3M2N3M2N2N3M2N3M2N3M2N3M2N3M2N3M2N3M2N2N00000000O10000001O1O001O1O1O001O1O1O00100O1O001O1O1O001O1O1O001O1O1O002N1O1O1O1O1O1O2N1O1O1O1O1O1O2N1O1O1O1O;E1OOREbNb8^1VGjNj8V1VGiNk8W1TGiNm8W1SGgNo8X1RGfNP9Z1PGdNR9\\1nFbNT9^1lF`NV9`1iF`NX9`1hF^NZ9b1fF]N[9d1cF\\N^9d1bF[N_9f1_FZNb9g1\\FYNe9]31O1YM`F3a9MoF@T9`0XG[Na9d1k100O100O100O100O10000O100O100O100O100O100O10000O100O2O0O100O100O10000O100O10cE^Nb7a1_H`N`7`1`H`N`7_1`HcN_7]1aHdN^7[1bHfN^7Z1bHSOQ7m0nHSOS7l0nHTOR7l0nHSOS7l0mHUOS7k0mHTOT7k0lHUOU7k0kHUOU7j0kHVOV7j0jHVOV7i0jHWOW7i0iHWOW7i0iHVOX7i0hHXOX7h0hHWOY7h0gHYOY7f0hHYOY7g0fHZOZ7e0gHZOZ7f0eH[O[7d0fH[O[7e0eH[O[7d0eH\\O\\7d0dH\\O\\7c0dH]O]7b0dH^O\\7b0cH^O^7a0cH_O]7a0bH_O_7`0bH@^7`0bH_O_7`0aHA_7?aH@`7?`HB`7>`HAa7>_HBb7=_HCa7=^HCc7<^HDb7<^HCc7<]HEc7;]HDd7;\\HFd7:\\HFd79\\HGe78\\HHd78[HHf77[HIe77[HIe77ZHIg76ZHJf76YHJh75YHKg75XHKi75WHKi74WHMi73WHLj73WHMi73VHMk72VHNj72UHNl72THNl71TH0l70THOm70SH1m7OSH0o7OQH1o7NQH2P8NPH2P8MPH4P8LPH3Q8LoG5Q8KoG4R8LmG5S8LlG3U8NjG2V8NiG3W8NhG1Y80eG1[8OeG0\\81bG0^81aGN`82_GOa82^GNb8;UGDl8f0iF[OW9\\1PFeNQ:R3000O100O1O100O1O10000O100O1N2eLiDQ3Y;oLWE^2l:bMcEW1U;iNaYW3",
+      "size": [
+        474,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      93.73,
+      283.17,
+      291.71,
+      427.0
+    ],
+    "has_distractor": true,
+    "image_id": 581351,
+    "image_source": "lvis_v1_train",
+    "notes": "group=seating, tier=distinct, target=armchair, distractor=stool",
+    "pair_id": "fg_8918",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_8918",
+    "prompt": "armchair",
+    "target_box": [
+      109.7,
+      203.44,
+      200.31,
+      252.82999999999998
+    ],
+    "target_mask": {
+      "counts": "nR^1d0f<10000000000000000000000001O000000000000001O00000000000001N1J6K5K5J6N2O10001O0000000000010O001O001OO1O100O1O100O100O100O10000O1000000O1000000O100000000O100000000O10000000000N2E;DXYg5",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": [
+      109.7,
+      203.44,
+      200.31,
+      252.82999999999998
+    ],
+    "has_distractor": true,
+    "image_id": 581351,
+    "image_source": "lvis_v1_train",
+    "notes": "group=seating, tier=distinct, target=stool, distractor=armchair",
+    "pair_id": "fg_8918",
+    "phenomenon": "finegrained_distinct",
+    "probe_id": "finegrained_8919",
+    "prompt": "stool",
+    "target_box": [
+      93.73,
+      283.17,
+      291.71,
+      427.0
+    ],
+    "target_mask": {
+      "counts": "e_W19Q=8H7I=C>C<C>C9G0O1000000O0100[Oe0jNV1001N101O00001O0O2O00001O001O00001N101O00001O001O0O101O001O00001O001N10001O001O00001O0O2O00001O001O000O2O001O00001O001O0O101O001O00001O4L002M`0A`0@`0@b0^O9G0000000001O0000001O000_Oa0WOj0WOh0D<00O101O000O101O0O10001O0O1000001N1000001N10000O101O000O10001O0O1000001N1000000O2O00000O101O000O1000001N100000001N1000001N1000001N1000001N1000001N100P2QN1N1O1O01N100O101N1N3A>B?_Oa0^Oc0I;Iii`4",
+      "size": [
+        427,
+        640
+      ]
+    }
+  }
+]
