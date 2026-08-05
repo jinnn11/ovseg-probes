@@ -1,0 +1,2302 @@
+[
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 233526,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=tv, cat_b=chair, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0867",
+    "prompt": "the tv to the left of the chair",
+    "target_box": [
+      0.0,
+      25.58,
+      181.31,
+      240.88
+    ],
+    "target_mask": {
+      "counts": "S2W3R82N3M3L4M3M3L4M4L3M3L4M3M3L4M3M3M4K4M3M3L4M3M1O0O101O0O10001N1000001N10O10O0100O1O010O10O0100O10O01O10O0100O10O0100O00100O10O0100O010O100O00100O010O100O010O1O010O100O010O10O01O100O010O10O0100O00100O10O0100O010O1O10O0100O010O100O00100O010O100O010O1O010O100O010O10O01O100O010O10O0100O10O01O104K6K6I7J6I7J6I7I6K6I7J6I7J6I6K6I7I7J6I6K5J5L5J4M0O1O2O0O100O2O0O100O^PR5",
+      "size": [
+        361,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 293852,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=couch, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1166",
+    "prompt": "the chair to the left of the couch",
+    "target_box": [
+      43.25,
+      262.85,
+      277.27,
+      421.45000000000005
+    ],
+    "target_mask": {
+      "counts": "aVb06T=5L4K5K5K5K5K5L4K5L4L4K5L4L4K5L4L4K5L4L4K4M0VFnL[9T3aFoL]9T3_FoL`9S3\\FoLd9]3N101N2O1O2M3N2N2M3N2N3L3N2N5K7I01O0000001O0000001O0000001O000000001O0000001O0000001O000000001O000000001O000000001O000000001O000000001O00000000001O000000001O000000001O000000001O000000001O000000001O000000001O00000000001O000000001O00001O00001O001O001O001O001O001O2N3M2N3M3M2N3M3M2N3M3Mf0ZO00001O00001O00001O00001O000000001O0000000000001O0000000000O100O1O1O1O1O100O1O1O1O1000O10000000000000000000000000000000002N2TN[En0g:mNdEj0_:POmEc0Z:XOQF7U[g4",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 279331,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=dog, cat_b=handbag, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1092",
+    "prompt": "the dog to the left of the handbag",
+    "target_box": [
+      82.75,
+      121.54,
+      312.89,
+      447.35
+    ],
+    "target_mask": {
+      "counts": "]Xd1:fc000000O10O1000000000000O01O1O1O1O100O001O1O1O1O100O001O000N2N2N2N2N2N2N2N2N2I7mM@^@i0Z?R2H8H8H7M31O0O2O001O0O2O001O001N15L4K5L4K5L4L4L4L4M1N2O1N2NeNQBhLn=X3TBgLj=Y3XBgLg=Y3[BfLc=[3^BeL`=\\3aBdL^=[3eBdLY=]3hBcLo;VO]DW4FbLk;]OYDR4M_Lk;CSDn34^Lh;JoCh3;[Lf;2jCd3a0XLe;:eC]3i0VLc;a0_CZ3o0SLb;V5_DhJa;X5bDfJ^;Z5cDdJ];]5dDaJ\\;_5gD^JY;c5hD[JY;e5iDYJV;g5lDWJT;j5`1010O1O003N3L5K5L3L5K4L5L3L5nDnHm8W7jFnHU9V7cFPI\\9V7ZFoHd9X7QFnHm9Y7hEmHW:Y7_ElH_:[8O2O1N2N2OjLQF\\Lm9\\3cF^L[9]3QG]Lo8c3XGWLf8j3`GQL^8P4iGiKW8X4mGbKS8_4oG^KR8b4PH[KQ8e4QHXKo7j3nEeKT2>o7m3QFaKR2?n7o3UF^Ko1`0m7R4XFZKn1a0j7U4ZFXKn1`0i7X4YFYKo1<i7[4YFXKP2:g7^4ZFXKQ27f7a4ZFWKQ=i4oBWKQ=i4PCWKo<i4QCWKo<h4SCWKl<j4TCVKl<j4UCUKk<k4UCVKj<j4WCUKi<j4XCVKh<j4YCUKf<n4XCRKh<o4XCQKg<P5XCPKh<Q5XCnJh<S5WCmJi<T5WCkJi<V5VCkJi<V5WCiJh<Z5VCfJj<[5VCdJj<]5UCdJj<_5TC_Jm<d5PCZJR=j5kBTJV=o5gBPJZ=T6cBjI^=Y634K5L3M4L3M4L3M4L\\LYC2e<M\\CmM0g0f<V1[ClM8n0`<P1YClM?U1a<a0RCSNf0\\1`<6lBXNk0b1W<5oBTNQ1h1m;3SCQNV1j1g;4TCnM[1m1`;4WCjM_1Q2Y;4WFnNi9Q1YFoNj9k0YFTOk9g0VFZOm9a0UF_Oo9;RFEn9:TFFk99WFGi97XFIh96ZFJe94^FLa93`FM`92bFM_91bFO^90dFO\\90fFOZ90gF0Y9OiF0X9MkF2U9MlF3T9LnF3R9LoF4Q9KQG4P9HSG8m8EVG;j8BYG>g8_O]G?d8^O_Ga0c8\\O_Gc0b8ZOaGe0`8XOcGf0n=N1O1O1N3N1O1O1N3N1O1O1N3N1O1OWcX3",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 108751,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=suitcase, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0407",
+    "prompt": "the chair to the left of the suitcase",
+    "target_box": [
+      2.75,
+      256.0,
+      183.05,
+      381.25
+    ],
+    "target_mask": {
+      "counts": "YT25jc06J7I7J6IP1PO1O2O1N2N2N2O001O1O1O1O1O001O1O1O1O001O1O001O1O001O1O001O1O001O1O001O1O001O1O001O1O001O1O001O1O00100O2N2N1O2N2N2N101N2N00000000O10001O000000000000O100000000000O1001O00000000001O00000O101O00000000001O000000001N10000000001O000001O00010O0000001O00001O0000000O2O00000000000O2M2O1N2N2N2M3M4J5K5K5L4K5L4K5L4K5N2N2N2N2M3N2N2N2N2N2N2O1O1N2O1N2O1O1N2M3L4L4Lm[i5",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 421393,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=couch, cat_b=tv, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1717",
+    "prompt": "the couch to the left of the tv",
+    "target_box": [
+      114.16,
+      156.18,
+      235.73,
+      271.4
+    ],
+    "target_mask": {
+      "counts": "Sd_1:P=1N101O0O2O001N101O000O2O001N101O0O2mNFTE:k:1kD0T;S101N2O1O1O1N2O1O1N2O001N2O1O1O1N2O1O1N2O1O0O2O1O0O2O1O001N2O001N20O10000O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1OO10001O2N1O2M3N1O2N2N1O00O0O2O1N2N2O1N101N2N2O1N2O0O3M4M3L3N3L4L3N3L4L3N3L4M2M4L4M2MokW5",
+      "size": [
+        426,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 144202,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=vase, cat_b=laptop, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0550",
+    "prompt": "the vase to the left of the laptop",
+    "target_box": [
+      214.52,
+      198.25,
+      306.55,
+      307.17
+    ],
+    "target_mask": {
+      "counts": "VbV43mc03M4L3N2M3M4L3M3M4M2M3M4M3L3N3L4L4M3L4L5L3L4M1N2N2O1N1O2N2N2N2OmMX_Om0h`0lNd_OP1\\`0lNh_OS1Y`0jNi_OV1Y`0eNj_OZ1Y`0aNj_O^1]a0O1O2O0O1O3M2O1N2N2N1O010O000001O01O00000O1O010O100O100O100O100O1O100O010O100O100O1O10O010O010O010O010O01G8Fok[3",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 381384,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=couch, cat_b=chair, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1584",
+    "prompt": "the couch to the left of the chair",
+    "target_box": [
+      1.3,
+      2.92,
+      59.64,
+      572.14
+    ],
+    "target_mask": {
+      "counts": "Tb0ia08L4M3L4M3L4M3L4M3L4M3M3L4M3L4M3L4M3L4M3L4M3L4M3L4M3L4M3L4M3L4M3L4M3M3L4M3L4M3L4M3L4M3L4UOk0`H`7WOi0N2O1O1N2O1O1N2O1N2O:Fm2RMnfV:",
+      "size": [
+        577,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 218183,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=couch, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0815",
+    "prompt": "the chair to the left of the couch",
+    "target_box": [
+      0.13,
+      160.88,
+      129.87,
+      258.48
+    ],
+    "target_mask": {
+      "counts": "h6g0f`0g1000O100O1000000000000001O00001O001O000a_ObMX`0_2f_OdMX`0\\2h_OfMV`0Z2j_OhMT`0Y2j_OiMU`0W2k_OiMU`0W2k_OiMV`0a22O1O1O1O1O3M3M3M3L4M4L3M3M3M3M3M4L3L4M3M3M3M2N1O2N000O2O0000000000000O10001O00000000000O1000000000O101O000O10000O10000O10000O101O0O10000O10000O10000O10001N10000O10000O10000O10000O2O00000O2O00010O0116I>B?@[jo8",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 231637,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=bowl, cat_b=cup, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0861",
+    "prompt": "the bowl to the left of the cup",
+    "target_box": [
+      0.96,
+      4.78,
+      318.98999999999995,
+      152.81
+    ],
+    "target_mask": {
+      "counts": "_?3P=8H7I8L4M2N3M2N3M3M2N3M1O2O0O2N1O1O2N1O2N1O2N1O2N1O2N1O1O2O0O2N101N3N1O1N2O1N2O1N3N1N2O1O1N2O2M2O1N2O1O1N2O1N2O1N2O1O1N2O1N3N1N2O1N2O1O1N2O1N2oFjKm8Y4O10000O101O000000010O000000000010O0000000001O01O00000001O01O00000001O0001O000001O000001O0000000000001O00000000001O0000000000001O0000000000001O000000000000001O000000000000001O000000000000001O00000000000000O10000O10000O1000000O10000O10000O10000O100000O0100000O101O0O2O00001N101O001N10001N101O000O2O001O0O101O0O2O001O0O101O001N10001O0O2O000O2O00001N1O100O2N1O101N1O1O2N100O1O2N100O2N1O1O2O0O1O1O2O0O1O2N1O101N1O1N2O2M2O1N3N1N2O2N1N2O1N3O0O1O2N100O2N100O1O2N100O2N101N2N2N2O1N2N2O1N2N2O1N2L4H8IdUU4",
+      "size": [
+        425,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 258270,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=cup, cat_b=bottle, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0999",
+    "prompt": "the cup to the left of the bottle",
+    "target_box": [
+      0.0,
+      12.94,
+      136.63,
+      223.73
+    ],
+    "target_mask": {
+      "counts": "i1l1Wa0e1XO4K2N3N1N2N3N1N2N3N1N3N1O1O2N1N2O2N1O1O2M2O1O2N1O1O2M2O3M6J4L2M2O2N1O2N2M2O2N1O2N1N2O1O1O001N2O001O1O0O2O1O1O001O1O00100O0000000000O10001O0000000000000000001O0000000000000O101O0000000000000000001O000O100O100O100O2O0O100O2O1N101O1N2O0O2N2N2N1O2M3N2N1O2N2N2N1O2M3N2N?A[1eNm2SMYVf6",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 285357,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=tv, cat_b=couch, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1126",
+    "prompt": "the tv to the left of the couch",
+    "target_box": [
+      23.98,
+      227.56,
+      107.04,
+      352.6
+    ],
+    "target_mask": {
+      "counts": "SY?4ec09G9H8G8H9G9G9G8I8L3O0000000c_O]M]?c2b@_M]?a2b@aM]?_2b@cM]?]2a@fM^?Z2a@hM^?X2a@jM^?W2`@lM^?T2a@nM^?R2a@nM`?R2`@nM`?R2`@nM`?R2`@mMa?S2_@mMa?S2_@mMa?T2^@kMc?U2]@kMc?U2]@kMc?U2]@jMd?V2\\@jMd?V2\\@jMd?V2\\@iMe?X2Z@hMf?X2Z@hMf?X2Z@gMg?Y2Z@fMf?Z2Z@fMf?Z2Z@eMg?[2Y@eMg?[2Y@eMg?\\2X@cMi?]2W@cMi?]2W@cMi?]2W@bMj?_2V@`Mj?`2\\@ZMd?g2j0001O001O001O001O001O001O001O001O001O001O001O0000O1O100O1O10?@g1YNhjX7",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 486383,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=tv, cat_b=laptop, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1959",
+    "prompt": "the tv to the left of the laptop",
+    "target_box": [
+      107.66,
+      35.06,
+      252.42,
+      177.05
+    ],
+    "target_mask": {
+      "counts": "Z^V1i0b:2O003M:E;F:F9G:E;F:F3MO01000O10O10O10O010000O01000O10O010000O01000O01000000O2O001O0O2O001O1N101O001O0O1000O1000gHaLe6_3SIiLm6W3kHQMU7o2jHSMU7m2kHSMU7l2kHUMT7l2lHTMT7l2kHUMU7k2kHUMU7k2kHUMU7a30YOkHWMU7`30000O10O10000000000O1000O1000WOkHZMV7f2jHZMV7f2jHZMV7e2kH[MU7e2kH[MU7e2kHZMV7e2kH[MT7f2lHZMT7f2lHZMT7e2mHZMT7f2lHZMT7f2lHYMU7f2lHZMT7f2lHYMU7g2kHYMU7f2lHYMU7g2kHYMT7h2lHXMT7g2mHXMT7h2lHXMT7h2mHVMT7i2mHWMS7i2nHUMS7k2mHUMS7j2oHTMR7l2nHQMU7o2kHmLX7S3a00000O10000O1000O010000O10000O10000O01000O10000O10000O01000O1000R1mN\\kY4",
+      "size": [
+        364,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 92575,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=cup, cat_b=teddy bear, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0322",
+    "prompt": "the cup to the left of the teddy bear",
+    "target_box": [
+      24.94,
+      244.36,
+      176.21,
+      546.9100000000001
+    ],
+    "target_mask": {
+      "counts": "Wl?5ac0;O1O;EP1POP1POP1POQ1POf0YO5K5K4L5K5K4J7K5K4L5J6K4L5K5Ki0WO2N2N1N3N2N2N2N1O1O0000000O100000000O100000000O1000000000000000000O2O000000000000000O10000000000000000O1001O01O000001O0001O0001O000001O01O000000010O0000000010O00000001O01O00000000001O0000O1N2O1O1O1O2M2O1O1O1O1O1N2O1O1O1O2M2C?^Oa0@`0@`0_Oa0@`0@`0_Oa0@`0@a0^Oa0@`0@`0_Oa0@`0@Qdl4",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 119081,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=vase, cat_b=chair, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0442",
+    "prompt": "the vase to the left of the chair",
+    "target_box": [
+      93.26,
+      287.45,
+      135.96,
+      453.75
+    ],
+    "target_mask": {
+      "counts": "mj]13Z?8G9eK\\4O00010O0000O1O1N2O1O1O1O4L6J9G=C=B2O2N1O1O2N1O1O2N1N3N1O1O2N1O2N1O2M2YOh0H=C>B?AaYP3",
+      "size": [
+        500,
+        334
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 305752,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=laptop, cat_b=cup, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1227",
+    "prompt": "the laptop to the left of the cup",
+    "target_box": [
+      0.0,
+      419.65,
+      229.08,
+      612.93
+    ],
+    "target_mask": {
+      "counts": "k=n4Q?=D0000000000O1000O10000000000000O1000O1000000000000000O010000000000000000O0100000000000000000O10O10000000000000O1000O100000000000O10000000O1000000000O1000000000O100000O100000000000O1000O1000000000000000O10O1000000000000000O010000000000000000O10O1000000000000000O10O10000000000000O100000O1000000000O10000000O1000000000O1000000000O100000O10000000000000O10O1000000000000000O10O10000000000000000O01000000000000000O10O100000000000005G;D<D<D<D<D=C<D<D<D<D<D=C<Do[a2",
+      "size": [
+        640,
+        360
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 349204,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=bus, cat_b=truck, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1445",
+    "prompt": "the bus to the left of the truck",
+    "target_box": [
+      4.21,
+      118.83,
+      349.12,
+      313.37
+    ],
+    "target_mask": {
+      "counts": "dS2;W=R1nNS1mNS1POP10O100000OE<D<K5O1O1N101O1N2O1O001N2M3J6K50O010000000O102N4L5K2NDgD[MY;f2kDVMU;j2oDRMQ;m2<000O0100001O001N10;E1O0WFcLZ8^3YGQMc8Q3TGYMj8h2SG\\Mk8e2SG]Ml8d2RG^Mm8LcFi1=\\NP9IfFn15ZNT9GiFS2NWNY9DlFe2IYMZ91nFb2M\\MU91VGW2KgMo82_Gj1GSNi83aGe1JYNe82aG_1HhNf8IbGY1JROd8EbGU1JYOe8BaGT1H[Oi8A_GT1DYNb0O[8e0_GS1Z:lNgES1Z:mNfES1Z:mNgER1Y:nNgER1X:oNhEn0[:ROeEi0`:WO`Eh0a:XO_Eh0a:XO_Eh0`:YO`Ef0a:[O^Ee0b:[O^Eh0_:XOaEm0Z:SOfEn0Z:QOfEn0\\:ROcEKV=NXR4@YnK4K5L5SCFU;>gD5f:OVEe0V:_OfET1g9POUFd1W9]NhFU2f8kMYGV2f8kMZGV2e8kMZGU2f8kMZGV2e8jM[GV2e8kMZGV2e8jM[GV2e8jM[GV2e8kMZGV2e8jM[GV2d8kM\\GV2c8kM\\GU2d8kM\\GV2c8jM[GX2e8iMXGZ2g8fMVG]2j8cMSGa2l8`MQGb2n8_MoFe2P9[MmFh2S9]101O001O001N1000O1O100O1O1O010O1O100O1O1O10O100000000000O10O100000000000000O10000000000000000O1000O1000000000O100000000000000O101O1O1O1O1O1O1N2O1O1O1O1O0000O00100O100O1O100O010O1O100O100O1O010O1000000O100000O1000000000O1000O100000000000O10O10000000000000O100000000000000H8K5J6J6J6K4K6J6K500000000001O00000000000000000000001O00000000000000000000001O0000000001O001O0N3N1N3M2O2M2O2M2O2M2N2O2M2O2M2O2M2O2N101O001O001O00001O008H:F:F:F:G9F:F:F[RU4",
+      "size": [
+        469,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 443537,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=cat, cat_b=dog, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1812",
+    "prompt": "the cat to the left of the dog",
+    "target_box": [
+      89.62,
+      50.83,
+      232.75,
+      171.89
+    ],
+    "target_mask": {
+      "counts": "e\\k02d93L3O2N1O2N1O1O2N2N3N3L3N2M3N2M3N2oGSOR7P1cHZO\\7b1N100O100O10000O1000O01O1O1O100O1O1O1O1O2O0O2N2M1N2O2N1O1O2N1N2O2N1O1N3N1O1O2N1O1O2O0O101O00000100O1O2N100O2N1O1O101N1O2N3N2M3M4L3M3M1O1O2N1O1O1N2O00001O00001O00005K2N1O2N2N1O2N2N2N1O2N1O1O1O1O2N1O3M4L4L1O2N2N2N2N2N2N1O2N2N1O1O001O001O001N3N2N1O4Ldm`2",
+      "size": [
+        311,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 147278,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=tv, cat_b=couch, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0563",
+    "prompt": "the tv to the left of the couch",
+    "target_box": [
+      31.63,
+      177.33,
+      142.3,
+      335.83000000000004
+    ],
+    "target_mask": {
+      "counts": "nc?T1Y>X1hNU1kN3M3M2N1O1O1000000PEUL]:l3bETL^:l3aEUL^:l3bETL^:l3aEVL^:j3aEWL_:i3aEWL_:i3`EXL`:h3`EYL_:h3_EYLa:g3_EYLa:g3^EZLb:f3^EZLa:g3^E[La:e3^E\\Lb:d3]E]Lc:c3\\E^Ld:b3ZEaLe:_3ZEbLf:^3YEcLg:]3XEdLh:Q401N1000001O000000001O0O10001O0000001O000001O01O0000001O00O1O100O1O1O100O1O1O100oNXE[Mi:e2WEZMj:e2WE[Mi:d2XE[Mi:e2WEZMj:e2XEYMh:g2YEYMg:g2YEXMh:g2YEXMh:g2YEXMh:h2XEXMh:g2YEXMh:g2YEXMh:h2XEWMi:h2XEXMh:g2YEXMg:i2YEVMh:i2ZEUMg=JZB6_>O1O100O1O1O100O1O1O101N1O1O100O1O100Obn_7",
+      "size": [
+        494,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 563885,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=teddy bear, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_2270",
+    "prompt": "the chair to the left of the teddy bear",
+    "target_box": [
+      0.0,
+      161.73,
+      166.36,
+      331.0
+    ],
+    "target_mask": {
+      "counts": "V5U5V50O100000000O100000000O100000000O100000000001O001O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O001O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O001O1O001O001O1O001O1O001O1O001O1O001O1O001O1O001O1O001O001O1O001O1O001O1O001O1O0000001O000000001O000000001O000000001O000000001O000000001O000000001O00000000001O000000001O000000001O009Gc0]Oc0]Ob0^OUe[3",
+      "size": [
+        331,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 324817,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=motorcycle, cat_b=backpack, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1342",
+    "prompt": "the motorcycle to the left of the backpack",
+    "target_box": [
+      4.13,
+      284.68,
+      165.03,
+      452.81
+    ],
+    "target_mask": {
+      "counts": "_W21Y>1N2O1O1N2O1O1N2O1N2O1O1N2O1N2O1O1N2O1N2O1O1N2O1N2O1O1N2nNPOhDQ1T;TOiDn0T;VOjDk0S;ZOjDg0S;]OjDe0S;_OkDb0R;BlD?R;DkD>R;FlD;Q;IlD9T;_1O1O1O100O1O1O100O1O1O1\\NgLUHZ3j7mLPHT3o7PMlGQ3S8TMhGm2W8XMdGi2[8\\MaGd2_8`M\\Ga2c8cMYG^2g8fMTG[2m8TMmFI2S3R9SMoF`3Q9`LRG]3o8bLTG[3n8cLUGZ3n8cLUGZ3m8dLVGY3m8cLWGZ3n8`LUG^3l90001O00000N2N2O1N2N2O1]Od0M2M3M3M3M3O1000001O2N1O1O2N1O2N1O1O2N1O2M2O1O2O0O101N1O01O00001O00001O00001O000000O1N10O1O10L3H8ZOg01O2N1O1O1000000O101O000000000001O000000001O000000000O2O2M6J6Ilie4",
+      "size": [
+        459,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 138780,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=truck, cat_b=cup, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0526",
+    "prompt": "the truck to the left of the cup",
+    "target_box": [
+      0.46,
+      542.06,
+      264.02,
+      612.0
+    ],
+    "target_mask": {
+      "counts": "db01Rc05K5L4K3M1O1O1O100O1O1O1O1O1O100O1O2N10000O100000000O100000000O10000000000O100000000O10000000000O1O1O1O1O1O1O1O100000000004LO10000000000O1000000000000O10000000000O10000000000O10000000000000000000000N2O1N2O1N2O1O1N2O1N2O1N2O1N2O1O1O100001O00000000001O0000000000001O00000000001O00000000001O00000000001O0000000000001O00000000001O00000000001O00000000001O00000000001O0000000000001O00000000001O00000000001O00000000001O00000000001O0000000000001O00000000001O00000000001O00000000001O0000000000001O00000000001O00000000001O00000000001O00j]_6",
+      "size": [
+        612,
+        612
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 388923,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=motorcycle, cat_b=car, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1601",
+    "prompt": "the motorcycle to the left of the car",
+    "target_box": [
+      160.78,
+      241.89,
+      389.51,
+      378.62
+    ],
+    "target_mask": {
+      "counts": "nTS2;j<>B6J5K5O1O1N2O1O1N2O1O1N2O1N2O000YO[NiEf1V:\\NiEd1U:_NjEa1U:bNhE_1W:cNhE]1W:fNgEZ1X:hNfEY1X:jNgEV1X:mNeET1Z:nNeER1P:WNSFi0LP1Q:[OmEf0R:Y1O100O1000000O10O1O001O1O000000OTMoEc2Q:]MPFa2P:_MQFa2o9^MSFa2m9^MTFa2l9`MUFa2i9^MXFd2f9[M\\Ff2a9[M`Ff2^9YMcFi2[9VMgFj2W9VMjFl2T9TMmFl2Q9TMPGn2m8RMUGn2i8RMYGo2d8RM]Gn2c8PM_GP3a8nL`GT3_8kLbGU3Y90000001O[MoER2Q:nMPFQ2P:nMQFS2n9mMSFR2m9mMUFR2k9nMVFP2k9PNVF1LW1P:gNUF1MW1P:dNUF3OW1o9^NWF:MV1_:jNcET1^:kNcET1]:kNfES1Z:mNhEQ1X:oNjEo0V:POlEo0T:QOnE>WOEk:MPF;WOGi:NRF9VOHh:NUF7UOIg:0UF5VOJf:0VF4UOKe:0YF2TOMc:1[FOSO0g:LWF3RO1g:LYF0QO4e:LkF4U9LkF6S9JmF7R9ImF:Q9EPG<o8DQG7VNKf:OTG7R9HoF8Q9HnF:Q9FoF:Q9FoF:P;1O0PNEQG<o8DQG<n:000N1O2N2N20000O10000O10000O01000O10000O10000O10O10QOo00000O10O001O0011O3L3N2M3N3L10O10L4L4K5L4L4O100O1O100O100O010O1O100O100O1O1N2O1N2O1O1N101N2O1N1001O1N2O1O1O1O1O2O1O2N2N2M3N1N3N1N2O2N1N2O2N1O00001`NVE?j:AWE>i:BYE<h:B[E;f:E[E:e:F]E7d:H^E7c:H_E5b:K`E3`:MaEECHn:a0bECDJj:c0cE^OHMf:e0dEYOK0c:d0a1L4L4L4KWlW3",
+      "size": [
+        425,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 87738,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=cat, cat_b=cup, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0309",
+    "prompt": "the cat to the left of the cup",
+    "target_box": [
+      11.64,
+      417.95,
+      145.12,
+      634.97
+    ],
+    "target_mask": {
+      "counts": "[o7_4_?2N2N2N2N2M3N2N2N2N2N2O1O100O100O1O100O100O1O100O100O1O100O100O1O100O100O100O100O100O100O100O10000O100O100O100O2O0O100O10000O1002N2N2N2N2N0000O100O10000O100O100O10000O100O100O1000000O10000O1000000O10_NVBlLj=d2jBXMU=b2VCZMj<_2aC]M_<\\2lC`MT<]2SD_Ml;b2XDZMh;e2]DWMc;i2aDSM^;n2fDnLZ;R3jDjLV;V3nDfLR;Y3j21O1L4M2N3M3M31N2O1O1O1]Mi_O[1X`0dNl_OW1V`0gNn_OV1S`0iNQ@S1P`0kNT@R1m?^Nf@]1Ra0M3M4Lfld9",
+      "size": [
+        640,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 574356,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=laptop, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_2308",
+    "prompt": "the chair to the left of the laptop",
+    "target_box": [
+      44.66,
+      226.69,
+      148.31,
+      352.25
+    ],
+    "target_mask": {
+      "counts": "lh`05];5K6L4O0O2oM]OlHd0T7_OgHc0X7@eH`0\\7C_H?a7D[H=d7GWH:j7IRH8n7JnG8Q8LkG4V8OeG3[80aG1^82_GNb85YGMf87VGJj89QGHP9`1O10O10O10O10O10O10O1O1O001O1O001O1O010O1O001O1O001O[N[G9d8G]G8c8H]G9b8G_G9W9oNjFQ1W9nNjFR1W9lNiFU1W9jNjFU1X9iNhFX1X9gNiFY1X9eNiF[1W9cNjF]1X9aNiF_1W9`NiFa1X9]NiFb1Y9\\NgFe1Y9ZNhFe1f9O001O001O0O2O001O1O001O001O0O2O1O001O001O001O0O2O1O001O001O1N3M3L5L3L4M3L4M3MdbP4",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 309003,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=backpack, cat_b=laptop, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1244",
+    "prompt": "the backpack to the left of the laptop",
+    "target_box": [
+      44.05,
+      275.97,
+      187.79000000000002,
+      347.32000000000005
+    ],
+    "target_mask": {
+      "counts": "\\bb05l<9G9M3M3N2N2N2M3N2N2M3N2N2M3O1O1O1O0O2O1O1O1O1N100000000O100000000O100000000O10000000000O100000O10O100000000O10000000000O010000000000000000000000O100000000000O100000000000O1000000000000000000000O10O100000000001O000001O1O1O010O1O1O001O1O1O001O1O1O001O1O1O001O1O1N1O2O3L3M4M2M3M4M2M5K9H8GiXk5",
+      "size": [
+        425,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 148366,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=bicycle, cat_b=motorcycle, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0567",
+    "prompt": "the bicycle to the left of the motorcycle",
+    "target_box": [
+      7.53,
+      360.42,
+      168.81,
+      458.83000000000004
+    ],
+    "target_mask": {
+      "counts": "lT4:e><D;D:G1O1O2N1N2O1O2N1O1N3N1O1O2N1000001O00001O00001O0000000000000000000000000WOoMcDQ2\\;QNcDo1];RNbDn1^;SNaDm1_;TN`Dl1_;VN`Dj1`;WN_Di1a;XN^Dh1b;YN]Dg1b;[N]De1c;\\NoCQ2Q<>1O1N2O1O1O1O1eMiCk1X<SNkCl1V<QNmCn1T<PNnCo1S<oMoCP2b<M2002N2N2N2N1O2N2N2N00E<M2]ORCQOQ=n0QCoNQ=P1QClNR=S1PCjNR=U1PChNR=W1<O1O1O1N2O1O1O1O1OVBVO`=i0`B]O[=b0fBCU=<kBIQ=7nBOm<1RC2l<NSC4l<LSC2P=NPCOR=2mBLU=5jBHY=9fBE_=j05K6J=B>C^\\1NhcN7ZAV1f<b000@nMRDR2n;oMRDP2n;RNPDn1P<SNnCo1P<SNnCn1R<TNlCl1T<VNiCk1V<aNhCV1X<iNjCV1U<jNlCW1S<gNoCY1Q<fNPDZ1o;fNRDZ1n;eNSD[1l;dNVD\\1j;cNWD]1h;cNZD]1e;aN]D_1b;aN_D_1a;YNgDg1Y<0000O2O1O1N101O1O0O2O1O1N101O1N101M3M3M2N3L4M2N3M8H<Cj[l6",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 261151,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=potted plant, cat_b=umbrella, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1011",
+    "prompt": "the potted plant to the left of the umbrella",
+    "target_box": [
+      81.27,
+      2.9,
+      229.3,
+      351.2
+    ],
+    "target_mask": {
+      "counts": "Rjb12kc07J7H8I7H7K6J6J2O0O1O2O0O1S^OYN`a0h1`^OZN^a0g1`^O\\N]a0e1c^O]NZa0d1e^O_NYa0b1f^O`NWa0a1h^ObNUa0_1j^OdNTa0]1k^OeNRa0\\1m^OhNo`0Y1Q_OiNQ1VOg>R2V@kNk0[Ol>k1Y@lNd0@P?m3N2M3N2M3M3N2M3M3N2UKnJcJV5Z5lJcJW5[5jJdJW5Z5kJdJW5[5jJcJW5]5kJaJV5^5kJ`JW5^5kJaJU5_5lJ_JV5nK]J\\9?cJV5PL^JY9>fJT5QLaJV9<gJU5RLaJU9;gJV5TL`JR9=hJS5VL`JR9>fJT5WL^JS9?dJU5XL\\JS9a0dJS5ZL[JR9d0aJS5\\LYJS9e0`J\\5`5eJ^J\\5b5eJ[J]5e5eJWJ]5i5eJSJ]5m5kJhIX5X6PK^IR5b6VKTIl4l6ZKkHi4U7\\KdHf4\\7`K[Hc4e7cKSH_4m7j30000000000000000000000000PGSHm5m7mI]Ho5c7lIfHP6Z7jIPIR6P7kIYIo5g6oIbIj5^6TJlId5T6ZJVJ^5j5aJ]JY5c5eJ_J[5a5cJaJ]5_5aJcJ_5]5^JfJb5Z5\\JgJe5Y5YJiJg5W5WJkJi5U5TJnJk5S5TJnJl5R5SJnJn5R5QJoJo5Q5PJPKo5Q5PJPKP6P5oIQKQ6o4nIRKQ6o4oIPKR6P5mIQKS6o4lIRKS6o4lIRKT6n4kISKU6m4jISKV6n4iISKW6m4hITKX6Z900O0100000000001O1O1O1O1O1M3L4M3L4kMkA[NW>d1TBoMo=P2TBlMo=R2UBhMn=X2TBcMo=\\2TB`Mo=^2k1N101N2N2N2_Ma_OP1o`0lN\\_Oe0l`0XOV_Oc0Pa0YOT_Of0m`0WOU_Oh0Sb0O4L3M]mj3",
+      "size": [
+        640,
+        426
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 569591,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=potted plant, cat_b=truck, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_2289",
+    "prompt": "the potted plant to the left of the truck",
+    "target_box": [
+      75.06,
+      346.5,
+      149.11,
+      573.01
+    ],
+    "target_mask": {
+      "counts": "YY_1:\\c0b0^Oc0]Oc0]Oc0]Oc0]Oc0A?G8G:F:G6I6K5J6J6K5J6J6K5J5L0O1O100O1O1000000001O00001O00001O0000001O00001O00001O00001O2N1O1O2N1O1O2N1O1O2N1O1O1O2N1O1O2N1O1O2N1O1O2VNgi\\5",
+      "size": [
+        640,
+        426
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 33111,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=cat, cat_b=chair, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0133",
+    "prompt": "the cat to the left of the chair",
+    "target_box": [
+      110.23,
+      3.6,
+      325.63,
+      197.4
+    ],
+    "target_mask": {
+      "counts": "[RT11]:4M4K4L4M3L5K4L4M3L4L5L3L3M1O101N1O1O1N0100O1O100O010O1ON3M2N2N2N12N2001O000O2O001O00001O00001O001O00001O00010O001O00001O001O001O1O010O10O100O10O10O1000O0100O1000O010000O010O100000O100oJiMj1W2QNPNm1P2nMXNn1i1mM_NP2a1kMfNS2Z1hMnNU2R1WLlMa0Z1U3j0VL\\N4P1e3d0SLlNGe0V4?nKS1R4mNjKW1V4iNfK[1Z4]2000000000000000O2N1O1O1O1O1O1O1O100O1O1O1O1mNS1J6I8H7J6J61O1O1O1O1O1O100O1O1O00O101O00000000000O2O00000000001N100000000O10000O100O10000O10000O100O10000O100O2O0O2O0O101N100O2O0O2O0O101N101N102M5K4L5L3L5K5K4L9H;D3M3K6J5K5J7JgUi1",
+      "size": [
+        335,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 291009,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=truck, cat_b=backpack, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1157",
+    "prompt": "the truck to the left of the backpack",
+    "target_box": [
+      67.33,
+      146.03,
+      250.07,
+      223.94
+    ],
+    "target_mask": {
+      "counts": "kUl01Y=2N3M2N2N3M2N3M2N3N101O001O00001O001O001O001O001O001O001O001O001O001O001O001O001O001O001O1O001O001O001O001O0000000000000O1O1N2N2N2O1N2N2O1N2N200000000000000000000000000000000000001O001O1O1O001O1O00100O1O001O1O001O1O1O0000O1000000O100000000O1000000O1000000O10001O0O2O001O000O2O001O0O101O001N10001O001O2N2N2N2N2N2N2N2N1O1O00001O00001O00001N100O2N1O2N1O101N1O1O2L3G9HkjR5",
+      "size": [
+        428,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 31230,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=potted plant, cat_b=couch, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0125",
+    "prompt": "the potted plant to the left of the couch",
+    "target_box": [
+      0.0,
+      258.88,
+      134.83,
+      406.65
+    ],
+    "target_mask": {
+      "counts": "c:1j03h;c0TD\\OJ;Q;Z1SE]NK:R;Y1QE`NL7T;X1nDcNM6U;W1lDdN05T;W1kDeN05V;U1iDgN14V;U1iDgN05W;T1hDgN25W;S1fDiN24Y;S1eDiN23Z;T1cDjN22<IP:Z1aEkN4193l9Q1gEkN3176Q:m0dEmN4O1=X:g0aEoN5M0>]:e0\\ERO7JMb0b:X1aEUNKe0f:U1^EVNIh0l:P1[E^Og:a0XE^Ol:`0TE_On:a0PE_OS;?mDAT;>kDBX;<gDEZ;:fDF\\;8cDH_;7aDIa;6]DKc;i1M2N3N2M2N5K46K3L3M2M3M3M2NO1O01N10000SOYDbNg;_1\\D]Nd;d1^DYNc;g1_DmMj;5nCa1b<`N^C`1a<aN`C:09`<]O`C:18_<_O_C946]<A`C935]<B`C935]<BaC827\\<AbC828[<@cC829Z<_OeC71;Y<^OfC80;Y<^OgC60^OMi0[<ChC60]ONk0Y<BiC60\\OOm0W<AkC5O\\O1n0T<AmC4N\\O2P1R<AmC45;n;AnC35=k;AoC26>j;@QD15a0h;^OSD15b0g;^OTDO5e0e;ROQDO5;5NF4m;OXDN5OG3l;FSDN694OI4j;ESD0585OI5i;DUDO495NK6f;DVD0387LL8c;DXDO3JK;:OO8a;EXD02JL9:007`;FYDO1LL7:027_;FXD10KN69038^;FXD11JN69O49\\;GYD1OKO49058[;IXD00K047O;4X;LXD2MK239L=4T;OXD2LM30Z1O_:2YD2KL31^1K\\:5XD3KL31`=OcB3JN20a=OdB2IO20b=NdB2IO21a=MeB3G020b=MfB2F120c=LeB3F120S>NlA200U>MkA31OU>MjA410U>KjA60OW>KiA500W>KiA500\\>1dAN\\>2dAN\\>3cAN]>1dAN\\>2eAM[>4fAJZ>6gAIZ>681O00010O0000O101O000O101O000O101O0O1000lk\\7",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 486376,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=tv, cat_b=couch, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1957",
+    "prompt": "the tv to the left of the couch",
+    "target_box": [
+      51.13,
+      130.65,
+      110.0,
+      363.21000000000004
+    ],
+    "target_mask": {
+      "counts": "VRh03l>9G9G8H8H8H8I8G8H8H8H8H8H9G8I7H8H8H9G8H8H8I7H8H8H8H8H7I100O2N1O00O1O101N1O100101NN3K7J8G9H:E`0@?A?@<E8G9GW1jNe0ZO:F:G9F:FWVh7",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 395555,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=tv, cat_b=cat, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1627",
+    "prompt": "the tv to the left of the cat",
+    "target_box": [
+      24.55,
+      145.39,
+      241.25,
+      346.01
+    ],
+    "target_mask": {
+      "counts": "cY9<[;>B>B>B>B>B>B>B>B7I2N3M3M3M3M3M3M3M2N3M3M3M3M3M3M1O1O001O00001O0O2O00001O001O00001O00001O001O0000001O000000001O0000001O0000001O000000001O0000001O000000001O0000001O0000001O000000000000000000001O00000O10000000000000000000001O0000000000000000000000000000001O0000000000000000000000000000001O0000000000000000000000000000001O00000000000O1000O10000O1000000O2O000O1000000O10000O100_J\\Jo4d5PKhJd4Y5ZKRK]4n4bKTK]4l4bKVK]4j4aKYK]4h4bKZK]4f4bK\\K]4d4aK_K]4b4bK`K]4`4bKbK]4^4aKeK^4[4aKgK]4k5O001N101O0O2O001O0O2O001N101O1^O[en2",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 306395,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=dog, cat_b=cat, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1231",
+    "prompt": "the dog to the left of the cat",
+    "target_box": [
+      133.18,
+      113.42,
+      323.06,
+      336.44
+    ],
+    "target_mask": {
+      "counts": "San17e>g0YO7_NlNmDZ1P;iNiD^1S;fNgDa1T;cNgDb1V;`NfDe1X;\\NeDh1X;ZNdDl1X;VNeDn1Y;RNdDS2Y;m0N3L1O100O2O0O1O100O2O0O1O100O2L3N2O1O001N2O1O0O2O1O1O0O2O1O1N101O1N2O001O1N2O001N2O1O0O2O001O0O2O001N10001N101O001O00001O001O010O001O00001O01O01O00001O00010O00001O000010O0001O0N2O2N1O1O2N1O1N3N1N100O10O10O10O011O3M2N3M2N5L4K5K5L6I6J4L2O0O2N2O1N2O10O10000kEeKd9[4YFkKd9U4YFoKg9P4WFQLj9o3SFSLo9^41O1O2N1O2N1O2N1O2M2O2N1O2N1ZM_Ej0d:aNPF^1Q:`NRF^1P:^NSFa1R:XNRFg1R:RNQFo1R:kMRFT2`;N3L3N2M4VNZCP1\\=00O01000O100O2N2N2M3N2N1N101O1O0O2N3K8IoXd4",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 362944,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=truck, cat_b=car, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1506",
+    "prompt": "the truck to the left of the car",
+    "target_box": [
+      0.27,
+      145.23,
+      77.71,
+      277.5
+    ],
+    "target_mask": {
+      "counts": "b5T3k:P110001O000000000000000O1000001O0O100O100O10001N1O1O100O2N1O1O1O1O2N1N2O1O1N3M2M3[OVDQNm;o1b001O000O101O00001N101O000O2O000O2O0O101O0O101O0O2O1N106G:F5K3M3WOUB:n=FRB7R>HnA4]>EeA1kfW8",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 72817,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=bottle, cat_b=bowl, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0267",
+    "prompt": "the bottle to the left of the bowl",
+    "target_box": [
+      189.01,
+      1.26,
+      310.5,
+      115.89
+    ],
+    "target_mask": {
+      "counts": "ce[2i0Q<2N1O1O2N1O1O2N1O1O2N1O1O2N1O1O2N1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O100O1O1O1O1O1O1O1O1O1O2N1O1O1O1O1O1O1O1O1O1O1O1O1O2N1O1O1O1O1O1O1O1O4L1O00001O0100O2N101N2O0O2O0O2N101N2N1O2M2O2N1O2N2M2N3M2N3M2N3M3M2N3M2M4M2M4L3M4M3L3M4M2M4L3M4M3J5G\\eS4",
+      "size": [
+        410,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 272095,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=laptop, cat_b=chair, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1054",
+    "prompt": "the laptop to the left of the chair",
+    "target_box": [
+      68.76,
+      189.9,
+      303.71,
+      405.74
+    ],
+    "target_mask": {
+      "counts": "hkl03V=4K4L5K4M4K4L5L3L5K5K4M4K4L5K4M4K4L5L3L5K4L5L3L5K5L3L5K4L5L3L5K4M4K4L5K4M4K5K4M4K4L5K4M4K4L5L3L2N1O100O1O101N1O1O100O1O10O01O13M5K4L5K5K4L5K4L5K5K4L5K4L5K5J5L5K5K4L5K4L5K5K4L1O0000000000000O10O100000000000000000000000000000O100000000000000000000000000000000O0100000000000000000000000000000O10000000000000000000000000000000O0100000000000000000000000000000000O1000000000000000000000000000O1000O10000000000000000000000000007I;E:E7J3M3M3M3M4L3M3M3M4L3M3M3M4L3M3M3L4M4L3M3MVR[4",
+      "size": [
+        425,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 23879,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=umbrella, cat_b=car, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0090",
+    "prompt": "the umbrella to the left of the car",
+    "target_box": [
+      0.0,
+      207.28,
+      99.53,
+      265.65
+    ],
+    "target_mask": {
+      "counts": "_6h1e80000000000000000000000001O00000000000000000000000000001O0000000001O000000001O000001OO2O0O1O2N10001O000O2O00001O00001O0O101O001O00001O0O2O00001O001O001O00001O1O1O2N2N1O2N2N1O2N1O2N2N1O2N2N2N2M3N3MmTR4",
+      "size": [
+        333,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 467908,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=vase, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1891",
+    "prompt": "the chair to the left of the vase",
+    "target_box": [
+      0.0,
+      118.78,
+      114.84,
+      166.06
+    ],
+    "target_mask": {
+      "counts": "c45n9;I8O0O2O001O0O2O000O2O001N101O0O2O001N101O001N2O001O0O2O00O10O0100O10O0100O1O100O1O2O0O100O1O2O0O1O100O2O0O100O1O2O0O100O100O2N100000010O0000000010O00000001O01O000O10001N10000O101O0O10001O0O10000010O1O1O1O100O1O1O4L3N2M4L3M3N3Ld]m3",
+      "size": [
+        334,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 239395,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=motorcycle, cat_b=truck, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0903",
+    "prompt": "the motorcycle to the left of the truck",
+    "target_box": [
+      160.0,
+      146.19,
+      477.85,
+      378.14
+    ],
+    "target_mask": {
+      "counts": "_Y[21n>1O1N101O1N2O1O1N20O100000O1]OH^B8^=N`B2_=0_B1`=2\\BOd=4XBNU1BX;T1[DXOe;i0nCDQ<=bC0i;iNiD`2X;aMfD_2[;bM_Db2b;_MUDi2k;7O001O1N2O001O1O1O2N1O1N3N1O2N1O1O2N1N2O2N1O1O001O001N1010O01O001O0010O01O001O0010O00000000001O000O1000001O0000000000001O00000000001O00000O10001N10000O100O2O000O10000O2O0O10000O1O1N3M2N2O1N2N2N3M2N2N2000001O0001O0000000000001O0000000000001O0O10000000001O0O1O1O100O1O2O0O1O100O1O101N1O100O1O100O100O010O1O100O1O001O1O1O1nNWLlFj3R9ZLkFf3T9^LiFc3U9aLhF`3V9dLgF]3W9fLgF[3W9hLgFY3W9iLhFW3W9lLgFU3W9mLhFT3W9nLgFS3X9nLgFV3V9kLhFZ3S9gLlF^3o8dLoFa3l8`LSGe3i8[1M001O01O01OO1J6J7I6J6M3M4M2M3N2M4M2M4L4M3L3N3L4O1O00100O1O[EZLQ:g4D7I1O1N2O1O1O0O2O1O1O1N2TGhJn7V6O000O1000000O1001O1O001O1O001O1O1O001O1O10O0100kLeGC_82hGO[8FmG9W8]OoGd0T8QOSHP1P8eNWH[1m7ZN[Hf1h7fMhHZ2o91O10O01O010O010O1O010O010O1O010O01N1RMSDh2n;XMSDf2o;XMTDf2l;ZMUDd2U<N3M2N3M2O1N3M2N2N3M2O6I6J6J6G:E:G9F`c[2",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 104999,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=laptop, cat_b=dog, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0376",
+    "prompt": "the laptop to the left of the dog",
+    "target_box": [
+      95.8,
+      262.84,
+      288.36,
+      353.9
+    ],
+    "target_mask": {
+      "counts": "oPX18P=<D;hCRO`;Y1\\DhN\\;d1_D]NY;P2I000O010000000000O10O10000000O100000O1000O1000000000O010000000000O010000000O100000O1000O1000000000O010000000000O10O10000000O1000O100000O10000000O10O10000000000O010000000O100000O1000O10000000O10O10000000000O01000000000O1000O100000O10000000O10O10000000000O010000000O1000O100000O10000000O10O10000000000O01000000000O1000O100000O100000O1000O100O1O100O010O1O100O1O100O010O1C=B>BW`a4",
+      "size": [
+        424,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 119834,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=couch, cat_b=chair, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0445",
+    "prompt": "the couch to the left of the chair",
+    "target_box": [
+      0.0,
+      215.55,
+      236.06,
+      429.0
+    ],
+    "target_mask": {
+      "counts": "i6_6n65J100000000000000000000000000000000001O0000000000001O0000001O00001O00001O001O1O001O001O001O1O001O1O1O1O00001O000000001O000000001O00001O0000001O0000001O00001O0000001O0000001O0000001O00001O0000001O000000001O0000001O000000001O00001O0000001O00001O0000001O0000001O00001O0000001O00001O0000001O0000001O00001O0000001O00001O0000001O0000001O0000001O0000001O0000001O00001O0000001O0000001O0000001O0000001O0000001O0000001O00001O0000001O000gMbGC^87oGBR8:XH_Oh7?aHZO_7d0jHUOW7i0QIPOo6n0ZIkNg6S1`IgN`6W1dIgN]6W1fIgN[6V1iIhNW6W1lIgNU6V1oIhNR6V1QJhNo5V1UJhNl5V1WJhNj5U1ZJiNg5T1]JjNd5T1]3L4I:FToX5",
+      "size": [
+        429,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 423184,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=vase, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1737",
+    "prompt": "the chair to the left of the vase",
+    "target_box": [
+      0.0,
+      346.63,
+      186.13,
+      605.78
+    ],
+    "target_mask": {
+      "counts": "[=o2Qa04L4L5K4L4L5K4L4M4L3M3M3M4L3M3K6K4K5K6J2OO0000001O000000001O0000001O0000001O0000001O0000001O0000001N100000001O0000001O0000001O0000001O0000001O000000001O0000001O0000001O0000001O0000001O000O101O000000001O0000001O0cLRAi1n>jM_AV2a>iMaAV2`>hMbAW2^>iMcAV2]>iMdAW2\\>iMdAW2]>gMcAZ2]>fMbA[2^>dMcA\\2]>dMbA]2_>aMaA`2_>`MaA`2_>_MaAO\\Oi1S?XNaAKFg1i>]NaAI0d1`>bN_AF;c1V>fN`ACb0c1n=jNRCU1n<jNYCP1h<oN^Ck0b<TOeCf0[<ZOkC`0V<^OnC?S<_OPD?P<AQD>P<ARD=o;BSD<n;CSD<n;DSD:n;ETD9m;FVD6l;IVD5k;KWD2k;LXD1i;Nj64WM6I7dN0[^O8]a03Y^O0da0O\\^O1ea0OZ^O2ea0N\\^O2da0M\\^O4da0K\\^O6ca0J^^O6ba0J]^O7ca0H]^O<`a0Ca^O`0[a0@e^Ob0Za0]Of^Oc0[a0]Oe^Oc0[a0\\Oe^Od0^a0YOb^Og0aa0VO`^Oi0ca0TO]^Ol0fa0ROY^On0ja0oNW^OQ1ja0mNV^OS1ma0jNS^OV1\\b0O00O10001O0O1004L4L3M4M3L4L4L4L3M4M3LZbe4",
+      "size": [
+        640,
+        426
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 465353,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=motorcycle, cat_b=car, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1882",
+    "prompt": "the motorcycle to the left of the car",
+    "target_box": [
+      7.88,
+      261.53,
+      136.84,
+      347.5
+    ],
+    "target_mask": {
+      "counts": "cV3;S;:J5L1N3M3N1N1O1O1O1O1O04MO1O1O100O100O100O10000ON3L31O4L4L4K4]O\\NRGe1l8_NPGc1m8bNPG`1m8bNQG`1n8`NQGb1o8^NPGd1o8[NPGg1Q9XNmFj1S9UNmFm1R9:1O001O1O00000001O000000O1N2O0O101M2N11O100100O4L4M3[NZFY1g9bN\\F^1m91O1O1O0O1000O100O1O010O1O00000000O100000O1O1O001O1O11N2O1N2O1N2N2N2N1000000000000000000000O100jN\\F=d9B]F>c9B^F=b9B`F<a9D`F:a9F_F:b9D`F:a9F`F8a9H`F7b9F_F9e9D\\F:i9B^F6f9F^oe5",
+      "size": [
+        371,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 473156,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=tv, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1916",
+    "prompt": "the chair to the left of the tv",
+    "target_box": [
+      54.95,
+      381.25,
+      158.62,
+      474.56
+    ],
+    "target_mask": {
+      "counts": "hWj02j>4L4L4L4L4L4jNWOQDm0i;YOSDk0g;[OUDi0e;]OWDg0c;_OYDe0b;@ZDd0f;\\OVDh0k;WOQDm0o;SOmCQ1S<n01O0000001O0000001O00001O0000001O00001O0000001O00001O0000001O00001O0000001O00001O0000001O00001O001O001O1O1O001O1O1O001O1O1O1O001O1O10O01O1O1O001O1O1O0N3K5L3L5K5K4L5K5L4K5K5Kk`Q7",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 138704,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=potted plant, cat_b=tv, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_0524",
+    "prompt": "the potted plant to the left of the tv",
+    "target_box": [
+      0.0,
+      82.87,
+      72.16,
+      249.36
+    ],
+    "target_mask": {
+      "counts": "]3b0]>T1lNT1lNT1lNb0^O1O1O1O0O2O1O1O001O001O000O1000O1O1N2L4M4M4M3M3RLWEa3l:\\LVEm0Ma1Q;^MUEQ1K^1Z;bNgDZ1\\;fNeDW1];iNdDU1];kNdDT1];kNcDT1^;lNcDR1^;nNbDR1^;nNcDP1^;aN[DL7c1^;aN\\DK7b1^;cN\\DJ6c1^;cN\\DJ7a1^;eN\\DH8b1\\;eN^DH7b1[;fN_DH6`1\\;hN^DH7_1[;iN_DH5_1];hN_DH5^1];jN_DH4]1];jNaDH3]1\\;kNaDI3[1\\;lNbDH2\\1\\;lNcDH1[1\\;mNdDG1\\1Z;mNfDG0[1Z;nNfDG1[1Y;mNgDH0Y1Z;oNgDG0Y1Z;oNgDHOW1[;QOgDG0?Q<IPDHV=8j0O001O001O001O004LcTZ8",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 279331,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=dog, cat_b=backpack, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1091",
+    "prompt": "the dog to the left of the backpack",
+    "target_box": [
+      82.75,
+      121.54,
+      312.89,
+      447.35
+    ],
+    "target_mask": {
+      "counts": "]Xd1:fc000000O10O1000000000000O01O1O1O1O100O001O1O1O1O100O001O000N2N2N2N2N2N2N2N2N2I7mM@^@i0Z?R2H8H8H7M31O0O2O001O0O2O001O001N15L4K5L4K5L4L4L4L4M1N2O1N2NeNQBhLn=X3TBgLj=Y3XBgLg=Y3[BfLc=[3^BeL`=\\3aBdL^=[3eBdLY=]3hBcLo;VO]DW4FbLk;]OYDR4M_Lk;CSDn34^Lh;JoCh3;[Lf;2jCd3a0XLe;:eC]3i0VLc;a0_CZ3o0SLb;V5_DhJa;X5bDfJ^;Z5cDdJ];]5dDaJ\\;_5gD^JY;c5hD[JY;e5iDYJV;g5lDWJT;j5`1010O1O003N3L5K5L3L5K4L5L3L5nDnHm8W7jFnHU9V7cFPI\\9V7ZFoHd9X7QFnHm9Y7hEmHW:Y7_ElH_:[8O2O1N2N2OjLQF\\Lm9\\3cF^L[9]3QG]Lo8c3XGWLf8j3`GQL^8P4iGiKW8X4mGbKS8_4oG^KR8b4PH[KQ8e4QHXKo7j3nEeKT2>o7m3QFaKR2?n7o3UF^Ko1`0m7R4XFZKn1a0j7U4ZFXKn1`0i7X4YFYKo1<i7[4YFXKP2:g7^4ZFXKQ27f7a4ZFWKQ=i4oBWKQ=i4PCWKo<i4QCWKo<h4SCWKl<j4TCVKl<j4UCUKk<k4UCVKj<j4WCUKi<j4XCVKh<j4YCUKf<n4XCRKh<o4XCQKg<P5XCPKh<Q5XCnJh<S5WCmJi<T5WCkJi<V5VCkJi<V5WCiJh<Z5VCfJj<[5VCdJj<]5UCdJj<_5TC_Jm<d5PCZJR=j5kBTJV=o5gBPJZ=T6cBjI^=Y634K5L3M4L3M4L3M4L\\LYC2e<M\\CmM0g0f<V1[ClM8n0`<P1YClM?U1a<a0RCSNf0\\1`<6lBXNk0b1W<5oBTNQ1h1m;3SCQNV1j1g;4TCnM[1m1`;4WCjM_1Q2Y;4WFnNi9Q1YFoNj9k0YFTOk9g0VFZOm9a0UF_Oo9;RFEn9:TFFk99WFGi97XFIh96ZFJe94^FLa93`FM`92bFM_91bFO^90dFO\\90fFOZ90gF0Y9OiF0X9MkF2U9MlF3T9LnF3R9LoF4Q9KQG4P9HSG8m8EVG;j8BYG>g8_O]G?d8^O_Ga0c8\\O_Gc0b8ZOaGe0`8XOcGf0n=N1O1O1N3N1O1O1N3N1O1O1N3N1O1OWcX3",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 460755,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=vase, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1863",
+    "prompt": "the chair to the left of the vase",
+    "target_box": [
+      25.07,
+      408.98,
+      285.74,
+      632.9
+    ],
+    "target_mask": {
+      "counts": "dW`02kc03L4M3M3M3M3L4M3M3M3M3L4M3M3M3M3L4M3M3M3L4M3M3M3M3L4[L^MiEe2V:aMbEb2^:bM[Ea2d:dMUE_2k:aMQEc2n:_MnDd2R;\\MkDf2U;[MhDd2\\;\\MaDd2a;]M[Dc2h;_MTD`2P<`MmC`2U<aMhC^2\\<bM`C^2c<dMYC\\2j<dMSC[2P=fMmBY2W=gMfBY2\\=iM_BW2d=jMYBU2k=kMRBU2P>lMmAS2W>mMfAR2]>PN^AQ2e>oMXAP2k>RNQAm1S?TNi@l1Y?VNc@i1a?X121O100O1000O101O0000000O2O0000001O0O1000001O000O10001O00000h1XN01N100O100O2O0O100O101N100O101N1F:\\Od0\\Od0\\Oe0[Od0\\Od0\\Od0N201O000000010O0000001O0000000010O000001O000000001O01O000001O0000001O01O0000000000000000001N10000000000000000O2O00000000000000?@b1_N`1`Na1_N5K000000000O100000000000000O10000000_MlBVNT=j1\\CfMd<Z2lCVMT<i2]DgLc;Y3mDWLR;i3c20000O100O10000O100O10000O100O100YMn_O`1R`0_NR@]1o?cNT@Z1m?dNW@Z1h?fN[@Y1c?fNa@Z1\\?fNg@Y1W?fNm@Z1P?fNSAY1k>fNYAZ1d>fN_AY1_>fNeAZ1X>fNkAY1S>fNQBZ1l=fNWBY1g=fN]BZ1`=fNdBX1[=fNiBZ1T=eNPCZ1n<fNUCZ1h<eN\\CZ1b<fNaCZ1\\<eNhCZ1V<fNmCZ1P<eNTDZ1j;fNYDZ1d;eN`DZ1^;fNeDZ1X;eNlDZ1R;fNQEZ1m:dNWE[1g:dN]E\\1`:aNfE^1X:_NnEa1o9[NXFd1f9YN`Fg1n=O1I7I7I7J6I7I7I7Icaf5",
+      "size": [
+        640,
+        579
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 548882,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=vase, cat_b=cup, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_2214",
+    "prompt": "the vase to the left of the cup",
+    "target_box": [
+      1.08,
+      52.85,
+      114.34,
+      196.31
+    ],
+    "target_mask": {
+      "counts": "Ub09V>b0_Ob0A>0001O001O001O0O2O00001O001O001O001O001O00001N101O001O001O00001O001O001O001N10001OO100O10000O100O10000O100O01000O100O10000O100O10O010000O010O1000O0100O10O10O100O010O1N2N1O2N2N1O2N2N2N101N2N2N1O2N2N2N1O2N2N2N1O2L4J6K4K6Ja]f7",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 471861,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=potted plant, cat_b=chair, control",
+    "phenomenon": "spatial_left_control",
+    "probe_id": "spatial_1909",
+    "prompt": "the potted plant to the left of the chair",
+    "target_box": [
+      0.0,
+      61.13,
+      87.53,
+      231.89
+    ],
+    "target_mask": {
+      "counts": "T54kc09F:G9G8H3mLjNWCZ1g<mNPCV1n<ROhBS1U=UO`BP1_=XOUBn0h=[OlAj0S>^OaAg0]>BWAd0f>]2OO01O01O00010O00001O01O01O0010O0001O01O01O000010O0001O01O01O00001O01O000000000001O00000000000000001O0001O0000000001N1O1O1O1N2O1O1O1O2N1O4gN_1WOj0VOj0WOi0[Oald7",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 63888,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=bus, cat_b=truck, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0243",
+    "prompt": "the bus to the right of the truck",
+    "target_box": [
+      310.65,
+      130.79,
+      550.11,
+      360.53999999999996
+    ],
+    "target_mask": {
+      "counts": "gQb45f>7J5cMDPFb0i9EPFa0j9EQFa0h9FRF`0g9GUF<d9LXF8a9O[F4g9KUF9i9HTF<i9GSF<l9FQF=m9EoE>o9EmE>R:DjE`0S:CiE`0V:CeEa0Y:T2N3N1N2O2N1N3N1N2O3M2M3N2M4M2M3N3M2M3N3L3N2N3L2O0O10000O2O0O100O2O000O101N1000O0100O10000O100O100O10000O100O10000O100O01000O100O100O10000O100O10000O1000000000O100000000000000000000000000000000000000O100000000000000000000O01000000000000000O10000000000000000O1000000000000000000O10000000000000000O10000000000000000O1000000000000000000O10000000000000000O1000000000000000000O10000000000000000O101O1O2N1O1O1O2N1N2O1O2N1O1O1O2N1O1O1N3UOj0TOl0SOn0ROm0SOm0SOkQZ1",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 62608,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=bowl, cat_b=cup, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0238",
+    "prompt": "the bowl to the right of the cup",
+    "target_box": [
+      396.63,
+      134.83,
+      532.5799999999999,
+      217.98000000000002
+    ],
+    "target_mask": {
+      "counts": "SPR65]?8I6J4L2N2N2N2N2N2N2N2N1O2N2N2M3N2O1O1O1O1O1O1N2O00001O00001N10001O00001O0O101O00001O000O2O00001O00001N101O00001O00001O01O01O001O00010O00001O000010O01O00000001O00000000001O0001O000001O00000000001O00001O001O01O01O001O00001O001N1O1O2O0O2N101N1O1O2O0O2N100O2N3M4M3I7G:E:G9GcRd1",
+      "size": [
+        500,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 489785,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=couch, cat_b=chair, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1970",
+    "prompt": "the couch to the right of the chair",
+    "target_box": [
+      448.07,
+      205.6,
+      640.0,
+      447.65999999999997
+    ],
+    "target_mask": {
+      "counts": "UWb61o>3L4M2M4M3L3N3M3L3N3PDQOh9R1TFZOb9i0ZFA\\9c0_F@`9b0]FAa9b0ZFBc9?\\FDb9=\\FFa9;]FIa97^FK`96_FM_93aFO]91cF1Z90fF2W9OiF2T90lF2P90PG2l80TG2h81VG2f80ZG2c8O]G2b8N^G4_8MaG5]8KcG7[8IeG9Y8GfG;Y8EfG>X8BhG>X8BhG?W8BhG>X8AjG?U8_OmGa0S8]OoGc0Q8[ORHe0m7YOUHg0k7XOVHi0i7UOZHj0g7SO[Hn0e7oN]HQ1d7lN_HS1b7kN_HV1`7jN`HV1`7iNbHW1]7hNdHX1\\7gNeHY1[7gNfHY1Z7eNgH[1Y7dNiH\\1V7cNkH]1U7cNkH^1T7aNnH^1R7aNoH_1Q7aNoH`1P7_NRI`1o6^NRIc1m6\\NTId1l6\\NUId1j6[NWIe1i6ZNXIf1h6ZNXIg1g6XNZIh1g6VNZIk1e6TN\\Il1d6TN\\Im1c6RN^In1b6QN_IP2`6oMaIQ2_6oMbIQ2]6nMdIS2\\6kMeIU2[6kMeIV2Z6iMgIX2X6gMiIY2W6fMjI[2U6bMnI^2R6_MQJb2o5ZMTJg2k5VMXJj2o81O1O010O001O1O001O1O001O00100O001O1O0010O01O1O001O1O010O00QM\\Dc2c;RMiDn2d;0PMUMlIk2Q6YMmIh2Q6\\MmIc2R6`MlIa2R6cMlI\\2S6hMjIY2T6jMkIV2S6nMjIR2U6QNiIP2U6TNiIl1U6WNiIi1V6[NgIf1W6]NgIc1X6aNeI`1Y6cNdI_1Z6dNdI\\1]6dNbI]1]6dNbI]1]6dNcI[1^6dNbI]1]6dNcI[1]6fNcIZ1]6fNbI[1]6fNcIY1]6gNdIY1[6hNdIX1]6hNcIV1^6kNbIS1_6nN`IP1c6PO]In0d6RO]Ik0e6VOZIi0h6WOWIh0j6XOVIf0l6ZOTIe0n6YOTId0n6\\ORIc0o6]OQIa0Q7_OoH`0S7^OnHa0S7_OnH>T7BlH=V7AkH=W7CiH<X7DhH;Z7DfH:\\7EfH9[7GeH7^7HbH7_7HbH8^7HbH7`7H`H7a7I`H5a7K_H5a7K_H4c7L\\H3e7M[H2f7N[H1f7NZH1g7OYH0h70XH0i7OWH0j70VHOk71VHMk74THLl74THKl76THIl78THGm79SHG_9gNbFW1d;O1OmD",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 82338,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=cow, cat_b=motorcycle, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0291",
+    "prompt": "the cow to the right of the motorcycle",
+    "target_box": [
+      226.49,
+      202.93,
+      354.96000000000004,
+      308.79
+    ],
+    "target_mask": {
+      "counts": "PeZ31n>1O1O1O10000O1FLhA4X>MgA3Z>LfA4Z>LeA2^>NaA1a>8O0^AI[>`0O2M6H4L1O2I7I7K5O100O100O101N2O1N2O0O010O01003L3N3L4N=B3M00XOQD_No;]1XD`Nh;[1`DbNa;X1fDfNY;[1hDdNX;\\1lD`NS;a1V10O2O0RDYNc:g1[E[Ne:g1VE\\Ni:k1oDWNQ;j1jDZNV;g1eD^NZ;f1^D^Nb;`200000LYDoLg;e2_D\\Mf;]2b0]O`CdNb<\\1aC^Nb<b1>6I2O1dCnMh;Y2jCQNS<`2N3M6I100000dNoDiNQ;o0bEfN^:Z1bEfN^:Z1cEeN]:Z1dEfN\\:Z1eEeN[:[1e11N10000mC]Ni:b1VE`Nj:_1UEcNk:]1SEeNm:Z1REhNn:Y1oDiNQ;X1lDjNT;Y1hDhNW;]1cDeN];_1XDgNi;V2200FPDdMP<Z2=M2N2[O]CkNe<U1aCaNd<]1`0O101O03hC]Nn:g1kD[NU;j1dDXN];l1[DWNe;b21O001O0@oCPNS<k1TDRNn;n1c0O1O2QNaCQ1BnNY>8lAGg>0SZU4",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 322445,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=backpack, cat_b=handbag, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1327",
+    "prompt": "the backpack to the right of the handbag",
+    "target_box": [
+      319.42,
+      146.66,
+      444.05,
+      322.61
+    ],
+    "target_mask": {
+      "counts": "fdW61lc05J6K5J7K4L4W]ORO[b0Y1O3N2M3L5L3M3M3M4L2K0M23N22N3L3N<De0[O4LN3H9H7H9G8J6O2M310CY^OaNfa0^1\\^OaNda0^1^^ObNba0\\1`^OdN_a0[1c^OdN^a0Z1d^OfN[a0Y1f^OhNYa0W1i^OiNWa0U1k^OjNUa0U1m^OkNRa0T1P_OlNo`0S1S_OlNn`0R1S_OoNl`0P1V_OPOi`0o0Y_OPOg`0o0[_OQOe`0m0]_OSOb`0l0`_OSO``0l0a_OUO^`0j0d_OVO\\`0h0f_OWOZ`0h0h_OXOW`0g0k_OYOT`0f0m_OZOS`0e0o_O[OQ`0c0Q@]On?b0T@^Ok?a0W@^Oi?a0Y@_Of?`0[@Ad?>^@Ab?>`@B_?=c@C\\?=e@B[?=g@CX?<j@DU?;m@DT?;m@ER?:PAFP?8RAGn>9SAGm>8UAGk>9UAGk>9UAFk>:VAFj>:VAFj>:VAEk>:]2100000O01000O10O10O11O0O101O001GDk\\O=Vc0610O011O001O00001N101O2N5K5K4L5J5L2N2N1ON3M?A?A`0@_Yf0",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 321960,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=tv, cat_b=chair, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1322",
+    "prompt": "the tv to the right of the chair",
+    "target_box": [
+      342.65,
+      199.83,
+      459.26,
+      311.68
+    ],
+    "target_mask": {
+      "counts": "fdf6f0cb0l0YN`Nk_OZ2R`0l0M2O1000000000000000000000001O0000000000000001O0000000001O0000000000000000000000001O00000000000000000001O0000000000000001O0000000000000000000000000000000000000001O0^Nc_OA]`0>Q@UOo?j0_@jN`?U1o@]NQ?b1g1O10000000000O1000000000000000000000000O1000001O000ASn`3",
+      "size": [
+        640,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 28253,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=dog, cat_b=suitcase, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0111",
+    "prompt": "the dog to the right of the suitcase",
+    "target_box": [
+      350.88,
+      263.57,
+      469.49,
+      343.34
+    ],
+    "target_mask": {
+      "counts": "WkT56j>3L2O0`AFZ>;cAG\\>?O0O2N2N101N1O2O1M2N3L4N1ROSOjCm0T<ZOfCh0X<\\OdCe0^<\\O_Cd0c<]OYCd0i<i02M2O1N2O2M2O1N3N1N2O0O100O010O10O01000O01000001N1000001O0O0100O1O101N101NTOeB5[=JfB7X=HjB8V=GkB:T=EmB<Q=CQC=o<BSC>l<AUCa0MRO`<<eCd0GROd<9fCg0CQOg<7gCo0\\<mNeCS1^<hNeCW1R=00O10001O00001O00001O00001O0000001N101O0O2O001N101O001N101O1O2M2O1O1O1N2O1O2N1N2O1N2O1N3Mhj_2",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 39512,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=laptop, cat_b=chair, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0158",
+    "prompt": "the laptop to the right of the chair",
+    "target_box": [
+      449.07,
+      244.69,
+      593.96,
+      337.76
+    ],
+    "target_mask": {
+      "counts": "g`k51Z=1O1O2N1O1O2N1O1O1O2M1000001O000000001O00000O10001O001O001O1O001O001O0O2O001O001O00001O001O0N2M4L3M3M4L3M3M4L3M3M4L3M4L3M3M4L3N201O00001O001O00001O00001O00O10000000000O1000001O000O10001O000O2O001O00001N10001O001O0O101O00001N10001O001O0O101O0O1M4M2M3N3L3N3L3N2N3L3N2M3N3L3M3M3M4K4M3M3M3M4Kfmb0",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 234948,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=backpack, cat_b=bottle, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0871",
+    "prompt": "the backpack to the right of the bottle",
+    "target_box": [
+      268.82,
+      0.0,
+      602.12,
+      196.31
+    ],
+    "target_mask": {
+      "counts": "[Un34h>5J6K4K6K5L4K4M4L4L4K4M4L4K5K4M4K5K4L5L4O1O001O1O1O2N1O2N1O2N1O1O2N1O2N1O2N1O2N1O2N1O1O1O1O1O1O1O1O1O1O1O001O001O001O001O00001O001O0O101O001O000000000000000000O100000000000000O10000000000000000O100000000001O001O00001O00001O000010O0001O010O3M4L3N3L5K4L3N0O001O100O1O00100O1O1O10O01O1O100O001O100O1O00100OeNfFPMZ9m2jFSMU9k2oFSMR9j2QGVMn8h2UGWMk8g2XGYMg8f2[GZMd8e2^GZMb8e2aGZM_8c2dG\\M\\8c2fG[M[8d2gGYM[8e2hGYMY8f2iGWMY8h2jGTMX8k2kGRMV8n2kGoLX8o2kGmLW8S3kGjLV8V3lGfLV8Y3mGfLR8Z3oGfLP8Z3RHeLm7Z3VHdLk7[3m10000O100001O100O001O1O1O100O001O1O100O001O1O1O100O001O1O100O001O1O100O001O1O010O1O001O1O010O1O00N2O2M2N2O1N2O2O02N1O2N101N1O2N1O2O0O2N1O2N1O2O0O2N1O00010O001O00001O010O00001O001O00001O010O00001O001O000010O000001O0000000001O0001O00000000000001O01O00000000000001O000O101O0O100`MiE7X:CQF8P:CXF:h9AaF;_9@jF<W9^OQG>P9^OXG>h8@_G;a8CiG4Y8IRHNn70\\HHd76gH@Z7>PIZOQ7c0g3N2L4M4K4Llha0",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 262991,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=couch, cat_b=laptop, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1019",
+    "prompt": "the couch to the right of the laptop",
+    "target_box": [
+      445.33,
+      215.33,
+      636.8299999999999,
+      411.42
+    ],
+    "target_mask": {
+      "counts": "SVj56U=4K5L5J5L4M4K4L4L5K4L4L5K4L4L5K4L4L5K4M3L4L1O000000001O000000001O01O0001O000000001O0000000010O00000001O0000001O0000000010O00000001O000000001O00000010O00000001O000000001O000001O01O000000001O0000001O000001O01O000000001_HdLQ5\\3nJeLR5[3lJgLT5Y3kJhLU5X3jJiLV5X3gJjLY5V3fJkLZ5U3eJlL\\5S3bJoL^5R3`JoL`5Q3_JPMa5P3]JRMc5n2\\JSMd5m2[JTMe5m2XJUMh5k2WJVMi5j2VJWMj5i2TJYMl5g2SJZMm5g2QJZMo5f2oI\\MR6c2mI^MS6b2lI_MT6a2kI`MU6a2hIaMX6_2gIbMY6^2fIcMZ6^2cIdM]6\\2bIeM^6\\2`IeM`6\\2]IfMc6[2[IfMe6Z2ZIgMf6Z2WIhMi6Y2UIhMl6X2RIiMn6W2PIkMP7V2nHkMR7V2lHkMT7V2iHlMW7T2hHmMX7T2fHmMZ7T2cHnM]7S2aHnM_7R2`HoM`7n30000001O0000000000000000000000001O000000000000000000000000001O00000000000^L^T1",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 426994,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=bottle, cat_b=tv, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1756",
+    "prompt": "the bottle to the right of the tv",
+    "target_box": [
+      429.03,
+      48.15,
+      480.65,
+      176.37
+    ],
+    "target_mask": {
+      "counts": "gXm44Z;9F:G9G9G9G8H9G9G9F:N2N2O0O2O1N2N2O1N2L3H9M3O10000000O100000000000000O100000000[L^HU3S8O2M2O1O2J5A`0_O`0A`0@?A?Adl6",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 171310,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=vase, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0669",
+    "prompt": "the chair to the right of the vase",
+    "target_box": [
+      371.05,
+      229.31,
+      640.0,
+      473.93
+    ],
+    "target_mask": {
+      "counts": "RX^5e1W=j0UOg0YO:G:E:F;F8G5K5L400O100O100O12N1O1O1O1O1O2N1O1O1O1O2N1O1O1O1O1O2N1O1O1O1O1O2N1O1O1O1O2N4L4L4L4L3M4L4L4L4L4L3M4L4L4L4L4L3M4L4L4L4L4L3M4L4L4LQaa1\\OT_^Nc0]Oc0^Oa0F:M3M3M3N2M3M3N2M4L3N2M3M3N2N2M3N2M3N3L3N2N2M2O2M2O1O2M2O1N3N1O1N3N1N2O2M2O2N1O1O2N1O1O2N1O1O2N1O1O2N1O1O001O1O1O001O1O001O1O001N2O1O001O1O0000O1O1O1N3N1O2N2N2N2N1N3N2N2N2N1O_F",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 69021,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=potted plant, cat_b=dog, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0260",
+    "prompt": "the potted plant to the right of the dog",
+    "target_box": [
+      467.08,
+      74.27,
+      543.8299999999999,
+      251.44
+    ],
+    "target_mask": {
+      "counts": "e_`61X>2O1N1O2XD<g8DYG>f8AZG`0e8AjGOW80jG0U81kGOT81mGObNLP85]I0]N2T8O_IN[N8T8JaINZN:T8HaIO[N<Q8E\\I7\\N:Y8_O\\I6YN=[8]O\\I5YN>\\8]O[I5WN?_8\\OZI5UN`0c8ZOXI6UN`0c8[O[HJSO;N`0f8[OWHNSO6Oa0h8\\OnFLd05D21a0k8\\OhFOi05[O56;o8]OeFOl0S1^OBR9\\ObF0d0I@W17DT9\\O`F1d0IBX13AX9^O^F0d0JDY1O^O\\9_O]F0c0JG]1G[Ob9_O[F0d0JH\\2Z9XNkF\\2V9eM_Fd2b9R10OOYMcFd0[9SORGk0l8mN`GQ1^8jNkGU1Q8kNQHV1m7iNTHY1j7fNWH\\1g7cNZH1QOKa85_H\\OD`0k73bH\\ODc0h7ARGNb1ODc0f7_OVGMa12Cd0c7]O[GKa12Bg0c7XO\\GN`14Af0e7SO]G2]16Ae0U8VOYH5Cd0U8VOXH7C2f8GgG7DJl8N`G8EJk8N_G9GHj80]G9IFk82[G7KGj83YG7MFk83VG70Ek85SG63Ek84QG66Fi85PG49Ei87lF4<Eh88jF2`0Fg88gF2c0Ff89eF0g0Ff8:bFOj0Fe8;`FMn0Ge89]FOn<01N2O001O1N2O1O_fZ1",
+      "size": [
+        457,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 327413,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=tv, cat_b=potted plant, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1352",
+    "prompt": "the tv to the right of the potted plant",
+    "target_box": [
+      330.04,
+      152.34,
+      432.84000000000003,
+      261.4
+    ],
+    "target_mask": {
+      "counts": "\\mj4:R>d0[Oe0\\Od0[Oe00O10000000000O1000000000SDWMc;i2]DWMc;h2]DZMb;f2^DZMb;f2^D[Ma;e2^D]Ma;c2_D]Ma;c2^D_Ma;a2_D`M`;_2aDaM_;_2`DcM_;]2aDdM^;\\2aDeM_;[2aDeM_;n2000000000O100000000000000O100000000000000O1000000000000O10000000000^OXDlMh;T2YDkMg;U2[DhMf;X2[DgMe;Y2\\DfMd;Z2^DdMb;\\2_DcMa;]2`DbM`;^2bD`M];a2dD^M\\;b2eD\\M\\;d2eD[M[;e2`00000000000000000000000O100000000000000000000000000[NlmP3",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 22863,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=couch, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0083",
+    "prompt": "the chair to the right of the couch",
+    "target_box": [
+      312.18,
+      307.17,
+      458.55,
+      472.98
+    ],
+    "target_mask": {
+      "counts": "jQb4d0Z>:F:F7I000000000O1000000000000000IeBkN[=U170000000000000O10000000000000000000000000000000000O10000000000000000000000D<0000O100000000000000000000000000000000000000000000000000XOZNXDf1h;[NWDe1i;]NUDc1k;h000000000000000O100000000000000000006J0bM^2001O00000000001O0K5N200O101O000002N4L3NO0000001O2N2N1O2N2N2N2N2N2N2K3nNS1nNQ1nNS1nNZVd2",
+      "size": [
+        478,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 144772,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=couch, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0552",
+    "prompt": "the chair to the right of the couch",
+    "target_box": [
+      448.15,
+      273.23,
+      640.0,
+      426.0
+    ],
+    "target_mask": {
+      "counts": "Yij51V=3M3M3N2O1O1O1N2O1O1N2O1O1O1O1O1O1O1O1L4G9M3M3N2M300O1000000000000iN[NiFe1S9_NlFb1P9bNPG^1l8fNTGZ1h8jNXGV1d8nN\\GR1`8RO`Gn0^8TObGl0]8UOcGk0\\8VOcGk0\\8VOdGj0[8WOeGi0Z8XOfGh0Y8YOgGg0X8ZOhGf0W8[OiGe0W8[OiGe0V8\\OjGd0U8]OjGd0U8]OkGc0T8^OlGb0S8_OmGa0R8@nG`0Q8AoG?P8BPH>o7CQH=o7CPH>o7CQH=n7DRH<m7ESH;m7ESH;l7FTH:l7FTH:l7FTH:l7FTH:k7GTH:l7FTH:l7FTH:k7GUH9k7GUH9k7GUH9k7GUH9j7HVH8j7HVH8j7HUH9k7GUH9j7HVH8j7HVH8j7HVH8j7HVH8i7IWH7i7HXH8h7GYH9g7GXH:g7FZH:f7E[H;e7D\\H<d7C]H=b7D^H<b7C_H=a7B_H?a7@`H`0_7AaH?_7@bH`0^7_OcHa0\\7@dH`0\\7_OeHa0[7_OdHb0\\7]OeHc0Z7^OfHb0Z7]OgHc0Y7]OgHc0Y7\\OhHd0W7]OhHd0X7[OiHe0W7[OiHe0W7ZOjHf0U7[OkHe0U7ZOlHf0T7ZOkHg0U7YOkHg0T7ZOlHf0T7ZOlHf0T7ZOlHf0U7YOjHh0V7YOiHg0W7YOiHg0W7YOiHg0W7YOhHh0X7XOhHh0X7XOhHh0Y7WOgHi0Y7WOgHi0Y7XOeHi0[7WOeHi0[7WOeHi0[7WOeHi0[7XOdHh0]7XOaHi0_7YO^Hh0b7YO\\Hh0d7YOZHh0f7ZOWHg0i7ZOUHg0k7ZOSHg0n7ZOoGg0Q8ZOjGj0V8XOaGo0_8n11O00001O001O00001O00001O00001O001O00001H7H8O2M2O1O2M2O2N1N2O2M2O1O3N1N3M2O2M2O2M2N3N1N3N1N3M2O2M2NXF",
+      "size": [
+        426,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 527375,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=laptop, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_2135",
+    "prompt": "the chair to the right of the laptop",
+    "target_box": [
+      445.53,
+      182.34,
+      500.0,
+      277.45
+    ],
+    "target_mask": {
+      "counts": "Pej32f81O1N2O1N2O1N2O1O1N2O1N2O1O1N2O1N2O1N2O1N2O1N3N1N2O1N2O1N2O1N2O1N2O1N2O1M3N2N2M3N2N2M3N2N2M3N2M3N2N2M3N2O1YJ",
+      "size": [
+        281,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 361055,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=dog, cat_b=couch, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1489",
+    "prompt": "the dog to the right of the couch",
+    "target_box": [
+      161.8,
+      243.59,
+      263.23,
+      466.75
+    ],
+    "target_mask": {
+      "counts": "obU3W1Xb0h0\\NXN\\@P2Z?ZNa@k1[?YNa@k1[?YNa@j1]?XN^@m1`?VN[@l1e?W10TOZ@^Me?c2c@TM]?n2i00UBmLl:R3UEoLi:T3VEmLh:U3WEkLh:X3UEiLj:Y3UEhLi:[3UEeLk:\\3TEdLl:^3REbLn:_3RE`Lj:e3hC[L3OT<h3RCVL1<d0FX<j3kB^Mh0gN]<m3iBaMe0cNa<g5ZCZJe<j5WCWJh<m5TCTJk<a6O00100O1000O2ROXCaJj<LlBQ5b0nJQ=MeB`4?_K`=`4bB\\Ka==dAf3\\?QLd@O1o3e?nK]@Q4j?N2O1XLU@Y3[`0M3N3M4K4M2NQ@UMk>j2SAWMn>h2RAXMP?g2n@ZMS?e2l@\\MV?l2`@TMa?e32O0O2N1O2N1SOl_OlMU`0o1R@nMP`0o1T@hMS`0V2m0N3M3M2N3N3M5L5K2N2N8H001OO10O010O010O100O1O2N0O2O1O0O2O1N2N2M4M2M4LVSV3",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 309580,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=couch, cat_b=cat, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1250",
+    "prompt": "the couch to the right of the cat",
+    "target_box": [
+      349.48,
+      228.67,
+      640.0,
+      473.53
+    ],
+    "target_mask": {
+      "counts": "foT51o>0O1O100O1O100O1O1O1N2O2N1O100O1O100O1O100O100O1O100O1O100O1O100O1O100O1O100O10000O10000O1000000O1000000O100O1O1O1O100O1O1O1O1O1O1O100O1O1O1O1O100O100O1O100O100O1O100O100O1O100O100O100O1O100O100O1O100O100O1O100O1O100O1O1O100O1O1O100O1O1O1O100O1O1O100O1O1O100O1O100O100O1O100O1O100O100O1O2O0O100O1O100O100O1O100O100O100O100O100O10000O100O100O100O10000O100O100O100O10000O100O100O100O10000O100K5J6L4O1O1O1O1O1O1O100O1O1O1O1O1O1O1O1O100O1O1O1O100O1O1O1O1O1O1O1O1O1O1N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O2N1O1O1O1O1O1O1O1O1O1O1O1kH",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 333643,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=laptop, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1390",
+    "prompt": "the chair to the right of the laptop",
+    "target_box": [
+      421.49,
+      102.53,
+      564.7,
+      411.57000000000005
+    ],
+    "target_mask": {
+      "counts": "fS_52h<b0_O`0@a0L3M4L4L1O1O1O1O1O1O001O1O1N2O1O001YJdM`0]2YOjMf0W2SOQNk0P2VNoNi1Q1XNoNg1R1YNnNf1S1ZNnNd1S1\\NmNc1T1]NlNb1U1^NkNa1U1`NlN]1V1cNjN\\1W1cNjN\\1W1dNiN[1X1eNiNY1W1hNiNW1X1iNhNV1Y1jNgNU1Z1kNgNS1Z1mNfNR1[1nNeNQ1[1POeNo0\\1QOeNm0\\1SOdNl0]1TOcNf0b1[O^N?h1AYN9l1GTN3R2MoMLC\\LU1i3XOE\\OQMZ1Z3[O^O]O]MW1U3KjNoNVNU1P34\\NjNiNP1k2=oMeN[Ol0g2g0`M_NOh0a2n0ZMWN:j0\\2P1YMSN?j0Z2S1WMoMe0i0X2X1RMkMo0e0R2`1nLiM]1:h1n1jLdMk12^1Z2gLbMW2GU1h2bLbMb2ZOo0T3_LaMX7_2hHaMX7`2fH`M[7`2eH`M[7a2dH^M]7b2bH_M^7b2bH]M^7c2cH[M^7f2bHYM^7g2cHWM^7j2cHSM_7l2bHQM`7P3`HlLc7T3aHfLa7Z3W100000000000000000001O01O01O00001O00001O00010O00010O00010O01O01O01O01O01ON3L3L4M4L3M3M3M4K4M3M4L3M4L4K4M4L3M4L3M4L3L5L3M4L4L3M4K4MWPo0",
+      "size": [
+        425,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 314125,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=bottle, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1269",
+    "prompt": "the chair to the right of the bottle",
+    "target_box": [
+      90.61,
+      121.81,
+      336.54,
+      242.62
+    ],
+    "target_mask": {
+      "counts": "cRi1e0Zc0<C2O1N2O1N2O1O1N2O1N2O1N2O1N2O1O1N2O1N2O1N2O1O1N2O1N2O1N2O1N2O1O1N2O1N2O1N2O1O1N2O1N2O1N2O1N2O100O10000O100O10000O10000O100O10000O10000O10000O100O10000O10000O10000O100O10000O10000K]Ll_Od3T`0\\Ll_Od3T`0]Lj_Oc3W`0]Li_Oa3Y`0_Lg_O`3Z`012O1O1N2O1N2O2M2O1O1O10000O100000000O100000001N10001O0O101O0O101O0O100O2O0D<01O00001O00001O000O101O00001O00001O00000100O2N100O0010O01O01O0000001O00001O00001O00001O0000001O00001O00001O002N1O1O1O2N1O1O2N1O1O1O2N1O1O1O2N100100O1O1O100O1OO1O2N1O1O2M2O1O1O2N1O1O1O2N1O1O2N1O1O1O2N1O1N3N1O1N2N3M2O1N2N3MXii2",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 307995,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=cat, cat_b=bottle, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1236",
+    "prompt": "the cat to the right of the bottle",
+    "target_box": [
+      301.23,
+      193.43,
+      424.36,
+      495.18
+    ],
+    "target_mask": {
+      "counts": "h[l54_c0>E<M2M3N2M3M3N2N3M2O1f_O^NS>d1hAgNP>[1lAPOj=S1QBYOd=l0WB^O_=g0[B_O`=f0[B_Oa=e0YB@c=e0XB@h=`0SBEl=<nAJQ>7jAMV>P3O00010O002Nf0ZOf0ZOe0ZOd0\\Ob0^O2N0000000000000O1O1O100O1O1O100O1O100O1O1O100O1O1O101N1O10000001O1O000000]1cN4L4L4L4L4L5K4L4L5K3M2N2N1O1O1O1O1O1O1O1O1O1O2N2N5K:F>B1O2N1O1O2N1O1O1O2N1O1O2N1O1O2N2N3M3M3M3M3M4L4L4Aa`1",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 492990,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=backpack, cat_b=couch, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1988",
+    "prompt": "the backpack to the right of the couch",
+    "target_box": [
+      93.64,
+      253.1,
+      244.14999999999998,
+      463.2
+    ],
+    "target_mask": {
+      "counts": "VU^11]39_8GWGc0i8^OlFl0S9UOdFU1[9lN`FX1`9hN\\F\\1c9fNSE22\\1j:bNQE>HT1W;_NmDi0_Ol0c;\\NlDk2S;VMiDm2W;SMfDQ3X;QMdDR3\\;nLaDU3_;lL^DW3a;>O2O000O2O001N1O1O2O0O2N1O1O2N1fF`K`7a4^H`Ka7a4^H`Ka7a4^H`Ka7b4WG]Kf02S8a4TG`Kh00U8`4nFdKl0MV8_4jFiKn0IX8n4gGSKY8n4eGTK[8n4aGSK_8o4^GRKb8P5[GQKe8R5WGoJi8S5TGnJm8S5oFoJQ9T5kFmJU9i5001O00000000000001N100000000000000000000000000000001O00000002N4L3M3M3M3M4L3M3M3M3M4L3M3N2M3M4L3M3\\M[E3h:\\OPF:R:UOgFa0\\9nN\\Gh0R<F<D=CdRa0Odl^Og0E<J5K6N18I7H8I7H8I7H^ao1",
+      "size": [
+        500,
+        375
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 555298,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=laptop, cat_b=tv, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_2241",
+    "prompt": "the laptop to the right of the tv",
+    "target_box": [
+      223.3,
+      167.95,
+      409.61,
+      303.99
+    ],
+    "target_mask": {
+      "counts": "VY\\42lc02O1N2O1N2N2O1N2N2O1N2O1N2N2O2M2O1N2M3I7H8I7I7I7I7I7H8I7I7I7I7I7O1000001O000000000000000001O000000000000000000000001O00000000000000000000000001O0000000000000001O000000000000000000000000000000000001O0001O0000000000000000000000000000000000000000001O01O00000000000000000000000000000000000001O000000000001O000000000000000000000000000001O00000000000000000000O2N1O1O1O1O1I7XNh1XNZT;",
+      "size": [
+        640,
+        428
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 28518,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=car, cat_b=umbrella, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0116",
+    "prompt": "the car to the right of the umbrella",
+    "target_box": [
+      281.89,
+      133.75,
+      425.71,
+      218.61
+    ],
+    "target_mask": {
+      "counts": "h]`5a0_c00O100000000O100000000O100000000O10000O100O1O100O1O100O0O2N2O1N2N2N2N2N2O1N2ZOeNd^O^1\\a0dN^^O`1ba0aNZ^Ob1fa0`NU^Oc1ka090000000000000000000000000000000000000000010O000000000000000000000000000000000000000000000000001O001O001O001O0010O2O0O2O1N101N2O1N100O01O1O0O2O1O0O2O1O1N101O1N2O001N2O001N2O1O001N3N2N1N3N1O2M3N1O2G9D;FfR1",
+      "size": [
+        640,
+        428
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 190115,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=bowl, cat_b=cup, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0742",
+    "prompt": "the bowl to the right of the cup",
+    "target_box": [
+      129.21,
+      247.19,
+      302.25,
+      337.08
+    ],
+    "target_mask": {
+      "counts": "hWo11c?2M2O2M2O2M3N1N3N2M5L4K5M3M2N3M2N1N3N1O1O1O1E]NbBc1]=^NcBb1[=`NeB`1Z=aNfB_1Y=cNfB]1Y=dNgB\\1X=eNhB[1W=fNiBZ1U=hNkBW1U=jNkBV1T=kNkBU1U=mNhBU1W=lNhBT1W=nNgBS1Y=e0O00001O0O10001O000O2O00001O000O2O00001O0O101O00001O00001O00001O00001O0001O00000000000000000000000000000O1000000000000000000000000000000000000O10000O1000000O10000O2O001O0O101O000O2O000O2O00001N10001N10001N1O1N3N1O1O2N1O1O2M2O2N1O1O2N1N2M4K4M3M4L3L4O2N100O2O0O1O2O0O4L5L4KT]P3",
+      "size": [
+        500,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 357976,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=motorcycle, cat_b=bicycle, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1480",
+    "prompt": "the motorcycle to the right of the bicycle",
+    "target_box": [
+      145.58,
+      129.13,
+      342.97,
+      273.88
+    ],
+    "target_mask": {
+      "counts": "Q\\d13Z;4M1N2O001SF1Y80dG8U8JiG:T8GiG=U8DiG>V8CgG?Y8AfGa0Y8_OeGd0Z8[OfGf0Y8[OeGg0[8XOeGj0Y8WOeGk0Z8VOeGk0Z8VOfGj0Y8WOfGj0Z8UOfGl0Y8UOgGk0X8VOgGk0Y8UOfGl0Z8TOfGl0Z8TOeGm0[8SOeGm0[8TOcGm0]8SObGn0^8RObGn0^8ROaGo0_8QOaGo0_8RO`Gn0`8RO`Gn0`8RO`Gn0`8RO`Gn0a8QO_Go0a8RO^Gn0b8RO^Go0a8RO^Gn0b8RO^Gn0b8SO]Gm0c8SO]Gm0c8SO]Gm0d8SO[Gm0e8SO[Gm0e8TOZGl0f8UOYGk0g8VOXGj0h8VOXGj0i8VOVGj0j8VOVGj0j8m00000001O000000000001O0001O0000000N200O1O@hMlGX2T8iMkGV2U8lMjGT2V8lMjGT2U8mMkGS2U8nMjGR2U8oMkGQ2U8oMkGQ2U8oMkGQ2U8oMkGQ2U8nMlGR2U8mMkGS2U8mMkGS2U8mMjGT2V8lMjGT2V8kMkGU2T8lMlGT2T8lMkGU2U8kMkGU2U8kMkGU2U8kMkGU2U8jMlGV2T8jMkGW2U8hMlGX2T8hMlGX2T8gMlGZ2T8fMlGZ2T8eMlG\\2T8dMlG\\2S8eMlG\\2T8dMlG\\2T8dMkG]2U8cMkG]2U8cMjG^2V8bMhG`2X8`MfGb2Z89000O10O1000O0100O0100O01ROoL_IP3`6SM_Im2`6TM_Il2b6UM]Ii2e6WMZIg2i6ZMVIb2n6^MRI^2Q7dMmHn1b7RN^Ha1o7`NoGZ1X8fNhGT1^8PO]Gm0g8XOSGi0l8]OoFc0Q9n0OXNSGo0m8POYGm0e8RO]Go0`8QOcGo0[8POgGQ1V8POkGQ1S8nNoGS1n7mNUHT1h7kNZHV1d7iN^HW1a7iN`HW1a7fNbHY1]7fNfHX1Z7hNhHW1X7gNkHX1T7gNPIW1o6iNTIU1k6jNYIS1g6lN^IQ1a6oNbIo0`8O001O001O01O10O0100O10O001O010O001O0O2O001O0O2O0O2O1N2N2O1N2N2O1N2N2N2N2N2N2N00`kg1",
+      "size": [
+        366,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 3464,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=cup, cat_b=vase, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0012",
+    "prompt": "the cup to the right of the vase",
+    "target_box": [
+      305.17,
+      446.4,
+      427.0,
+      561.16
+    ],
+    "target_mask": {
+      "counts": "]Ro51mc03M3M3M3N2N2O1N2O2M6K7H6K4K6K5K5K4L5L4K3N2M3M3N2M4M2N2M4MO1O00100O001O100O001O0000000001O01O000001O000000010O000000001O0000001O0000001O00001O00001O0000O1N2O1O1O1O1N2O0N3L4K5K6M2O1O1N2O2M2O1O1N1N2N2M30001O101N100O2N100O101N1O1O2M2N2M4M2N2N3I6DlA",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 34820,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=bus, cat_b=truck, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0139",
+    "prompt": "the bus to the right of the truck",
+    "target_box": [
+      409.66,
+      304.5,
+      592.74,
+      395.26
+    ],
+    "target_mask": {
+      "counts": "S`P6?`>2OM2K501d1\\N1O001O1O0O1000000000000O10000000000O102N1O1O2N1O0O2O1O1O1O000O100000000000I61000O10000000O10000000000O100000000000PO]CCb<>bC^O]<c0hCXOX<h0kCUOT<m0lCROS<P1lCPOS<Q1nCnNQ<U1mCkNR<Y1kCgNU<Y1lCfNT<Z1mC_NY<a1c000N2O1O1I7N2O1O100000000001O1O0bBfNV=[1eBjNZ=`1N1O2N1O2Ng0YO1O001O00J6N2001O001OO10000000000O100000000O10000000001N4M1O00000O10001O1O1O2M2O1O00O10O10000000000O10000000000O10000001O2N2M3N2NO10000O100O1I70001O001N101O001O1O4L?A?A?A_ee0",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 95308,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=couch, cat_b=chair, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0329",
+    "prompt": "the couch to the right of the chair",
+    "target_box": [
+      568.84,
+      189.81,
+      640.0,
+      423.0
+    ],
+    "target_mask": {
+      "counts": "lk[71U=100O1O100O100O1O100O100O1O100O100TIFj0;VOGg0:YOHe08[OJb07^OL?4AN<3DO92G070I24OL3TK_Og3>U15bJ7n3E`1g1[NZNd1j1WNXNi1l1QNVNo1n1kMTNU2P2eMRN[2^2SMdMm2_2nLcMR3_2jLcMV3`2eLbM[3a2`LaM`3b2ZLaMf3b2TLaMl3b2oK`MQ4b2jKaMV4b2dKaM\\4b2_K`Ma4c2YK`Mg4c2SK`Mm4c2nJ_MR5d2hJ_MX5c2aJbM_5a2XJeMh5m400O10000000000000000000000000000000iNYK",
+      "size": [
+        423,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 318346,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=laptop, cat_b=bowl, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1295",
+    "prompt": "the laptop to the right of the bowl",
+    "target_box": [
+      205.65,
+      0.64,
+      491.74,
+      179.07999999999998
+    ],
+    "target_mask": {
+      "counts": "^ZP35d>6K4K6J6K5J5L4K5K5L4L40000000000O100000000000000000O100000000000O1000000000000000000000000000000O10000000000000O1000000000000000O1000000000000000000000000000000O100000000000O10000000000000000000O1000000000000000000000000000000O100000O100000000000000000000000O1000000000000000000000000000000O1000O10000000000000000000000000O10000000000000000M3M3L4M3M3L4M3M2M4M3M3L4M3M3L4M3M3L4M3M3L4M3M3L4M3M3L4M3M2M2O1O2N300000000000000000000000000000000000000000O1N200O1hKZFW3g9gL[FY3e9gL[FY3e9gL[FY3e9gL[FY3e9gL[FY3e9gL[FX3f9hL[FW3e9iL[FW3e9iL[FV3f9jLaFl2b9TMmFZ2V9fMYGh1j8XNdGX1^8hNQHOgMN[:3YHCaM3Y::VHBeMNX:`0SHAiMJV:e0QH@b8`0^G@b8`0^G_Oc8a0]G_Oc8a0]G_Oc8a0]G_Oc8a0]G^Od8b0\\G^Od8b0\\G^Od8b0\\G]Oe8c0[G]Oe8c0[G\\Of8e0i20000000000000000000000000000000000000000M3M3L4M3L4M3LkRU2",
+      "size": [
+        478,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 274213,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=couch, cat_b=chair, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1071",
+    "prompt": "the couch to the right of the chair",
+    "target_box": [
+      461.27,
+      280.65,
+      640.0,
+      392.72999999999996
+    ],
+    "target_mask": {
+      "counts": "gnP61Z=1N101N100O2O0O2O0O101N101CEgC<X<IdC7\\<L`C6^<<01N1O101O001N101O0O101O001O0O101O001O00001O001O000010O100O100O10O010O010O1O001O010O001O00100O001O001O010O001O1O010O0010O010O0100O010N101O001O0O2O1O001O0O2O001O001N2O001O001N10001O000O2O00001O0O101O00001N10001O0O101O000O2O000O2O00001N100O2O0O1O2O0O101N1O101N1O101N100O2N100O2O0O1O2O0O101O00010O00010O000010O00101N2gMoET1S:hNQFW1W:_NkEZ1X;\\NYG",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 295970,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=bottle, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1177",
+    "prompt": "the chair to the right of the bottle",
+    "target_box": [
+      270.31,
+      148.74,
+      473.37,
+      357.49
+    ],
+    "target_mask": {
+      "counts": "ReY52nc01O2M2O2N1O2ZMK\\A7a>8RAJk>c0i@^OU?P1^@QO_?]1U@eNh?h1k_OZNS`0S2a_OoM[`0m2N3L01O10O01O010O1O010001N2O1N2O1N2O1fARLa<o3fBPLI3_=o3^BYL0Ja=n3UBcL7Ba=n4]BSKb=o4\\BRKb=Q5\\BPKc=R5[BoJd=S5[BnJb=U5\\BlJc=V5[BkJc=X5[BiJd=k5N10000O10O1O1O0O2O1O0O2O1O1O1O1O1O1O1O2N1O1O1O1O1O1O1O101N1OSB^J^=b5^BbJb=]5[BgJe=Y5XBkJg=T5VBPKj=c500001O000001O0000000001O0001O000000000001O0001O000000000001O01O00000000000001O0000000001O000001O000000000000000EUBaJl=\\5XBbJh=]5ZBcJe=[5_BcJa=[5bBdJ^=Z5fBdJZ=Z5g0N2N3M2N4L101RKPAj4T?N2N3M2N3M2N3M2N3N1N3M2N2N3M2N3M2N3M2N3N1N3M2N2N3M2N3M2N3M3N2M3M3M3M3M3M3M3M3M3N2M3M4L3M3M3M3M3M3M3N2M7I8HaU4",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 87101,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=vase, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0307",
+    "prompt": "the chair to the right of the vase",
+    "target_box": [
+      433.43,
+      295.75,
+      622.59,
+      422.47
+    ],
+    "target_mask": {
+      "counts": "Rie51[=0M3I6J7I7I7I6I8I7I7I7I6J7G9F:L3O2N2O1N2O0O2N2O1N100O1O100O100O1O100O100O1O100O100O1O10000000000000000001O0000000000000000000000001O0000001O001O00001O00001O001O00001O00001O001O01O01O00001O001O00001O001O00001O0000001O00000000001O00000000001O00000000001O00000000001O00000000001O00000000001O00000000001O0000000N2M3M3M3L4M4L3M3L4J6K5K5J6_Oa0L4M3L3O2O01O01O00010O0O3N3M2N2M3N2N3MSV7",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 488945,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=laptop, cat_b=cat, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1968",
+    "prompt": "the laptop to the right of the cat",
+    "target_box": [
+      438.51,
+      172.72,
+      565.18,
+      257.15999999999997
+    ],
+    "target_mask": {
+      "counts": "dXg52Y=2N3M2N2N3N1N2N3M2N2N3M2N2N3M001O01O0000000000000001O00000001O0000000001O000000000001O000001O0000000000000001O0001O00000000000000000010O000000N2O1O1O1N2O2N1O1N2O1O1O1N1000O10O0100O10O01O100O010O100O010O100O00100O10O0102M3N2M3N2M3M4M2M3N2M3N2M4M2M3N2MlRo0",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 102885,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=cup, cat_b=bottle, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0366",
+    "prompt": "the cup to the right of the bottle",
+    "target_box": [
+      234.79,
+      50.75,
+      458.08,
+      218.67
+    ],
+    "target_mask": {
+      "counts": "[ob47bc09H8K5M4L3M3M3M3M2N2O1N2N2N2N2N3N1O1N2O1O1O1O001O10O01O1O010O1O010N2N1N3N2M2N3O2M3N3L3N2M4L3N2M3N3L3N2M4M1N2O2M2O1N2O2N1N2O2M2O1N101N10001N100O2O0O101N101O00001N10001O00001O001O00001N10001O001O00001O001N10001O00001O001OO100000000000000O100000001O000O100000000000000O1000000000000O101O0O100O1O100O100O100O100O100O2N100O2O0O2O0O101N100O2N100O2O0O101N100O2O0O1O2N1N2O2N2N1N3N1O2N2M2O2N1O2M3N1O2N2N1N3N1N3M3M2N3M3M2N3M2N3N2M3M3M3M4L3M3M4L3L4G9H9F9GY]<",
+      "size": [
+        640,
+        478
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 497010,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=bicycle, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1999",
+    "prompt": "the chair to the right of the bicycle",
+    "target_box": [
+      228.33,
+      309.41,
+      341.76,
+      480.0
+    ],
+    "target_mask": {
+      "counts": "nU[32l>=E;E:F;E0bBiNS=b1PC[Nd<R2^CkMW<`20:G9H8E9F9H9G8H9G6J00000000001OCTFfKl9Y4\\F`Kd9`4>0O10000000000000000000000000O10O1000000000000000000000000000O10O1000000000000000000000000000O010000000000000000000000000000O0100000000000000004L4L4L4L1M2M301O00000000G8QOP1mNS1gMd^[4",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 133667,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=car, cat_b=chair, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0507",
+    "prompt": "the car to the right of the chair",
+    "target_box": [
+      67.29,
+      346.63,
+      480.0,
+      527.03
+    ],
+    "target_mask": {
+      "counts": "WYZ19ob0o0B?G8H9G2N2N2N2N1O2N2N2N2N101N2N2N2N2N1O2N2N2O1O0O2O1O1N2O0O2O1O0O10000O01000O01000O01000O0100O0100O0100O10000O100O10000O010O10000O100O10000O10O2O000000001O000000001N10000000001O000000001N100000001O000000001O0O1000001O000000001O00000O101O000000001O000000001O000000001N100000001O000000001O000O10001O000000001O000O10001O000000001O000O10001O000000001O000O10001O000000001O000O10001O000000001O000O11O01O0001O0001O01O0000010O00000010O000001O01O000000001O000000001O000000001O000000001O0000000O101O000000001O000000001O000000001O000000001O000000001N100000001O000000001N100000001O0000000O2O000000001O0000000O2O000000001O0000000O2O000000001O0000000O2O000000001O00000O101O000000001O000000010O0001O0010O01O0bNbAZM^>_2jA`MW>W2RBiMm=S2XBlMi=S2XBlMh=T2YBhMk=W2VBeMm=[2TBaMo=^2SB^MQ>a2PB[MS>e2nAWMV>h2kATMX>l2iAPM[>o2fAmL]>S3X1O2O001O001O000O2O001O001O00001N100000O100000O1000000000000O10O1000000000O100000000000O0100000000000gD",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 490471,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=vase, cat_b=cup, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1975",
+    "prompt": "the vase to the right of the cup",
+    "target_box": [
+      186.13,
+      330.88,
+      294.94,
+      476.91999999999996
+    ],
+    "target_mask": {
+      "counts": "Qcd33nc0=D<C<D=D<C<E<C=C4M0O10N1O1O2N1O10N1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1N2O1O1O1O1O1O1O1O1O1O1N2O1N2N2O1N2O1N2N200001O001O001O001O010O001O001O001O001O001O001O00001O001O00O10000000G9K4L5K4K6K4L4K5L5K4L5J5H9G9G8H9G9G8H9GkUb2",
+      "size": [
+        640,
+        427
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 552159,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=truck, cat_b=bus, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_2230",
+    "prompt": "the truck to the right of the bus",
+    "target_box": [
+      301.61,
+      205.95,
+      601.31,
+      302.65999999999997
+    ],
+    "target_mask": {
+      "counts": "Y^n3>n0CQ;l0_DUOb;Z100000000000000001O00000000000000001O00000000000000001O000000000c0]O1O010O0012M5L3oNR1E:FPS70e`H3c;NZD7c;KXD;e;FXD`0d;BXDc0e;^OXDg0e;ZOXDl0d;a0M3MN2O1O1N2O1N2O1O10005K<D;E7I5K5LXY30dfL3N3M2N2M3WDF^:=`ENT:5jELU:6hELY:4eEM\\:3bEN_:2_E0a:O]E3d::mDGT;X11O5K5K4M4K<D1O001O1O1O0G\\X6[OWhI>C=TDWOo:k1G8I000000000O1000000006J9G3M001O0L4L4L4L5J5@a?CZA1J7F:2N2N2N2M`NKnE2j96XFHf9;[FCe9>\\F@d9a0eE6Y:L_E;a:F[E=e:DXE>h:FSE;m:R10000000dNmD?Q<O1O1O1O1O2N\\OoNQEm0j:ZO]E=_:HiEOR:7UFAi9a0a1O2N1N2O2N1N2O2FmX10XgN4K6M20010O01OeC0[;0dD7U;IkD?n:AQEc0l:ZOUEg0k:XOVEh0k:UOWEk0i:SOYEm0c;1O000004L6J5J6J6IcR75Z`H>V<b0J6J6JO10@`NTE`1l:eNoD[1R;hNjDX1V;?000O101O0000001O0O10001O000]Oc00001O0001O01O00000010O0000010O00001O01O01O01O7J6I7H\\Q`0",
+      "size": [
+        428,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 571665,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=couch, cat_b=chair, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_2302",
+    "prompt": "the couch to the right of the chair",
+    "target_box": [
+      409.71,
+      191.94,
+      500.0,
+      369.71000000000004
+    ],
+    "target_mask": {
+      "counts": "kZf4:];>C1N101N101jHTO]3n0`LSO_3o0^LSOa3P1[LROd3Q1YLPOg3Q1VLROh3Q1ULQOi3R1SLQOk3Q1RLQOm3R1PLPOn3R1oKQOQ4P1kKSOT4Q1fKROZ4Q1aKPO_4T1[KoNe4T1UKoNk4T1oJoNP5U1kJlNV5W1dJlN\\5W1_JkN`5Z1[JgNe5^1VJbNj5c1QJ\\No5j1kIWNU6h1lIXNS6h1nIXNR6g1nIZNR6f1nIYNR6g1nIZNR6e1oI[NQ6m0^IZNb0i0o5m0aIXN`0k0P6l0aIXN`0l0o5k0bIYN?k0o5k0dIYN=l0P6j0dIYN=l0P6j0cIZN=l0P6j0cIZN>k0o5j0dI[N>j0o5j0cI]N=i0P6j0bI^N?g0o5k0bI^N`0f0o5j0bI`N?f0o5j0bI`N`0e0n5k0bI`Na0d0n5k0`IcNa0b0o5j0aIdNa0a0n5k0aIdNa0`0P6k0_IeNb0?o5k0`IfNb0>n5k0`IgNc0>n5i0`IiNc0=m5j0`IhNe0=k5j0aIhNe0>k5h0aIiNf0>i5i0aIiNf0>j5g0`IkNh0=h5h0aIiNi0>f5h0cIhNh0`0f5g0cIgNi0a0d5h0eIeNh0b0c5h0gIdNg0d0c5g0gIcNh0e0a5g0jIaNg0g0_5h0kI`Nf0h0`5f0^KYOb4g0^KYOb4f0_KZOb4e0^K[Ob4e0^K[Ob4d0_K\\Ob4c0_K\\Oa4c0`K]O`4c0`K]Oa4`0aK@_4?bKA^4>cKB^4<dKC\\4<eKD[4;fKE[48gKHY47hKIX46jKIW4EZL;eL",
+      "size": [
+        375,
+        500
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 353919,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=clock, cat_b=tv, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1459",
+    "prompt": "the clock to the right of the tv",
+    "target_box": [
+      516.68,
+      119.39,
+      640.0,
+      266.22
+    ],
+    "target_mask": {
+      "counts": "k`b7e0W>9H8H8H6I4M3M3O1UCRNb<Q2\\CRNa<o1^CSN_<o1aCRN]<P2aCRN\\<[2N2M3N2M3N2M3N2N2N2O1N1O2N2N2N2N2O1N2N2N2N1O2N2O0O2O0O100O100O10O0100O100O10O0100O10000000000O10000000000O10001O001O0O101O00001O001O1O1O00O10000O2O000O101O0O101O0O10001N101N100O2O0O2O0O2O0O2O0O2N101N2O0O2N2N1O2N2N1O2N2\\OZL",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 323552,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=backpack, cat_b=handbag, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1337",
+    "prompt": "the backpack to the right of the handbag",
+    "target_box": [
+      233.15,
+      162.28,
+      404.39,
+      375.26
+    ],
+    "target_mask": {
+      "counts": "Tma42ic06J6J6J5K1103L12K5G=ZOg0G7J6I7_Oa0M4K4L4L4L3N3L3M4L3N3d@mKf>U4n@VLQ?]4O1O1O1O1N2OJ7I6011O0O101N101O0O2O1N101O1N101N101N2O001N2O001O001O1O001O001O1O001O1O001O001O1O001O0010O01O00001O0010O01O00001O0010O01O00000001O000000000001O00000O100000000000000000001O2N7I7J1NM3M3M3N2M3N2O100O10001N01000O0]O[BmJe=Q5f0O1O0O2O2N1N2N3M2N2N3M2O1N3M2O1N2M4M2M3M4aMm@MU?KYALk>2]ADg>:b2N1N2N2N2M4M2M]Z_1",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 101310,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=suitcase, cat_b=backpack, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0352",
+    "prompt": "the suitcase to the right of the backpack",
+    "target_box": [
+      532.49,
+      209.33,
+      631.85,
+      450.82000000000005
+    ],
+    "target_mask": {
+      "counts": "Qii72^>`0E<E;E:G:E;E:G:M3M3N1N3M3M2N3N2M2N3M3N2O0O2N100N3I6J6J7I6J6J7I6J6K6I6J6J7I6J6J6J7L30010O00001O00001O00001O`K[He1e7UNaHk1_7nMhHR2X7gMPIY2o6aMWI_2i6ZM^If2b6TMdIm2[6lLmIS3S6gLSJY3m5`LZJa3e5YLaJg3_5RLiJm3X5lKnJU4Q5dKVK\\4g701O01O00010O000010N100O1O2N100O1O2O0O1O101N1O1O1K6F9F:F:F;@?@P1POX^3",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 491881,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=truck, cat_b=bus, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1984",
+    "prompt": "the truck to the right of the bus",
+    "target_box": [
+      371.38,
+      222.64,
+      510.53,
+      296.53
+    ],
+    "target_mask": {
+      "counts": "lZk42h<b0@`02NO1000000000007I3L3N0000001O0000000O2O0000001OO1000O01000000O10000N2N1O2N2000000001O0O10000000000O1M3N2M3M2O0O11011O0000001O0O101O004L5K000000000000001OO1000000000000000000000000N2M3N2N2N2N21O1O1O1O0000000000000000000000K50000O1000000O100000000VOj0O1O1O2N2N3M2M3N2N2N2N2N3M^Sf1",
+      "size": [
+        428,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 356380,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=tv, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1474",
+    "prompt": "the chair to the right of the tv",
+    "target_box": [
+      351.91,
+      177.52,
+      489.37,
+      314.8
+    ],
+    "target_mask": {
+      "counts": "ZXU55o06X<5PCb0h<P1N1O1O1A`0NN2N3L3N3K4L5K401`NPCP1P=nNTCQ1k<nNWCQ1h<POZCn0f<QO[Co0e<QOZCQ1e<oN[CQ1e<nN\\CR1c<oN\\CS1c<lN^CT1b<lN^CT1b<kN^CV1b<jN^CW1a<iN_CW1a<iN^CX1b<hN^CX1b<hN]CZ1b<eN_C[1a<eN_C[1a<eN^C\\1b<dN^C]1a<cN_C]1a<cN^C^1b<aN_C_1a<aN_C`1`<_N`Cb1`<]NaCc1a<ZN_Cg1m<1O000010O2N1O01O01O0010O0001O010O001O010O0001O0001O01O01O0001O0000001O2N00000000001O0000000000000000N2M30000000UOQOeCo0U<XOjCg0R<@kCa0^;]NQEl2o:WMiDo2W;RMcDR3];808I0O1O1O100O1OG:E:K5N3N2N3L3^Oc0N1O2N1O2N1CSCfNo<U1UCiNm<S1XCkNj<P1ZCoNg<m0i0K4L5K4L4L5KYcV2",
+      "size": [
+        480,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 534849,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=car, cat_b=bus, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_2161",
+    "prompt": "the car to the right of the bus",
+    "target_box": [
+      456.37,
+      243.36,
+      606.3199999999999,
+      304.34000000000003
+    ],
+    "target_mask": {
+      "counts": "c]n51X=3L4L4TCGc<:[CHd<a0O0O1O1O101N1O2O1N2N2O1O1N2O00000O01000O10000ON3N2N11O100O1O1O100O1O100O100O100O1O100O100O1O100O100O100O1O100O1000000000000000000000008H1O00000000000000O100000001O0M3N2N2N2O10000000000000000000000000001O0O10000000000000001O0000001O1O1O1O001O1N2OoClNk;Z11O1O1O001O010O001N101O000N3M2N3L3O101N3N2N[m=",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 248459,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=potted plant, cat_b=umbrella, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_0939",
+    "prompt": "the potted plant to the right of the umbrella",
+    "target_box": [
+      251.12,
+      63.14,
+      357.31,
+      235.33999999999997
+    ],
+    "target_mask": {
+      "counts": "`nl41oc02M3N2M3N2M3N=B5L4K4M4J4L2N3M2N3M31N10O1N101O001O00001O00001O000010O000101N2N2N101N2O1N2O0O100O100O1O1O1O1001OT@iMn=V2YAfMJ3n>V2UAnMKJP?X2RATNMBQ?Z2o@[NMZOU?Y401O01O001N2N3M2N2\\Mb@b0`?ZOi@?Y?]Oj@b0Y?YOj@g0W?UOl@j0V?ROm@m0U?oNn@P1U?iNPAV1R?bNUA]1m>[NYAf1a`0O1O1O1O10O0001O0000001O0O101O2M4M2N2M3N2M3M2N3K5J6J6Iee\\2",
+      "size": [
+        640,
+        480
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 465137,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=chair, cat_b=couch, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_1880",
+    "prompt": "the chair to the right of the couch",
+    "target_box": [
+      294.69,
+      153.37,
+      464.63,
+      319.15
+    ],
+    "target_mask": {
+      "counts": "VWk35U=6K5K2M2O1O1N2O001N3N1N4cNJ_E;[:_1L5K4L4K6K3M4L4K5L=CO010000O0100N1K6J5O2O7H9H6I7I`0@7I8H7_NdDf0X<H8H8GPd4i0X[K2O1N2O1N2OK3L2N6K6H7G`f65_YI<G<YOVOWDn0d;`0I6K5J6K5J6K5O010000000YO[MhFe2d7_MUI:iNW2R8eMoHR3Q7gMUHZ2j7hMUHX2k7hMTHY2l7hMSHX2m7iMQHX2o7iMPHW2P8b100O11O1O1O2N1O1O2N1O1O1O1O1O001O1O002N1O2N2N1O2N2Nn0RO00O10000O10000001O000000001O00001O001O1O1M3K5L4L3L5L4QNVEX1n:gNTES1R;kNPEh0];VO^1N2L]UY2",
+      "size": [
+        427,
+        640
+      ]
+    }
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 534081,
+    "image_source": "coco_train2017",
+    "notes": "cat_a=tv, cat_b=laptop, control",
+    "phenomenon": "spatial_right_control",
+    "probe_id": "spatial_2155",
+    "prompt": "the tv to the right of the laptop",
+    "target_box": [
+      326.25,
+      34.23,
+      620.4,
+      236.39999999999998
+    ],
+    "target_mask": {
+      "counts": "igg49g=l0SOm0SOm0SOm0TOm0ROm0M300000000000000000000000001O01O0000000000000000000000000001O0000000000000000000000000000001O00000000000000000000000000001O00000000000001O0000000000000001O00000000000000000000000000001O0000000000000000000000000000001O000000000000000000000001O0001O0000000000000000000000000000001O00000000000000000000000000001O0000000000000000000000000000001O0001O000000000000000000000001O0000000000000000000000000000001O00000000000000000000000000001O0000000000000001O00000000000001O00000000000000000001O00000001O000000000000000001O000000000001O00000000000001O00000000000B>_Oa0@`0_Oa0@`0@`0_Ob0_O`0_Oa0@`0_OfX9",
+      "size": [
+        476,
+        640
+      ]
+    }
+  }
+]
