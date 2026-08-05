@@ -1,0 +1,1802 @@
+[
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2383763,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=plate, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_51982",
+    "prompt": "the white plate",
+    "target_box": [
+      10.0,
+      70.0,
+      390.0,
+      285.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2412022,
+    "image_source": "visual_genome",
+    "notes": "color=red, object=bus, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_16015",
+    "prompt": "the red bus",
+    "target_box": [
+      121.0,
+      107.0,
+      399.0,
+      189.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2342128,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=car, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_108143",
+    "prompt": "the white car",
+    "target_box": [
+      0.0,
+      1.0,
+      41.0,
+      105.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2362717,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=bag, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_78999",
+    "prompt": "the black bag",
+    "target_box": [
+      1.0,
+      335.0,
+      77.0,
+      498.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2367579,
+    "image_source": "visual_genome",
+    "notes": "color=green, object=chair, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_72521",
+    "prompt": "the green chair",
+    "target_box": [
+      158.0,
+      295.0,
+      318.0,
+      372.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2350625,
+    "image_source": "visual_genome",
+    "notes": "color=brown, object=box, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_95500",
+    "prompt": "the brown box",
+    "target_box": [
+      64.0,
+      36.0,
+      187.0,
+      194.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2396083,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=bag, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_37123",
+    "prompt": "the black bag",
+    "target_box": [
+      119.0,
+      336.0,
+      174.0,
+      477.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2367205,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_73020",
+    "prompt": "the white shirt",
+    "target_box": [
+      42.0,
+      175.0,
+      324.0,
+      408.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2316668,
+    "image_source": "visual_genome",
+    "notes": "color=brown, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_141830",
+    "prompt": "the brown shirt",
+    "target_box": [
+      219.0,
+      202.0,
+      498.0,
+      373.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2376848,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=shoe, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_60479",
+    "prompt": "the black shoe",
+    "target_box": [
+      151.0,
+      310.0,
+      191.0,
+      339.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2378368,
+    "image_source": "visual_genome",
+    "notes": "color=yellow, object=kite, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_58474",
+    "prompt": "the yellow kite",
+    "target_box": [
+      281.0,
+      26.0,
+      309.0,
+      79.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2383363,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=sign, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_52457",
+    "prompt": "the blue sign",
+    "target_box": [
+      110.0,
+      73.0,
+      144.0,
+      105.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2349078,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_97483",
+    "prompt": "the blue shirt",
+    "target_box": [
+      44.0,
+      106.0,
+      150.0,
+      198.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2385233,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_49870",
+    "prompt": "the blue shirt",
+    "target_box": [
+      237.0,
+      240.0,
+      317.0,
+      311.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2408350,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=shoe, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_20935",
+    "prompt": "the blue shoe",
+    "target_box": [
+      151.0,
+      170.0,
+      273.0,
+      207.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 285745,
+    "image_source": "visual_genome",
+    "notes": "color=brown, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_8035",
+    "prompt": "the brown shirt",
+    "target_box": [
+      145.0,
+      272.0,
+      658.0,
+      752.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 1793,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=car, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_2759",
+    "prompt": "the white car",
+    "target_box": [
+      450.0,
+      97.0,
+      508.0,
+      140.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2356191,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=shoe, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_88197",
+    "prompt": "the black shoe",
+    "target_box": [
+      433.0,
+      154.0,
+      492.0,
+      260.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2348270,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=shorts, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_98963",
+    "prompt": "the white shorts",
+    "target_box": [
+      132.0,
+      187.0,
+      207.0,
+      251.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2364149,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_77204",
+    "prompt": "the white shirt",
+    "target_box": [
+      158.0,
+      104.0,
+      185.0,
+      148.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2401046,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=shorts, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_30651",
+    "prompt": "the blue shorts",
+    "target_box": [
+      106.0,
+      186.0,
+      130.0,
+      233.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2349047,
+    "image_source": "visual_genome",
+    "notes": "color=orange, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_97518",
+    "prompt": "the orange shirt",
+    "target_box": [
+      126.0,
+      179.0,
+      190.0,
+      252.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2409513,
+    "image_source": "visual_genome",
+    "notes": "color=yellow, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_19084",
+    "prompt": "the yellow shirt",
+    "target_box": [
+      271.0,
+      188.0,
+      318.0,
+      237.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2321514,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=flower, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_133022",
+    "prompt": "the blue flower",
+    "target_box": [
+      12.0,
+      6.0,
+      496.0,
+      188.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2315357,
+    "image_source": "visual_genome",
+    "notes": "color=brown, object=jacket, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_143753",
+    "prompt": "the brown jacket",
+    "target_box": [
+      100.0,
+      0.0,
+      227.0,
+      183.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2383150,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=suitcase, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_52707",
+    "prompt": "the black suitcase",
+    "target_box": [
+      381.0,
+      154.0,
+      443.0,
+      271.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2354799,
+    "image_source": "visual_genome",
+    "notes": "color=red, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_90129",
+    "prompt": "the red shirt",
+    "target_box": [
+      429.0,
+      166.0,
+      478.0,
+      233.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2382152,
+    "image_source": "visual_genome",
+    "notes": "color=green, object=fence, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_53865",
+    "prompt": "the green fence",
+    "target_box": [
+      1.0,
+      184.0,
+      209.0,
+      295.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2320105,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_136305",
+    "prompt": "the white shirt",
+    "target_box": [
+      407.0,
+      93.0,
+      459.0,
+      160.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2343482,
+    "image_source": "visual_genome",
+    "notes": "color=orange, object=shorts, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_106250",
+    "prompt": "the orange shorts",
+    "target_box": [
+      114.0,
+      247.0,
+      220.0,
+      352.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 1592610,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=bag, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_13819",
+    "prompt": "the black bag",
+    "target_box": [
+      689.0,
+      504.0,
+      839.0,
+      572.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2395872,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=jacket, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_37417",
+    "prompt": "the blue jacket",
+    "target_box": [
+      235.0,
+      59.0,
+      307.0,
+      180.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2337050,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=building, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_114118",
+    "prompt": "the white building",
+    "target_box": [
+      201.0,
+      3.0,
+      271.0,
+      158.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2391722,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=flower, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_42165",
+    "prompt": "the white flower",
+    "target_box": [
+      101.0,
+      236.0,
+      154.0,
+      285.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2324464,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=shoe, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_129186",
+    "prompt": "the white shoe",
+    "target_box": [
+      146.0,
+      300.0,
+      201.0,
+      324.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2373131,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=jacket, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_65399",
+    "prompt": "the blue jacket",
+    "target_box": [
+      451.0,
+      197.0,
+      485.0,
+      236.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2347540,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_99878",
+    "prompt": "the white shirt",
+    "target_box": [
+      114.0,
+      155.0,
+      158.0,
+      189.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2348618,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=towel, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_98610",
+    "prompt": "the white towel",
+    "target_box": [
+      432.0,
+      275.0,
+      499.0,
+      318.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2339651,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=flower, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_111022",
+    "prompt": "the white flower",
+    "target_box": [
+      257.0,
+      290.0,
+      321.0,
+      446.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2318808,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=jacket, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_138094",
+    "prompt": "the black jacket",
+    "target_box": [
+      251.0,
+      199.0,
+      288.0,
+      227.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2319419,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=pants, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_137237",
+    "prompt": "the blue pants",
+    "target_box": [
+      112.0,
+      230.0,
+      148.0,
+      273.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2354140,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=bag, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_91011",
+    "prompt": "the white bag",
+    "target_box": [
+      163.0,
+      124.0,
+      194.0,
+      151.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2404848,
+    "image_source": "visual_genome",
+    "notes": "color=orange, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_25755",
+    "prompt": "the orange shirt",
+    "target_box": [
+      412.0,
+      56.0,
+      488.0,
+      216.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2406001,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=bag, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_24323",
+    "prompt": "the black bag",
+    "target_box": [
+      189.0,
+      375.0,
+      276.0,
+      460.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2373277,
+    "image_source": "visual_genome",
+    "notes": "color=purple, object=flower, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_65261",
+    "prompt": "the purple flower",
+    "target_box": [
+      1.0,
+      76.0,
+      29.0,
+      107.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2414380,
+    "image_source": "visual_genome",
+    "notes": "color=yellow, object=bag, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_144442",
+    "prompt": "the yellow bag",
+    "target_box": [
+      281.0,
+      28.0,
+      313.0,
+      60.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2374963,
+    "image_source": "visual_genome",
+    "notes": "color=red, object=car, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_62908",
+    "prompt": "the red car",
+    "target_box": [
+      75.0,
+      154.0,
+      321.0,
+      239.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2392815,
+    "image_source": "visual_genome",
+    "notes": "color=pink, object=bag, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_40837",
+    "prompt": "the pink bag",
+    "target_box": [
+      24.0,
+      33.0,
+      166.0,
+      99.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2389498,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=pants, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_44773",
+    "prompt": "the black pants",
+    "target_box": [
+      24.0,
+      265.0,
+      152.0,
+      331.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2403642,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=shoe, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_27326",
+    "prompt": "the black shoe",
+    "target_box": [
+      137.0,
+      355.0,
+      199.0,
+      384.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2389973,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=umbrella, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_44177",
+    "prompt": "the blue umbrella",
+    "target_box": [
+      38.0,
+      346.0,
+      117.0,
+      383.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2359470,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=shorts, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_83199",
+    "prompt": "the blue shorts",
+    "target_box": [
+      180.0,
+      174.0,
+      234.0,
+      199.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2356206,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=shoe, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_88188",
+    "prompt": "the black shoe",
+    "target_box": [
+      305.0,
+      178.0,
+      340.0,
+      205.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2370082,
+    "image_source": "visual_genome",
+    "notes": "color=green, object=hat, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_69293",
+    "prompt": "the green hat",
+    "target_box": [
+      89.0,
+      116.0,
+      170.0,
+      175.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2321124,
+    "image_source": "visual_genome",
+    "notes": "color=brown, object=pants, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_133778",
+    "prompt": "the brown pants",
+    "target_box": [
+      245.0,
+      214.0,
+      295.0,
+      246.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2413186,
+    "image_source": "visual_genome",
+    "notes": "color=orange, object=plate, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_145550",
+    "prompt": "the orange plate",
+    "target_box": [
+      95.0,
+      26.0,
+      398.0,
+      328.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 150314,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=jacket, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_7444",
+    "prompt": "the black jacket",
+    "target_box": [
+      324.0,
+      304.0,
+      452.0,
+      460.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2378117,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=surfboard, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_58736",
+    "prompt": "the white surfboard",
+    "target_box": [
+      240.0,
+      140.0,
+      303.0,
+      208.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2413165,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=pants, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_145581",
+    "prompt": "the blue pants",
+    "target_box": [
+      3.0,
+      371.0,
+      22.0,
+      498.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2403193,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=plate, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_27841",
+    "prompt": "the black plate",
+    "target_box": [
+      66.0,
+      167.0,
+      280.0,
+      361.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2331386,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=shoe, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_121348",
+    "prompt": "the black shoe",
+    "target_box": [
+      145.0,
+      399.0,
+      180.0,
+      423.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2391090,
+    "image_source": "visual_genome",
+    "notes": "color=red, object=sign, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_42849",
+    "prompt": "the red sign",
+    "target_box": [
+      388.0,
+      139.0,
+      432.0,
+      170.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2328103,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=chair, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_124502",
+    "prompt": "the black chair",
+    "target_box": [
+      38.0,
+      132.0,
+      181.0,
+      327.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 4067,
+    "image_source": "visual_genome",
+    "notes": "color=green, object=flower, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_6010",
+    "prompt": "the green flower",
+    "target_box": [
+      9.0,
+      101.0,
+      57.0,
+      153.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2398535,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=suitcase, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_33902",
+    "prompt": "the black suitcase",
+    "target_box": [
+      208.0,
+      248.0,
+      385.0,
+      396.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2347365,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=box, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_100089",
+    "prompt": "the blue box",
+    "target_box": [
+      407.0,
+      145.0,
+      445.0,
+      188.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2402090,
+    "image_source": "visual_genome",
+    "notes": "color=yellow, object=flag, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_29236",
+    "prompt": "the yellow flag",
+    "target_box": [
+      250.0,
+      172.0,
+      393.0,
+      252.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2401698,
+    "image_source": "visual_genome",
+    "notes": "color=yellow, object=truck, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_29695",
+    "prompt": "the yellow truck",
+    "target_box": [
+      190.0,
+      135.0,
+      258.0,
+      203.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2400429,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=pants, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_31544",
+    "prompt": "the white pants",
+    "target_box": [
+      207.0,
+      225.0,
+      295.0,
+      270.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2337845,
+    "image_source": "visual_genome",
+    "notes": "color=brown, object=pillow, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_113137",
+    "prompt": "the brown pillow",
+    "target_box": [
+      4.0,
+      235.0,
+      59.0,
+      257.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2390518,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=flower, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_43471",
+    "prompt": "the white flower",
+    "target_box": [
+      3.0,
+      167.0,
+      82.0,
+      243.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2363910,
+    "image_source": "visual_genome",
+    "notes": "color=yellow, object=door, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_77515",
+    "prompt": "the yellow door",
+    "target_box": [
+      238.0,
+      184.0,
+      252.0,
+      256.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2319543,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=pillow, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_137099",
+    "prompt": "the white pillow",
+    "target_box": [
+      238.0,
+      187.0,
+      302.0,
+      269.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2413235,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=jacket, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_145499",
+    "prompt": "the black jacket",
+    "target_box": [
+      207.0,
+      106.0,
+      307.0,
+      189.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2358377,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=chair, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_84599",
+    "prompt": "the blue chair",
+    "target_box": [
+      394.0,
+      61.0,
+      455.0,
+      111.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2404051,
+    "image_source": "visual_genome",
+    "notes": "color=green, object=sign, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_26799",
+    "prompt": "the green sign",
+    "target_box": [
+      26.0,
+      18.0,
+      479.0,
+      318.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2397750,
+    "image_source": "visual_genome",
+    "notes": "color=red, object=shoe, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_34897",
+    "prompt": "the red shoe",
+    "target_box": [
+      182.0,
+      257.0,
+      279.0,
+      349.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2336956,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=door, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_114236",
+    "prompt": "the white door",
+    "target_box": [
+      426.0,
+      1.0,
+      499.0,
+      269.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2400559,
+    "image_source": "visual_genome",
+    "notes": "color=red, object=building, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_31300",
+    "prompt": "the red building",
+    "target_box": [
+      0.0,
+      4.0,
+      262.0,
+      372.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2409937,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=vase, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_18488",
+    "prompt": "the black vase",
+    "target_box": [
+      299.0,
+      325.0,
+      351.0,
+      361.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2353954,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=plate, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_91267",
+    "prompt": "the white plate",
+    "target_box": [
+      0.0,
+      0.0,
+      499.0,
+      306.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2378644,
+    "image_source": "visual_genome",
+    "notes": "color=red, object=car, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_58082",
+    "prompt": "the red car",
+    "target_box": [
+      225.0,
+      315.0,
+      337.0,
+      381.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2327345,
+    "image_source": "visual_genome",
+    "notes": "color=red, object=building, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_125511",
+    "prompt": "the red building",
+    "target_box": [
+      128.0,
+      107.0,
+      277.0,
+      214.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 713353,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=bag, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_10360",
+    "prompt": "the black bag",
+    "target_box": [
+      132.0,
+      5.0,
+      247.0,
+      64.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2396938,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=building, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_35974",
+    "prompt": "the white building",
+    "target_box": [
+      298.0,
+      131.0,
+      358.0,
+      181.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2413777,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=pants, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_144958",
+    "prompt": "the blue pants",
+    "target_box": [
+      53.0,
+      91.0,
+      126.0,
+      144.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2400373,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=building, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_31603",
+    "prompt": "the white building",
+    "target_box": [
+      30.0,
+      31.0,
+      326.0,
+      447.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2364887,
+    "image_source": "visual_genome",
+    "notes": "color=red, object=bus, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_76161",
+    "prompt": "the red bus",
+    "target_box": [
+      301.0,
+      44.0,
+      458.0,
+      148.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2377906,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=shoe, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_59050",
+    "prompt": "the black shoe",
+    "target_box": [
+      138.0,
+      348.0,
+      252.0,
+      411.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2371246,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=cup, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_67759",
+    "prompt": "the white cup",
+    "target_box": [
+      213.0,
+      15.0,
+      373.0,
+      498.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2320842,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=jacket, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_134316",
+    "prompt": "the black jacket",
+    "target_box": [
+      0.0,
+      202.0,
+      365.0,
+      497.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2361742,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=boat, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_80123",
+    "prompt": "the blue boat",
+    "target_box": [
+      192.0,
+      156.0,
+      278.0,
+      248.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2334813,
+    "image_source": "visual_genome",
+    "notes": "color=blue, object=building, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_117588",
+    "prompt": "the blue building",
+    "target_box": [
+      7.0,
+      170.0,
+      52.0,
+      243.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2358607,
+    "image_source": "visual_genome",
+    "notes": "color=green, object=fence, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_84307",
+    "prompt": "the green fence",
+    "target_box": [
+      3.0,
+      42.0,
+      499.0,
+      370.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 498293,
+    "image_source": "visual_genome",
+    "notes": "color=red, object=bag, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_9514",
+    "prompt": "the red bag",
+    "target_box": [
+      591.0,
+      733.0,
+      747.0,
+      925.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2343014,
+    "image_source": "visual_genome",
+    "notes": "color=orange, object=chair, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_106929",
+    "prompt": "the orange chair",
+    "target_box": [
+      4.0,
+      185.0,
+      186.0,
+      254.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2405339,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=helmet, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_25134",
+    "prompt": "the white helmet",
+    "target_box": [
+      258.0,
+      33.0,
+      356.0,
+      109.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2386650,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=pants, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_48206",
+    "prompt": "the black pants",
+    "target_box": [
+      133.0,
+      194.0,
+      207.0,
+      275.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2364326,
+    "image_source": "visual_genome",
+    "notes": "color=black, object=shoe, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_76992",
+    "prompt": "the black shoe",
+    "target_box": [
+      282.0,
+      234.0,
+      314.0,
+      271.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": null,
+    "has_distractor": false,
+    "image_id": 2348034,
+    "image_source": "visual_genome",
+    "notes": "color=white, object=shirt, control",
+    "pair_id": "",
+    "phenomenon": "attribute_color_control",
+    "probe_id": "attribute_99245",
+    "prompt": "the white shirt",
+    "target_box": [
+      390.0,
+      163.0,
+      495.0,
+      221.0
+    ],
+    "target_mask": null
+  }
+]

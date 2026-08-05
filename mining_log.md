@@ -122,3 +122,71 @@ concept) or **distinct** (clearly different objects — easy-tier baseline).
 - Prompt names use natural-language singular forms from LVIS synonyms.
 - Mirrors linked via `pair_id` (e.g. `fg_0001`).
 - Controls: one instance of a sibling category with NO other sibling in the image.
+
+---
+
+## Attribute-Binding Miner
+
+**Date:** 2026-08-05
+**Script:** `src/mine_attributes.py`
+**Source:** `data/vg/attributes.json` + `data/vg/image_data.json`
+
+### Design Decisions
+
+- **Color normalization:** Only exact single-word matches against the fixed color
+  set. Multi-word attributes ("dark blue", "light brown") are DROPPED, not
+  normalized to base color. Avoids ambiguity at the cost of a few missed probes.
+- **Object-name normalization:** Hand-built alias table merging VG synonyms
+  (e.g., cup/mug → cup, car/automobile → car, pants/trousers/jeans → pants).
+- **Conflict rule:** Two same-name objects with colors X ≠ Y, and neither
+  object's attribute list contains the other's color.
+- **No masks:** VG has no segmentation masks. `target_mask` is null for all
+  attribute probes. Evaluated on boxes only.
+- **Mirrors:** Each pair emits "the {X} {obj}" targeting object 1 and
+  "the {Y} {obj}" targeting object 2, sharing a `pair_id`.
+
+### Fixed Color Set
+
+red, blue, green, yellow, black, white, brown, orange, pink, purple
+
+### Thresholds
+
+| Parameter | Value |
+|---|---|
+| MIN_BOX_AREA_FRAC | 0.005 (each box > 0.5% image area) |
+| MAX_IOU | 0.10 (boxes must not overlap) |
+| MAX_GROUP_PROBES | 30 (cap per object category) |
+| MAX_DISTRACTOR_PAIRS | 200 (~400 probes total) |
+| MAX_CONTROL_PROBES | 100 |
+
+### Yields
+
+- Raw distractor: 67,736 probes (massive VG coverage)
+- After per-category cap + overall subsample:
+
+| File | Probes | Pairs | Images |
+|---|---|---|---|
+| `attribute_distractor.json` | 400 | 200 | 193 |
+| `attribute_control.json` | 100 | — | — |
+
+### Color Distribution (distractor)
+
+| Color | Probes |
+|---|---|
+| blue | 76 |
+| white | 68 |
+| red | 65 |
+| black | 56 |
+| yellow | 37 |
+| green | 36 |
+| brown | 27 |
+| orange | 14 |
+| purple | 12 |
+| pink | 9 |
+
+### Notes
+
+- 400 candidates expecting ~50% rejection at verification → ~200 keepers.
+- Every kept probe gets human-verified in Step 7 (VG colors are noisy).
+- Per-object cap at 30 probes ensures no single object category dominates.
+- Prompt template: "the {color} {object}".
