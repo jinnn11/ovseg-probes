@@ -26,6 +26,7 @@ class Probe:
     target_mask: RLE | None
     distractor_box: Box | None
     has_distractor: bool
+    pair_id: str = ""
     notes: str = ""
 
     def __post_init__(self) -> None:
@@ -73,13 +74,14 @@ class Probe:
             "has_distractor",
             "notes",
         }
+        optional = {"pair_id"}
         missing = required - set(raw)
         if missing:
             raise ValueError(f"Probe is missing required fields: {sorted(missing)}")
-        extra = set(raw) - required
+        extra = set(raw) - required - optional
         if extra:
             raise ValueError(f"Probe has unknown fields: {sorted(extra)}")
-        return cls(**raw)
+        return cls(**{k: v for k, v in raw.items() if k in required | optional})
 
     def to_dict(self) -> dict[str, Any]:
         data = asdict(self)

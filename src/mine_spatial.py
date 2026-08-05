@@ -42,6 +42,7 @@ MIN_HORIZ_GAP_FRAC = 0.30   # A centers horiz gap > 30 % of image width
 MAX_VERT_DIFF_FRAC = 0.10   # A centers vert diff < 10 % of image height
 MIN_BOX_AREA_FRAC = 0.03    # every box > 3 % of image area
 MAX_BOX_AREA_FRAC = 0.25    # every box < 25 % of image area
+MAX_DISTRACTOR_PAIRS = 190   # subsample distractor pairs → ~380 probes
 MAX_CONTROL_PROBES = 100     # subsample controls (50 left + 50 right)
 
 COCO_PATH = Path("data/coco/instances_train2017.json")
@@ -76,8 +77,8 @@ def _area_ok(box_xyxy: tuple, img_area: float) -> bool:
 
 # ── Core mining ─────────────────────────────────────────────────────
 
-def mine(coco_path: Path = COCO_PATH) -> tuple[list[Probe], list[Probe]]:
-    """Return (distractor_probes, control_probes)."""
+def mine(coco_path: Path = COCO_PATH) -> tuple[list[Probe], list[Probe], list[Probe]]:
+    """Return (distractor_probes, control_probes, extra_probes)."""
     print(f"Loading {coco_path} …")
     with coco_path.open() as f:
         coco = json.load(f)
@@ -105,6 +106,7 @@ def mine(coco_path: Path = COCO_PATH) -> tuple[list[Probe], list[Probe]]:
     distractor_probes: list[Probe] = []
     control_probes: list[Probe] = []
     pid = 0
+    pair_counter = 0
 
     for image_id in sorted(img_anns):
         entries = img_anns[image_id]
@@ -158,6 +160,9 @@ def mine(coco_path: Path = COCO_PATH) -> tuple[list[Probe], list[Probe]]:
                 right_rle = _rle_serializable(
                     _ann_to_rle(right["ann"], img_h, img_w))
 
+                pair_counter += 1
+                pair_id = f"sp_{pair_counter:04d}"
+
                 # Left probe
                 pid += 1
                 distractor_probes.append(Probe(
@@ -170,6 +175,7 @@ def mine(coco_path: Path = COCO_PATH) -> tuple[list[Probe], list[Probe]]:
                     target_mask=left_rle,
                     distractor_box=right["box"],
                     has_distractor=True,
+                    pair_id=pair_id,
                     notes=f"cat_a={cat_a}, cat_b={cat_b}",
                 ))
 
@@ -185,6 +191,7 @@ def mine(coco_path: Path = COCO_PATH) -> tuple[list[Probe], list[Probe]]:
                     target_mask=right_rle,
                     distractor_box=left["box"],
                     has_distractor=True,
+                    pair_id=pair_id,
                     notes=f"cat_a={cat_a}, cat_b={cat_b}",
                 ))
 
@@ -230,6 +237,17 @@ def mine(coco_path: Path = COCO_PATH) -> tuple[list[Probe], list[Probe]]:
                     notes=f"cat_a={cat_a}, cat_b={cat_b}, control",
                 ))
 
+    # Subsample distractors by pair_id (keeps mirrors together)
+    extra_probes: list[Probe] = []
+    if pair_counter > MAX_DISTRACTOR_PAIRS:
+        all_pair_ids = sorted(set(p.pair_id for p in distractor_probes))
+        rng = random.Random(42)
+        rng.shuffle(all_pair_ids)
+        keep = set(all_pair_ids[:MAX_DISTRACTOR_PAIRS])
+        kept = [p for p in distractor_probes if p.pair_id in keep]
+        extra_probes = [p for p in distractor_probes if p.pair_id not in keep]
+        distractor_probes = kept
+
     # Subsample controls: stratified 50 left + 50 right
     if len(control_probes) > MAX_CONTROL_PROBES:
         left_ctrl = [p for p in control_probes if "left" in p.phenomenon]
@@ -240,7 +258,7 @@ def mine(coco_path: Path = COCO_PATH) -> tuple[list[Probe], list[Probe]]:
         rng.shuffle(right_ctrl)
         control_probes = left_ctrl[:half] + right_ctrl[:half]
 
-    return distractor_probes, control_probes
+    return distractor_probes, control_probes, extra_probes
 
 
 # ── CLI ──────────────────────────────────────────────────────────────
@@ -254,21 +272,25 @@ def main() -> None:
                         help="Directory for output probe JSONs")
     args = parser.parse_args()
 
-    distractor, control = mine(args.coco)
+    distractor, control, extras = mine(args.coco)
 
     print(f"\nDistractor probes: {len(distractor)}")
     print(f"Control probes:    {len(control)}")
+    print(f"Extra probes:      {len(extras)}")
 
+    out = args.output_dir
     if distractor:
-        p = args.output_dir / "spatial_distractor.json"
-        save_probes(distractor, p)
-        print(f"Saved → {p}")
+        save_probes(distractor, out / "spatial_distractor.json")
+        print(f"Saved → {out / 'spatial_distractor.json'}")
     if control:
-        p = args.output_dir / "spatial_control.json"
-        save_probes(control, p)
-        print(f"Saved → {p}")
+        save_probes(control, out / "spatial_control.json")
+        print(f"Saved → {out / 'spatial_control.json'}")
+    if extras:
+        save_probes(extras, out / "spatial_extras.json")
+        print(f"Saved → {out / 'spatial_extras.json'}")
 
-    print(f"Total: {len(distractor) + len(control)} probes")
+    print(f"Candidates: {len(distractor) + len(control)} probes  "
+          f"(extras: {len(extras)})")
 
 
 if __name__ == "__main__":
