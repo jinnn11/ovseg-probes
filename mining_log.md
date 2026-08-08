@@ -168,6 +168,7 @@ red, blue, green, yellow, black, white, brown, orange, pink, purple
 |---|---|---|---|
 | `attribute_distractor.json` | 400 | 200 | 193 |
 | `attribute_control.json` | 100 | — | — |
+| `attribute_extras.json` | 560 | 280 | — |
 
 ### Color Distribution (distractor)
 
@@ -190,3 +191,132 @@ red, blue, green, yellow, black, white, brown, orange, pink, purple
 - Every kept probe gets human-verified in Step 7 (VG colors are noisy).
 - Per-object cap at 30 probes ensures no single object category dominates.
 - Prompt template: "the {color} {object}".
+- Extras saved from post-cap, pre-subsample pool for topping up after verification.
+- **Pair rejection policy:** keep valid singletons for accuracy; pair-consistency
+  analysis uses only fully-intact pairs. Encoded in `src/analyze.py`.
+
+---
+
+## Negation Miner
+
+**Date:** 2026-08-07
+**Script:** `src/mine_negation.py`
+**Sources:** `data/vg/relationships.json` + `data/vg/objects.json` + `data/vg/image_data.json`
+
+### Design Decisions
+
+- **Predicate normalization:** Variants of wearing/wears/wearing a/etc. mapped
+  to canonical verbs (wearing, holding, carrying). Only verb+item combos that
+  make sense are kept (e.g. "wearing a hat" yes, "wearing a phone" no).
+- **Person detection:** Objects named person/man/woman/boy/girl/lady/guy.
+- **Item normalization:** hat/cap → hat, glasses/sunglasses/eyeglasses → glasses,
+  helmet kept separate, phone/cell phone → phone.
+- **Probe structure:** Negation probe ("the person not wearing a hat") targets the
+  unannotated person; positive mirror ("the person wearing a hat") targets the
+  wearer. Shared pair_id gives negation-vs-affirmation contrast.
+- **No masks:** VG has no segmentation masks. `target_mask` is null.
+- **All probes flagged `needs_full_verification`:** Absence of VG annotation is
+  weak evidence of absence. Heavy rejection expected at human verification.
+
+### Target Items and Verbs
+
+| Item | Verb |
+|---|---|
+| hat | wearing |
+| helmet | wearing |
+| glasses | wearing |
+| backpack | wearing |
+| tie | wearing |
+| umbrella | holding |
+| phone | holding |
+
+### Thresholds
+
+| Parameter | Value |
+|---|---|
+| MIN_BOX_AREA_FRAC | 0.015 (person box > 1.5% image area) |
+| MAX_PERSON_IOU | 0.30 (overlapping people excluded) |
+| MAX_DISTRACTOR_PAIRS | 150 (~300 probes total) |
+| MAX_CONTROL_PROBES | 100 |
+| PREFER_TWO_PERSON | True (2-person images prioritized) |
+
+### Yields
+
+- Raw distractor: 9,374 probes from VG relationship annotations
+- Raw control: 154,389 probes (single-person, no item relation)
+- After subsample:
+
+| File | Probes | Pairs |
+|---|---|---|
+| `negation_distractor.json` | 300 (150 negation + 150 positive) | 150 |
+| `negation_control.json` | 100 | — |
+| `negation_extras.json` | 500 | 250 |
+
+### Per-Item Distractor Counts
+
+| Item | Probes |
+|---|---|
+| glasses | 120 |
+| hat | 92 |
+| helmet | 38 |
+| umbrella | 20 |
+| tie | 16 |
+| backpack | 8 |
+| phone | 6 |
+
+### Accounting
+
+- **150 negation-phrased probes** (phenomenon=`negation`) are the headline.
+- **150 positive mirrors** (phenomenon=`negation_positive`) are a comparison
+  condition, not padding for the negation count.
+- Headline negation accuracy is computed from the 150 negation probes only;
+  positives are reported separately for the negation-vs-affirmation contrast.
+- Expect 150 pairs = 300 probes to verify (pair is verified together on same image).
+- After rejection, negation phenomenon should land at ~100–130 keepers,
+  topped up from 500 extras if needed.
+
+### Notes
+
+- All 300 distractor probes come from 2-person images (preferred for easier
+  verification).
+- Glasses and hat dominate due to VG annotation frequency; all 7 items present.
+- Controls: single-person images, no item relationship annotated, same prompt.
+- Extras available for top-up after verification rejects.
+- Item distribution reflects VG bias — not rebalanced, since real-world
+  frequency matters more than uniform coverage for this phenomenon.
+
+---
+
+## Step 7: Image Download + Verification
+
+**Date:** 2026-08-07
+
+### Scripts
+
+| Script | Purpose |
+|---|---|
+| `src/download_images.py` | Concurrent image downloader with retries + PIL verification |
+| `verify.ipynb` | Interactive verification notebook (ipywidgets, resume from decisions.jsonl) |
+| `src/freeze.py` | Compile verified keepers into `probe_set_v1.json` + `control_set_v1.json` |
+
+### Image Counts
+
+| Source | Images |
+|---|---|
+| COCO/LVIS | 551 |
+| Visual Genome | 1,007 |
+| **Total** | **1,558** |
+
+### Verification Session Plan
+
+1. **Negation** — full review (300 distractor + 100 control, ~1.5 hr)
+2. **Attributes** — full review (400 distractor + spot-check controls, ~1.5–2 hr)
+3. **Spatial** — light pass (380 + 100, ~45 min)
+4. **Fine-grained** — spot check 20% (~50 probes, ~20 min)
+5. If spot-check exceeds ~5% bad → escalate to full review
+6. Teammate re-verifies random 10% sample; compute agreement
+
+### Freeze Process
+
+After verification: `python -m src.freeze` compiles keepers, prints
+per-phenomenon counts and pair integrity. Commit, tag `probe-freeze`.

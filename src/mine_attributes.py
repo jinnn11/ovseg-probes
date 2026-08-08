@@ -77,6 +77,7 @@ NAME_ALIASES: dict[str, str] = {
 MIN_BOX_AREA_FRAC = 0.005   # each box > 0.5 % of image area
 MAX_IOU = 0.10               # boxes must not overlap much
 MAX_DISTRACTOR_PAIRS = 200   # ~400 probes total (pair-aware subsample)
+MAX_EXTRAS = 2000            # extras for topping up after verification
 MAX_CONTROL_PROBES = 100
 MAX_GROUP_PROBES = 30        # cap any single object category
 
@@ -115,8 +116,8 @@ def _area_ok(box_xyxy: tuple, img_area: float) -> bool:
 def mine(
     attrs_path: Path = VG_ATTRS_PATH,
     imgdata_path: Path = VG_IMGDATA_PATH,
-) -> tuple[list[Probe], list[Probe]]:
-    """Return (distractor_probes, control_probes)."""
+) -> tuple[list[Probe], list[Probe], list[Probe]]:
+    """Return (distractor_probes, control_probes, extras_probes)."""
     print(f"Loading {imgdata_path} …")
     with imgdata_path.open() as f:
         img_data_list = json.load(f)
@@ -255,10 +256,28 @@ def mine(
 
     # Overall subsample to target size (pair-aware)
     all_pair_ids = sorted(set(p.pair_id for p in distractor_probes))
+    extras_probes: list[Probe] = []
     if len(all_pair_ids) > MAX_DISTRACTOR_PAIRS:
         rng = random.Random(42)
         rng.shuffle(all_pair_ids)
         keep = set(all_pair_ids[:MAX_DISTRACTOR_PAIRS])
+        leftover_ids = [pid for pid in all_pair_ids if pid not in keep]
+        # Save extras from the leftover pool (capped at MAX_EXTRAS)
+        extras_pool = [p for p in distractor_probes if p.pair_id in set(leftover_ids)]
+        if len(extras_pool) > MAX_EXTRAS:
+            rng2 = random.Random(42)
+            extra_pairs = sorted(set(p.pair_id for p in extras_pool))
+            rng2.shuffle(extra_pairs)
+            keep_extra: set[str] = set()
+            count = 0
+            for epid in extra_pairs:
+                pair_size = sum(1 for p in extras_pool if p.pair_id == epid)
+                if count + pair_size > MAX_EXTRAS:
+                    break
+                keep_extra.add(epid)
+                count += pair_size
+            extras_pool = [p for p in extras_pool if p.pair_id in keep_extra]
+        extras_probes = extras_pool
         distractor_probes = [p for p in distractor_probes if p.pair_id in keep]
 
     # Subsample controls
@@ -267,7 +286,7 @@ def mine(
         rng.shuffle(control_probes)
         control_probes = control_probes[:MAX_CONTROL_PROBES]
 
-    return distractor_probes, control_probes
+    return distractor_probes, control_probes, extras_probes
 
 
 def _cap_by_object(probes: list[Probe]) -> list[Probe]:
@@ -307,7 +326,7 @@ def main() -> None:
     parser.add_argument("--output-dir", type=Path, default=OUTPUT_DIR)
     args = parser.parse_args()
 
-    distractor, control = mine(args.attrs, args.imgdata)
+    distractor, control, extras = mine(args.attrs, args.imgdata)
 
     out = args.output_dir
     if distractor:
@@ -316,6 +335,9 @@ def main() -> None:
     if control:
         save_probes(control, out / "attribute_control.json")
         print(f"Saved → {out / 'attribute_control.json'}")
+    if extras:
+        save_probes(extras, out / "attribute_extras.json")
+        print(f"Saved → {out / 'attribute_extras.json'}")
 
     # Per-object breakdown
     from collections import Counter
@@ -330,8 +352,10 @@ def main() -> None:
         print(f"  {obj:<20} {cnt}")
 
     pairs = set(p.pair_id for p in distractor)
+    extra_pairs = set(p.pair_id for p in extras)
     print(f"\nTotal pairs: {len(pairs)}")
-    print(f"Total: {len(distractor) + len(control)} probes")
+    print(f"Extras: {len(extras)} probes ({len(extra_pairs)} pairs)")
+    print(f"Total: {len(distractor) + len(control)} probes (+ {len(extras)} extras)")
 
 
 if __name__ == "__main__":
