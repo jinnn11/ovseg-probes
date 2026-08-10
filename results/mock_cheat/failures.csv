@@ -1,0 +1,9 @@
+phenomenon,failure_type,count
+attribute_color,distractor-capture,17
+finegrained_confusable,distractor-capture,10
+finegrained_distinct,distractor-capture,1
+negation,distractor-capture,4
+negation_positive,distractor-capture,14
+spatial_left,distractor-capture,7
+spatial_right,distractor-capture,8
+overall,distractor-capture,61

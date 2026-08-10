@@ -1,0 +1,287 @@
+{
+  "iou_threshold": 0.5,
+  "total_probes": 914,
+  "missing_predictions": 0,
+  "accuracy": {
+    "distractor": {
+      "attribute_color": {
+        "correct": 0,
+        "total": 199,
+        "accuracy": 0.0
+      },
+      "finegrained_confusable": {
+        "correct": 0,
+        "total": 69,
+        "accuracy": 0.0
+      },
+      "finegrained_distinct": {
+        "correct": 0,
+        "total": 48,
+        "accuracy": 0.0
+      },
+      "negation": {
+        "correct": 0,
+        "total": 82,
+        "accuracy": 0.0
+      },
+      "negation_positive": {
+        "correct": 0,
+        "total": 105,
+        "accuracy": 0.0
+      },
+      "spatial_left": {
+        "correct": 0,
+        "total": 78,
+        "accuracy": 0.0
+      },
+      "spatial_right": {
+        "correct": 0,
+        "total": 72,
+        "accuracy": 0.0
+      }
+    },
+    "control": {
+      "attribute_color_control": {
+        "correct": 0,
+        "total": 50,
+        "accuracy": 0.0
+      },
+      "finegrained_control": {
+        "correct": 0,
+        "total": 80,
+        "accuracy": 0.0
+      },
+      "negation_control": {
+        "correct": 0,
+        "total": 59,
+        "accuracy": 0.0
+      },
+      "spatial_left_control": {
+        "correct": 0,
+        "total": 35,
+        "accuracy": 0.0
+      },
+      "spatial_right_control": {
+        "correct": 1,
+        "total": 37,
+        "accuracy": 0.02702702702702703
+      }
+    },
+    "distractor_overall": {
+      "correct": 0,
+      "total": 653,
+      "accuracy": 0.0
+    },
+    "control_overall": {
+      "correct": 1,
+      "total": 261,
+      "accuracy": 0.0038314176245210726
+    }
+  },
+  "distractor_gap": {
+    "attribute_color": {
+      "control_acc": 0.0,
+      "distractor_acc": 0.0,
+      "gap": 0.0
+    },
+    "spatial_left": {
+      "control_acc": 0.0,
+      "distractor_acc": 0.0,
+      "gap": 0.0
+    },
+    "spatial_right": {
+      "control_acc": 0.02702702702702703,
+      "distractor_acc": 0.0,
+      "gap": 0.02702702702702703
+    },
+    "finegrained_confusable": {
+      "control_acc": 0.0,
+      "distractor_acc": 0.0,
+      "gap": 0.0
+    },
+    "finegrained_distinct": {
+      "control_acc": 0.0,
+      "distractor_acc": 0.0,
+      "gap": 0.0
+    },
+    "negation": {
+      "control_acc": 0.0,
+      "distractor_acc": 0.0,
+      "gap": 0.0
+    },
+    "negation_positive": {
+      "control_acc": 0.0,
+      "distractor_acc": 0.0,
+      "gap": 0.0
+    }
+  },
+  "mask_miou": {
+    "finegrained_confusable": {
+      "mean_iou": 0.01175741182632106,
+      "count": 68
+    },
+    "finegrained_control": {
+      "mean_iou": 0.012099901543029888,
+      "count": 76
+    },
+    "finegrained_distinct": {
+      "mean_iou": 0.018563011468887367,
+      "count": 44
+    },
+    "spatial_left": {
+      "mean_iou": 0.009806705255776232,
+      "count": 74
+    },
+    "spatial_left_control": {
+      "mean_iou": 0.01732113691835604,
+      "count": 34
+    },
+    "spatial_right": {
+      "mean_iou": 0.019351418795768804,
+      "count": 70
+    },
+    "spatial_right_control": {
+      "mean_iou": 0.02254778586589375,
+      "count": 36
+    },
+    "overall": {
+      "mean_iou": 0.014967172828653445,
+      "count": 402
+    }
+  },
+  "failures": {
+    "attribute_color": {
+      "other-grounding": 192,
+      "detection-miss": 7
+    },
+    "finegrained_confusable": {
+      "other-grounding": 68,
+      "detection-miss": 1
+    },
+    "finegrained_distinct": {
+      "other-grounding": 44,
+      "detection-miss": 4
+    },
+    "negation": {
+      "other-grounding": 79,
+      "detection-miss": 3
+    },
+    "negation_positive": {
+      "other-grounding": 102,
+      "detection-miss": 3
+    },
+    "spatial_left": {
+      "other-grounding": 74,
+      "detection-miss": 4
+    },
+    "spatial_right": {
+      "other-grounding": 70,
+      "detection-miss": 2
+    },
+    "overall": {
+      "other-grounding": 629,
+      "detection-miss": 24
+    }
+  },
+  "pair_consistency": {
+    "attribute_color": {
+      "pairs": 55,
+      "both_correct": 0,
+      "consistency": 0.0
+    },
+    "finegrained_confusable": {
+      "pairs": 34,
+      "both_correct": 0,
+      "consistency": 0.0
+    },
+    "finegrained_distinct": {
+      "pairs": 24,
+      "both_correct": 0,
+      "consistency": 0.0
+    },
+    "negation": {
+      "pairs": 74,
+      "both_correct": 0,
+      "consistency": 0.0
+    },
+    "spatial_left": {
+      "pairs": 51,
+      "both_correct": 0,
+      "consistency": 0.0
+    },
+    "overall": {
+      "pairs": 238,
+      "both_correct": 0,
+      "consistency": 0.0
+    }
+  },
+  "negation_contrast": {
+    "negation": {
+      "correct": 0,
+      "total": 82,
+      "accuracy": 0.0
+    },
+    "negation_positive": {
+      "correct": 0,
+      "total": 105,
+      "accuracy": 0.0
+    },
+    "intact_pairs": {
+      "total": 74,
+      "both_correct": 0,
+      "neg_only": 0,
+      "pos_only": 0,
+      "neither": 74
+    }
+  },
+  "threshold_sweep": [
+    {
+      "confidence_cutoff": 0.15,
+      "evaluated": 878,
+      "correct": 1,
+      "accuracy": 0.0011389521640091116
+    },
+    {
+      "confidence_cutoff": 0.2,
+      "evaluated": 845,
+      "correct": 1,
+      "accuracy": 0.001183431952662722
+    },
+    {
+      "confidence_cutoff": 0.25,
+      "evaluated": 804,
+      "correct": 1,
+      "accuracy": 0.0012437810945273632
+    },
+    {
+      "confidence_cutoff": 0.3,
+      "evaluated": 768,
+      "correct": 1,
+      "accuracy": 0.0013020833333333333
+    },
+    {
+      "confidence_cutoff": 0.35,
+      "evaluated": 722,
+      "correct": 1,
+      "accuracy": 0.0013850415512465374
+    },
+    {
+      "confidence_cutoff": 0.4,
+      "evaluated": 680,
+      "correct": 1,
+      "accuracy": 0.0014705882352941176
+    },
+    {
+      "confidence_cutoff": 0.45,
+      "evaluated": 633,
+      "correct": 1,
+      "accuracy": 0.001579778830963665
+    },
+    {
+      "confidence_cutoff": 0.5,
+      "evaluated": 579,
+      "correct": 1,
+      "accuracy": 0.0017271157167530224
+    }
+  ]
+}

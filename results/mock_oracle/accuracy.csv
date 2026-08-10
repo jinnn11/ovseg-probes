@@ -1,0 +1,8 @@
+type,phenomenon,correct,total,accuracy
+distractor,finegrained_confusable,68,69,0.9855
+distractor,finegrained_distinct,48,48,1.0000
+distractor,spatial_left,78,78,1.0000
+distractor,spatial_right,72,72,1.0000
+control,finegrained_control,80,80,1.0000
+control,spatial_left_control,35,35,1.0000
+control,spatial_right_control,37,37,1.0000

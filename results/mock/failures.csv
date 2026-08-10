@@ -1,0 +1,17 @@
+phenomenon,failure_type,count
+attribute_color,other-grounding,192
+attribute_color,detection-miss,7
+finegrained_confusable,other-grounding,68
+finegrained_confusable,detection-miss,1
+finegrained_distinct,other-grounding,44
+finegrained_distinct,detection-miss,4
+negation,other-grounding,79
+negation,detection-miss,3
+negation_positive,other-grounding,102
+negation_positive,detection-miss,3
+spatial_left,other-grounding,74
+spatial_left,detection-miss,4
+spatial_right,other-grounding,70
+spatial_right,detection-miss,2
+overall,other-grounding,629
+overall,detection-miss,24

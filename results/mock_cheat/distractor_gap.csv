@@ -1,0 +1,8 @@
+phenomenon,control_acc,distractor_acc,gap
+attribute_color,0.9200,0.9146,0.0054
+spatial_left,0.9143,0.9103,0.0040
+spatial_right,0.8919,0.8889,0.0030
+finegrained_confusable,0.8625,0.8551,0.0074
+finegrained_distinct,0.8625,0.9792,-0.1167
+negation,0.8983,0.9512,-0.0529
+negation_positive,0.8983,0.8667,0.0316

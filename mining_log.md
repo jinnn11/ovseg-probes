@@ -320,3 +320,85 @@ red, blue, green, yellow, black, white, brown, orange, pink, purple
 
 After verification: `python -m src.freeze` compiles keepers, prints
 per-phenomenon counts and pair integrity. Commit, tag `probe-freeze`.
+
+### Frozen Set v1
+
+| Phenomenon | Distractor | Control |
+|---|---|---|
+| attribute_color | 199 | 50 |
+| spatial_left | 78 | 35 |
+| spatial_right | 72 | 37 |
+| finegrained_confusable | 69 | 80 |
+| finegrained_distinct | 48 | — |
+| negation | 82 | 59 |
+| negation_positive | 105 | — |
+| **Total** | **653** | **261** |
+
+- Complete mirror pairs: 238
+- Singletons (mirror rejected): 177
+- Unique images: 608
+- Keep rate: 48% (918 keep / 1,910 total decisions)
+
+---
+
+## Step 8: Mock Dress Rehearsal
+
+**Date:** 2026-08-10
+
+### Scripts
+
+| Script | Purpose |
+|---|---|
+| `src/mock_model.py` | MockModel (random), MockCheatModel (90% GT), MockSAM (oracle box) |
+| `src/run_inference.py` | Per-probe inference runner with checkpointing |
+| `src/analyze.py` | Full analysis suite: accuracy, gap, mIoU, failures, pairs, sweep |
+| `setup_server.sh` | GPU server setup: clone, pip install, wget weights, download images |
+| `run_all.sh` | Full inference+analysis pipeline (tmux-friendly) |
+| `pull_results.sh` | rsync results from server to local |
+
+### Mock Model Modes
+
+| Mode | Behavior |
+|---|---|
+| `mock` | 0–3 random boxes, random confidence, blob masks |
+| `mock_cheat` | Ground-truth box 90%, distractor box 10% |
+| `mock --oracle-box` | GT box + MockSAM blob mask |
+
+### Rehearsal Results
+
+**mock:** 0% accuracy (expected — random boxes). No crashes, all 914 probes
+processed, 6 CSVs + 4 PNGs generated.
+
+**mock_cheat:** ~90% accuracy across all phenomena (validates analyzer math).
+- Distractor overall: 90.7% (592/653)
+- Control overall: 89.3% (233/261)
+- Near-zero distractor gap (largest: finegrained_distinct −11.7%, due to
+  distinct-tier probes having no distractor to capture)
+- Failure type: 100% distractor-capture (the 10% miss cases)
+- Pair consistency: 82.4% (196/238 complete pairs)
+
+**mock_oracle:** 99.6% box accuracy on masked probes (267 distractor + 152 control).
+495 maskless probes correctly skipped.
+
+### Analysis Outputs
+
+Each run produces in `results/{model}/`:
+- `accuracy.csv`, `distractor_gap.csv`, `failures.csv`
+- `pair_consistency.csv`, `threshold_sweep.csv`, `mask_miou.csv`
+- `accuracy_bars.png`, `failure_bars.png`, `distractor_gap.png`, `threshold_sweep.png`
+- `report.json` (full report)
+
+### Prediction Format
+
+Per probe: `predictions/{model}/{probe_id}.json`
+```json
+{
+  "probe_id": "...",
+  "model": "detection",
+  "candidates": [{"box_xyxy": [...], "confidence": 0.85, "mask_rle": {...}}],
+  "top_box": [...],
+  "top_confidence": 0.85,
+  "top_mask": {...},
+  "wall_time_s": 0.123
+}
+```

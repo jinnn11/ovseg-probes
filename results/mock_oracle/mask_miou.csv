@@ -1,0 +1,9 @@
+phenomenon,mean_iou,count
+finegrained_confusable,0.0832,69
+finegrained_control,0.0878,80
+finegrained_distinct,0.1108,48
+spatial_left,0.1097,78
+spatial_left_control,0.0974,35
+spatial_right,0.1074,72
+spatial_right_control,0.1064,37
+overall,0.0996,419
