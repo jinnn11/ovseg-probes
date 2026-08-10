@@ -34,6 +34,8 @@ DISTRACTOR_FILES = [
     "finegrained_distractor.json",
     "attribute_distractor.json",
     "negation_distractor.json",
+    "negation_topup.json",
+    "attribute_topup.json",
 ]
 
 CONTROL_FILES = [
@@ -42,6 +44,55 @@ CONTROL_FILES = [
     "attribute_control.json",
     "negation_control.json",
 ]
+
+
+def _content_key(p: Probe) -> tuple:
+    return (str(p.image_id), p.prompt, tuple(p.target_box))
+
+
+def _dedupe(
+    probes: list[Probe], decisions: dict[str, dict],
+) -> list[Probe]:
+    """Remove duplicate probes by content key. Any-reject-wins."""
+    by_key: dict[tuple, list[Probe]] = defaultdict(list)
+    for p in probes:
+        by_key[_content_key(p)].append(p)
+
+    deduped: list[Probe] = []
+    removed = 0
+    for key, group in by_key.items():
+        if len(group) == 1:
+            deduped.append(group[0])
+            continue
+        # Any-reject-wins: check all probe_ids for this content key
+        all_ids = set()
+        for p in group:
+            all_ids.add(p.probe_id)
+        any_reject = any(
+            decisions.get(pid, {}).get("decision") == "reject"
+            for pid in all_ids
+        )
+        if any_reject:
+            removed += len(group)
+            continue
+        deduped.append(group[0])
+        removed += len(group) - 1
+
+    if removed:
+        print(f"  Dedup: removed {removed} duplicate probes")
+    return deduped
+
+
+def _assert_unique(probes: list[Probe], label: str) -> None:
+    """Verify no duplicate content keys remain."""
+    seen: set[tuple] = set()
+    for p in probes:
+        key = _content_key(p)
+        if key in seen:
+            raise ValueError(
+                f"Duplicate probe in {label}: image={key[0]} "
+                f"prompt={key[1]!r}")
+        seen.add(key)
 
 
 def freeze(require_decision: bool = False) -> None:
@@ -97,9 +148,17 @@ def freeze(require_decision: bool = False) -> None:
             else:
                 rejected += 1
 
+    # Deduplicate by content key (image_id, prompt, target_box).
+    # Any-reject-wins: if a duplicate was rejected in any decision, drop it.
+    kept_probes = _dedupe(kept_probes, decisions)
+    kept_controls = _dedupe(kept_controls, decisions)
+
     # Save
     probe_out = OUTPUT_DIR / "probe_set_v1.json"
     control_out = OUTPUT_DIR / "control_set_v1.json"
+
+    _assert_unique(kept_probes, "probe_set")
+    _assert_unique(kept_controls, "control_set")
 
     save_probes(kept_probes, probe_out)
     save_probes(kept_controls, control_out)

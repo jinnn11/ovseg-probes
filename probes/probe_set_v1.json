@@ -1,1 +1,8880 @@
-[]
+[
+  {
+    "distractor_box": [
+      248.0,
+      151.0,
+      413.0,
+      276.0
+    ],
+    "has_distractor": true,
+    "image_id": 345,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=car",
+    "pair_id": "attr_0490",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_0490",
+    "prompt": "the red car",
+    "target_box": [
+      362.0,
+      203.0,
+      638.0,
+      433.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      234.0,
+      273.0,
+      286.0,
+      322.0
+    ],
+    "has_distractor": true,
+    "image_id": 2255,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=yellow, object=car",
+    "pair_id": "attr_3199",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_3199",
+    "prompt": "the white car",
+    "target_box": [
+      141.0,
+      268.0,
+      249.0,
+      342.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      141.0,
+      268.0,
+      249.0,
+      342.0
+    ],
+    "has_distractor": true,
+    "image_id": 2255,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=white, object=car",
+    "pair_id": "attr_3199",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_3200",
+    "prompt": "the yellow car",
+    "target_box": [
+      234.0,
+      273.0,
+      286.0,
+      322.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      551.0,
+      318.0,
+      769.0,
+      408.0
+    ],
+    "has_distractor": true,
+    "image_id": 3261,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=car",
+    "pair_id": "attr_4406",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_4407",
+    "prompt": "the blue car",
+    "target_box": [
+      7.0,
+      304.0,
+      204.0,
+      413.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      265.0,
+      372.0,
+      445.0,
+      508.0
+    ],
+    "has_distractor": true,
+    "image_id": 3270,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=car",
+    "pair_id": "attr_4442",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_4442",
+    "prompt": "the blue car",
+    "target_box": [
+      545.0,
+      378.0,
+      623.0,
+      444.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      545.0,
+      378.0,
+      623.0,
+      444.0
+    ],
+    "has_distractor": true,
+    "image_id": 3270,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=car",
+    "pair_id": "attr_4442",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_4443",
+    "prompt": "the red car",
+    "target_box": [
+      265.0,
+      372.0,
+      445.0,
+      508.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      394.0,
+      362.0,
+      762.0,
+      526.0
+    ],
+    "has_distractor": true,
+    "image_id": 3280,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=car",
+    "pair_id": "attr_4492",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_4492",
+    "prompt": "the red car",
+    "target_box": [
+      2.0,
+      333.0,
+      176.0,
+      443.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      2.0,
+      333.0,
+      176.0,
+      443.0
+    ],
+    "has_distractor": true,
+    "image_id": 3280,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=car",
+    "pair_id": "attr_4492",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_4493",
+    "prompt": "the white car",
+    "target_box": [
+      394.0,
+      362.0,
+      762.0,
+      526.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      312.0,
+      408.0,
+      370.0,
+      454.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398871,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=car",
+    "pair_id": "attr_33407",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_33407",
+    "prompt": "the red car",
+    "target_box": [
+      202.0,
+      426.0,
+      319.0,
+      469.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      202.0,
+      426.0,
+      319.0,
+      469.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398871,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=car",
+    "pair_id": "attr_33407",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_33408",
+    "prompt": "the black car",
+    "target_box": [
+      312.0,
+      408.0,
+      370.0,
+      454.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      285.0,
+      152.0,
+      395.0,
+      212.0
+    ],
+    "has_distractor": true,
+    "image_id": 2365439,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=car",
+    "pair_id": "attr_75449",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_75449",
+    "prompt": "the red car",
+    "target_box": [
+      0.0,
+      143.0,
+      50.0,
+      179.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      208.0,
+      183.0,
+      495.0,
+      291.0
+    ],
+    "has_distractor": true,
+    "image_id": 2354626,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=car",
+    "pair_id": "attr_90403",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_90403",
+    "prompt": "the black car",
+    "target_box": [
+      0.0,
+      167.0,
+      181.0,
+      287.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      91.0,
+      85.0,
+      130.0,
+      110.0
+    ],
+    "has_distractor": true,
+    "image_id": 2353303,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=brown, object=car",
+    "pair_id": "attr_92135",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_92135",
+    "prompt": "the red car",
+    "target_box": [
+      326.0,
+      82.0,
+      387.0,
+      113.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      326.0,
+      82.0,
+      387.0,
+      113.0
+    ],
+    "has_distractor": true,
+    "image_id": 2353303,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=red, object=car",
+    "pair_id": "attr_92135",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_92136",
+    "prompt": "the brown car",
+    "target_box": [
+      91.0,
+      85.0,
+      130.0,
+      110.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      365.0,
+      1.0,
+      799.0,
+      347.0
+    ],
+    "has_distractor": true,
+    "image_id": 3451,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=yellow, object=building",
+    "pair_id": "attr_4962",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_4962",
+    "prompt": "the white building",
+    "target_box": [
+      160.0,
+      176.0,
+      289.0,
+      379.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      160.0,
+      176.0,
+      289.0,
+      379.0
+    ],
+    "has_distractor": true,
+    "image_id": 3451,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=white, object=building",
+    "pair_id": "attr_4962",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_4963",
+    "prompt": "the yellow building",
+    "target_box": [
+      365.0,
+      1.0,
+      799.0,
+      347.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      314.0,
+      65.0,
+      371.0,
+      441.0
+    ],
+    "has_distractor": true,
+    "image_id": 3767,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=yellow, object=building",
+    "pair_id": "attr_5613",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_5613",
+    "prompt": "the white building",
+    "target_box": [
+      159.0,
+      348.0,
+      195.0,
+      507.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      159.0,
+      348.0,
+      195.0,
+      507.0
+    ],
+    "has_distractor": true,
+    "image_id": 3767,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=white, object=building",
+    "pair_id": "attr_5613",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_5614",
+    "prompt": "the yellow building",
+    "target_box": [
+      314.0,
+      65.0,
+      371.0,
+      441.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      4.0,
+      122.0,
+      193.0,
+      371.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395169,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=brown, object=building",
+    "pair_id": "attr_38227",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_38227",
+    "prompt": "the white building",
+    "target_box": [
+      309.0,
+      172.0,
+      499.0,
+      374.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      259.0,
+      94.0,
+      313.0,
+      248.0
+    ],
+    "has_distractor": true,
+    "image_id": 2388157,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=building",
+    "pair_id": "attr_46205",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_46206",
+    "prompt": "the white building",
+    "target_box": [
+      155.0,
+      172.0,
+      243.0,
+      234.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      209.0,
+      5.0,
+      496.0,
+      152.0
+    ],
+    "has_distractor": true,
+    "image_id": 2378648,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=building",
+    "pair_id": "attr_58070",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_58071",
+    "prompt": "the red building",
+    "target_box": [
+      94.0,
+      39.0,
+      195.0,
+      99.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      180.0,
+      179.0,
+      228.0,
+      213.0
+    ],
+    "has_distractor": true,
+    "image_id": 2400651,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=green, object=bowl",
+    "pair_id": "attr_31196",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_31197",
+    "prompt": "the yellow bowl",
+    "target_box": [
+      86.0,
+      128.0,
+      142.0,
+      155.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      213.0,
+      319.0,
+      301.0,
+      393.0
+    ],
+    "has_distractor": true,
+    "image_id": 2380000,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=bowl",
+    "pair_id": "attr_56368",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_56368",
+    "prompt": "the black bowl",
+    "target_box": [
+      54.0,
+      351.0,
+      188.0,
+      453.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      214.0,
+      172.0,
+      330.0,
+      297.0
+    ],
+    "has_distractor": true,
+    "image_id": 2339470,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=brown, object=chair",
+    "pair_id": "attr_111199",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_111199",
+    "prompt": "the white chair",
+    "target_box": [
+      423.0,
+      182.0,
+      497.0,
+      309.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      423.0,
+      182.0,
+      497.0,
+      309.0
+    ],
+    "has_distractor": true,
+    "image_id": 2339470,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=white, object=chair",
+    "pair_id": "attr_111199",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_111200",
+    "prompt": "the brown chair",
+    "target_box": [
+      214.0,
+      172.0,
+      330.0,
+      297.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      225.0,
+      277.0,
+      329.0,
+      330.0
+    ],
+    "has_distractor": true,
+    "image_id": 2336763,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=chair",
+    "pair_id": "attr_114430",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_114430",
+    "prompt": "the blue chair",
+    "target_box": [
+      384.0,
+      257.0,
+      438.0,
+      330.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      70.0,
+      74.0,
+      120.0,
+      104.0
+    ],
+    "has_distractor": true,
+    "image_id": 2328917,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=black, object=chair",
+    "pair_id": "attr_123397",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_123398",
+    "prompt": "the brown chair",
+    "target_box": [
+      387.0,
+      100.0,
+      447.0,
+      145.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      277.0,
+      100.0,
+      410.0,
+      220.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371604,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=blue, object=shirt",
+    "pair_id": "attr_67284",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_67284",
+    "prompt": "the orange shirt",
+    "target_box": [
+      219.0,
+      215.0,
+      355.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      6.0,
+      81.0,
+      106.0,
+      187.0
+    ],
+    "has_distractor": true,
+    "image_id": 2364273,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=shirt",
+    "pair_id": "attr_77031",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_77031",
+    "prompt": "the red shirt",
+    "target_box": [
+      119.0,
+      59.0,
+      242.0,
+      196.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      119.0,
+      59.0,
+      242.0,
+      196.0
+    ],
+    "has_distractor": true,
+    "image_id": 2364273,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=shirt",
+    "pair_id": "attr_77031",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_77032",
+    "prompt": "the black shirt",
+    "target_box": [
+      6.0,
+      81.0,
+      106.0,
+      187.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      327.0,
+      199.0,
+      465.0,
+      373.0
+    ],
+    "has_distractor": true,
+    "image_id": 2350135,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=shirt",
+    "pair_id": "attr_96203",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_96203",
+    "prompt": "the red shirt",
+    "target_box": [
+      82.0,
+      135.0,
+      162.0,
+      225.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      82.0,
+      135.0,
+      162.0,
+      225.0
+    ],
+    "has_distractor": true,
+    "image_id": 2350135,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=shirt",
+    "pair_id": "attr_96203",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_96204",
+    "prompt": "the blue shirt",
+    "target_box": [
+      327.0,
+      199.0,
+      465.0,
+      373.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      43.0,
+      85.0,
+      111.0,
+      129.0
+    ],
+    "has_distractor": true,
+    "image_id": 2327168,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=shirt",
+    "pair_id": "attr_125715",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_125715",
+    "prompt": "the black shirt",
+    "target_box": [
+      336.0,
+      86.0,
+      420.0,
+      157.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      336.0,
+      86.0,
+      420.0,
+      157.0
+    ],
+    "has_distractor": true,
+    "image_id": 2327168,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=shirt",
+    "pair_id": "attr_125715",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_125716",
+    "prompt": "the white shirt",
+    "target_box": [
+      43.0,
+      85.0,
+      111.0,
+      129.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      154.0,
+      69.0,
+      207.0,
+      103.0
+    ],
+    "has_distractor": true,
+    "image_id": 2316318,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=white, object=sign",
+    "pair_id": "attr_142248",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_142248",
+    "prompt": "the green sign",
+    "target_box": [
+      78.0,
+      83.0,
+      153.0,
+      117.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      78.0,
+      83.0,
+      153.0,
+      117.0
+    ],
+    "has_distractor": true,
+    "image_id": 2316318,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=green, object=sign",
+    "pair_id": "attr_142248",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_142249",
+    "prompt": "the white sign",
+    "target_box": [
+      154.0,
+      69.0,
+      207.0,
+      103.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      56.0,
+      14.0,
+      131.0,
+      88.0
+    ],
+    "has_distractor": true,
+    "image_id": 2404338,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=jacket",
+    "pair_id": "attr_26423",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_26424",
+    "prompt": "the blue jacket",
+    "target_box": [
+      130.0,
+      150.0,
+      212.0,
+      271.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      7.0,
+      115.0,
+      81.0,
+      227.0
+    ],
+    "has_distractor": true,
+    "image_id": 2403102,
+    "image_source": "visual_genome",
+    "notes": "color_a=pink, color_b=orange, object=jacket",
+    "pair_id": "attr_28019",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_28019",
+    "prompt": "the pink jacket",
+    "target_box": [
+      418.0,
+      188.0,
+      485.0,
+      275.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      418.0,
+      188.0,
+      485.0,
+      275.0
+    ],
+    "has_distractor": true,
+    "image_id": 2403102,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=pink, object=jacket",
+    "pair_id": "attr_28019",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_28020",
+    "prompt": "the orange jacket",
+    "target_box": [
+      7.0,
+      115.0,
+      81.0,
+      227.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      277.0,
+      99.0,
+      329.0,
+      188.0
+    ],
+    "has_distractor": true,
+    "image_id": 2342216,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=blue, object=jacket",
+    "pair_id": "attr_108034",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_108034",
+    "prompt": "the green jacket",
+    "target_box": [
+      118.0,
+      120.0,
+      210.0,
+      268.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      118.0,
+      120.0,
+      210.0,
+      268.0
+    ],
+    "has_distractor": true,
+    "image_id": 2342216,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=green, object=jacket",
+    "pair_id": "attr_108034",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_108035",
+    "prompt": "the blue jacket",
+    "target_box": [
+      277.0,
+      99.0,
+      329.0,
+      188.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      53.0,
+      164.0,
+      114.0,
+      207.0
+    ],
+    "has_distractor": true,
+    "image_id": 2336307,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=jacket",
+    "pair_id": "attr_114919",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_114920",
+    "prompt": "the red jacket",
+    "target_box": [
+      323.0,
+      158.0,
+      355.0,
+      203.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      407.0,
+      121.0,
+      451.0,
+      174.0
+    ],
+    "has_distractor": true,
+    "image_id": 2318624,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=red, object=jacket",
+    "pair_id": "attr_138432",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_138432",
+    "prompt": "the brown jacket",
+    "target_box": [
+      254.0,
+      102.0,
+      301.0,
+      162.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      30.0,
+      82.0,
+      132.0,
+      191.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317220,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=purple, object=jacket",
+    "pair_id": "attr_140889",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140889",
+    "prompt": "the orange jacket",
+    "target_box": [
+      150.0,
+      128.0,
+      285.0,
+      270.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      150.0,
+      128.0,
+      285.0,
+      270.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317220,
+    "image_source": "visual_genome",
+    "notes": "color_a=purple, color_b=orange, object=jacket",
+    "pair_id": "attr_140889",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140890",
+    "prompt": "the purple jacket",
+    "target_box": [
+      30.0,
+      82.0,
+      132.0,
+      191.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      65.0,
+      129.0,
+      148.0,
+      279.0
+    ],
+    "has_distractor": true,
+    "image_id": 2403977,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=pants",
+    "pair_id": "attr_26881",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_26881",
+    "prompt": "the blue pants",
+    "target_box": [
+      241.0,
+      173.0,
+      300.0,
+      285.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      64.0,
+      209.0,
+      234.0,
+      274.0
+    ],
+    "has_distractor": true,
+    "image_id": 2390211,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=pants",
+    "pair_id": "attr_43874",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_43874",
+    "prompt": "the black pants",
+    "target_box": [
+      408.0,
+      174.0,
+      492.0,
+      303.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      408.0,
+      174.0,
+      492.0,
+      303.0
+    ],
+    "has_distractor": true,
+    "image_id": 2390211,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=pants",
+    "pair_id": "attr_43874",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_43875",
+    "prompt": "the blue pants",
+    "target_box": [
+      64.0,
+      209.0,
+      234.0,
+      274.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      168.0,
+      252.0,
+      224.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2321884,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=pants",
+    "pair_id": "attr_132537",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_132538",
+    "prompt": "the white pants",
+    "target_box": [
+      279.0,
+      193.0,
+      331.0,
+      310.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      10.0,
+      215.0,
+      173.0,
+      432.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317442,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=pants",
+    "pair_id": "attr_140526",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140526",
+    "prompt": "the white pants",
+    "target_box": [
+      239.0,
+      1.0,
+      286.0,
+      57.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      106.0,
+      428.0,
+      150.0,
+      475.0
+    ],
+    "has_distractor": true,
+    "image_id": 2402212,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=orange, object=cup",
+    "pair_id": "attr_29068",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_29068",
+    "prompt": "the blue cup",
+    "target_box": [
+      162.0,
+      427.0,
+      207.0,
+      473.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      162.0,
+      427.0,
+      207.0,
+      473.0
+    ],
+    "has_distractor": true,
+    "image_id": 2402212,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=blue, object=cup",
+    "pair_id": "attr_29068",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_29069",
+    "prompt": "the orange cup",
+    "target_box": [
+      106.0,
+      428.0,
+      150.0,
+      475.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      53.0,
+      173.0,
+      93.0,
+      215.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384842,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=orange, object=cup",
+    "pair_id": "attr_50534",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_50534",
+    "prompt": "the green cup",
+    "target_box": [
+      381.0,
+      291.0,
+      436.0,
+      320.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      381.0,
+      291.0,
+      436.0,
+      320.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384842,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=green, object=cup",
+    "pair_id": "attr_50534",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_50535",
+    "prompt": "the orange cup",
+    "target_box": [
+      53.0,
+      173.0,
+      93.0,
+      215.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      210.0,
+      216.0,
+      255.0,
+      271.0
+    ],
+    "has_distractor": true,
+    "image_id": 2357559,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=cup",
+    "pair_id": "attr_85916",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_85917",
+    "prompt": "the white cup",
+    "target_box": [
+      178.0,
+      221.0,
+      210.0,
+      261.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      12.0,
+      240.0,
+      65.0,
+      303.0
+    ],
+    "has_distractor": true,
+    "image_id": 2340448,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=green, object=cup",
+    "pair_id": "attr_110200",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_110200",
+    "prompt": "the blue cup",
+    "target_box": [
+      296.0,
+      30.0,
+      335.0,
+      102.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      236.0,
+      269.0,
+      281.0,
+      323.0
+    ],
+    "has_distractor": true,
+    "image_id": 2328137,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=cup",
+    "pair_id": "attr_124439",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_124440",
+    "prompt": "the blue cup",
+    "target_box": [
+      33.0,
+      200.0,
+      60.0,
+      245.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      370.0,
+      384.0,
+      426.0,
+      469.0
+    ],
+    "has_distractor": true,
+    "image_id": 2325315,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=green, object=cup",
+    "pair_id": "attr_127995",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_127995",
+    "prompt": "the white cup",
+    "target_box": [
+      16.0,
+      378.0,
+      85.0,
+      483.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      16.0,
+      378.0,
+      85.0,
+      483.0
+    ],
+    "has_distractor": true,
+    "image_id": 2325315,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=white, object=cup",
+    "pair_id": "attr_127995",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_127996",
+    "prompt": "the green cup",
+    "target_box": [
+      370.0,
+      384.0,
+      426.0,
+      469.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      183.0,
+      244.0,
+      255.0,
+      300.0
+    ],
+    "has_distractor": true,
+    "image_id": 2343591,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=pink, object=flower",
+    "pair_id": "attr_106119",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_106120",
+    "prompt": "the red flower",
+    "target_box": [
+      113.0,
+      272.0,
+      186.0,
+      334.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      207.0,
+      284.0,
+      290.0,
+      331.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320243,
+    "image_source": "visual_genome",
+    "notes": "color_a=pink, color_b=blue, object=box",
+    "pair_id": "attr_136152",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_136153",
+    "prompt": "the pink box",
+    "target_box": [
+      7.0,
+      302.0,
+      139.0,
+      329.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      26.0,
+      31.0,
+      94.0,
+      138.0
+    ],
+    "has_distractor": true,
+    "image_id": 2318668,
+    "image_source": "visual_genome",
+    "notes": "color_a=purple, color_b=red, object=box",
+    "pair_id": "attr_138347",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_138347",
+    "prompt": "the purple box",
+    "target_box": [
+      175.0,
+      27.0,
+      223.0,
+      132.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      175.0,
+      27.0,
+      223.0,
+      132.0
+    ],
+    "has_distractor": true,
+    "image_id": 2318668,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=purple, object=box",
+    "pair_id": "attr_138347",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_138348",
+    "prompt": "the red box",
+    "target_box": [
+      26.0,
+      31.0,
+      94.0,
+      138.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      194.0,
+      70.0,
+      296.0,
+      124.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317289,
+    "image_source": "visual_genome",
+    "notes": "color_a=purple, color_b=blue, object=box",
+    "pair_id": "attr_140759",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140759",
+    "prompt": "the purple box",
+    "target_box": [
+      204.0,
+      113.0,
+      256.0,
+      185.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      204.0,
+      113.0,
+      256.0,
+      185.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317289,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=purple, object=box",
+    "pair_id": "attr_140759",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140760",
+    "prompt": "the blue box",
+    "target_box": [
+      194.0,
+      70.0,
+      296.0,
+      124.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      42.0,
+      193.0,
+      339.0,
+      321.0
+    ],
+    "has_distractor": true,
+    "image_id": 2224,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=truck",
+    "pair_id": "attr_3128",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_3128",
+    "prompt": "the white truck",
+    "target_box": [
+      424.0,
+      174.0,
+      742.0,
+      330.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      94.0,
+      137.0,
+      767.0,
+      632.0
+    ],
+    "has_distractor": true,
+    "image_id": 150369,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=yellow, object=truck",
+    "pair_id": "attr_7513",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_7513",
+    "prompt": "the white truck",
+    "target_box": [
+      599.0,
+      185.0,
+      801.0,
+      345.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      599.0,
+      185.0,
+      801.0,
+      345.0
+    ],
+    "has_distractor": true,
+    "image_id": 150369,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=white, object=truck",
+    "pair_id": "attr_7513",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_7514",
+    "prompt": "the yellow truck",
+    "target_box": [
+      94.0,
+      137.0,
+      767.0,
+      632.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      10.0,
+      90.0,
+      129.0,
+      174.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320432,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=red, object=truck",
+    "pair_id": "attr_135779",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135779",
+    "prompt": "the green truck",
+    "target_box": [
+      153.0,
+      42.0,
+      460.0,
+      303.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      153.0,
+      42.0,
+      460.0,
+      303.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320432,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=green, object=truck",
+    "pair_id": "attr_135779",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135780",
+    "prompt": "the red truck",
+    "target_box": [
+      10.0,
+      90.0,
+      129.0,
+      174.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      47.0,
+      136.0,
+      182.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317237,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=truck",
+    "pair_id": "attr_140836",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140836",
+    "prompt": "the red truck",
+    "target_box": [
+      176.0,
+      46.0,
+      324.0,
+      170.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      176.0,
+      46.0,
+      324.0,
+      170.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317237,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=truck",
+    "pair_id": "attr_140836",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140837",
+    "prompt": "the white truck",
+    "target_box": [
+      0.0,
+      47.0,
+      136.0,
+      182.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      261.0,
+      80.0,
+      316.0,
+      132.0
+    ],
+    "has_distractor": true,
+    "image_id": 2416028,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=truck",
+    "pair_id": "attr_148578",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_148578",
+    "prompt": "the blue truck",
+    "target_box": [
+      11.0,
+      89.0,
+      187.0,
+      165.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      11.0,
+      89.0,
+      187.0,
+      165.0
+    ],
+    "has_distractor": true,
+    "image_id": 2416028,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=truck",
+    "pair_id": "attr_148578",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_148579",
+    "prompt": "the red truck",
+    "target_box": [
+      261.0,
+      80.0,
+      316.0,
+      132.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      16.0,
+      67.0,
+      498.0,
+      329.0
+    ],
+    "has_distractor": true,
+    "image_id": 2330207,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=white, object=plate",
+    "pair_id": "attr_122210",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_122211",
+    "prompt": "the brown plate",
+    "target_box": [
+      201.0,
+      7.0,
+      412.0,
+      58.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      386.0,
+      206.0,
+      449.0,
+      235.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384461,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=bag",
+    "pair_id": "attr_51121",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_51121",
+    "prompt": "the black bag",
+    "target_box": [
+      138.0,
+      190.0,
+      188.0,
+      245.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      138.0,
+      190.0,
+      188.0,
+      245.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384461,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=bag",
+    "pair_id": "attr_51121",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_51122",
+    "prompt": "the blue bag",
+    "target_box": [
+      386.0,
+      206.0,
+      449.0,
+      235.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      127.0,
+      323.0,
+      158.0,
+      375.0
+    ],
+    "has_distractor": true,
+    "image_id": 2321987,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=red, object=bag",
+    "pair_id": "attr_132423",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_132424",
+    "prompt": "the yellow bag",
+    "target_box": [
+      244.0,
+      211.0,
+      300.0,
+      273.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      67.0,
+      194.0,
+      100.0,
+      249.0
+    ],
+    "has_distractor": true,
+    "image_id": 2415330,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=bag",
+    "pair_id": "attr_147776",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_147776",
+    "prompt": "the black bag",
+    "target_box": [
+      111.0,
+      186.0,
+      191.0,
+      248.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      111.0,
+      186.0,
+      191.0,
+      248.0
+    ],
+    "has_distractor": true,
+    "image_id": 2415330,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=bag",
+    "pair_id": "attr_147776",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_147777",
+    "prompt": "the red bag",
+    "target_box": [
+      67.0,
+      194.0,
+      100.0,
+      249.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      225.0,
+      345.0,
+      330.0,
+      391.0
+    ],
+    "has_distractor": true,
+    "image_id": 707,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=green, object=boat",
+    "pair_id": "attr_0984",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_0984",
+    "prompt": "the blue boat",
+    "target_box": [
+      65.0,
+      345.0,
+      215.0,
+      426.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      218.0,
+      420.0,
+      399.0,
+      469.0
+    ],
+    "has_distractor": true,
+    "image_id": 3208,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=boat",
+    "pair_id": "attr_4205",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_4206",
+    "prompt": "the white boat",
+    "target_box": [
+      670.0,
+      158.0,
+      798.0,
+      219.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      335.0,
+      275.0,
+      497.0,
+      318.0
+    ],
+    "has_distractor": true,
+    "image_id": 2412514,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=boat",
+    "pair_id": "attr_15830",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_15831",
+    "prompt": "the blue boat",
+    "target_box": [
+      350.0,
+      223.0,
+      499.0,
+      276.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      5.0,
+      157.0,
+      106.0,
+      238.0
+    ],
+    "has_distractor": true,
+    "image_id": 2346193,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=blue, object=boat",
+    "pair_id": "attr_101623",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_101624",
+    "prompt": "the orange boat",
+    "target_box": [
+      86.0,
+      73.0,
+      265.0,
+      140.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      344.0,
+      72.0,
+      374.0,
+      128.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335590,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=flag",
+    "pair_id": "attr_116394",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_116394",
+    "prompt": "the blue flag",
+    "target_box": [
+      201.0,
+      55.0,
+      235.0,
+      145.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      201.0,
+      55.0,
+      235.0,
+      145.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335590,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=flag",
+    "pair_id": "attr_116394",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_116395",
+    "prompt": "the red flag",
+    "target_box": [
+      344.0,
+      72.0,
+      374.0,
+      128.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      176.0,
+      159.0,
+      206.0,
+      212.0
+    ],
+    "has_distractor": true,
+    "image_id": 2318570,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=flag",
+    "pair_id": "attr_138498",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_138499",
+    "prompt": "the blue flag",
+    "target_box": [
+      65.0,
+      117.0,
+      98.0,
+      205.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      422.0,
+      247.0,
+      707.0,
+      371.0
+    ],
+    "has_distractor": true,
+    "image_id": 1160043,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=brown, object=umbrella",
+    "pair_id": "attr_12287",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_12287",
+    "prompt": "the red umbrella",
+    "target_box": [
+      645.0,
+      166.0,
+      892.0,
+      284.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      645.0,
+      166.0,
+      892.0,
+      284.0
+    ],
+    "has_distractor": true,
+    "image_id": 1160043,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=red, object=umbrella",
+    "pair_id": "attr_12287",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_12288",
+    "prompt": "the brown umbrella",
+    "target_box": [
+      422.0,
+      247.0,
+      707.0,
+      371.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      256.0,
+      124.0,
+      323.0,
+      161.0
+    ],
+    "has_distractor": true,
+    "image_id": 2353710,
+    "image_source": "visual_genome",
+    "notes": "color_a=purple, color_b=black, object=umbrella",
+    "pair_id": "attr_91592",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_91592",
+    "prompt": "the purple umbrella",
+    "target_box": [
+      442.0,
+      8.0,
+      499.0,
+      60.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      411.0,
+      132.0,
+      729.0,
+      218.0
+    ],
+    "has_distractor": true,
+    "image_id": 1593187,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=blue, object=bottle",
+    "pair_id": "attr_14834",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_14834",
+    "prompt": "the green bottle",
+    "target_box": [
+      403.0,
+      205.0,
+      683.0,
+      279.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      403.0,
+      205.0,
+      683.0,
+      279.0
+    ],
+    "has_distractor": true,
+    "image_id": 1593187,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=green, object=bottle",
+    "pair_id": "attr_14834",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_14835",
+    "prompt": "the blue bottle",
+    "target_box": [
+      411.0,
+      132.0,
+      729.0,
+      218.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      175.0,
+      252.0,
+      220.0,
+      452.0
+    ],
+    "has_distractor": true,
+    "image_id": 2349558,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=blue, object=bottle",
+    "pair_id": "attr_96942",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_96942",
+    "prompt": "the green bottle",
+    "target_box": [
+      257.0,
+      296.0,
+      302.0,
+      478.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      105.0,
+      89.0,
+      126.0,
+      134.0
+    ],
+    "has_distractor": true,
+    "image_id": 2348264,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=brown, object=bottle",
+    "pair_id": "attr_98974",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_98974",
+    "prompt": "the yellow bottle",
+    "target_box": [
+      220.0,
+      126.0,
+      260.0,
+      173.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      282.0,
+      136.0,
+      346.0,
+      230.0
+    ],
+    "has_distractor": true,
+    "image_id": 2345025,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=white, object=bottle",
+    "pair_id": "attr_103895",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_103895",
+    "prompt": "the brown bottle",
+    "target_box": [
+      199.0,
+      120.0,
+      280.0,
+      225.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      199.0,
+      120.0,
+      280.0,
+      225.0
+    ],
+    "has_distractor": true,
+    "image_id": 2345025,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=brown, object=bottle",
+    "pair_id": "attr_103895",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_103896",
+    "prompt": "the white bottle",
+    "target_box": [
+      282.0,
+      136.0,
+      346.0,
+      230.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      332.0,
+      199.0,
+      355.0,
+      240.0
+    ],
+    "has_distractor": true,
+    "image_id": 2329712,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=brown, object=bottle",
+    "pair_id": "attr_122660",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_122660",
+    "prompt": "the green bottle",
+    "target_box": [
+      181.0,
+      183.0,
+      208.0,
+      228.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      304.0,
+      392.0,
+      597.0,
+      476.0
+    ],
+    "has_distractor": true,
+    "image_id": 1159599,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=red, object=suitcase",
+    "pair_id": "attr_11826",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_11826",
+    "prompt": "the yellow suitcase",
+    "target_box": [
+      286.0,
+      584.0,
+      585.0,
+      725.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      307.0,
+      118.0,
+      405.0,
+      203.0
+    ],
+    "has_distractor": true,
+    "image_id": 2410094,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=suitcase",
+    "pair_id": "attr_18247",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_18247",
+    "prompt": "the red suitcase",
+    "target_box": [
+      211.0,
+      125.0,
+      301.0,
+      188.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      140.0,
+      321.0,
+      215.0,
+      454.0
+    ],
+    "has_distractor": true,
+    "image_id": 2326446,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=suitcase",
+    "pair_id": "attr_126535",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_126535",
+    "prompt": "the black suitcase",
+    "target_box": [
+      91.0,
+      341.0,
+      153.0,
+      441.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      332.0,
+      240.0,
+      427.0,
+      331.0
+    ],
+    "has_distractor": true,
+    "image_id": 2407032,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=green, object=ball",
+    "pair_id": "attr_22931",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_22931",
+    "prompt": "the yellow ball",
+    "target_box": [
+      190.0,
+      154.0,
+      284.0,
+      249.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      190.0,
+      154.0,
+      284.0,
+      249.0
+    ],
+    "has_distractor": true,
+    "image_id": 2407032,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=yellow, object=ball",
+    "pair_id": "attr_22931",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_22932",
+    "prompt": "the green ball",
+    "target_box": [
+      332.0,
+      240.0,
+      427.0,
+      331.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      0.0,
+      210.0,
+      268.0
+    ],
+    "has_distractor": true,
+    "image_id": 2401922,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=ball",
+    "pair_id": "attr_29414",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_29414",
+    "prompt": "the white ball",
+    "target_box": [
+      50.0,
+      219.0,
+      269.0,
+      375.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      174.0,
+      264.0,
+      382.0,
+      372.0
+    ],
+    "has_distractor": true,
+    "image_id": 2324648,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=ball",
+    "pair_id": "attr_128960",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_128960",
+    "prompt": "the black ball",
+    "target_box": [
+      345.0,
+      74.0,
+      385.0,
+      120.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      190.0,
+      105.0,
+      278.0
+    ],
+    "has_distractor": true,
+    "image_id": 2397737,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=white, object=shoe",
+    "pair_id": "attr_34933",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_34934",
+    "prompt": "the brown shoe",
+    "target_box": [
+      399.0,
+      144.0,
+      476.0,
+      246.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      351.0,
+      378.0,
+      428.0,
+      427.0
+    ],
+    "has_distractor": true,
+    "image_id": 2345167,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=shoe",
+    "pair_id": "attr_103639",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_103639",
+    "prompt": "the black shoe",
+    "target_box": [
+      85.0,
+      385.0,
+      138.0,
+      453.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      212.0,
+      170.0,
+      235.0,
+      218.0
+    ],
+    "has_distractor": true,
+    "image_id": 4865,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=white, object=door",
+    "pair_id": "attr_6774",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_6775",
+    "prompt": "the brown door",
+    "target_box": [
+      265.0,
+      95.0,
+      290.0,
+      147.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      143.0,
+      114.0,
+      164.0,
+      220.0
+    ],
+    "has_distractor": true,
+    "image_id": 2403321,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=red, object=door",
+    "pair_id": "attr_27708",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_27708",
+    "prompt": "the yellow door",
+    "target_box": [
+      351.0,
+      80.0,
+      394.0,
+      198.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      54.0,
+      76.0,
+      92.0,
+      156.0
+    ],
+    "has_distractor": true,
+    "image_id": 2351162,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=yellow, object=door",
+    "pair_id": "attr_94772",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_94772",
+    "prompt": "the red door",
+    "target_box": [
+      221.0,
+      87.0,
+      250.0,
+      179.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      131.0,
+      64.0,
+      213.0
+    ],
+    "has_distractor": true,
+    "image_id": 2406604,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=pink, object=hat",
+    "pair_id": "attr_23567",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_23567",
+    "prompt": "the red hat",
+    "target_box": [
+      374.0,
+      101.0,
+      471.0,
+      189.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      276.0,
+      528.0,
+      534.0,
+      662.0
+    ],
+    "has_distractor": true,
+    "image_id": 713271,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=white, object=shorts",
+    "pair_id": "attr_10262",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_10263",
+    "prompt": "the brown shorts",
+    "target_box": [
+      2.0,
+      384.0,
+      82.0,
+      533.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      141.0,
+      306.0,
+      213.0,
+      370.0
+    ],
+    "has_distractor": true,
+    "image_id": 2380005,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=shorts",
+    "pair_id": "attr_56357",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_56357",
+    "prompt": "the blue shorts",
+    "target_box": [
+      102.0,
+      253.0,
+      158.0,
+      317.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      102.0,
+      253.0,
+      158.0,
+      317.0
+    ],
+    "has_distractor": true,
+    "image_id": 2380005,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=shorts",
+    "pair_id": "attr_56357",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_56358",
+    "prompt": "the black shorts",
+    "target_box": [
+      141.0,
+      306.0,
+      213.0,
+      370.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      240.0,
+      150.0,
+      284.0,
+      222.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374728,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=shorts",
+    "pair_id": "attr_63187",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_63188",
+    "prompt": "the blue shorts",
+    "target_box": [
+      161.0,
+      149.0,
+      227.0,
+      207.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      156.0,
+      245.0,
+      228.0,
+      321.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371825,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=green, object=shorts",
+    "pair_id": "attr_67053",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_67053",
+    "prompt": "the black shorts",
+    "target_box": [
+      306.0,
+      250.0,
+      357.0,
+      297.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      306.0,
+      250.0,
+      357.0,
+      297.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371825,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=black, object=shorts",
+    "pair_id": "attr_67053",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_67054",
+    "prompt": "the green shorts",
+    "target_box": [
+      156.0,
+      245.0,
+      228.0,
+      321.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      156.0,
+      245.0,
+      228.0,
+      321.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371825,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=green, object=shorts",
+    "pair_id": "attr_67057",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_67057",
+    "prompt": "the black shorts",
+    "target_box": [
+      302.0,
+      248.0,
+      357.0,
+      299.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      290.0,
+      185.0,
+      386.0,
+      242.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317744,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=shorts",
+    "pair_id": "attr_139902",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_139902",
+    "prompt": "the white shorts",
+    "target_box": [
+      364.0,
+      147.0,
+      414.0,
+      208.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      220.0,
+      100.0,
+      302.0,
+      181.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317318,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=shorts",
+    "pair_id": "attr_140717",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140717",
+    "prompt": "the white shorts",
+    "target_box": [
+      65.0,
+      114.0,
+      116.0,
+      156.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      65.0,
+      114.0,
+      116.0,
+      156.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317318,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=shorts",
+    "pair_id": "attr_140717",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140718",
+    "prompt": "the red shorts",
+    "target_box": [
+      220.0,
+      100.0,
+      302.0,
+      181.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      2.0,
+      132.0,
+      249.0,
+      562.0
+    ],
+    "has_distractor": true,
+    "image_id": 498172,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=green, object=bus",
+    "pair_id": "attr_9238",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_9238",
+    "prompt": "the red bus",
+    "target_box": [
+      228.0,
+      63.0,
+      879.0,
+      563.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      228.0,
+      63.0,
+      879.0,
+      563.0
+    ],
+    "has_distractor": true,
+    "image_id": 498172,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=red, object=bus",
+    "pair_id": "attr_9238",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_9239",
+    "prompt": "the green bus",
+    "target_box": [
+      2.0,
+      132.0,
+      249.0,
+      562.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      89.0,
+      172.0,
+      248.0,
+      257.0
+    ],
+    "has_distractor": true,
+    "image_id": 2364665,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=red, object=bus",
+    "pair_id": "attr_76573",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_76574",
+    "prompt": "the orange bus",
+    "target_box": [
+      241.0,
+      172.0,
+      403.0,
+      244.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      27.0,
+      84.0,
+      124.0,
+      237.0
+    ],
+    "has_distractor": true,
+    "image_id": 2415507,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=green, object=bus",
+    "pair_id": "attr_147900",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_147900",
+    "prompt": "the red bus",
+    "target_box": [
+      207.0,
+      2.0,
+      458.0,
+      267.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      207.0,
+      2.0,
+      458.0,
+      267.0
+    ],
+    "has_distractor": true,
+    "image_id": 2415507,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=red, object=bus",
+    "pair_id": "attr_147900",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_147901",
+    "prompt": "the green bus",
+    "target_box": [
+      27.0,
+      84.0,
+      124.0,
+      237.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      34.0,
+      94.0,
+      499.0,
+      124.0
+    ],
+    "has_distractor": true,
+    "image_id": 2392950,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=brown, object=fence",
+    "pair_id": "attr_40688",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_40688",
+    "prompt": "the white fence",
+    "target_box": [
+      0.0,
+      111.0,
+      139.0,
+      199.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      111.0,
+      139.0,
+      199.0
+    ],
+    "has_distractor": true,
+    "image_id": 2392950,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=white, object=fence",
+    "pair_id": "attr_40688",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_40689",
+    "prompt": "the brown fence",
+    "target_box": [
+      34.0,
+      94.0,
+      499.0,
+      124.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      129.0,
+      68.0,
+      184.0,
+      141.0
+    ],
+    "has_distractor": true,
+    "image_id": 2369619,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=brown, object=fence",
+    "pair_id": "attr_69863",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_69864",
+    "prompt": "the green fence",
+    "target_box": [
+      2.0,
+      222.0,
+      365.0,
+      498.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      1.0,
+      279.0,
+      99.0,
+      390.0
+    ],
+    "has_distractor": true,
+    "image_id": 2355146,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=fence",
+    "pair_id": "attr_89714",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_89714",
+    "prompt": "the white fence",
+    "target_box": [
+      435.0,
+      224.0,
+      499.0,
+      404.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      4.0,
+      116.0,
+      483.0,
+      208.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317644,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=fence",
+    "pair_id": "attr_140024",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140025",
+    "prompt": "the white fence",
+    "target_box": [
+      3.0,
+      162.0,
+      68.0,
+      242.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      193.0,
+      37.0,
+      235.0,
+      63.0
+    ],
+    "has_distractor": true,
+    "image_id": 2409591,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=helmet",
+    "pair_id": "attr_18986",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_18986",
+    "prompt": "the blue helmet",
+    "target_box": [
+      391.0,
+      32.0,
+      430.0,
+      60.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      279.0,
+      73.0,
+      324.0,
+      118.0
+    ],
+    "has_distractor": true,
+    "image_id": 2342950,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=helmet",
+    "pair_id": "attr_107041",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_107042",
+    "prompt": "the blue helmet",
+    "target_box": [
+      99.0,
+      83.0,
+      161.0,
+      135.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      58.0,
+      221.0,
+      129.0,
+      256.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320209,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=yellow, object=helmet",
+    "pair_id": "attr_136195",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_136195",
+    "prompt": "the blue helmet",
+    "target_box": [
+      0.0,
+      235.0,
+      44.0,
+      275.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      121.0,
+      107.0,
+      155.0,
+      142.0
+    ],
+    "has_distractor": true,
+    "image_id": 2414384,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=helmet",
+    "pair_id": "attr_144428",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_144428",
+    "prompt": "the white helmet",
+    "target_box": [
+      195.0,
+      112.0,
+      232.0,
+      147.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      195.0,
+      112.0,
+      232.0,
+      147.0
+    ],
+    "has_distractor": true,
+    "image_id": 2414384,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=helmet",
+    "pair_id": "attr_144428",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_144429",
+    "prompt": "the black helmet",
+    "target_box": [
+      121.0,
+      107.0,
+      155.0,
+      142.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      22.0,
+      217.0,
+      76.0,
+      310.0
+    ],
+    "has_distractor": true,
+    "image_id": 2363015,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=blue, object=vase",
+    "pair_id": "attr_78655",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_78655",
+    "prompt": "the green vase",
+    "target_box": [
+      219.0,
+      93.0,
+      251.0,
+      136.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      164.0,
+      274.0,
+      213.0,
+      358.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334194,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=vase",
+    "pair_id": "attr_118440",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_118441",
+    "prompt": "the white vase",
+    "target_box": [
+      117.0,
+      5.0,
+      169.0,
+      129.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      40.0,
+      21.0,
+      100.0,
+      319.0
+    ],
+    "has_distractor": true,
+    "image_id": 2360771,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=blue, object=surfboard",
+    "pair_id": "attr_81608",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_81609",
+    "prompt": "the orange surfboard",
+    "target_box": [
+      88.0,
+      65.0,
+      158.0,
+      324.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      262.0,
+      197.0,
+      450.0,
+      280.0
+    ],
+    "has_distractor": true,
+    "image_id": 2339702,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=white, object=surfboard",
+    "pair_id": "attr_110955",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_110956",
+    "prompt": "the yellow surfboard",
+    "target_box": [
+      373.0,
+      23.0,
+      415.0,
+      47.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      67.0,
+      72.0,
+      141.0,
+      304.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320621,
+    "image_source": "visual_genome",
+    "notes": "color_a=brown, color_b=blue, object=surfboard",
+    "pair_id": "attr_135194",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135195",
+    "prompt": "the brown surfboard",
+    "target_box": [
+      175.0,
+      59.0,
+      261.0,
+      291.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      51.0,
+      224.0,
+      134.0,
+      245.0
+    ],
+    "has_distractor": true,
+    "image_id": 2414973,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=blue, object=surfboard",
+    "pair_id": "attr_143820",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_143821",
+    "prompt": "the yellow surfboard",
+    "target_box": [
+      179.0,
+      199.0,
+      242.0,
+      222.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      27.0,
+      319.0,
+      83.0,
+      364.0
+    ],
+    "has_distractor": true,
+    "image_id": 2415992,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=yellow, object=surfboard",
+    "pair_id": "attr_148517",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_148517",
+    "prompt": "the red surfboard",
+    "target_box": [
+      381.0,
+      325.0,
+      443.0,
+      347.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      381.0,
+      325.0,
+      443.0,
+      347.0
+    ],
+    "has_distractor": true,
+    "image_id": 2415992,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=red, object=surfboard",
+    "pair_id": "attr_148517",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_148518",
+    "prompt": "the yellow surfboard",
+    "target_box": [
+      27.0,
+      319.0,
+      83.0,
+      364.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      24.0,
+      316.0,
+      71.0,
+      379.0
+    ],
+    "has_distractor": true,
+    "image_id": 2415992,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=yellow, object=surfboard",
+    "pair_id": "attr_148529",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_148529",
+    "prompt": "the red surfboard",
+    "target_box": [
+      384.0,
+      324.0,
+      434.0,
+      359.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      288.0,
+      198.0,
+      374.0,
+      252.0
+    ],
+    "has_distractor": true,
+    "image_id": 2417656,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=surfboard",
+    "pair_id": "attr_150381",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_150381",
+    "prompt": "the red surfboard",
+    "target_box": [
+      399.0,
+      205.0,
+      497.0,
+      250.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      210.0,
+      65.0,
+      334.0,
+      222.0
+    ],
+    "has_distractor": true,
+    "image_id": 2375076,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=pink, object=kite",
+    "pair_id": "attr_62656",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_62656",
+    "prompt": "the red kite",
+    "target_box": [
+      3.0,
+      116.0,
+      83.0,
+      374.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      122.0,
+      193.0,
+      165.0,
+      231.0
+    ],
+    "has_distractor": true,
+    "image_id": 2373779,
+    "image_source": "visual_genome",
+    "notes": "color_a=purple, color_b=yellow, object=kite",
+    "pair_id": "attr_64560",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_64560",
+    "prompt": "the purple kite",
+    "target_box": [
+      17.0,
+      35.0,
+      107.0,
+      61.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      17.0,
+      35.0,
+      107.0,
+      61.0
+    ],
+    "has_distractor": true,
+    "image_id": 2373779,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=purple, object=kite",
+    "pair_id": "attr_64560",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_64561",
+    "prompt": "the yellow kite",
+    "target_box": [
+      122.0,
+      193.0,
+      165.0,
+      231.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      55.0,
+      113.0,
+      131.0,
+      149.0
+    ],
+    "has_distractor": true,
+    "image_id": 2373779,
+    "image_source": "visual_genome",
+    "notes": "color_a=purple, color_b=red, object=kite",
+    "pair_id": "attr_64576",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_64577",
+    "prompt": "the purple kite",
+    "target_box": [
+      38.0,
+      41.0,
+      111.0,
+      63.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      120.0,
+      41.0,
+      151.0,
+      95.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320582,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=blue, object=kite",
+    "pair_id": "attr_135376",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135376",
+    "prompt": "the yellow kite",
+    "target_box": [
+      262.0,
+      63.0,
+      288.0,
+      103.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      262.0,
+      63.0,
+      288.0,
+      103.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320582,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=yellow, object=kite",
+    "pair_id": "attr_135376",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135377",
+    "prompt": "the blue kite",
+    "target_box": [
+      120.0,
+      41.0,
+      151.0,
+      95.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      278.0,
+      158.0,
+      333.0,
+      184.0
+    ],
+    "has_distractor": true,
+    "image_id": 2403122,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=towel",
+    "pair_id": "attr_27925",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_27925",
+    "prompt": "the red towel",
+    "target_box": [
+      275.0,
+      29.0,
+      351.0,
+      53.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      441.0,
+      152.0,
+      461.0,
+      211.0
+    ],
+    "has_distractor": true,
+    "image_id": 2402868,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=yellow, object=towel",
+    "pair_id": "attr_28426",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_28427",
+    "prompt": "the orange towel",
+    "target_box": [
+      453.0,
+      57.0,
+      500.0,
+      126.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      95.0,
+      271.0,
+      174.0,
+      365.0
+    ],
+    "has_distractor": true,
+    "image_id": 2324521,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=towel",
+    "pair_id": "attr_129094",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_129094",
+    "prompt": "the white towel",
+    "target_box": [
+      29.0,
+      261.0,
+      98.0,
+      371.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      29.0,
+      261.0,
+      98.0,
+      371.0
+    ],
+    "has_distractor": true,
+    "image_id": 2324521,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=towel",
+    "pair_id": "attr_129094",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_129095",
+    "prompt": "the blue towel",
+    "target_box": [
+      95.0,
+      271.0,
+      174.0,
+      365.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      474.0,
+      96.0,
+      782.0,
+      470.0
+    ],
+    "has_distractor": true,
+    "image_id": 473,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_0418",
+    "phenomenon": "negation",
+    "probe_id": "negation_0418",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      302.0,
+      136.0,
+      549.0,
+      406.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      302.0,
+      136.0,
+      549.0,
+      406.0
+    ],
+    "has_distractor": true,
+    "image_id": 473,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_0418",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_0419",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      474.0,
+      96.0,
+      782.0,
+      470.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      129.0,
+      0.0,
+      468.0,
+      269.0
+    ],
+    "has_distractor": true,
+    "image_id": 1047,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_0887",
+    "phenomenon": "negation",
+    "probe_id": "negation_0887",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      208.0,
+      246.0,
+      467.0,
+      476.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      208.0,
+      246.0,
+      467.0,
+      476.0
+    ],
+    "has_distractor": true,
+    "image_id": 1047,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_0887",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_0888",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      129.0,
+      0.0,
+      468.0,
+      269.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      362.0,
+      236.0,
+      562.0,
+      976.0
+    ],
+    "has_distractor": true,
+    "image_id": 713091,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_5948",
+    "phenomenon": "negation",
+    "probe_id": "negation_5948",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      248.0,
+      371.0,
+      423.0,
+      974.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      248.0,
+      371.0,
+      423.0,
+      974.0
+    ],
+    "has_distractor": true,
+    "image_id": 713091,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_5948",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_5949",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      362.0,
+      236.0,
+      562.0,
+      976.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      788.0,
+      92.0,
+      1023.0,
+      641.0
+    ],
+    "has_distractor": true,
+    "image_id": 713824,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_6927",
+    "phenomenon": "negation",
+    "probe_id": "negation_6927",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      291.0,
+      252.0,
+      560.0,
+      655.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      291.0,
+      252.0,
+      560.0,
+      655.0
+    ],
+    "has_distractor": true,
+    "image_id": 713824,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_6927",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_6928",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      788.0,
+      92.0,
+      1023.0,
+      641.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      518.0,
+      312.0,
+      631.0,
+      535.0
+    ],
+    "has_distractor": true,
+    "image_id": 1159362,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_7178",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_7179",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      580.0,
+      308.0,
+      760.0,
+      542.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      247.0,
+      117.0,
+      420.0,
+      649.0
+    ],
+    "has_distractor": true,
+    "image_id": 1592461,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_9081",
+    "phenomenon": "negation",
+    "probe_id": "negation_9081",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      379.0,
+      116.0,
+      700.0,
+      683.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      379.0,
+      116.0,
+      700.0,
+      683.0
+    ],
+    "has_distractor": true,
+    "image_id": 1592461,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_9081",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_9082",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      247.0,
+      117.0,
+      420.0,
+      649.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      344.0,
+      121.0,
+      432.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2408499,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_16224",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_16225",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      194.0,
+      73.0,
+      309.0,
+      291.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      7.0,
+      209.0,
+      83.0,
+      357.0
+    ],
+    "has_distractor": true,
+    "image_id": 2407807,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_17366",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_17367",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      143.0,
+      153.0,
+      324.0,
+      459.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      267.0,
+      39.0,
+      361.0,
+      298.0
+    ],
+    "has_distractor": true,
+    "image_id": 2406804,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_18959",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_18960",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      458.0,
+      3.0,
+      498.0,
+      179.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      273.0,
+      171.0,
+      390.0,
+      373.0
+    ],
+    "has_distractor": true,
+    "image_id": 2406721,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_19070",
+    "phenomenon": "negation",
+    "probe_id": "negation_19070",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      267.0,
+      160.0,
+      321.0,
+      291.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      267.0,
+      160.0,
+      321.0,
+      291.0
+    ],
+    "has_distractor": true,
+    "image_id": 2406721,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_19070",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_19071",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      273.0,
+      171.0,
+      390.0,
+      373.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      251.0,
+      99.0,
+      498.0,
+      344.0
+    ],
+    "has_distractor": true,
+    "image_id": 2403019,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_24846",
+    "phenomenon": "negation",
+    "probe_id": "negation_24846",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      2.0,
+      92.0,
+      239.0,
+      344.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      2.0,
+      92.0,
+      239.0,
+      344.0
+    ],
+    "has_distractor": true,
+    "image_id": 2403019,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_24846",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_24847",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      251.0,
+      99.0,
+      498.0,
+      344.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      84.0,
+      177.0,
+      242.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2402189,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_26086",
+    "phenomenon": "negation",
+    "probe_id": "negation_26086",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      282.0,
+      381.0,
+      376.0,
+      435.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      282.0,
+      381.0,
+      376.0,
+      435.0
+    ],
+    "has_distractor": true,
+    "image_id": 2402189,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_26086",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_26087",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      84.0,
+      177.0,
+      242.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      5.0,
+      299.0,
+      47.0,
+      442.0
+    ],
+    "has_distractor": true,
+    "image_id": 2400585,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_28446",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_28447",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      107.0,
+      305.0,
+      161.0,
+      425.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      49.0,
+      20.0,
+      195.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2400529,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_28536",
+    "phenomenon": "negation",
+    "probe_id": "negation_28536",
+    "prompt": "the person not wearing a tie",
+    "target_box": [
+      28.0,
+      77.0,
+      58.0,
+      156.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      28.0,
+      77.0,
+      58.0,
+      156.0
+    ],
+    "has_distractor": true,
+    "image_id": 2400529,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_28536",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_28537",
+    "prompt": "the person wearing a tie",
+    "target_box": [
+      49.0,
+      20.0,
+      195.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      276.0,
+      55.0,
+      445.0,
+      375.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398892,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_31221",
+    "phenomenon": "negation",
+    "probe_id": "negation_31221",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      72.0,
+      44.0,
+      228.0,
+      375.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      72.0,
+      44.0,
+      228.0,
+      375.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398892,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_31221",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_31222",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      276.0,
+      55.0,
+      445.0,
+      375.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      281.0,
+      81.0,
+      435.0,
+      302.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398661,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_31549",
+    "phenomenon": "negation",
+    "probe_id": "negation_31549",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      53.0,
+      13.0,
+      255.0,
+      325.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      53.0,
+      13.0,
+      255.0,
+      325.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398661,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_31549",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_31550",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      281.0,
+      81.0,
+      435.0,
+      302.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      206.0,
+      161.0,
+      354.0,
+      373.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398128,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_32424",
+    "phenomenon": "negation",
+    "probe_id": "negation_32424",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      295.0,
+      182.0,
+      367.0,
+      320.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      295.0,
+      182.0,
+      367.0,
+      320.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398128,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_32424",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_32425",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      206.0,
+      161.0,
+      354.0,
+      373.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      52.0,
+      101.0,
+      82.0,
+      193.0
+    ],
+    "has_distractor": true,
+    "image_id": 2396052,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_35464",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_35465",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      97.0,
+      96.0,
+      250.0,
+      338.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      17.0,
+      114.0,
+      191.0,
+      499.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395871,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_35743",
+    "phenomenon": "negation",
+    "probe_id": "negation_35743",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      160.0,
+      73.0,
+      332.0,
+      498.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      160.0,
+      73.0,
+      332.0,
+      498.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395871,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_35743",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_35744",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      17.0,
+      114.0,
+      191.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      160.0,
+      2.0,
+      365.0,
+      290.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395781,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_35869",
+    "phenomenon": "negation",
+    "probe_id": "negation_35869",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      0.0,
+      12.0,
+      74.0,
+      281.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      12.0,
+      74.0,
+      281.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395781,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_35869",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_35870",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      160.0,
+      2.0,
+      365.0,
+      290.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      8.0,
+      161.0,
+      262.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2393994,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_38362",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_38363",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      259.0,
+      43.0,
+      372.0,
+      175.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      67.0,
+      159.0,
+      284.0,
+      457.0
+    ],
+    "has_distractor": true,
+    "image_id": 2393087,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_39618",
+    "phenomenon": "negation",
+    "probe_id": "negation_39618",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      198.0,
+      162.0,
+      374.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      198.0,
+      162.0,
+      374.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2393087,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_39618",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_39619",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      67.0,
+      159.0,
+      284.0,
+      457.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      67.0,
+      56.0,
+      212.0,
+      295.0
+    ],
+    "has_distractor": true,
+    "image_id": 2392714,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_40058",
+    "phenomenon": "negation",
+    "probe_id": "negation_40058",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      161.0,
+      42.0,
+      292.0,
+      298.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      161.0,
+      42.0,
+      292.0,
+      298.0
+    ],
+    "has_distractor": true,
+    "image_id": 2392714,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_40058",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_40059",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      67.0,
+      56.0,
+      212.0,
+      295.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      219.0,
+      135.0,
+      342.0,
+      270.0
+    ],
+    "has_distractor": true,
+    "image_id": 2391219,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_42275",
+    "phenomenon": "negation",
+    "probe_id": "negation_42275",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      22.0,
+      4.0,
+      237.0,
+      328.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      22.0,
+      4.0,
+      237.0,
+      328.0
+    ],
+    "has_distractor": true,
+    "image_id": 2391219,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_42275",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_42276",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      219.0,
+      135.0,
+      342.0,
+      270.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      368.0,
+      2.0,
+      402.0,
+      138.0
+    ],
+    "has_distractor": true,
+    "image_id": 2389491,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_44814",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_44815",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      198.0,
+      66.0,
+      299.0,
+      252.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      320.0,
+      79.0,
+      402.0,
+      288.0
+    ],
+    "has_distractor": true,
+    "image_id": 2389449,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_44853",
+    "phenomenon": "negation",
+    "probe_id": "negation_44853",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      120.0,
+      35.0,
+      228.0,
+      237.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      89.0,
+      111.0,
+      142.0,
+      183.0
+    ],
+    "has_distractor": true,
+    "image_id": 2389143,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_45343",
+    "phenomenon": "negation",
+    "probe_id": "negation_45343",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      142.0,
+      112.0,
+      225.0,
+      230.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      142.0,
+      112.0,
+      225.0,
+      230.0
+    ],
+    "has_distractor": true,
+    "image_id": 2389143,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_45343",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_45344",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      89.0,
+      111.0,
+      142.0,
+      183.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      268.0,
+      89.0,
+      377.0,
+      274.0
+    ],
+    "has_distractor": true,
+    "image_id": 2387734,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_47517",
+    "phenomenon": "negation",
+    "probe_id": "negation_47517",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      67.0,
+      86.0,
+      177.0,
+      275.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      67.0,
+      86.0,
+      177.0,
+      275.0
+    ],
+    "has_distractor": true,
+    "image_id": 2387734,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_47517",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_47518",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      268.0,
+      89.0,
+      377.0,
+      274.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      291.0,
+      1.0,
+      497.0,
+      374.0
+    ],
+    "has_distractor": true,
+    "image_id": 2386329,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_49481",
+    "phenomenon": "negation",
+    "probe_id": "negation_49481",
+    "prompt": "the person not wearing a tie",
+    "target_box": [
+      87.0,
+      12.0,
+      350.0,
+      375.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      87.0,
+      12.0,
+      350.0,
+      375.0
+    ],
+    "has_distractor": true,
+    "image_id": 2386329,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_49481",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_49482",
+    "prompt": "the person wearing a tie",
+    "target_box": [
+      291.0,
+      1.0,
+      497.0,
+      374.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      73.0,
+      253.0,
+      189.0,
+      493.0
+    ],
+    "has_distractor": true,
+    "image_id": 2385787,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_50149",
+    "phenomenon": "negation",
+    "probe_id": "negation_50149",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      167.0,
+      365.0,
+      282.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      167.0,
+      365.0,
+      282.0,
+      499.0
+    ],
+    "has_distractor": true,
+    "image_id": 2385787,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_50149",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_50150",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      73.0,
+      253.0,
+      189.0,
+      493.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      39.0,
+      268.0,
+      375.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384878,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_51488",
+    "phenomenon": "negation",
+    "probe_id": "negation_51488",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      236.0,
+      70.0,
+      499.0,
+      375.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      236.0,
+      70.0,
+      499.0,
+      375.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384878,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_51488",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_51489",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      0.0,
+      39.0,
+      268.0,
+      375.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      51.0,
+      81.0,
+      258.0,
+      428.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384653,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_51799",
+    "phenomenon": "negation",
+    "probe_id": "negation_51799",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      241.0,
+      61.0,
+      284.0,
+      185.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      241.0,
+      61.0,
+      284.0,
+      185.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384653,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_51799",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_51800",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      51.0,
+      81.0,
+      258.0,
+      428.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      145.0,
+      116.0,
+      207.0,
+      243.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384339,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_52256",
+    "phenomenon": "negation",
+    "probe_id": "negation_52256",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      308.0,
+      40.0,
+      359.0,
+      209.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      308.0,
+      40.0,
+      359.0,
+      209.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384339,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_52256",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_52257",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      145.0,
+      116.0,
+      207.0,
+      243.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      132.0,
+      36.0,
+      303.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2382268,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_55306",
+    "phenomenon": "negation",
+    "probe_id": "negation_55306",
+    "prompt": "the person not wearing a tie",
+    "target_box": [
+      288.0,
+      41.0,
+      441.0,
+      333.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      288.0,
+      41.0,
+      441.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2382268,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_55306",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_55307",
+    "prompt": "the person wearing a tie",
+    "target_box": [
+      132.0,
+      36.0,
+      303.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      234.0,
+      67.0,
+      420.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2381712,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_56131",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_56132",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      91.0,
+      67.0,
+      189.0,
+      331.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      408.0,
+      239.0,
+      457.0,
+      396.0
+    ],
+    "has_distractor": true,
+    "image_id": 2379745,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_58977",
+    "phenomenon": "negation",
+    "probe_id": "negation_58977",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      361.0,
+      251.0,
+      404.0,
+      397.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      361.0,
+      251.0,
+      404.0,
+      397.0
+    ],
+    "has_distractor": true,
+    "image_id": 2379745,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_58977",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_58978",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      408.0,
+      239.0,
+      457.0,
+      396.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      286.0,
+      99.0,
+      409.0,
+      387.0
+    ],
+    "has_distractor": true,
+    "image_id": 2379213,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_59741",
+    "phenomenon": "negation",
+    "probe_id": "negation_59741",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      10.0,
+      138.0,
+      117.0,
+      313.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      10.0,
+      138.0,
+      117.0,
+      313.0
+    ],
+    "has_distractor": true,
+    "image_id": 2379213,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_59741",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_59742",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      286.0,
+      99.0,
+      409.0,
+      387.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      107.0,
+      171.0,
+      471.0,
+      375.0
+    ],
+    "has_distractor": true,
+    "image_id": 2377594,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_62121",
+    "phenomenon": "negation",
+    "probe_id": "negation_62121",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      191.0,
+      67.0,
+      353.0,
+      314.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      191.0,
+      67.0,
+      353.0,
+      314.0
+    ],
+    "has_distractor": true,
+    "image_id": 2377594,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_62121",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_62122",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      107.0,
+      171.0,
+      471.0,
+      375.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      243.0,
+      90.0,
+      332.0,
+      393.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374717,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_66670",
+    "phenomenon": "negation",
+    "probe_id": "negation_66670",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      104.0,
+      134.0,
+      156.0,
+      333.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      104.0,
+      134.0,
+      156.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374717,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_66670",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_66671",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      243.0,
+      90.0,
+      332.0,
+      393.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      153.0,
+      75.0,
+      308.0,
+      374.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371132,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_72425",
+    "phenomenon": "negation",
+    "probe_id": "negation_72425",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      25.0,
+      111.0,
+      164.0,
+      376.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      208.0,
+      88.0,
+      260.0,
+      172.0
+    ],
+    "has_distractor": true,
+    "image_id": 2370501,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_73401",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_73402",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      92.0,
+      122.0,
+      132.0,
+      194.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      64.0,
+      36.0,
+      339.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2370198,
+    "image_source": "visual_genome",
+    "notes": "item=phone, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_73803",
+    "phenomenon": "negation",
+    "probe_id": "negation_73803",
+    "prompt": "the person not holding a phone",
+    "target_box": [
+      278.0,
+      40.0,
+      438.0,
+      469.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      278.0,
+      40.0,
+      438.0,
+      469.0
+    ],
+    "has_distractor": true,
+    "image_id": 2370198,
+    "image_source": "visual_genome",
+    "notes": "item=phone, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_73803",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_73804",
+    "prompt": "the person holding a phone",
+    "target_box": [
+      64.0,
+      36.0,
+      339.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      136.0,
+      97.0,
+      268.0,
+      323.0
+    ],
+    "has_distractor": true,
+    "image_id": 2369096,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_75392",
+    "phenomenon": "negation",
+    "probe_id": "negation_75392",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      248.0,
+      113.0,
+      406.0,
+      312.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      248.0,
+      113.0,
+      406.0,
+      312.0
+    ],
+    "has_distractor": true,
+    "image_id": 2369096,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_75392",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_75393",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      136.0,
+      97.0,
+      268.0,
+      323.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      16.0,
+      196.0,
+      499.0
+    ],
+    "has_distractor": true,
+    "image_id": 2367675,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_77423",
+    "phenomenon": "negation",
+    "probe_id": "negation_77423",
+    "prompt": "the person not wearing a tie",
+    "target_box": [
+      152.0,
+      0.0,
+      333.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      152.0,
+      0.0,
+      333.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2367675,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_77423",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_77424",
+    "prompt": "the person wearing a tie",
+    "target_box": [
+      0.0,
+      16.0,
+      196.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      67.0,
+      76.0,
+      355.0
+    ],
+    "has_distractor": true,
+    "image_id": 2365160,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_81181",
+    "phenomenon": "negation",
+    "probe_id": "negation_81181",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      111.0,
+      7.0,
+      461.0,
+      355.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      0.0,
+      77.0,
+      127.0
+    ],
+    "has_distractor": true,
+    "image_id": 2362334,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_85538",
+    "phenomenon": "negation",
+    "probe_id": "negation_85538",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      140.0,
+      0.0,
+      235.0,
+      125.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      140.0,
+      0.0,
+      235.0,
+      125.0
+    ],
+    "has_distractor": true,
+    "image_id": 2362334,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_85538",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_85539",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      0.0,
+      0.0,
+      77.0,
+      127.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      162.0,
+      55.0,
+      289.0,
+      407.0
+    ],
+    "has_distractor": true,
+    "image_id": 2361568,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_86778",
+    "phenomenon": "negation",
+    "probe_id": "negation_86778",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      108.0,
+      212.0,
+      217.0,
+      438.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      108.0,
+      212.0,
+      217.0,
+      438.0
+    ],
+    "has_distractor": true,
+    "image_id": 2361568,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_86778",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_86779",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      162.0,
+      55.0,
+      289.0,
+      407.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      185.0,
+      83.0,
+      278.0,
+      468.0
+    ],
+    "has_distractor": true,
+    "image_id": 2361345,
+    "image_source": "visual_genome",
+    "notes": "item=backpack, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_87108",
+    "phenomenon": "negation",
+    "probe_id": "negation_87108",
+    "prompt": "the person not wearing a backpack",
+    "target_box": [
+      98.0,
+      98.0,
+      190.0,
+      462.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      98.0,
+      98.0,
+      190.0,
+      462.0
+    ],
+    "has_distractor": true,
+    "image_id": 2361345,
+    "image_source": "visual_genome",
+    "notes": "item=backpack, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_87108",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_87109",
+    "prompt": "the person wearing a backpack",
+    "target_box": [
+      185.0,
+      83.0,
+      278.0,
+      468.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      238.0,
+      101.0,
+      313.0,
+      292.0
+    ],
+    "has_distractor": true,
+    "image_id": 2358814,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_90971",
+    "phenomenon": "negation",
+    "probe_id": "negation_90971",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      280.0,
+      95.0,
+      358.0,
+      296.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      280.0,
+      95.0,
+      358.0,
+      296.0
+    ],
+    "has_distractor": true,
+    "image_id": 2358814,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_90971",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_90972",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      238.0,
+      101.0,
+      313.0,
+      292.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      42.0,
+      90.0,
+      287.0,
+      293.0
+    ],
+    "has_distractor": true,
+    "image_id": 2356573,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_94379",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_94380",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      290.0,
+      68.0,
+      493.0,
+      296.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      86.0,
+      18.0,
+      206.0,
+      326.0
+    ],
+    "has_distractor": true,
+    "image_id": 2356372,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_94665",
+    "phenomenon": "negation",
+    "probe_id": "negation_94665",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      198.0,
+      6.0,
+      370.0,
+      420.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      198.0,
+      6.0,
+      370.0,
+      420.0
+    ],
+    "has_distractor": true,
+    "image_id": 2356372,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_94665",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_94666",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      86.0,
+      18.0,
+      206.0,
+      326.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      60.0,
+      116.0,
+      112.0,
+      285.0
+    ],
+    "has_distractor": true,
+    "image_id": 2355660,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_95902",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_95903",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      41.0,
+      8.0,
+      292.0,
+      498.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      66.0,
+      91.0,
+      182.0,
+      376.0
+    ],
+    "has_distractor": true,
+    "image_id": 2354030,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_98504",
+    "phenomenon": "negation",
+    "probe_id": "negation_98504",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      180.0,
+      106.0,
+      396.0,
+      373.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      180.0,
+      106.0,
+      396.0,
+      373.0
+    ],
+    "has_distractor": true,
+    "image_id": 2354030,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_98504",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_98505",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      66.0,
+      91.0,
+      182.0,
+      376.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      188.0,
+      214.0,
+      243.0,
+      312.0
+    ],
+    "has_distractor": true,
+    "image_id": 2349295,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_105609",
+    "phenomenon": "negation",
+    "probe_id": "negation_105609",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      232.0,
+      227.0,
+      281.0,
+      324.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      232.0,
+      227.0,
+      281.0,
+      324.0
+    ],
+    "has_distractor": true,
+    "image_id": 2349295,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_105609",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_105610",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      188.0,
+      214.0,
+      243.0,
+      312.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      2.0,
+      63.0,
+      203.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347607,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_108116",
+    "phenomenon": "negation",
+    "probe_id": "negation_108116",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      191.0,
+      148.0,
+      433.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      191.0,
+      148.0,
+      433.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347607,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_108116",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_108117",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      2.0,
+      63.0,
+      203.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      106.0,
+      60.0,
+      265.0,
+      271.0
+    ],
+    "has_distractor": true,
+    "image_id": 2344943,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_112125",
+    "phenomenon": "negation",
+    "probe_id": "negation_112125",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      248.0,
+      143.0,
+      282.0,
+      232.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      248.0,
+      143.0,
+      282.0,
+      232.0
+    ],
+    "has_distractor": true,
+    "image_id": 2344943,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_112125",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_112126",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      106.0,
+      60.0,
+      265.0,
+      271.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      219.0,
+      30.0,
+      479.0,
+      353.0
+    ],
+    "has_distractor": true,
+    "image_id": 2344784,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_112382",
+    "phenomenon": "negation",
+    "probe_id": "negation_112382",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      19.0,
+      61.0,
+      255.0,
+      354.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      19.0,
+      61.0,
+      255.0,
+      354.0
+    ],
+    "has_distractor": true,
+    "image_id": 2344784,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_112382",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_112383",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      219.0,
+      30.0,
+      479.0,
+      353.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      218.0,
+      82.0,
+      480.0,
+      334.0
+    ],
+    "has_distractor": true,
+    "image_id": 2343076,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_114898",
+    "phenomenon": "negation",
+    "probe_id": "negation_114898",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      0.0,
+      44.0,
+      249.0,
+      333.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      44.0,
+      249.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2343076,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_114898",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_114899",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      218.0,
+      82.0,
+      480.0,
+      334.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      183.0,
+      86.0,
+      277.0,
+      487.0
+    ],
+    "has_distractor": true,
+    "image_id": 2342099,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_116430",
+    "phenomenon": "negation",
+    "probe_id": "negation_116430",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      25.0,
+      36.0,
+      169.0,
+      474.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      25.0,
+      36.0,
+      169.0,
+      474.0
+    ],
+    "has_distractor": true,
+    "image_id": 2342099,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_116430",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_116431",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      183.0,
+      86.0,
+      277.0,
+      487.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      289.0,
+      0.0,
+      500.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2340319,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_119081",
+    "phenomenon": "negation",
+    "probe_id": "negation_119081",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      128.0,
+      97.0,
+      328.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      128.0,
+      97.0,
+      328.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2340319,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_119081",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_119082",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      289.0,
+      0.0,
+      500.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      215.0,
+      32.0,
+      478.0,
+      334.0
+    ],
+    "has_distractor": true,
+    "image_id": 2337763,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_122572",
+    "phenomenon": "negation",
+    "probe_id": "negation_122572",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      24.0,
+      12.0,
+      241.0,
+      298.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      24.0,
+      12.0,
+      241.0,
+      298.0
+    ],
+    "has_distractor": true,
+    "image_id": 2337763,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_122572",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_122573",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      215.0,
+      32.0,
+      478.0,
+      334.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      385.0,
+      69.0,
+      441.0,
+      166.0
+    ],
+    "has_distractor": true,
+    "image_id": 2337377,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_123169",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_123170",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      230.0,
+      120.0,
+      322.0,
+      273.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      321.0,
+      113.0,
+      499.0,
+      371.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335732,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_125614",
+    "phenomenon": "negation",
+    "probe_id": "negation_125614",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      172.0,
+      135.0,
+      308.0,
+      252.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      172.0,
+      135.0,
+      308.0,
+      252.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335732,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_125614",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_125615",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      321.0,
+      113.0,
+      499.0,
+      371.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      156.0,
+      8.0,
+      403.0,
+      219.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335706,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_125652",
+    "phenomenon": "negation",
+    "probe_id": "negation_125652",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      451.0,
+      50.0,
+      499.0,
+      169.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      451.0,
+      50.0,
+      499.0,
+      169.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335706,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_125652",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_125653",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      156.0,
+      8.0,
+      403.0,
+      219.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      57.0,
+      102.0,
+      116.0,
+      224.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334253,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_127862",
+    "phenomenon": "negation",
+    "probe_id": "negation_127862",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      198.0,
+      123.0,
+      266.0,
+      254.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      198.0,
+      123.0,
+      266.0,
+      254.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334253,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_127862",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_127863",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      57.0,
+      102.0,
+      116.0,
+      224.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      143.0,
+      106.0,
+      223.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2332949,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_129986",
+    "phenomenon": "negation",
+    "probe_id": "negation_129986",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      252.0,
+      135.0,
+      400.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      252.0,
+      135.0,
+      400.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2332949,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_129986",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_129987",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      143.0,
+      106.0,
+      223.0,
+      333.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      82.0,
+      198.0,
+      351.0
+    ],
+    "has_distractor": true,
+    "image_id": 2331163,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_132392",
+    "phenomenon": "negation",
+    "probe_id": "negation_132392",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      149.0,
+      43.0,
+      498.0,
+      351.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      149.0,
+      43.0,
+      498.0,
+      351.0
+    ],
+    "has_distractor": true,
+    "image_id": 2331163,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_132392",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_132393",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      0.0,
+      82.0,
+      198.0,
+      351.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      241.0,
+      12.0,
+      499.0,
+      441.0
+    ],
+    "has_distractor": true,
+    "image_id": 2330220,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_133654",
+    "phenomenon": "negation",
+    "probe_id": "negation_133654",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      0.0,
+      46.0,
+      305.0,
+      442.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      46.0,
+      305.0,
+      442.0
+    ],
+    "has_distractor": true,
+    "image_id": 2330220,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_133654",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_133655",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      241.0,
+      12.0,
+      499.0,
+      441.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      5.0,
+      40.0,
+      120.0,
+      325.0
+    ],
+    "has_distractor": true,
+    "image_id": 2329788,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_134207",
+    "phenomenon": "negation",
+    "probe_id": "negation_134207",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      214.0,
+      34.0,
+      301.0,
+      321.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      214.0,
+      34.0,
+      301.0,
+      321.0
+    ],
+    "has_distractor": true,
+    "image_id": 2329788,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_134207",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_134208",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      5.0,
+      40.0,
+      120.0,
+      325.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      276.0,
+      137.0,
+      324.0,
+      199.0
+    ],
+    "has_distractor": true,
+    "image_id": 2329757,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_134280",
+    "phenomenon": "negation",
+    "probe_id": "negation_134280",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      123.0,
+      119.0,
+      173.0,
+      249.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      123.0,
+      119.0,
+      173.0,
+      249.0
+    ],
+    "has_distractor": true,
+    "image_id": 2329757,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_134280",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_134281",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      276.0,
+      137.0,
+      324.0,
+      199.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      161.0,
+      86.0,
+      269.0,
+      258.0
+    ],
+    "has_distractor": true,
+    "image_id": 2328213,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_136745",
+    "phenomenon": "negation",
+    "probe_id": "negation_136745",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      357.0,
+      115.0,
+      416.0,
+      295.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      26.0,
+      117.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2327210,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_138391",
+    "phenomenon": "negation",
+    "probe_id": "negation_138391",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      33.0,
+      17.0,
+      261.0,
+      426.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      33.0,
+      17.0,
+      261.0,
+      426.0
+    ],
+    "has_distractor": true,
+    "image_id": 2327210,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_138391",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_138392",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      0.0,
+      26.0,
+      117.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      210.0,
+      64.0,
+      308.0,
+      242.0
+    ],
+    "has_distractor": true,
+    "image_id": 2326010,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_140071",
+    "phenomenon": "negation",
+    "probe_id": "negation_140071",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      314.0,
+      101.0,
+      443.0,
+      297.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      314.0,
+      101.0,
+      443.0,
+      297.0
+    ],
+    "has_distractor": true,
+    "image_id": 2326010,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_140071",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_140072",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      210.0,
+      64.0,
+      308.0,
+      242.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      272.0,
+      138.0,
+      302.0,
+      243.0
+    ],
+    "has_distractor": true,
+    "image_id": 2323711,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_143559",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_143560",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      311.0,
+      131.0,
+      358.0,
+      243.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      217.0,
+      57.0,
+      321.0,
+      346.0
+    ],
+    "has_distractor": true,
+    "image_id": 2322325,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_145714",
+    "phenomenon": "negation",
+    "probe_id": "negation_145714",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      54.0,
+      47.0,
+      196.0,
+      416.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      54.0,
+      47.0,
+      196.0,
+      416.0
+    ],
+    "has_distractor": true,
+    "image_id": 2322325,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_145714",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_145715",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      217.0,
+      57.0,
+      321.0,
+      346.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      310.0,
+      41.0,
+      462.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2321565,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_147062",
+    "phenomenon": "negation",
+    "probe_id": "negation_147062",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      194.0,
+      62.0,
+      332.0,
+      206.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      194.0,
+      62.0,
+      332.0,
+      206.0
+    ],
+    "has_distractor": true,
+    "image_id": 2321565,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_147062",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_147063",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      310.0,
+      41.0,
+      462.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      2.0,
+      79.0,
+      267.0,
+      374.0
+    ],
+    "has_distractor": true,
+    "image_id": 2318399,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_152060",
+    "phenomenon": "negation",
+    "probe_id": "negation_152060",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      219.0,
+      92.0,
+      424.0,
+      373.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      219.0,
+      92.0,
+      424.0,
+      373.0
+    ],
+    "has_distractor": true,
+    "image_id": 2318399,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_152060",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_152061",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      2.0,
+      79.0,
+      267.0,
+      374.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      225.0,
+      1.0,
+      397.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2318392,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_152078",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_152079",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      42.0,
+      109.0,
+      247.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      187.0,
+      85.0,
+      290.0,
+      335.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317730,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_152995",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_152996",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      126.0,
+      177.0,
+      184.0,
+      288.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      42.0,
+      20.0,
+      259.0,
+      321.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317259,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_153630",
+    "phenomenon": "negation",
+    "probe_id": "negation_153630",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      206.0,
+      184.0,
+      273.0,
+      326.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      206.0,
+      184.0,
+      273.0,
+      326.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317259,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_153630",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_153631",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      42.0,
+      20.0,
+      259.0,
+      321.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      186.0,
+      42.0,
+      458.0,
+      466.0
+    ],
+    "has_distractor": true,
+    "image_id": 2315927,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_155358",
+    "phenomenon": "negation",
+    "probe_id": "negation_155358",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      15.0,
+      70.0,
+      215.0,
+      368.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      15.0,
+      70.0,
+      215.0,
+      368.0
+    ],
+    "has_distractor": true,
+    "image_id": 2315927,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_155358",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_155359",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      186.0,
+      42.0,
+      458.0,
+      466.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      104.0,
+      159.0,
+      142.0,
+      271.0
+    ],
+    "has_distractor": true,
+    "image_id": 2413815,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_157445",
+    "phenomenon": "negation",
+    "probe_id": "negation_157445",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      335.0,
+      41.0,
+      407.0,
+      177.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      335.0,
+      41.0,
+      407.0,
+      177.0
+    ],
+    "has_distractor": true,
+    "image_id": 2413815,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_157445",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_157446",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      104.0,
+      159.0,
+      142.0,
+      271.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      499.0,
+      72.0,
+      849.0,
+      764.0
+    ],
+    "has_distractor": true,
+    "image_id": 1592314,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_8806",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_8807",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      58.0,
+      345.0,
+      256.0,
+      609.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      389.0,
+      100.0,
+      437.0,
+      223.0
+    ],
+    "has_distractor": true,
+    "image_id": 2412545,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_11162",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_11163",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      265.0,
+      100.0,
+      355.0,
+      209.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      25.0,
+      135.0,
+      65.0,
+      244.0
+    ],
+    "has_distractor": true,
+    "image_id": 2410521,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_13099",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_13100",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      136.0,
+      148.0,
+      281.0,
+      485.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      66.0,
+      163.0,
+      177.0,
+      312.0
+    ],
+    "has_distractor": true,
+    "image_id": 2406104,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_19973",
+    "phenomenon": "negation",
+    "probe_id": "negation_19973",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      188.0,
+      5.0,
+      410.0,
+      290.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      188.0,
+      5.0,
+      410.0,
+      290.0
+    ],
+    "has_distractor": true,
+    "image_id": 2406104,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_19973",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_19974",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      66.0,
+      163.0,
+      177.0,
+      312.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      165.0,
+      41.0,
+      248.0,
+      148.0
+    ],
+    "has_distractor": true,
+    "image_id": 2401479,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_27101",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_27102",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      299.0,
+      47.0,
+      442.0,
+      299.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      175.0,
+      140.0,
+      228.0,
+      288.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398963,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_31109",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_31110",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      236.0,
+      137.0,
+      282.0,
+      243.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      3.0,
+      253.0,
+      55.0,
+      401.0
+    ],
+    "has_distractor": true,
+    "image_id": 2397909,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_32808",
+    "phenomenon": "negation",
+    "probe_id": "negation_32808",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      173.0,
+      262.0,
+      214.0,
+      384.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      327.0,
+      102.0,
+      484.0,
+      242.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395127,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_36682",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_36683",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      3.0,
+      114.0,
+      119.0,
+      240.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      373.0,
+      76.0,
+      474.0,
+      334.0
+    ],
+    "has_distractor": true,
+    "image_id": 2394248,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_38011",
+    "phenomenon": "negation",
+    "probe_id": "negation_38011",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      150.0,
+      1.0,
+      320.0,
+      333.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      150.0,
+      1.0,
+      320.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2394248,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_38011",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_38012",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      373.0,
+      76.0,
+      474.0,
+      334.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      10.0,
+      13.0,
+      169.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2393505,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_39069",
+    "phenomenon": "negation",
+    "probe_id": "negation_39069",
+    "prompt": "the person not wearing a tie",
+    "target_box": [
+      148.0,
+      85.0,
+      271.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      148.0,
+      85.0,
+      271.0,
+      499.0
+    ],
+    "has_distractor": true,
+    "image_id": 2393505,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_39069",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_39070",
+    "prompt": "the person wearing a tie",
+    "target_box": [
+      10.0,
+      13.0,
+      169.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      204.0,
+      35.0,
+      307.0,
+      275.0
+    ],
+    "has_distractor": true,
+    "image_id": 2390589,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_43152",
+    "phenomenon": "negation",
+    "probe_id": "negation_43152",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      0.0,
+      47.0,
+      63.0,
+      171.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      47.0,
+      63.0,
+      171.0
+    ],
+    "has_distractor": true,
+    "image_id": 2390589,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_43152",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_43153",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      204.0,
+      35.0,
+      307.0,
+      275.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      97.0,
+      74.0,
+      153.0,
+      229.0
+    ],
+    "has_distractor": true,
+    "image_id": 2390216,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_43746",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_43747",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      266.0,
+      112.0,
+      385.0,
+      224.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      6.0,
+      1.0,
+      113.0,
+      330.0
+    ],
+    "has_distractor": true,
+    "image_id": 2388026,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_47129",
+    "phenomenon": "negation",
+    "probe_id": "negation_47129",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      253.0,
+      95.0,
+      367.0,
+      296.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      253.0,
+      95.0,
+      367.0,
+      296.0
+    ],
+    "has_distractor": true,
+    "image_id": 2388026,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_47129",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_47130",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      6.0,
+      1.0,
+      113.0,
+      330.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      348.0,
+      145.0,
+      413.0,
+      263.0
+    ],
+    "has_distractor": true,
+    "image_id": 2382238,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_55349",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_55350",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      153.0,
+      98.0,
+      258.0,
+      297.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      130.0,
+      159.0,
+      225.0,
+      290.0
+    ],
+    "has_distractor": true,
+    "image_id": 2380421,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_57892",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_57893",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      193.0,
+      115.0,
+      308.0,
+      288.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      139.0,
+      62.0,
+      333.0,
+      349.0
+    ],
+    "has_distractor": true,
+    "image_id": 2375519,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_65356",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_65357",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      282.0,
+      12.0,
+      333.0,
+      132.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      49.0,
+      193.0,
+      399.0
+    ],
+    "has_distractor": true,
+    "image_id": 2373792,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_68133",
+    "phenomenon": "negation",
+    "probe_id": "negation_68133",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      315.0,
+      57.0,
+      492.0,
+      397.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      315.0,
+      57.0,
+      492.0,
+      397.0
+    ],
+    "has_distractor": true,
+    "image_id": 2373792,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_68133",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_68134",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      0.0,
+      49.0,
+      193.0,
+      399.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      283.0,
+      52.0,
+      473.0,
+      260.0
+    ],
+    "has_distractor": true,
+    "image_id": 2364430,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_82270",
+    "phenomenon": "negation",
+    "probe_id": "negation_82270",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      37.0,
+      62.0,
+      162.0,
+      344.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      406.0,
+      35.0,
+      484.0,
+      274.0
+    ],
+    "has_distractor": true,
+    "image_id": 2353575,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_99202",
+    "phenomenon": "negation",
+    "probe_id": "negation_99202",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      77.0,
+      166.0,
+      132.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      77.0,
+      166.0,
+      132.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2353575,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_99202",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_99203",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      406.0,
+      35.0,
+      484.0,
+      274.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      42.0,
+      44.0,
+      205.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2350918,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_103330",
+    "phenomenon": "negation",
+    "probe_id": "negation_103330",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      243.0,
+      42.0,
+      385.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      243.0,
+      42.0,
+      385.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2350918,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_103330",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_103331",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      42.0,
+      44.0,
+      205.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      291.0,
+      25.0,
+      332.0,
+      269.0
+    ],
+    "has_distractor": true,
+    "image_id": 2343141,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_114810",
+    "phenomenon": "negation",
+    "probe_id": "negation_114810",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      166.0,
+      32.0,
+      281.0,
+      402.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      166.0,
+      32.0,
+      281.0,
+      402.0
+    ],
+    "has_distractor": true,
+    "image_id": 2343141,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_114810",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_114811",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      291.0,
+      25.0,
+      332.0,
+      269.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      302.0,
+      56.0,
+      373.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2341719,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_117010",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_117011",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      79.0,
+      58.0,
+      197.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      215.0,
+      143.0,
+      303.0,
+      413.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334787,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_127048",
+    "phenomenon": "negation",
+    "probe_id": "negation_127048",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      74.0,
+      143.0,
+      165.0,
+      401.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      74.0,
+      143.0,
+      165.0,
+      401.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334787,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_127048",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_127049",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      215.0,
+      143.0,
+      303.0,
+      413.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      43.0,
+      73.0,
+      245.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334781,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_127052",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_127053",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      244.0,
+      71.0,
+      299.0,
+      165.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      240.0,
+      116.0,
+      418.0,
+      276.0
+    ],
+    "has_distractor": true,
+    "image_id": 2333813,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_128551",
+    "phenomenon": "negation",
+    "probe_id": "negation_128551",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      38.0,
+      145.0,
+      95.0,
+      276.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      38.0,
+      145.0,
+      95.0,
+      276.0
+    ],
+    "has_distractor": true,
+    "image_id": 2333813,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_128551",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_128552",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      240.0,
+      116.0,
+      418.0,
+      276.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      337.0,
+      107.0,
+      491.0,
+      283.0
+    ],
+    "has_distractor": true,
+    "image_id": 2332798,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_130233",
+    "phenomenon": "negation",
+    "probe_id": "negation_130233",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      20.0,
+      24.0,
+      182.0,
+      282.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      20.0,
+      24.0,
+      182.0,
+      282.0
+    ],
+    "has_distractor": true,
+    "image_id": 2332798,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_130233",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_130234",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      337.0,
+      107.0,
+      491.0,
+      283.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      271.0,
+      120.0,
+      333.0,
+      311.0
+    ],
+    "has_distractor": true,
+    "image_id": 2330116,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_133825",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_133826",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      203.0,
+      117.0,
+      290.0,
+      306.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      274.0,
+      240.0,
+      339.0,
+      360.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320941,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_148007",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_148008",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      64.0,
+      73.0,
+      228.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      64.0,
+      128.0,
+      258.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320496,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_148742",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_148743",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      243.0,
+      118.0,
+      372.0,
+      258.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      279.0,
+      68.0,
+      498.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317453,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_153406",
+    "phenomenon": "negation",
+    "probe_id": "negation_153406",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      177.0,
+      262.0,
+      290.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      5.0,
+      32.0,
+      110.0,
+      326.0
+    ],
+    "has_distractor": true,
+    "image_id": 2416282,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_161345",
+    "phenomenon": "negation",
+    "probe_id": "negation_161345",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      300.0,
+      50.0,
+      407.0,
+      247.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      262.0,
+      230.0,
+      297.0,
+      273.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347348,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=cup",
+    "pair_id": "attr_100115",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_100115",
+    "prompt": "the white cup",
+    "target_box": [
+      8.0,
+      283.0,
+      75.0,
+      371.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      8.0,
+      283.0,
+      75.0,
+      371.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347348,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=cup",
+    "pair_id": "attr_100115",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_100116",
+    "prompt": "the black cup",
+    "target_box": [
+      262.0,
+      230.0,
+      297.0,
+      273.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      93.0,
+      35.0,
+      148.0,
+      68.0
+    ],
+    "has_distractor": true,
+    "image_id": 2346141,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=sign",
+    "pair_id": "attr_101687",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_101687",
+    "prompt": "the red sign",
+    "target_box": [
+      288.0,
+      57.0,
+      354.0,
+      112.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      291.0,
+      154.0,
+      484.0,
+      174.0
+    ],
+    "has_distractor": true,
+    "image_id": 2337206,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=red, object=boat",
+    "pair_id": "attr_113952",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_113953",
+    "prompt": "the yellow boat",
+    "target_box": [
+      4.0,
+      182.0,
+      426.0,
+      206.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      702.0,
+      360.0,
+      788.0,
+      421.0
+    ],
+    "has_distractor": true,
+    "image_id": 1159790,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=bus",
+    "pair_id": "attr_12003",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_12003",
+    "prompt": "the blue bus",
+    "target_box": [
+      226.0,
+      108.0,
+      560.0,
+      633.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      226.0,
+      108.0,
+      560.0,
+      633.0
+    ],
+    "has_distractor": true,
+    "image_id": 1159790,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=bus",
+    "pair_id": "attr_12003",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_12004",
+    "prompt": "the white bus",
+    "target_box": [
+      702.0,
+      360.0,
+      788.0,
+      421.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      2.0,
+      212.0,
+      46.0,
+      282.0
+    ],
+    "has_distractor": true,
+    "image_id": 2332754,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=truck",
+    "pair_id": "attr_120315",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_120316",
+    "prompt": "the black truck",
+    "target_box": [
+      89.0,
+      92.0,
+      254.0,
+      253.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      118.0,
+      165.0,
+      215.0,
+      247.0
+    ],
+    "has_distractor": true,
+    "image_id": 2331445,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=shorts",
+    "pair_id": "attr_121286",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_121286",
+    "prompt": "the white shorts",
+    "target_box": [
+      234.0,
+      187.0,
+      331.0,
+      248.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      234.0,
+      187.0,
+      331.0,
+      248.0
+    ],
+    "has_distractor": true,
+    "image_id": 2331445,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=shorts",
+    "pair_id": "attr_121286",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_121287",
+    "prompt": "the blue shorts",
+    "target_box": [
+      118.0,
+      165.0,
+      215.0,
+      247.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      243.0,
+      135.0,
+      298.0,
+      210.0
+    ],
+    "has_distractor": true,
+    "image_id": 2327454,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=truck",
+    "pair_id": "attr_125394",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_125394",
+    "prompt": "the white truck",
+    "target_box": [
+      122.0,
+      137.0,
+      252.0,
+      264.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      122.0,
+      137.0,
+      252.0,
+      264.0
+    ],
+    "has_distractor": true,
+    "image_id": 2327454,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=truck",
+    "pair_id": "attr_125394",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_125395",
+    "prompt": "the blue truck",
+    "target_box": [
+      243.0,
+      135.0,
+      298.0,
+      210.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      395.0,
+      29.0,
+      433.0,
+      99.0
+    ],
+    "has_distractor": true,
+    "image_id": 2326231,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=building",
+    "pair_id": "attr_126993",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_126994",
+    "prompt": "the blue building",
+    "target_box": [
+      124.0,
+      128.0,
+      272.0,
+      228.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      158.0,
+      78.0,
+      306.0
+    ],
+    "has_distractor": true,
+    "image_id": 2323173,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=bag",
+    "pair_id": "attr_130918",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_130918",
+    "prompt": "the white bag",
+    "target_box": [
+      73.0,
+      275.0,
+      112.0,
+      325.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      23.0,
+      81.0,
+      209.0,
+      328.0
+    ],
+    "has_distractor": true,
+    "image_id": 2321540,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=shirt",
+    "pair_id": "attr_132986",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_132986",
+    "prompt": "the white shirt",
+    "target_box": [
+      302.0,
+      126.0,
+      450.0,
+      325.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      153.0,
+      42.0,
+      460.0,
+      303.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320432,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=green, object=truck",
+    "pair_id": "attr_135755",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135755",
+    "prompt": "the red truck",
+    "target_box": [
+      14.0,
+      70.0,
+      147.0,
+      204.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      139.0,
+      12.0,
+      359.0,
+      359.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317587,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=yellow, object=box",
+    "pair_id": "attr_140136",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140136",
+    "prompt": "the green box",
+    "target_box": [
+      353.0,
+      15.0,
+      470.0,
+      329.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      353.0,
+      15.0,
+      470.0,
+      329.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317587,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=green, object=box",
+    "pair_id": "attr_140136",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140137",
+    "prompt": "the yellow box",
+    "target_box": [
+      139.0,
+      12.0,
+      359.0,
+      359.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      350.0,
+      13.0,
+      488.0,
+      328.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317587,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=green, object=box",
+    "pair_id": "attr_140142",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140142",
+    "prompt": "the yellow box",
+    "target_box": [
+      115.0,
+      9.0,
+      357.0,
+      366.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      145.0,
+      43.0,
+      290.0,
+      127.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317374,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=umbrella",
+    "pair_id": "attr_140614",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140614",
+    "prompt": "the black umbrella",
+    "target_box": [
+      276.0,
+      19.0,
+      379.0,
+      93.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      276.0,
+      19.0,
+      379.0,
+      93.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317374,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=umbrella",
+    "pair_id": "attr_140614",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140615",
+    "prompt": "the red umbrella",
+    "target_box": [
+      145.0,
+      43.0,
+      290.0,
+      127.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      293.0,
+      81.0,
+      360.0,
+      122.0
+    ],
+    "has_distractor": true,
+    "image_id": 2416154,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=green, object=plate",
+    "pair_id": "attr_148743",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_148743",
+    "prompt": "the black plate",
+    "target_box": [
+      297.0,
+      227.0,
+      428.0,
+      319.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      351.0,
+      47.0,
+      403.0,
+      80.0
+    ],
+    "has_distractor": true,
+    "image_id": 2411056,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=box",
+    "pair_id": "attr_16803",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_16803",
+    "prompt": "the white box",
+    "target_box": [
+      1.0,
+      162.0,
+      443.0,
+      374.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      1.0,
+      162.0,
+      443.0,
+      374.0
+    ],
+    "has_distractor": true,
+    "image_id": 2411056,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=box",
+    "pair_id": "attr_16803",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_16804",
+    "prompt": "the black box",
+    "target_box": [
+      351.0,
+      47.0,
+      403.0,
+      80.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      363.0,
+      23.0,
+      422.0,
+      76.0
+    ],
+    "has_distractor": true,
+    "image_id": 2401816,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=helmet",
+    "pair_id": "attr_29511",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_29511",
+    "prompt": "the white helmet",
+    "target_box": [
+      154.0,
+      108.0,
+      210.0,
+      140.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      154.0,
+      108.0,
+      210.0,
+      140.0
+    ],
+    "has_distractor": true,
+    "image_id": 2401816,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=helmet",
+    "pair_id": "attr_29511",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_29512",
+    "prompt": "the red helmet",
+    "target_box": [
+      363.0,
+      23.0,
+      422.0,
+      76.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      226.0,
+      73.0,
+      331.0,
+      124.0
+    ],
+    "has_distractor": true,
+    "image_id": 2399054,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=fence",
+    "pair_id": "attr_33181",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_33181",
+    "prompt": "the black fence",
+    "target_box": [
+      355.0,
+      135.0,
+      500.0,
+      216.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      355.0,
+      135.0,
+      500.0,
+      216.0
+    ],
+    "has_distractor": true,
+    "image_id": 2399054,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=fence",
+    "pair_id": "attr_33181",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_33182",
+    "prompt": "the red fence",
+    "target_box": [
+      226.0,
+      73.0,
+      331.0,
+      124.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      430.0,
+      90.0,
+      494.0,
+      277.0
+    ],
+    "has_distractor": true,
+    "image_id": 2388375,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=door",
+    "pair_id": "attr_46004",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_46004",
+    "prompt": "the blue door",
+    "target_box": [
+      100.0,
+      104.0,
+      215.0,
+      254.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      100.0,
+      104.0,
+      215.0,
+      254.0
+    ],
+    "has_distractor": true,
+    "image_id": 2388375,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=door",
+    "pair_id": "attr_46004",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_46005",
+    "prompt": "the black door",
+    "target_box": [
+      430.0,
+      90.0,
+      494.0,
+      277.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      37.0,
+      171.0,
+      100.0,
+      226.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384989,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=bus",
+    "pair_id": "attr_50360",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_50360",
+    "prompt": "the blue bus",
+    "target_box": [
+      98.0,
+      85.0,
+      386.0,
+      264.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      312.0,
+      2.0,
+      493.0,
+      399.0
+    ],
+    "has_distractor": true,
+    "image_id": 3640,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=building",
+    "pair_id": "attr_5220",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_5220",
+    "prompt": "the red building",
+    "target_box": [
+      471.0,
+      9.0,
+      633.0,
+      390.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      348.0,
+      142.0,
+      386.0,
+      180.0
+    ],
+    "has_distractor": true,
+    "image_id": 2377683,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=ball",
+    "pair_id": "attr_59393",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_59393",
+    "prompt": "the red ball",
+    "target_box": [
+      223.0,
+      208.0,
+      270.0,
+      253.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      208.0,
+      282.0,
+      302.0,
+      338.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374176,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=plate",
+    "pair_id": "attr_63953",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_63953",
+    "prompt": "the black plate",
+    "target_box": [
+      0.0,
+      306.0,
+      91.0,
+      361.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      283.0,
+      131.0,
+      355.0,
+      210.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374136,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=shorts",
+    "pair_id": "attr_64050",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_64050",
+    "prompt": "the black shorts",
+    "target_box": [
+      146.0,
+      137.0,
+      208.0,
+      194.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      302.0,
+      248.0,
+      357.0,
+      299.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371825,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=black, object=shorts",
+    "pair_id": "attr_67055",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_67056",
+    "prompt": "the green shorts",
+    "target_box": [
+      156.0,
+      247.0,
+      216.0,
+      314.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      214.0,
+      406.0,
+      308.0,
+      541.0
+    ],
+    "has_distractor": true,
+    "image_id": 107936,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=sign",
+    "pair_id": "attr_7301",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_7302",
+    "prompt": "the red sign",
+    "target_box": [
+      719.0,
+      376.0,
+      907.0,
+      524.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      285.0,
+      676.0,
+      368.0,
+      776.0
+    ],
+    "has_distractor": true,
+    "image_id": 150347,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=cup",
+    "pair_id": "attr_7477",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_7477",
+    "prompt": "the blue cup",
+    "target_box": [
+      470.0,
+      867.0,
+      588.0,
+      1006.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      470.0,
+      867.0,
+      588.0,
+      1006.0
+    ],
+    "has_distractor": true,
+    "image_id": 150347,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=cup",
+    "pair_id": "attr_7477",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_7478",
+    "prompt": "the black cup",
+    "target_box": [
+      285.0,
+      676.0,
+      368.0,
+      776.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      378.0,
+      114.0,
+      427.0,
+      160.0
+    ],
+    "has_distractor": true,
+    "image_id": 2359633,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=car",
+    "pair_id": "attr_82945",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_82945",
+    "prompt": "the red car",
+    "target_box": [
+      397.0,
+      138.0,
+      483.0,
+      212.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      397.0,
+      138.0,
+      483.0,
+      212.0
+    ],
+    "has_distractor": true,
+    "image_id": 2359633,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=car",
+    "pair_id": "attr_82945",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_82946",
+    "prompt": "the white car",
+    "target_box": [
+      378.0,
+      114.0,
+      427.0,
+      160.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      139.0,
+      208.0,
+      237.0,
+      308.0
+    ],
+    "has_distractor": true,
+    "image_id": 2357417,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=shorts",
+    "pair_id": "attr_86158",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_86159",
+    "prompt": "the red shorts",
+    "target_box": [
+      250.0,
+      196.0,
+      303.0,
+      232.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      347.0,
+      640.0,
+      670.0,
+      850.0
+    ],
+    "has_distractor": true,
+    "image_id": 498122,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=bag",
+    "pair_id": "attr_9134",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_9135",
+    "prompt": "the black bag",
+    "target_box": [
+      153.0,
+      363.0,
+      456.0,
+      787.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      64.0,
+      250.0,
+      371.0,
+      344.0
+    ],
+    "has_distractor": true,
+    "image_id": 2353010,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=bowl",
+    "pair_id": "attr_92530",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_92530",
+    "prompt": "the blue bowl",
+    "target_box": [
+      385.0,
+      73.0,
+      462.0,
+      141.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      113.0,
+      108.0,
+      207.0,
+      265.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347539,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=blue, object=shirt",
+    "pair_id": "attr_99881",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_99881",
+    "prompt": "the green shirt",
+    "target_box": [
+      220.0,
+      60.0,
+      378.0,
+      278.0
+    ],
+    "target_mask": null
+  }
+]

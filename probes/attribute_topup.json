@@ -1,0 +1,2762 @@
+[
+  {
+    "distractor_box": [
+      262.0,
+      230.0,
+      297.0,
+      273.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347348,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=cup",
+    "pair_id": "attr_100115",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_100115",
+    "prompt": "the white cup",
+    "target_box": [
+      8.0,
+      283.0,
+      75.0,
+      371.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      8.0,
+      283.0,
+      75.0,
+      371.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347348,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=cup",
+    "pair_id": "attr_100115",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_100116",
+    "prompt": "the black cup",
+    "target_box": [
+      262.0,
+      230.0,
+      297.0,
+      273.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      93.0,
+      35.0,
+      148.0,
+      68.0
+    ],
+    "has_distractor": true,
+    "image_id": 2346141,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=sign",
+    "pair_id": "attr_101687",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_101687",
+    "prompt": "the red sign",
+    "target_box": [
+      288.0,
+      57.0,
+      354.0,
+      112.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      288.0,
+      57.0,
+      354.0,
+      112.0
+    ],
+    "has_distractor": true,
+    "image_id": 2346141,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=sign",
+    "pair_id": "attr_101687",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_101688",
+    "prompt": "the black sign",
+    "target_box": [
+      93.0,
+      35.0,
+      148.0,
+      68.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      87.0,
+      204.0,
+      127.0,
+      261.0
+    ],
+    "has_distractor": true,
+    "image_id": 2344603,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=shoe",
+    "pair_id": "attr_104497",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_104497",
+    "prompt": "the red shoe",
+    "target_box": [
+      148.0,
+      296.0,
+      186.0,
+      324.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      148.0,
+      296.0,
+      186.0,
+      324.0
+    ],
+    "has_distractor": true,
+    "image_id": 2344603,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=shoe",
+    "pair_id": "attr_104497",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_104498",
+    "prompt": "the black shoe",
+    "target_box": [
+      87.0,
+      204.0,
+      127.0,
+      261.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      99.0,
+      83.0,
+      161.0,
+      135.0
+    ],
+    "has_distractor": true,
+    "image_id": 2342950,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=helmet",
+    "pair_id": "attr_107029",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_107029",
+    "prompt": "the black helmet",
+    "target_box": [
+      189.0,
+      57.0,
+      229.0,
+      85.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      189.0,
+      57.0,
+      229.0,
+      85.0
+    ],
+    "has_distractor": true,
+    "image_id": 2342950,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=helmet",
+    "pair_id": "attr_107029",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_107030",
+    "prompt": "the blue helmet",
+    "target_box": [
+      99.0,
+      83.0,
+      161.0,
+      135.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      4.0,
+      182.0,
+      426.0,
+      206.0
+    ],
+    "has_distractor": true,
+    "image_id": 2337206,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=yellow, object=boat",
+    "pair_id": "attr_113952",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_113952",
+    "prompt": "the red boat",
+    "target_box": [
+      291.0,
+      154.0,
+      484.0,
+      174.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      291.0,
+      154.0,
+      484.0,
+      174.0
+    ],
+    "has_distractor": true,
+    "image_id": 2337206,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=red, object=boat",
+    "pair_id": "attr_113952",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_113953",
+    "prompt": "the yellow boat",
+    "target_box": [
+      4.0,
+      182.0,
+      426.0,
+      206.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      50.0,
+      68.0,
+      495.0,
+      344.0
+    ],
+    "has_distractor": true,
+    "image_id": 2337123,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=sign",
+    "pair_id": "attr_114035",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_114035",
+    "prompt": "the blue sign",
+    "target_box": [
+      385.0,
+      232.0,
+      448.0,
+      323.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      385.0,
+      232.0,
+      448.0,
+      323.0
+    ],
+    "has_distractor": true,
+    "image_id": 2337123,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=sign",
+    "pair_id": "attr_114035",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_114036",
+    "prompt": "the white sign",
+    "target_box": [
+      50.0,
+      68.0,
+      495.0,
+      344.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      387.0,
+      272.0,
+      416.0,
+      303.0
+    ],
+    "has_distractor": true,
+    "image_id": 2337096,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=shoe",
+    "pair_id": "attr_114075",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_114075",
+    "prompt": "the black shoe",
+    "target_box": [
+      122.0,
+      261.0,
+      188.0,
+      315.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      122.0,
+      261.0,
+      188.0,
+      315.0
+    ],
+    "has_distractor": true,
+    "image_id": 2337096,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=shoe",
+    "pair_id": "attr_114075",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_114076",
+    "prompt": "the white shoe",
+    "target_box": [
+      387.0,
+      272.0,
+      416.0,
+      303.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      137.0,
+      79.0,
+      239.0,
+      164.0
+    ],
+    "has_distractor": true,
+    "image_id": 2336566,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=hat",
+    "pair_id": "attr_114675",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_114675",
+    "prompt": "the white hat",
+    "target_box": [
+      90.0,
+      234.0,
+      119.0,
+      317.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      90.0,
+      234.0,
+      119.0,
+      317.0
+    ],
+    "has_distractor": true,
+    "image_id": 2336566,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=hat",
+    "pair_id": "attr_114675",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_114676",
+    "prompt": "the black hat",
+    "target_box": [
+      137.0,
+      79.0,
+      239.0,
+      164.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      210.0,
+      80.0,
+      337.0,
+      191.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335491,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=bowl",
+    "pair_id": "attr_116614",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_116614",
+    "prompt": "the black bowl",
+    "target_box": [
+      375.0,
+      156.0,
+      497.0,
+      301.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      375.0,
+      156.0,
+      497.0,
+      301.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335491,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=bowl",
+    "pair_id": "attr_116614",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_116615",
+    "prompt": "the white bowl",
+    "target_box": [
+      210.0,
+      80.0,
+      337.0,
+      191.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      702.0,
+      360.0,
+      788.0,
+      421.0
+    ],
+    "has_distractor": true,
+    "image_id": 1159790,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=bus",
+    "pair_id": "attr_12003",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_12003",
+    "prompt": "the blue bus",
+    "target_box": [
+      226.0,
+      108.0,
+      560.0,
+      633.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      226.0,
+      108.0,
+      560.0,
+      633.0
+    ],
+    "has_distractor": true,
+    "image_id": 1159790,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=bus",
+    "pair_id": "attr_12003",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_12004",
+    "prompt": "the white bus",
+    "target_box": [
+      702.0,
+      360.0,
+      788.0,
+      421.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      89.0,
+      92.0,
+      254.0,
+      253.0
+    ],
+    "has_distractor": true,
+    "image_id": 2332754,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=truck",
+    "pair_id": "attr_120315",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_120315",
+    "prompt": "the red truck",
+    "target_box": [
+      2.0,
+      212.0,
+      46.0,
+      282.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      2.0,
+      212.0,
+      46.0,
+      282.0
+    ],
+    "has_distractor": true,
+    "image_id": 2332754,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=truck",
+    "pair_id": "attr_120315",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_120316",
+    "prompt": "the black truck",
+    "target_box": [
+      89.0,
+      92.0,
+      254.0,
+      253.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      118.0,
+      165.0,
+      215.0,
+      247.0
+    ],
+    "has_distractor": true,
+    "image_id": 2331445,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=shorts",
+    "pair_id": "attr_121286",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_121286",
+    "prompt": "the white shorts",
+    "target_box": [
+      234.0,
+      187.0,
+      331.0,
+      248.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      234.0,
+      187.0,
+      331.0,
+      248.0
+    ],
+    "has_distractor": true,
+    "image_id": 2331445,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=shorts",
+    "pair_id": "attr_121286",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_121287",
+    "prompt": "the blue shorts",
+    "target_box": [
+      118.0,
+      165.0,
+      215.0,
+      247.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      243.0,
+      135.0,
+      298.0,
+      210.0
+    ],
+    "has_distractor": true,
+    "image_id": 2327454,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=truck",
+    "pair_id": "attr_125394",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_125394",
+    "prompt": "the white truck",
+    "target_box": [
+      122.0,
+      137.0,
+      252.0,
+      264.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      122.0,
+      137.0,
+      252.0,
+      264.0
+    ],
+    "has_distractor": true,
+    "image_id": 2327454,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=truck",
+    "pair_id": "attr_125394",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_125395",
+    "prompt": "the blue truck",
+    "target_box": [
+      243.0,
+      135.0,
+      298.0,
+      210.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      124.0,
+      128.0,
+      272.0,
+      228.0
+    ],
+    "has_distractor": true,
+    "image_id": 2326231,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=building",
+    "pair_id": "attr_126993",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_126993",
+    "prompt": "the white building",
+    "target_box": [
+      395.0,
+      29.0,
+      433.0,
+      99.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      395.0,
+      29.0,
+      433.0,
+      99.0
+    ],
+    "has_distractor": true,
+    "image_id": 2326231,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=building",
+    "pair_id": "attr_126993",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_126994",
+    "prompt": "the blue building",
+    "target_box": [
+      124.0,
+      128.0,
+      272.0,
+      228.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      158.0,
+      78.0,
+      306.0
+    ],
+    "has_distractor": true,
+    "image_id": 2323173,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=bag",
+    "pair_id": "attr_130918",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_130918",
+    "prompt": "the white bag",
+    "target_box": [
+      73.0,
+      275.0,
+      112.0,
+      325.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      73.0,
+      275.0,
+      112.0,
+      325.0
+    ],
+    "has_distractor": true,
+    "image_id": 2323173,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=bag",
+    "pair_id": "attr_130918",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_130919",
+    "prompt": "the black bag",
+    "target_box": [
+      0.0,
+      158.0,
+      78.0,
+      306.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      23.0,
+      81.0,
+      209.0,
+      328.0
+    ],
+    "has_distractor": true,
+    "image_id": 2321540,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=shirt",
+    "pair_id": "attr_132986",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_132986",
+    "prompt": "the white shirt",
+    "target_box": [
+      302.0,
+      126.0,
+      450.0,
+      325.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      302.0,
+      126.0,
+      450.0,
+      325.0
+    ],
+    "has_distractor": true,
+    "image_id": 2321540,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=shirt",
+    "pair_id": "attr_132986",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_132987",
+    "prompt": "the black shirt",
+    "target_box": [
+      23.0,
+      81.0,
+      209.0,
+      328.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      153.0,
+      42.0,
+      460.0,
+      303.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320432,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=green, object=truck",
+    "pair_id": "attr_135755",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135755",
+    "prompt": "the red truck",
+    "target_box": [
+      14.0,
+      70.0,
+      147.0,
+      204.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      14.0,
+      70.0,
+      147.0,
+      204.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320432,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=red, object=truck",
+    "pair_id": "attr_135755",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135756",
+    "prompt": "the green truck",
+    "target_box": [
+      153.0,
+      42.0,
+      460.0,
+      303.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      92.0,
+      20.0,
+      466.0,
+      288.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320432,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=green, object=truck",
+    "pair_id": "attr_135759",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135759",
+    "prompt": "the red truck",
+    "target_box": [
+      14.0,
+      70.0,
+      147.0,
+      204.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      14.0,
+      70.0,
+      147.0,
+      204.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320432,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=red, object=truck",
+    "pair_id": "attr_135759",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135760",
+    "prompt": "the green truck",
+    "target_box": [
+      92.0,
+      20.0,
+      466.0,
+      288.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      10.0,
+      90.0,
+      129.0,
+      174.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320432,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=red, object=truck",
+    "pair_id": "attr_135783",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135783",
+    "prompt": "the green truck",
+    "target_box": [
+      92.0,
+      20.0,
+      466.0,
+      288.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      92.0,
+      20.0,
+      466.0,
+      288.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320432,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=green, object=truck",
+    "pair_id": "attr_135783",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_135784",
+    "prompt": "the red truck",
+    "target_box": [
+      10.0,
+      90.0,
+      129.0,
+      174.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      40.0,
+      68.0,
+      62.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317914,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=white, object=surfboard",
+    "pair_id": "attr_139453",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_139453",
+    "prompt": "the orange surfboard",
+    "target_box": [
+      410.0,
+      2.0,
+      462.0,
+      330.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      410.0,
+      2.0,
+      462.0,
+      330.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317914,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=orange, object=surfboard",
+    "pair_id": "attr_139453",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_139454",
+    "prompt": "the white surfboard",
+    "target_box": [
+      40.0,
+      68.0,
+      62.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      139.0,
+      12.0,
+      359.0,
+      359.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317587,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=yellow, object=box",
+    "pair_id": "attr_140136",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140136",
+    "prompt": "the green box",
+    "target_box": [
+      353.0,
+      15.0,
+      470.0,
+      329.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      353.0,
+      15.0,
+      470.0,
+      329.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317587,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=green, object=box",
+    "pair_id": "attr_140136",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140137",
+    "prompt": "the yellow box",
+    "target_box": [
+      139.0,
+      12.0,
+      359.0,
+      359.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      350.0,
+      13.0,
+      488.0,
+      328.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317587,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=green, object=box",
+    "pair_id": "attr_140142",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140142",
+    "prompt": "the yellow box",
+    "target_box": [
+      115.0,
+      9.0,
+      357.0,
+      366.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      115.0,
+      9.0,
+      357.0,
+      366.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317587,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=yellow, object=box",
+    "pair_id": "attr_140142",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140143",
+    "prompt": "the green box",
+    "target_box": [
+      350.0,
+      13.0,
+      488.0,
+      328.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      145.0,
+      43.0,
+      290.0,
+      127.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317374,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=umbrella",
+    "pair_id": "attr_140614",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140614",
+    "prompt": "the black umbrella",
+    "target_box": [
+      276.0,
+      19.0,
+      379.0,
+      93.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      276.0,
+      19.0,
+      379.0,
+      93.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317374,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=umbrella",
+    "pair_id": "attr_140614",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_140615",
+    "prompt": "the red umbrella",
+    "target_box": [
+      145.0,
+      43.0,
+      290.0,
+      127.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      293.0,
+      81.0,
+      360.0,
+      122.0
+    ],
+    "has_distractor": true,
+    "image_id": 2416154,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=green, object=plate",
+    "pair_id": "attr_148743",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_148743",
+    "prompt": "the black plate",
+    "target_box": [
+      297.0,
+      227.0,
+      428.0,
+      319.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      297.0,
+      227.0,
+      428.0,
+      319.0
+    ],
+    "has_distractor": true,
+    "image_id": 2416154,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=black, object=plate",
+    "pair_id": "attr_148743",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_148744",
+    "prompt": "the green plate",
+    "target_box": [
+      293.0,
+      81.0,
+      360.0,
+      122.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      351.0,
+      47.0,
+      403.0,
+      80.0
+    ],
+    "has_distractor": true,
+    "image_id": 2411056,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=box",
+    "pair_id": "attr_16803",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_16803",
+    "prompt": "the white box",
+    "target_box": [
+      1.0,
+      162.0,
+      443.0,
+      374.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      1.0,
+      162.0,
+      443.0,
+      374.0
+    ],
+    "has_distractor": true,
+    "image_id": 2411056,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=box",
+    "pair_id": "attr_16803",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_16804",
+    "prompt": "the black box",
+    "target_box": [
+      351.0,
+      47.0,
+      403.0,
+      80.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      103.0,
+      411.0,
+      124.0,
+      453.0
+    ],
+    "has_distractor": true,
+    "image_id": 2408642,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=purple, object=towel",
+    "pair_id": "attr_19846",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_19846",
+    "prompt": "the white towel",
+    "target_box": [
+      211.0,
+      296.0,
+      241.0,
+      417.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      211.0,
+      296.0,
+      241.0,
+      417.0
+    ],
+    "has_distractor": true,
+    "image_id": 2408642,
+    "image_source": "visual_genome",
+    "notes": "color_a=purple, color_b=white, object=towel",
+    "pair_id": "attr_19846",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_19847",
+    "prompt": "the purple towel",
+    "target_box": [
+      103.0,
+      411.0,
+      124.0,
+      453.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      25.0,
+      90.0,
+      115.0,
+      156.0
+    ],
+    "has_distractor": true,
+    "image_id": 2402908,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=green, object=fence",
+    "pair_id": "attr_28388",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_28388",
+    "prompt": "the red fence",
+    "target_box": [
+      416.0,
+      216.0,
+      500.0,
+      260.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      416.0,
+      216.0,
+      500.0,
+      260.0
+    ],
+    "has_distractor": true,
+    "image_id": 2402908,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=red, object=fence",
+    "pair_id": "attr_28388",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_28389",
+    "prompt": "the green fence",
+    "target_box": [
+      25.0,
+      90.0,
+      115.0,
+      156.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      363.0,
+      23.0,
+      422.0,
+      76.0
+    ],
+    "has_distractor": true,
+    "image_id": 2401816,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=helmet",
+    "pair_id": "attr_29511",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_29511",
+    "prompt": "the white helmet",
+    "target_box": [
+      154.0,
+      108.0,
+      210.0,
+      140.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      154.0,
+      108.0,
+      210.0,
+      140.0
+    ],
+    "has_distractor": true,
+    "image_id": 2401816,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=helmet",
+    "pair_id": "attr_29511",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_29512",
+    "prompt": "the red helmet",
+    "target_box": [
+      363.0,
+      23.0,
+      422.0,
+      76.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      226.0,
+      73.0,
+      331.0,
+      124.0
+    ],
+    "has_distractor": true,
+    "image_id": 2399054,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=fence",
+    "pair_id": "attr_33181",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_33181",
+    "prompt": "the black fence",
+    "target_box": [
+      355.0,
+      135.0,
+      500.0,
+      216.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      355.0,
+      135.0,
+      500.0,
+      216.0
+    ],
+    "has_distractor": true,
+    "image_id": 2399054,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=fence",
+    "pair_id": "attr_33181",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_33182",
+    "prompt": "the red fence",
+    "target_box": [
+      226.0,
+      73.0,
+      331.0,
+      124.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      54.0,
+      463.0,
+      497.0,
+      532.0
+    ],
+    "has_distractor": true,
+    "image_id": 2992,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=red, object=fence",
+    "pair_id": "attr_3765",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_3765",
+    "prompt": "the black fence",
+    "target_box": [
+      691.0,
+      288.0,
+      797.0,
+      593.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      691.0,
+      288.0,
+      797.0,
+      593.0
+    ],
+    "has_distractor": true,
+    "image_id": 2992,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=black, object=fence",
+    "pair_id": "attr_3765",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_3766",
+    "prompt": "the red fence",
+    "target_box": [
+      54.0,
+      463.0,
+      497.0,
+      532.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      430.0,
+      90.0,
+      494.0,
+      277.0
+    ],
+    "has_distractor": true,
+    "image_id": 2388375,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=door",
+    "pair_id": "attr_46004",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_46004",
+    "prompt": "the blue door",
+    "target_box": [
+      100.0,
+      104.0,
+      215.0,
+      254.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      100.0,
+      104.0,
+      215.0,
+      254.0
+    ],
+    "has_distractor": true,
+    "image_id": 2388375,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=door",
+    "pair_id": "attr_46004",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_46005",
+    "prompt": "the black door",
+    "target_box": [
+      430.0,
+      90.0,
+      494.0,
+      277.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      290.0,
+      265.0,
+      367.0,
+      346.0
+    ],
+    "has_distractor": true,
+    "image_id": 2385447,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=shoe",
+    "pair_id": "attr_49607",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_49607",
+    "prompt": "the blue shoe",
+    "target_box": [
+      159.0,
+      407.0,
+      243.0,
+      455.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      159.0,
+      407.0,
+      243.0,
+      455.0
+    ],
+    "has_distractor": true,
+    "image_id": 2385447,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=shoe",
+    "pair_id": "attr_49607",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_49608",
+    "prompt": "the white shoe",
+    "target_box": [
+      290.0,
+      265.0,
+      367.0,
+      346.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      37.0,
+      171.0,
+      100.0,
+      226.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384989,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=bus",
+    "pair_id": "attr_50360",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_50360",
+    "prompt": "the blue bus",
+    "target_box": [
+      98.0,
+      85.0,
+      386.0,
+      264.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      98.0,
+      85.0,
+      386.0,
+      264.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384989,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=bus",
+    "pair_id": "attr_50360",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_50361",
+    "prompt": "the red bus",
+    "target_box": [
+      37.0,
+      171.0,
+      100.0,
+      226.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      312.0,
+      2.0,
+      493.0,
+      399.0
+    ],
+    "has_distractor": true,
+    "image_id": 3640,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=building",
+    "pair_id": "attr_5220",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_5220",
+    "prompt": "the red building",
+    "target_box": [
+      471.0,
+      9.0,
+      633.0,
+      390.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      471.0,
+      9.0,
+      633.0,
+      390.0
+    ],
+    "has_distractor": true,
+    "image_id": 3640,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=building",
+    "pair_id": "attr_5220",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_5221",
+    "prompt": "the white building",
+    "target_box": [
+      312.0,
+      2.0,
+      493.0,
+      399.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      358.0,
+      158.0,
+      406.0,
+      188.0
+    ],
+    "has_distractor": true,
+    "image_id": 2379657,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=helmet",
+    "pair_id": "attr_56729",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_56729",
+    "prompt": "the black helmet",
+    "target_box": [
+      198.0,
+      105.0,
+      244.0,
+      128.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      198.0,
+      105.0,
+      244.0,
+      128.0
+    ],
+    "has_distractor": true,
+    "image_id": 2379657,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=helmet",
+    "pair_id": "attr_56729",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_56730",
+    "prompt": "the blue helmet",
+    "target_box": [
+      358.0,
+      158.0,
+      406.0,
+      188.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      118.0,
+      34.0,
+      183.0,
+      146.0
+    ],
+    "has_distractor": true,
+    "image_id": 2379351,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=jacket",
+    "pair_id": "attr_57196",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_57196",
+    "prompt": "the blue jacket",
+    "target_box": [
+      250.0,
+      52.0,
+      387.0,
+      147.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      250.0,
+      52.0,
+      387.0,
+      147.0
+    ],
+    "has_distractor": true,
+    "image_id": 2379351,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=jacket",
+    "pair_id": "attr_57196",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_57197",
+    "prompt": "the black jacket",
+    "target_box": [
+      118.0,
+      34.0,
+      183.0,
+      146.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      86.0,
+      307.0,
+      103.0,
+      410.0
+    ],
+    "has_distractor": true,
+    "image_id": 3915,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=door",
+    "pair_id": "attr_5804",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_5804",
+    "prompt": "the red door",
+    "target_box": [
+      273.0,
+      303.0,
+      293.0,
+      388.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      273.0,
+      303.0,
+      293.0,
+      388.0
+    ],
+    "has_distractor": true,
+    "image_id": 3915,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=door",
+    "pair_id": "attr_5804",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_5805",
+    "prompt": "the white door",
+    "target_box": [
+      86.0,
+      307.0,
+      103.0,
+      410.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      23.0,
+      298.0,
+      63.0,
+      358.0
+    ],
+    "has_distractor": true,
+    "image_id": 2377759,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=shoe",
+    "pair_id": "attr_59270",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_59270",
+    "prompt": "the blue shoe",
+    "target_box": [
+      157.0,
+      266.0,
+      242.0,
+      317.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      157.0,
+      266.0,
+      242.0,
+      317.0
+    ],
+    "has_distractor": true,
+    "image_id": 2377759,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=shoe",
+    "pair_id": "attr_59270",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_59271",
+    "prompt": "the black shoe",
+    "target_box": [
+      23.0,
+      298.0,
+      63.0,
+      358.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      348.0,
+      142.0,
+      386.0,
+      180.0
+    ],
+    "has_distractor": true,
+    "image_id": 2377683,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=ball",
+    "pair_id": "attr_59393",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_59393",
+    "prompt": "the red ball",
+    "target_box": [
+      223.0,
+      208.0,
+      270.0,
+      253.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      223.0,
+      208.0,
+      270.0,
+      253.0
+    ],
+    "has_distractor": true,
+    "image_id": 2377683,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=ball",
+    "pair_id": "attr_59393",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_59394",
+    "prompt": "the blue ball",
+    "target_box": [
+      348.0,
+      142.0,
+      386.0,
+      180.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      589.0,
+      175.0,
+      645.0,
+      240.0
+    ],
+    "has_distractor": true,
+    "image_id": 4055,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=helmet",
+    "pair_id": "attr_5992",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_5992",
+    "prompt": "the black helmet",
+    "target_box": [
+      644.0,
+      91.0,
+      708.0,
+      162.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      644.0,
+      91.0,
+      708.0,
+      162.0
+    ],
+    "has_distractor": true,
+    "image_id": 4055,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=helmet",
+    "pair_id": "attr_5992",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_5993",
+    "prompt": "the blue helmet",
+    "target_box": [
+      589.0,
+      175.0,
+      645.0,
+      240.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      0.0,
+      381.0,
+      245.0
+    ],
+    "has_distractor": true,
+    "image_id": 2375643,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=pink, object=building",
+    "pair_id": "attr_62021",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_62021",
+    "prompt": "the white building",
+    "target_box": [
+      366.0,
+      131.0,
+      500.0,
+      254.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      366.0,
+      131.0,
+      500.0,
+      254.0
+    ],
+    "has_distractor": true,
+    "image_id": 2375643,
+    "image_source": "visual_genome",
+    "notes": "color_a=pink, color_b=white, object=building",
+    "pair_id": "attr_62021",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_62022",
+    "prompt": "the pink building",
+    "target_box": [
+      0.0,
+      0.0,
+      381.0,
+      245.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      177.0,
+      162.0,
+      419.0,
+      329.0
+    ],
+    "has_distractor": true,
+    "image_id": 2375472,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=white, object=surfboard",
+    "pair_id": "attr_62242",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_62242",
+    "prompt": "the orange surfboard",
+    "target_box": [
+      328.0,
+      135.0,
+      434.0,
+      192.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      328.0,
+      135.0,
+      434.0,
+      192.0
+    ],
+    "has_distractor": true,
+    "image_id": 2375472,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=orange, object=surfboard",
+    "pair_id": "attr_62242",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_62243",
+    "prompt": "the white surfboard",
+    "target_box": [
+      177.0,
+      162.0,
+      419.0,
+      329.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      319.0,
+      199.0,
+      399.0,
+      264.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374345,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=bag",
+    "pair_id": "attr_63718",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_63718",
+    "prompt": "the red bag",
+    "target_box": [
+      272.0,
+      171.0,
+      320.0,
+      202.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      272.0,
+      171.0,
+      320.0,
+      202.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374345,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=bag",
+    "pair_id": "attr_63718",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_63719",
+    "prompt": "the white bag",
+    "target_box": [
+      319.0,
+      199.0,
+      399.0,
+      264.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      208.0,
+      282.0,
+      302.0,
+      338.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374176,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=plate",
+    "pair_id": "attr_63953",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_63953",
+    "prompt": "the black plate",
+    "target_box": [
+      0.0,
+      306.0,
+      91.0,
+      361.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      306.0,
+      91.0,
+      361.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374176,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=plate",
+    "pair_id": "attr_63953",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_63954",
+    "prompt": "the white plate",
+    "target_box": [
+      208.0,
+      282.0,
+      302.0,
+      338.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      283.0,
+      131.0,
+      355.0,
+      210.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374136,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=shorts",
+    "pair_id": "attr_64050",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_64050",
+    "prompt": "the black shorts",
+    "target_box": [
+      146.0,
+      137.0,
+      208.0,
+      194.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      146.0,
+      137.0,
+      208.0,
+      194.0
+    ],
+    "has_distractor": true,
+    "image_id": 2374136,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=shorts",
+    "pair_id": "attr_64050",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_64051",
+    "prompt": "the blue shorts",
+    "target_box": [
+      283.0,
+      131.0,
+      355.0,
+      210.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      321.0,
+      266.0,
+      364.0,
+      295.0
+    ],
+    "has_distractor": true,
+    "image_id": 2373335,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=orange, object=towel",
+    "pair_id": "attr_65114",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_65114",
+    "prompt": "the white towel",
+    "target_box": [
+      175.0,
+      81.0,
+      197.0,
+      179.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      175.0,
+      81.0,
+      197.0,
+      179.0
+    ],
+    "has_distractor": true,
+    "image_id": 2373335,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=white, object=towel",
+    "pair_id": "attr_65114",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_65115",
+    "prompt": "the orange towel",
+    "target_box": [
+      321.0,
+      266.0,
+      364.0,
+      295.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      156.0,
+      247.0,
+      216.0,
+      314.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371825,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=green, object=shorts",
+    "pair_id": "attr_67055",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_67055",
+    "prompt": "the black shorts",
+    "target_box": [
+      302.0,
+      248.0,
+      357.0,
+      299.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      302.0,
+      248.0,
+      357.0,
+      299.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371825,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=black, object=shorts",
+    "pair_id": "attr_67055",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_67056",
+    "prompt": "the green shorts",
+    "target_box": [
+      156.0,
+      247.0,
+      216.0,
+      314.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      237.0,
+      146.0,
+      254.0,
+      211.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371506,
+    "image_source": "visual_genome",
+    "notes": "color_a=yellow, color_b=red, object=door",
+    "pair_id": "attr_67379",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_67379",
+    "prompt": "the yellow door",
+    "target_box": [
+      105.0,
+      137.0,
+      135.0,
+      201.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      105.0,
+      137.0,
+      135.0,
+      201.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371506,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=yellow, object=door",
+    "pair_id": "attr_67379",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_67380",
+    "prompt": "the red door",
+    "target_box": [
+      237.0,
+      146.0,
+      254.0,
+      211.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      719.0,
+      376.0,
+      907.0,
+      524.0
+    ],
+    "has_distractor": true,
+    "image_id": 107936,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=red, object=sign",
+    "pair_id": "attr_7301",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_7301",
+    "prompt": "the blue sign",
+    "target_box": [
+      214.0,
+      406.0,
+      308.0,
+      541.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      214.0,
+      406.0,
+      308.0,
+      541.0
+    ],
+    "has_distractor": true,
+    "image_id": 107936,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=blue, object=sign",
+    "pair_id": "attr_7301",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_7302",
+    "prompt": "the red sign",
+    "target_box": [
+      719.0,
+      376.0,
+      907.0,
+      524.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      285.0,
+      676.0,
+      368.0,
+      776.0
+    ],
+    "has_distractor": true,
+    "image_id": 150347,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=cup",
+    "pair_id": "attr_7477",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_7477",
+    "prompt": "the blue cup",
+    "target_box": [
+      470.0,
+      867.0,
+      588.0,
+      1006.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      470.0,
+      867.0,
+      588.0,
+      1006.0
+    ],
+    "has_distractor": true,
+    "image_id": 150347,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=cup",
+    "pair_id": "attr_7477",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_7478",
+    "prompt": "the black cup",
+    "target_box": [
+      285.0,
+      676.0,
+      368.0,
+      776.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      471.0,
+      244.0,
+      498.0,
+      283.0
+    ],
+    "has_distractor": true,
+    "image_id": 2364520,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=bus",
+    "pair_id": "attr_76751",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_76751",
+    "prompt": "the white bus",
+    "target_box": [
+      194.0,
+      73.0,
+      463.0,
+      347.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      194.0,
+      73.0,
+      463.0,
+      347.0
+    ],
+    "has_distractor": true,
+    "image_id": 2364520,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=bus",
+    "pair_id": "attr_76751",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_76752",
+    "prompt": "the blue bus",
+    "target_box": [
+      471.0,
+      244.0,
+      498.0,
+      283.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      73.0,
+      140.0,
+      246.0,
+      264.0
+    ],
+    "has_distractor": true,
+    "image_id": 2363338,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=orange, object=truck",
+    "pair_id": "attr_78187",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_78187",
+    "prompt": "the black truck",
+    "target_box": [
+      119.0,
+      196.0,
+      159.0,
+      233.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      119.0,
+      196.0,
+      159.0,
+      233.0
+    ],
+    "has_distractor": true,
+    "image_id": 2363338,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=black, object=truck",
+    "pair_id": "attr_78187",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_78188",
+    "prompt": "the orange truck",
+    "target_box": [
+      73.0,
+      140.0,
+      246.0,
+      264.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      28.0,
+      42.0,
+      59.0,
+      87.0
+    ],
+    "has_distractor": true,
+    "image_id": 2360965,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=cup",
+    "pair_id": "attr_81290",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_81290",
+    "prompt": "the red cup",
+    "target_box": [
+      279.0,
+      115.0,
+      357.0,
+      210.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      279.0,
+      115.0,
+      357.0,
+      210.0
+    ],
+    "has_distractor": true,
+    "image_id": 2360965,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=cup",
+    "pair_id": "attr_81290",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_81291",
+    "prompt": "the white cup",
+    "target_box": [
+      28.0,
+      42.0,
+      59.0,
+      87.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      58.0,
+      322.0,
+      199.0,
+      493.0
+    ],
+    "has_distractor": true,
+    "image_id": 2359882,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=blue, object=suitcase",
+    "pair_id": "attr_82683",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_82683",
+    "prompt": "the black suitcase",
+    "target_box": [
+      206.0,
+      282.0,
+      335.0,
+      456.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      206.0,
+      282.0,
+      335.0,
+      456.0
+    ],
+    "has_distractor": true,
+    "image_id": 2359882,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=black, object=suitcase",
+    "pair_id": "attr_82683",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_82684",
+    "prompt": "the blue suitcase",
+    "target_box": [
+      58.0,
+      322.0,
+      199.0,
+      493.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      378.0,
+      114.0,
+      427.0,
+      160.0
+    ],
+    "has_distractor": true,
+    "image_id": 2359633,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=car",
+    "pair_id": "attr_82945",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_82945",
+    "prompt": "the red car",
+    "target_box": [
+      397.0,
+      138.0,
+      483.0,
+      212.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      397.0,
+      138.0,
+      483.0,
+      212.0
+    ],
+    "has_distractor": true,
+    "image_id": 2359633,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=car",
+    "pair_id": "attr_82945",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_82946",
+    "prompt": "the white car",
+    "target_box": [
+      378.0,
+      114.0,
+      427.0,
+      160.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      341.0,
+      72.0,
+      370.0,
+      123.0
+    ],
+    "has_distractor": true,
+    "image_id": 2358095,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=orange, object=hat",
+    "pair_id": "attr_85063",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_85063",
+    "prompt": "the white hat",
+    "target_box": [
+      12.0,
+      87.0,
+      77.0,
+      128.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      12.0,
+      87.0,
+      77.0,
+      128.0
+    ],
+    "has_distractor": true,
+    "image_id": 2358095,
+    "image_source": "visual_genome",
+    "notes": "color_a=orange, color_b=white, object=hat",
+    "pair_id": "attr_85063",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_85064",
+    "prompt": "the orange hat",
+    "target_box": [
+      341.0,
+      72.0,
+      370.0,
+      123.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      250.0,
+      196.0,
+      303.0,
+      232.0
+    ],
+    "has_distractor": true,
+    "image_id": 2357417,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=red, object=shorts",
+    "pair_id": "attr_86158",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_86158",
+    "prompt": "the white shorts",
+    "target_box": [
+      139.0,
+      208.0,
+      237.0,
+      308.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      139.0,
+      208.0,
+      237.0,
+      308.0
+    ],
+    "has_distractor": true,
+    "image_id": 2357417,
+    "image_source": "visual_genome",
+    "notes": "color_a=red, color_b=white, object=shorts",
+    "pair_id": "attr_86158",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_86159",
+    "prompt": "the red shorts",
+    "target_box": [
+      250.0,
+      196.0,
+      303.0,
+      232.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      153.0,
+      363.0,
+      456.0,
+      787.0
+    ],
+    "has_distractor": true,
+    "image_id": 498122,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=black, object=bag",
+    "pair_id": "attr_9134",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_9134",
+    "prompt": "the white bag",
+    "target_box": [
+      347.0,
+      640.0,
+      670.0,
+      850.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      347.0,
+      640.0,
+      670.0,
+      850.0
+    ],
+    "has_distractor": true,
+    "image_id": 498122,
+    "image_source": "visual_genome",
+    "notes": "color_a=black, color_b=white, object=bag",
+    "pair_id": "attr_9134",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_9135",
+    "prompt": "the black bag",
+    "target_box": [
+      153.0,
+      363.0,
+      456.0,
+      787.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      64.0,
+      250.0,
+      371.0,
+      344.0
+    ],
+    "has_distractor": true,
+    "image_id": 2353010,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=white, object=bowl",
+    "pair_id": "attr_92530",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_92530",
+    "prompt": "the blue bowl",
+    "target_box": [
+      385.0,
+      73.0,
+      462.0,
+      141.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      385.0,
+      73.0,
+      462.0,
+      141.0
+    ],
+    "has_distractor": true,
+    "image_id": 2353010,
+    "image_source": "visual_genome",
+    "notes": "color_a=white, color_b=blue, object=bowl",
+    "pair_id": "attr_92530",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_92531",
+    "prompt": "the white bowl",
+    "target_box": [
+      64.0,
+      250.0,
+      371.0,
+      344.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      113.0,
+      108.0,
+      207.0,
+      265.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347539,
+    "image_source": "visual_genome",
+    "notes": "color_a=green, color_b=blue, object=shirt",
+    "pair_id": "attr_99881",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_99881",
+    "prompt": "the green shirt",
+    "target_box": [
+      220.0,
+      60.0,
+      378.0,
+      278.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      220.0,
+      60.0,
+      378.0,
+      278.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347539,
+    "image_source": "visual_genome",
+    "notes": "color_a=blue, color_b=green, object=shirt",
+    "pair_id": "attr_99881",
+    "phenomenon": "attribute_color",
+    "probe_id": "attribute_99882",
+    "prompt": "the blue shirt",
+    "target_box": [
+      113.0,
+      108.0,
+      207.0,
+      265.0
+    ],
+    "target_mask": null
+  }
+]

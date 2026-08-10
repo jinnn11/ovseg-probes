@@ -1,0 +1,191 @@
+{"probe_id": "attribute_10360", "decision": "reject", "timestamp": "2026-08-10T16:36:31", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "attribute_114118", "decision": "keep", "timestamp": "2026-08-10T16:36:34", "source_file": "reverify"}
+{"probe_id": "attribute_117588", "decision": "keep", "timestamp": "2026-08-10T16:36:47", "source_file": "reverify"}
+{"probe_id": "attribute_136305", "decision": "keep", "timestamp": "2026-08-10T16:36:51", "source_file": "reverify"}
+{"probe_id": "attribute_137099", "decision": "keep", "timestamp": "2026-08-10T16:36:53", "source_file": "reverify"}
+{"probe_id": "attribute_31300", "decision": "keep", "timestamp": "2026-08-10T16:36:54", "source_file": "reverify"}
+{"probe_id": "attribute_44177", "decision": "keep", "timestamp": "2026-08-10T16:36:56", "source_file": "reverify"}
+{"probe_id": "attribute_77204", "decision": "keep", "timestamp": "2026-08-10T16:37:05", "source_file": "reverify"}
+{"probe_id": "attribute_80123", "decision": "reject", "timestamp": "2026-08-10T16:37:16", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "attribute_8035", "decision": "reject", "timestamp": "2026-08-10T16:37:23", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "attribute_83199", "decision": "reject", "timestamp": "2026-08-10T16:37:33", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "finegrained_1224", "decision": "keep", "timestamp": "2026-08-10T16:37:34", "source_file": "reverify"}
+{"probe_id": "finegrained_1480", "decision": "keep", "timestamp": "2026-08-10T16:37:36", "source_file": "reverify"}
+{"probe_id": "finegrained_2201", "decision": "keep", "timestamp": "2026-08-10T16:37:37", "source_file": "reverify"}
+{"probe_id": "finegrained_2217", "decision": "keep", "timestamp": "2026-08-10T16:37:39", "source_file": "reverify"}
+{"probe_id": "finegrained_2489", "decision": "keep", "timestamp": "2026-08-10T16:37:40", "source_file": "reverify"}
+{"probe_id": "finegrained_3634", "decision": "keep", "timestamp": "2026-08-10T16:37:41", "source_file": "reverify"}
+{"probe_id": "finegrained_5034", "decision": "keep", "timestamp": "2026-08-10T16:37:43", "source_file": "reverify"}
+{"probe_id": "finegrained_7214", "decision": "keep", "timestamp": "2026-08-10T16:37:44", "source_file": "reverify"}
+{"probe_id": "finegrained_7645", "decision": "reject", "timestamp": "2026-08-10T16:38:00", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "finegrained_8253", "decision": "keep", "timestamp": "2026-08-10T16:38:02", "source_file": "reverify"}
+{"probe_id": "finegrained_8284", "decision": "keep", "timestamp": "2026-08-10T16:38:03", "source_file": "reverify"}
+{"probe_id": "negation_103668", "decision": "keep", "timestamp": "2026-08-10T16:38:06", "source_file": "reverify"}
+{"probe_id": "negation_108970", "decision": "keep", "timestamp": "2026-08-10T16:38:07", "source_file": "reverify"}
+{"probe_id": "negation_115531", "decision": "reject", "timestamp": "2026-08-10T16:38:11", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "negation_115545", "decision": "reject", "timestamp": "2026-08-10T16:38:15", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "negation_117703", "decision": "keep", "timestamp": "2026-08-10T16:38:17", "source_file": "reverify"}
+{"probe_id": "negation_125709", "decision": "keep", "timestamp": "2026-08-10T16:38:19", "source_file": "reverify"}
+{"probe_id": "negation_20819", "decision": "keep", "timestamp": "2026-08-10T16:38:21", "source_file": "reverify"}
+{"probe_id": "negation_3050", "decision": "reject", "timestamp": "2026-08-10T16:38:24", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "negation_6442", "decision": "keep", "timestamp": "2026-08-10T16:38:27", "source_file": "reverify"}
+{"probe_id": "negation_83054", "decision": "keep", "timestamp": "2026-08-10T16:38:31", "source_file": "reverify"}
+{"probe_id": "negation_93055", "decision": "reject", "timestamp": "2026-08-10T16:38:36", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "spatial_0742", "decision": "keep", "timestamp": "2026-08-10T16:38:41", "source_file": "reverify"}
+{"probe_id": "spatial_0939", "decision": "keep", "timestamp": "2026-08-10T16:38:44", "source_file": "reverify"}
+{"probe_id": "spatial_0999", "decision": "keep", "timestamp": "2026-08-10T16:38:51", "source_file": "reverify"}
+{"probe_id": "spatial_1157", "decision": "keep", "timestamp": "2026-08-10T16:39:11", "source_file": "reverify"}
+{"probe_id": "spatial_1244", "decision": "keep", "timestamp": "2026-08-10T16:39:13", "source_file": "reverify"}
+{"probe_id": "spatial_1269", "decision": "keep", "timestamp": "2026-08-10T16:39:15", "source_file": "reverify"}
+{"probe_id": "spatial_1445", "decision": "keep", "timestamp": "2026-08-10T16:39:20", "source_file": "reverify"}
+{"probe_id": "attribute_0490", "decision": "keep", "timestamp": "2026-08-10T16:39:23", "source_file": "reverify"}
+{"probe_id": "attribute_0985", "decision": "keep", "timestamp": "2026-08-10T16:39:29", "source_file": "reverify"}
+{"probe_id": "attribute_10262", "decision": "keep", "timestamp": "2026-08-10T16:39:37", "source_file": "reverify"}
+{"probe_id": "attribute_103686", "decision": "reject", "timestamp": "2026-08-10T16:39:41", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "attribute_104498", "decision": "reject", "timestamp": "2026-08-10T16:39:44", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "attribute_106119", "decision": "reject", "timestamp": "2026-08-10T16:39:51", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_107042", "decision": "keep", "timestamp": "2026-08-10T16:39:54", "source_file": "reverify"}
+{"probe_id": "attribute_110955", "decision": "reject", "timestamp": "2026-08-10T16:39:59", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_111199", "decision": "keep", "timestamp": "2026-08-10T16:40:03", "source_file": "reverify"}
+{"probe_id": "attribute_114919", "decision": "reject", "timestamp": "2026-08-10T16:40:07", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_115535", "decision": "reject", "timestamp": "2026-08-10T16:40:09", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_11826", "decision": "keep", "timestamp": "2026-08-10T16:40:11", "source_file": "reverify"}
+{"probe_id": "attribute_11962", "decision": "reject", "timestamp": "2026-08-10T16:40:18", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "attribute_119744", "decision": "reject", "timestamp": "2026-08-10T16:40:27", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_122661", "decision": "reject", "timestamp": "2026-08-10T16:40:32", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_12287", "decision": "keep", "timestamp": "2026-08-10T16:40:51", "source_file": "reverify"}
+{"probe_id": "attribute_125661", "decision": "reject", "timestamp": "2026-08-10T16:40:57", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "attribute_126994", "decision": "keep", "timestamp": "2026-08-10T16:41:00", "source_file": "reverify"}
+{"probe_id": "attribute_128604", "decision": "keep", "timestamp": "2026-08-10T16:41:06", "source_file": "reverify"}
+{"probe_id": "attribute_13214", "decision": "keep", "timestamp": "2026-08-10T16:41:09", "source_file": "reverify"}
+{"probe_id": "attribute_132986", "decision": "keep", "timestamp": "2026-08-10T16:41:13", "source_file": "reverify"}
+{"probe_id": "attribute_135779", "decision": "keep", "timestamp": "2026-08-10T16:41:15", "source_file": "reverify"}
+{"probe_id": "attribute_136202", "decision": "keep", "timestamp": "2026-08-10T16:41:23", "source_file": "reverify"}
+{"probe_id": "attribute_137117", "decision": "reject", "timestamp": "2026-08-10T16:41:28", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_138166", "decision": "reject", "timestamp": "2026-08-10T16:41:34", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "attribute_140526", "decision": "keep", "timestamp": "2026-08-10T16:41:39", "source_file": "reverify"}
+{"probe_id": "attribute_141619", "decision": "reject", "timestamp": "2026-08-10T16:41:44", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_141826", "decision": "keep", "timestamp": "2026-08-10T16:41:48", "source_file": "reverify"}
+{"probe_id": "attribute_148518", "decision": "keep", "timestamp": "2026-08-10T16:41:50", "source_file": "reverify"}
+{"probe_id": "attribute_16804", "decision": "keep", "timestamp": "2026-08-10T16:41:54", "source_file": "reverify"}
+{"probe_id": "attribute_18247", "decision": "keep", "timestamp": "2026-08-10T16:42:09", "source_file": "reverify"}
+{"probe_id": "attribute_23567", "decision": "reject", "timestamp": "2026-08-10T16:42:18", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_28146", "decision": "keep", "timestamp": "2026-08-10T16:42:22", "source_file": "reverify"}
+{"probe_id": "attribute_29512", "decision": "keep", "timestamp": "2026-08-10T16:42:25", "source_file": "reverify"}
+{"probe_id": "attribute_34933", "decision": "reject", "timestamp": "2026-08-10T16:42:39", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_4206", "decision": "keep", "timestamp": "2026-08-10T16:42:43", "source_file": "reverify"}
+{"probe_id": "attribute_4963", "decision": "keep", "timestamp": "2026-08-10T16:42:45", "source_file": "reverify"}
+{"probe_id": "attribute_51121", "decision": "keep", "timestamp": "2026-08-10T16:42:48", "source_file": "reverify"}
+{"probe_id": "attribute_5804", "decision": "keep", "timestamp": "2026-08-10T16:42:52", "source_file": "reverify"}
+{"probe_id": "attribute_64577", "decision": "keep", "timestamp": "2026-08-10T16:42:56", "source_file": "reverify"}
+{"probe_id": "attribute_67054", "decision": "keep", "timestamp": "2026-08-10T16:42:59", "source_file": "reverify"}
+{"probe_id": "attribute_7302", "decision": "keep", "timestamp": "2026-08-10T16:43:01", "source_file": "reverify"}
+{"probe_id": "attribute_81609", "decision": "keep", "timestamp": "2026-08-10T16:43:08", "source_file": "reverify"}
+{"probe_id": "attribute_82684", "decision": "reject", "timestamp": "2026-08-10T16:43:13", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_85014", "decision": "reject", "timestamp": "2026-08-10T16:43:19", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "attribute_92531", "decision": "reject", "timestamp": "2026-08-10T16:43:24", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "attribute_95979", "decision": "reject", "timestamp": "2026-08-10T16:43:27", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "finegrained_0294", "decision": "keep", "timestamp": "2026-08-10T16:43:58", "source_file": "reverify"}
+{"probe_id": "finegrained_1225", "decision": "reject", "timestamp": "2026-08-10T16:44:04", "source_file": "reverify", "reason": "weak-distractor"}
+{"probe_id": "finegrained_2258", "decision": "keep", "timestamp": "2026-08-10T16:44:07", "source_file": "reverify"}
+{"probe_id": "finegrained_2262", "decision": "keep", "timestamp": "2026-08-10T16:44:08", "source_file": "reverify"}
+{"probe_id": "finegrained_2315", "decision": "keep", "timestamp": "2026-08-10T16:44:13", "source_file": "reverify"}
+{"probe_id": "finegrained_2690", "decision": "keep", "timestamp": "2026-08-10T16:44:14", "source_file": "reverify"}
+{"probe_id": "finegrained_2951", "decision": "keep", "timestamp": "2026-08-10T16:44:26", "source_file": "reverify"}
+{"probe_id": "finegrained_3351", "decision": "keep", "timestamp": "2026-08-10T16:44:27", "source_file": "reverify"}
+{"probe_id": "finegrained_4219", "decision": "keep", "timestamp": "2026-08-10T16:44:30", "source_file": "reverify"}
+{"probe_id": "finegrained_4887", "decision": "keep", "timestamp": "2026-08-10T16:44:33", "source_file": "reverify"}
+{"probe_id": "finegrained_5046", "decision": "keep", "timestamp": "2026-08-10T16:44:34", "source_file": "reverify"}
+{"probe_id": "finegrained_5055", "decision": "keep", "timestamp": "2026-08-10T16:44:37", "source_file": "reverify"}
+{"probe_id": "finegrained_5584", "decision": "reject", "timestamp": "2026-08-10T16:44:47", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "finegrained_5849", "decision": "keep", "timestamp": "2026-08-10T16:44:52", "source_file": "reverify"}
+{"probe_id": "finegrained_6779", "decision": "reject", "timestamp": "2026-08-10T16:45:02", "source_file": "reverify", "reason": "weak-distractor"}
+{"probe_id": "finegrained_7039", "decision": "reject", "timestamp": "2026-08-10T16:45:04", "source_file": "reverify", "reason": "weak-distractor"}
+{"probe_id": "finegrained_7108", "decision": "keep", "timestamp": "2026-08-10T16:45:06", "source_file": "reverify"}
+{"probe_id": "finegrained_7913", "decision": "reject", "timestamp": "2026-08-10T16:45:08", "source_file": "reverify", "reason": "weak-distractor"}
+{"probe_id": "negation_0419", "decision": "keep", "timestamp": "2026-08-10T16:45:18", "source_file": "reverify"}
+{"probe_id": "negation_102263", "decision": "reject", "timestamp": "2026-08-10T16:45:26", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "negation_102298", "decision": "reject", "timestamp": "2026-08-10T16:45:29", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "negation_11163", "decision": "keep", "timestamp": "2026-08-10T16:45:36", "source_file": "reverify"}
+{"probe_id": "negation_125324", "decision": "reject", "timestamp": "2026-08-10T16:45:42", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "negation_127786", "decision": "reject", "timestamp": "2026-08-10T16:45:45", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "negation_130234", "decision": "keep", "timestamp": "2026-08-10T16:45:50", "source_file": "reverify"}
+{"probe_id": "negation_130275", "decision": "reject", "timestamp": "2026-08-10T16:45:52", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "negation_131755", "decision": "reject", "timestamp": "2026-08-10T16:45:55", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "negation_132257", "decision": "reject", "timestamp": "2026-08-10T16:45:57", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "negation_136745", "decision": "reject", "timestamp": "2026-08-10T16:46:07", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "negation_140700", "decision": "reject", "timestamp": "2026-08-10T16:46:14", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_145714", "decision": "keep", "timestamp": "2026-08-10T16:46:20", "source_file": "reverify"}
+{"probe_id": "negation_145715", "decision": "keep", "timestamp": "2026-08-10T16:46:22", "source_file": "reverify"}
+{"probe_id": "negation_147812", "decision": "reject", "timestamp": "2026-08-10T16:46:30", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_152744", "decision": "reject", "timestamp": "2026-08-10T16:46:41", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_152996", "decision": "keep", "timestamp": "2026-08-10T16:46:48", "source_file": "reverify"}
+{"probe_id": "negation_156312", "decision": "reject", "timestamp": "2026-08-10T16:46:56", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "negation_159154", "decision": "reject", "timestamp": "2026-08-10T16:47:04", "source_file": "reverify", "reason": "weak-distractor"}
+{"probe_id": "negation_16290", "decision": "reject", "timestamp": "2026-08-10T16:47:10", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "negation_16291", "decision": "reject", "timestamp": "2026-08-10T16:47:12", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "negation_17386", "decision": "reject", "timestamp": "2026-08-10T16:47:21", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "negation_19973", "decision": "keep", "timestamp": "2026-08-10T16:47:30", "source_file": "reverify"}
+{"probe_id": "negation_28402", "decision": "keep", "timestamp": "2026-08-10T16:47:36", "source_file": "reverify"}
+{"probe_id": "negation_29946", "decision": "reject", "timestamp": "2026-08-10T16:47:49", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_31109", "decision": "reject", "timestamp": "2026-08-10T16:47:54", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_31541", "decision": "reject", "timestamp": "2026-08-10T16:47:58", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_35686", "decision": "reject", "timestamp": "2026-08-10T16:48:02", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_35687", "decision": "reject", "timestamp": "2026-08-10T16:48:06", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_39619", "decision": "keep", "timestamp": "2026-08-10T16:48:09", "source_file": "reverify"}
+{"probe_id": "negation_44853", "decision": "keep", "timestamp": "2026-08-10T16:48:13", "source_file": "reverify"}
+{"probe_id": "negation_45343", "decision": "keep", "timestamp": "2026-08-10T16:48:17", "source_file": "reverify"}
+{"probe_id": "negation_50150", "decision": "keep", "timestamp": "2026-08-10T16:48:23", "source_file": "reverify"}
+{"probe_id": "negation_54701", "decision": "reject", "timestamp": "2026-08-10T16:48:29", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_5948", "decision": "keep", "timestamp": "2026-08-10T16:48:32", "source_file": "reverify"}
+{"probe_id": "negation_60698", "decision": "reject", "timestamp": "2026-08-10T16:48:37", "source_file": "reverify", "reason": "weak-distractor"}
+{"probe_id": "negation_62121", "decision": "keep", "timestamp": "2026-08-10T16:48:45", "source_file": "reverify"}
+{"probe_id": "negation_63204", "decision": "reject", "timestamp": "2026-08-10T16:48:50", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "negation_65356", "decision": "keep", "timestamp": "2026-08-10T16:48:59", "source_file": "reverify"}
+{"probe_id": "negation_65357", "decision": "keep", "timestamp": "2026-08-10T16:49:02", "source_file": "reverify"}
+{"probe_id": "negation_70370", "decision": "reject", "timestamp": "2026-08-10T16:49:10", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_71335", "decision": "reject", "timestamp": "2026-08-10T16:49:17", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "negation_75393", "decision": "keep", "timestamp": "2026-08-10T16:49:20", "source_file": "reverify"}
+{"probe_id": "negation_82329", "decision": "keep", "timestamp": "2026-08-10T16:49:24", "source_file": "reverify"}
+{"probe_id": "negation_82330", "decision": "keep", "timestamp": "2026-08-10T16:49:27", "source_file": "reverify"}
+{"probe_id": "negation_8947", "decision": "reject", "timestamp": "2026-08-10T16:49:36", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "negation_98504", "decision": "reject", "timestamp": "2026-08-10T16:49:42", "source_file": "reverify", "reason": "weak-distractor"}
+{"probe_id": "spatial_0031", "decision": "keep", "timestamp": "2026-08-10T16:49:44", "source_file": "reverify"}
+{"probe_id": "spatial_0080", "decision": "keep", "timestamp": "2026-08-10T16:49:48", "source_file": "reverify"}
+{"probe_id": "spatial_0177", "decision": "reject", "timestamp": "2026-08-10T16:49:55", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "spatial_0187", "decision": "reject", "timestamp": "2026-08-10T16:50:07", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "spatial_0192", "decision": "reject", "timestamp": "2026-08-10T16:50:15", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "spatial_0198", "decision": "keep", "timestamp": "2026-08-10T16:50:20", "source_file": "reverify"}
+{"probe_id": "spatial_0204", "decision": "reject", "timestamp": "2026-08-10T16:50:25", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "spatial_0279", "decision": "reject", "timestamp": "2026-08-10T16:50:30", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "spatial_0484", "decision": "reject", "timestamp": "2026-08-10T16:50:35", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "spatial_0488", "decision": "keep", "timestamp": "2026-08-10T16:50:45", "source_file": "reverify"}
+{"probe_id": "spatial_0512", "decision": "reject", "timestamp": "2026-08-10T16:50:54", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "spatial_0621", "decision": "keep", "timestamp": "2026-08-10T16:50:56", "source_file": "reverify"}
+{"probe_id": "spatial_0671", "decision": "keep", "timestamp": "2026-08-10T16:50:59", "source_file": "reverify"}
+{"probe_id": "spatial_0672", "decision": "keep", "timestamp": "2026-08-10T16:51:06", "source_file": "reverify"}
+{"probe_id": "spatial_0774", "decision": "reject", "timestamp": "2026-08-10T16:51:09", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "spatial_1002", "decision": "keep", "timestamp": "2026-08-10T16:51:21", "source_file": "reverify"}
+{"probe_id": "spatial_1025", "decision": "keep", "timestamp": "2026-08-10T16:51:26", "source_file": "reverify"}
+{"probe_id": "spatial_1042", "decision": "keep", "timestamp": "2026-08-10T16:51:31", "source_file": "reverify"}
+{"probe_id": "spatial_1288", "decision": "reject", "timestamp": "2026-08-10T16:51:36", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "spatial_1372", "decision": "reject", "timestamp": "2026-08-10T16:51:41", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "spatial_1380", "decision": "keep", "timestamp": "2026-08-10T16:51:44", "source_file": "reverify"}
+{"probe_id": "spatial_1411", "decision": "reject", "timestamp": "2026-08-10T16:51:53", "source_file": "reverify", "reason": "ambiguous"}
+{"probe_id": "spatial_1517", "decision": "keep", "timestamp": "2026-08-10T16:51:59", "source_file": "reverify"}
+{"probe_id": "spatial_1581", "decision": "reject", "timestamp": "2026-08-10T16:52:05", "source_file": "reverify", "reason": "weak-distractor"}
+{"probe_id": "spatial_1754", "decision": "reject", "timestamp": "2026-08-10T16:52:12", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "spatial_1805", "decision": "reject", "timestamp": "2026-08-10T16:52:17", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "spatial_1826", "decision": "keep", "timestamp": "2026-08-10T16:52:20", "source_file": "reverify"}
+{"probe_id": "spatial_1861", "decision": "keep", "timestamp": "2026-08-10T16:52:27", "source_file": "reverify"}
+{"probe_id": "spatial_1901", "decision": "reject", "timestamp": "2026-08-10T16:52:30", "source_file": "reverify", "reason": "occluded-tiny"}
+{"probe_id": "spatial_1919", "decision": "keep", "timestamp": "2026-08-10T16:52:33", "source_file": "reverify"}
+{"probe_id": "spatial_1956", "decision": "keep", "timestamp": "2026-08-10T16:52:36", "source_file": "reverify"}
+{"probe_id": "spatial_1965", "decision": "keep", "timestamp": "2026-08-10T16:52:51", "source_file": "reverify"}
+{"probe_id": "spatial_1995", "decision": "reject", "timestamp": "2026-08-10T16:53:02", "source_file": "reverify", "reason": "wrong-ground-truth"}
+{"probe_id": "spatial_2043", "decision": "keep", "timestamp": "2026-08-10T16:53:05", "source_file": "reverify"}
+{"probe_id": "spatial_2044", "decision": "keep", "timestamp": "2026-08-10T16:53:06", "source_file": "reverify"}
+{"probe_id": "spatial_2059", "decision": "keep", "timestamp": "2026-08-10T16:53:08", "source_file": "reverify"}
+{"probe_id": "spatial_2084", "decision": "keep", "timestamp": "2026-08-10T16:53:11", "source_file": "reverify"}
+{"probe_id": "spatial_2121", "decision": "keep", "timestamp": "2026-08-10T16:53:14", "source_file": "reverify"}
+{"probe_id": "spatial_2132", "decision": "reject", "timestamp": "2026-08-10T16:53:18", "source_file": "reverify", "reason": "wrong-ground-truth"}

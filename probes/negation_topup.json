@@ -1,0 +1,3452 @@
+[
+  {
+    "distractor_box": [
+      58.0,
+      345.0,
+      256.0,
+      609.0
+    ],
+    "has_distractor": true,
+    "image_id": 1592314,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_8806",
+    "phenomenon": "negation",
+    "probe_id": "negation_8806",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      499.0,
+      72.0,
+      849.0,
+      764.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      499.0,
+      72.0,
+      849.0,
+      764.0
+    ],
+    "has_distractor": true,
+    "image_id": 1592314,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_8806",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_8807",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      58.0,
+      345.0,
+      256.0,
+      609.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      557.0,
+      272.0,
+      1024.0,
+      956.0
+    ],
+    "has_distractor": true,
+    "image_id": 1592797,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_9614",
+    "phenomenon": "negation",
+    "probe_id": "negation_9614",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      2.0,
+      328.0,
+      105.0,
+      956.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      2.0,
+      328.0,
+      105.0,
+      956.0
+    ],
+    "has_distractor": true,
+    "image_id": 1592797,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_9614",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_9615",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      557.0,
+      272.0,
+      1024.0,
+      956.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      265.0,
+      100.0,
+      355.0,
+      209.0
+    ],
+    "has_distractor": true,
+    "image_id": 2412545,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_11162",
+    "phenomenon": "negation",
+    "probe_id": "negation_11162",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      389.0,
+      100.0,
+      437.0,
+      223.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      389.0,
+      100.0,
+      437.0,
+      223.0
+    ],
+    "has_distractor": true,
+    "image_id": 2412545,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_11162",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_11163",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      265.0,
+      100.0,
+      355.0,
+      209.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      136.0,
+      148.0,
+      281.0,
+      485.0
+    ],
+    "has_distractor": true,
+    "image_id": 2410521,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_13099",
+    "phenomenon": "negation",
+    "probe_id": "negation_13099",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      25.0,
+      135.0,
+      65.0,
+      244.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      25.0,
+      135.0,
+      65.0,
+      244.0
+    ],
+    "has_distractor": true,
+    "image_id": 2410521,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_13099",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_13100",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      136.0,
+      148.0,
+      281.0,
+      485.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      66.0,
+      163.0,
+      177.0,
+      312.0
+    ],
+    "has_distractor": true,
+    "image_id": 2406104,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_19973",
+    "phenomenon": "negation",
+    "probe_id": "negation_19973",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      188.0,
+      5.0,
+      410.0,
+      290.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      188.0,
+      5.0,
+      410.0,
+      290.0
+    ],
+    "has_distractor": true,
+    "image_id": 2406104,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_19973",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_19974",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      66.0,
+      163.0,
+      177.0,
+      312.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      172.0,
+      132.0,
+      316.0,
+      308.0
+    ],
+    "has_distractor": true,
+    "image_id": 2402708,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_25280",
+    "phenomenon": "negation",
+    "probe_id": "negation_25280",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      75.0,
+      50.0,
+      209.0,
+      229.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      75.0,
+      50.0,
+      209.0,
+      229.0
+    ],
+    "has_distractor": true,
+    "image_id": 2402708,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_25280",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_25281",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      172.0,
+      132.0,
+      316.0,
+      308.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      299.0,
+      47.0,
+      442.0,
+      299.0
+    ],
+    "has_distractor": true,
+    "image_id": 2401479,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_27101",
+    "phenomenon": "negation",
+    "probe_id": "negation_27101",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      165.0,
+      41.0,
+      248.0,
+      148.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      165.0,
+      41.0,
+      248.0,
+      148.0
+    ],
+    "has_distractor": true,
+    "image_id": 2401479,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_27101",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_27102",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      299.0,
+      47.0,
+      442.0,
+      299.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      261.0,
+      126.0,
+      346.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2400230,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_29065",
+    "phenomenon": "negation",
+    "probe_id": "negation_29065",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      117.0,
+      65.0,
+      271.0,
+      333.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      117.0,
+      65.0,
+      271.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2400230,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_29065",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_29066",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      261.0,
+      126.0,
+      346.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      316.0,
+      76.0,
+      381.0,
+      220.0
+    ],
+    "has_distractor": true,
+    "image_id": 2399746,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_29891",
+    "phenomenon": "negation",
+    "probe_id": "negation_29891",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      101.0,
+      70.0,
+      165.0,
+      201.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      101.0,
+      70.0,
+      165.0,
+      201.0
+    ],
+    "has_distractor": true,
+    "image_id": 2399746,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_29891",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_29892",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      316.0,
+      76.0,
+      381.0,
+      220.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      2.0,
+      49.0,
+      170.0
+    ],
+    "has_distractor": true,
+    "image_id": 2399714,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_29945",
+    "phenomenon": "negation",
+    "probe_id": "negation_29945",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      83.0,
+      7.0,
+      395.0,
+      244.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      83.0,
+      7.0,
+      395.0,
+      244.0
+    ],
+    "has_distractor": true,
+    "image_id": 2399714,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_29945",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_29946",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      0.0,
+      2.0,
+      49.0,
+      170.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      236.0,
+      137.0,
+      282.0,
+      243.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398963,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_31109",
+    "phenomenon": "negation",
+    "probe_id": "negation_31109",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      175.0,
+      140.0,
+      228.0,
+      288.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      175.0,
+      140.0,
+      228.0,
+      288.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398963,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_31109",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_31110",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      236.0,
+      137.0,
+      282.0,
+      243.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      208.0,
+      136.0,
+      288.0,
+      270.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398172,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_32350",
+    "phenomenon": "negation",
+    "probe_id": "negation_32350",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      330.0,
+      122.0,
+      389.0,
+      270.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      330.0,
+      122.0,
+      389.0,
+      270.0
+    ],
+    "has_distractor": true,
+    "image_id": 2398172,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_32350",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_32351",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      208.0,
+      136.0,
+      288.0,
+      270.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      3.0,
+      253.0,
+      55.0,
+      401.0
+    ],
+    "has_distractor": true,
+    "image_id": 2397909,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_32808",
+    "phenomenon": "negation",
+    "probe_id": "negation_32808",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      173.0,
+      262.0,
+      214.0,
+      384.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      173.0,
+      262.0,
+      214.0,
+      384.0
+    ],
+    "has_distractor": true,
+    "image_id": 2397909,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_32808",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_32809",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      3.0,
+      253.0,
+      55.0,
+      401.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      94.0,
+      22.0,
+      331.0,
+      327.0
+    ],
+    "has_distractor": true,
+    "image_id": 2397375,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_33516",
+    "phenomenon": "negation",
+    "probe_id": "negation_33516",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      446.0,
+      239.0,
+      501.0,
+      386.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      446.0,
+      239.0,
+      501.0,
+      386.0
+    ],
+    "has_distractor": true,
+    "image_id": 2397375,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_33516",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_33517",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      94.0,
+      22.0,
+      331.0,
+      327.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      185.0,
+      5.0,
+      247.0,
+      109.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395895,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_35686",
+    "phenomenon": "negation",
+    "probe_id": "negation_35686",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      378.0,
+      36.0,
+      464.0,
+      112.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      378.0,
+      36.0,
+      464.0,
+      112.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395895,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_35686",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_35687",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      185.0,
+      5.0,
+      247.0,
+      109.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      66.0,
+      27.0,
+      311.0,
+      308.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395757,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_35888",
+    "phenomenon": "negation",
+    "probe_id": "negation_35888",
+    "prompt": "the person not wearing a tie",
+    "target_box": [
+      333.0,
+      140.0,
+      399.0,
+      221.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      333.0,
+      140.0,
+      399.0,
+      221.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395757,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_35888",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_35889",
+    "prompt": "the person wearing a tie",
+    "target_box": [
+      66.0,
+      27.0,
+      311.0,
+      308.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      3.0,
+      114.0,
+      119.0,
+      240.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395127,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_36682",
+    "phenomenon": "negation",
+    "probe_id": "negation_36682",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      327.0,
+      102.0,
+      484.0,
+      242.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      327.0,
+      102.0,
+      484.0,
+      242.0
+    ],
+    "has_distractor": true,
+    "image_id": 2395127,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_36682",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_36683",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      3.0,
+      114.0,
+      119.0,
+      240.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      373.0,
+      76.0,
+      474.0,
+      334.0
+    ],
+    "has_distractor": true,
+    "image_id": 2394248,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_38011",
+    "phenomenon": "negation",
+    "probe_id": "negation_38011",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      150.0,
+      1.0,
+      320.0,
+      333.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      150.0,
+      1.0,
+      320.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2394248,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_38011",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_38012",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      373.0,
+      76.0,
+      474.0,
+      334.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      10.0,
+      13.0,
+      169.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2393505,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_39069",
+    "phenomenon": "negation",
+    "probe_id": "negation_39069",
+    "prompt": "the person not wearing a tie",
+    "target_box": [
+      148.0,
+      85.0,
+      271.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      148.0,
+      85.0,
+      271.0,
+      499.0
+    ],
+    "has_distractor": true,
+    "image_id": 2393505,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_39069",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_39070",
+    "prompt": "the person wearing a tie",
+    "target_box": [
+      10.0,
+      13.0,
+      169.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      79.0,
+      12.0,
+      177.0,
+      353.0
+    ],
+    "has_distractor": true,
+    "image_id": 2393350,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_39274",
+    "phenomenon": "negation",
+    "probe_id": "negation_39274",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      471.0,
+      84.0,
+      500.0,
+      323.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      471.0,
+      84.0,
+      500.0,
+      323.0
+    ],
+    "has_distractor": true,
+    "image_id": 2393350,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_39274",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_39275",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      79.0,
+      12.0,
+      177.0,
+      353.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      204.0,
+      35.0,
+      307.0,
+      275.0
+    ],
+    "has_distractor": true,
+    "image_id": 2390589,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_43152",
+    "phenomenon": "negation",
+    "probe_id": "negation_43152",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      0.0,
+      47.0,
+      63.0,
+      171.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      47.0,
+      63.0,
+      171.0
+    ],
+    "has_distractor": true,
+    "image_id": 2390589,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_43152",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_43153",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      204.0,
+      35.0,
+      307.0,
+      275.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      266.0,
+      112.0,
+      385.0,
+      224.0
+    ],
+    "has_distractor": true,
+    "image_id": 2390216,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_43746",
+    "phenomenon": "negation",
+    "probe_id": "negation_43746",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      97.0,
+      74.0,
+      153.0,
+      229.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      97.0,
+      74.0,
+      153.0,
+      229.0
+    ],
+    "has_distractor": true,
+    "image_id": 2390216,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_43746",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_43747",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      266.0,
+      112.0,
+      385.0,
+      224.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      88.0,
+      169.0,
+      121.0,
+      303.0
+    ],
+    "has_distractor": true,
+    "image_id": 2389679,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_44517",
+    "phenomenon": "negation",
+    "probe_id": "negation_44517",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      144.0,
+      117.0,
+      196.0,
+      201.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      144.0,
+      117.0,
+      196.0,
+      201.0
+    ],
+    "has_distractor": true,
+    "image_id": 2389679,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_44517",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_44518",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      88.0,
+      169.0,
+      121.0,
+      303.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      6.0,
+      1.0,
+      113.0,
+      330.0
+    ],
+    "has_distractor": true,
+    "image_id": 2388026,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_47129",
+    "phenomenon": "negation",
+    "probe_id": "negation_47129",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      253.0,
+      95.0,
+      367.0,
+      296.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      253.0,
+      95.0,
+      367.0,
+      296.0
+    ],
+    "has_distractor": true,
+    "image_id": 2388026,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_47129",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_47130",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      6.0,
+      1.0,
+      113.0,
+      330.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      375.0,
+      114.0,
+      484.0,
+      264.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384327,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_52265",
+    "phenomenon": "negation",
+    "probe_id": "negation_52265",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      216.0,
+      146.0,
+      405.0,
+      375.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      216.0,
+      146.0,
+      405.0,
+      375.0
+    ],
+    "has_distractor": true,
+    "image_id": 2384327,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_52265",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_52266",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      375.0,
+      114.0,
+      484.0,
+      264.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      11.0,
+      112.0,
+      251.0,
+      278.0
+    ],
+    "has_distractor": true,
+    "image_id": 2382717,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_54700",
+    "phenomenon": "negation",
+    "probe_id": "negation_54700",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      46.0,
+      335.0,
+      97.0,
+      433.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      46.0,
+      335.0,
+      97.0,
+      433.0
+    ],
+    "has_distractor": true,
+    "image_id": 2382717,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_54700",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_54701",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      11.0,
+      112.0,
+      251.0,
+      278.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      153.0,
+      98.0,
+      258.0,
+      297.0
+    ],
+    "has_distractor": true,
+    "image_id": 2382238,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_55349",
+    "phenomenon": "negation",
+    "probe_id": "negation_55349",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      348.0,
+      145.0,
+      413.0,
+      263.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      348.0,
+      145.0,
+      413.0,
+      263.0
+    ],
+    "has_distractor": true,
+    "image_id": 2382238,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_55349",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_55350",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      153.0,
+      98.0,
+      258.0,
+      297.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      193.0,
+      115.0,
+      308.0,
+      288.0
+    ],
+    "has_distractor": true,
+    "image_id": 2380421,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_57892",
+    "phenomenon": "negation",
+    "probe_id": "negation_57892",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      130.0,
+      159.0,
+      225.0,
+      290.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      130.0,
+      159.0,
+      225.0,
+      290.0
+    ],
+    "has_distractor": true,
+    "image_id": 2380421,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_57892",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_57893",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      193.0,
+      115.0,
+      308.0,
+      288.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      172.0,
+      110.0,
+      232.0,
+      284.0
+    ],
+    "has_distractor": true,
+    "image_id": 2380231,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_58223",
+    "phenomenon": "negation",
+    "probe_id": "negation_58223",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      255.0,
+      97.0,
+      331.0,
+      264.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      255.0,
+      97.0,
+      331.0,
+      264.0
+    ],
+    "has_distractor": true,
+    "image_id": 2380231,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_58223",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_58224",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      172.0,
+      110.0,
+      232.0,
+      284.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      84.0,
+      4.0,
+      144.0,
+      141.0
+    ],
+    "has_distractor": true,
+    "image_id": 2378616,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_60698",
+    "phenomenon": "negation",
+    "probe_id": "negation_60698",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      117.0,
+      255.0,
+      305.0,
+      501.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      117.0,
+      255.0,
+      305.0,
+      501.0
+    ],
+    "has_distractor": true,
+    "image_id": 2378616,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_60698",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_60699",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      84.0,
+      4.0,
+      144.0,
+      141.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      193.0,
+      2.0,
+      248.0,
+      148.0
+    ],
+    "has_distractor": true,
+    "image_id": 2378086,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_61446",
+    "phenomenon": "negation",
+    "probe_id": "negation_61446",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      92.0,
+      131.0,
+      242.0,
+      301.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      92.0,
+      131.0,
+      242.0,
+      301.0
+    ],
+    "has_distractor": true,
+    "image_id": 2378086,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_61446",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_61447",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      193.0,
+      2.0,
+      248.0,
+      148.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      172.0,
+      0.0,
+      301.0,
+      183.0
+    ],
+    "has_distractor": true,
+    "image_id": 2376873,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_63204",
+    "phenomenon": "negation",
+    "probe_id": "negation_63204",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      297.0,
+      0.0,
+      391.0,
+      131.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      297.0,
+      0.0,
+      391.0,
+      131.0
+    ],
+    "has_distractor": true,
+    "image_id": 2376873,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_63204",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_63205",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      172.0,
+      0.0,
+      301.0,
+      183.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      46.0,
+      73.0,
+      217.0,
+      364.0
+    ],
+    "has_distractor": true,
+    "image_id": 2375759,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_64935",
+    "phenomenon": "negation",
+    "probe_id": "negation_64935",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      226.0,
+      8.0,
+      332.0,
+      187.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      226.0,
+      8.0,
+      332.0,
+      187.0
+    ],
+    "has_distractor": true,
+    "image_id": 2375759,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_64935",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_64936",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      46.0,
+      73.0,
+      217.0,
+      364.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      282.0,
+      12.0,
+      333.0,
+      132.0
+    ],
+    "has_distractor": true,
+    "image_id": 2375519,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_65356",
+    "phenomenon": "negation",
+    "probe_id": "negation_65356",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      139.0,
+      62.0,
+      333.0,
+      349.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      139.0,
+      62.0,
+      333.0,
+      349.0
+    ],
+    "has_distractor": true,
+    "image_id": 2375519,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_65356",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_65357",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      282.0,
+      12.0,
+      333.0,
+      132.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      49.0,
+      193.0,
+      399.0
+    ],
+    "has_distractor": true,
+    "image_id": 2373792,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_68133",
+    "phenomenon": "negation",
+    "probe_id": "negation_68133",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      315.0,
+      57.0,
+      492.0,
+      397.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      315.0,
+      57.0,
+      492.0,
+      397.0
+    ],
+    "has_distractor": true,
+    "image_id": 2373792,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_68133",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_68134",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      0.0,
+      49.0,
+      193.0,
+      399.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      330.0,
+      146.0,
+      394.0,
+      299.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371800,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_71334",
+    "phenomenon": "negation",
+    "probe_id": "negation_71334",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      330.0,
+      0.0,
+      404.0,
+      85.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      330.0,
+      0.0,
+      404.0,
+      85.0
+    ],
+    "has_distractor": true,
+    "image_id": 2371800,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_71334",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_71335",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      330.0,
+      146.0,
+      394.0,
+      299.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      14.0,
+      101.0,
+      157.0
+    ],
+    "has_distractor": true,
+    "image_id": 2369667,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_74504",
+    "phenomenon": "negation",
+    "probe_id": "negation_74504",
+    "prompt": "the person not wearing a tie",
+    "target_box": [
+      32.0,
+      21.0,
+      348.0,
+      322.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      32.0,
+      21.0,
+      348.0,
+      322.0
+    ],
+    "has_distractor": true,
+    "image_id": 2369667,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_74504",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_74505",
+    "prompt": "the person wearing a tie",
+    "target_box": [
+      0.0,
+      14.0,
+      101.0,
+      157.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      146.0,
+      304.0,
+      193.0,
+      411.0
+    ],
+    "has_distractor": true,
+    "image_id": 2368520,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_76167",
+    "phenomenon": "negation",
+    "probe_id": "negation_76167",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      0.0,
+      307.0,
+      131.0,
+      497.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      307.0,
+      131.0,
+      497.0
+    ],
+    "has_distractor": true,
+    "image_id": 2368520,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_76167",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_76168",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      146.0,
+      304.0,
+      193.0,
+      411.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      283.0,
+      52.0,
+      473.0,
+      260.0
+    ],
+    "has_distractor": true,
+    "image_id": 2364430,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_82270",
+    "phenomenon": "negation",
+    "probe_id": "negation_82270",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      37.0,
+      62.0,
+      162.0,
+      344.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      37.0,
+      62.0,
+      162.0,
+      344.0
+    ],
+    "has_distractor": true,
+    "image_id": 2364430,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_82270",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_82271",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      283.0,
+      52.0,
+      473.0,
+      260.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      17.0,
+      90.0,
+      86.0,
+      375.0
+    ],
+    "has_distractor": true,
+    "image_id": 2364095,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_82784",
+    "phenomenon": "negation",
+    "probe_id": "negation_82784",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      126.0,
+      74.0,
+      272.0,
+      375.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      126.0,
+      74.0,
+      272.0,
+      375.0
+    ],
+    "has_distractor": true,
+    "image_id": 2364095,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_82784",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_82785",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      17.0,
+      90.0,
+      86.0,
+      375.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      279.0,
+      53.0,
+      395.0,
+      334.0
+    ],
+    "has_distractor": true,
+    "image_id": 2360110,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_89007",
+    "phenomenon": "negation",
+    "probe_id": "negation_89007",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      201.0,
+      82.0,
+      265.0,
+      229.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      201.0,
+      82.0,
+      265.0,
+      229.0
+    ],
+    "has_distractor": true,
+    "image_id": 2360110,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_89007",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_89008",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      279.0,
+      53.0,
+      395.0,
+      334.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      283.0,
+      72.0,
+      395.0,
+      330.0
+    ],
+    "has_distractor": true,
+    "image_id": 2359291,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_90290",
+    "phenomenon": "negation",
+    "probe_id": "negation_90290",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      10.0,
+      105.0,
+      178.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      10.0,
+      105.0,
+      178.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2359291,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_90290",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_90291",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      283.0,
+      72.0,
+      395.0,
+      330.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      137.0,
+      153.0,
+      195.0,
+      320.0
+    ],
+    "has_distractor": true,
+    "image_id": 2356918,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_93785",
+    "phenomenon": "negation",
+    "probe_id": "negation_93785",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      286.0,
+      153.0,
+      344.0,
+      317.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      286.0,
+      153.0,
+      344.0,
+      317.0
+    ],
+    "has_distractor": true,
+    "image_id": 2356918,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_93785",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_93786",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      137.0,
+      153.0,
+      195.0,
+      320.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      103.0,
+      90.0,
+      191.0,
+      293.0
+    ],
+    "has_distractor": true,
+    "image_id": 2356017,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_95298",
+    "phenomenon": "negation",
+    "probe_id": "negation_95298",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      62.0,
+      117.0,
+      105.0,
+      242.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      62.0,
+      117.0,
+      105.0,
+      242.0
+    ],
+    "has_distractor": true,
+    "image_id": 2356017,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_95298",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_95299",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      103.0,
+      90.0,
+      191.0,
+      293.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      406.0,
+      35.0,
+      484.0,
+      274.0
+    ],
+    "has_distractor": true,
+    "image_id": 2353575,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_99202",
+    "phenomenon": "negation",
+    "probe_id": "negation_99202",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      77.0,
+      166.0,
+      132.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      77.0,
+      166.0,
+      132.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2353575,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_99202",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_99203",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      406.0,
+      35.0,
+      484.0,
+      274.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      129.0,
+      263.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2351596,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=2, needs_full_verification",
+    "pair_id": "neg_102263",
+    "phenomenon": "negation",
+    "probe_id": "negation_102263",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      207.0,
+      217.0,
+      313.0,
+      403.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      207.0,
+      217.0,
+      313.0,
+      403.0
+    ],
+    "has_distractor": true,
+    "image_id": 2351596,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_102263",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_102264",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      0.0,
+      129.0,
+      263.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      42.0,
+      44.0,
+      205.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2350918,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_103330",
+    "phenomenon": "negation",
+    "probe_id": "negation_103330",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      243.0,
+      42.0,
+      385.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      243.0,
+      42.0,
+      385.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2350918,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_103330",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_103331",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      42.0,
+      44.0,
+      205.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      95.0,
+      36.0,
+      328.0,
+      320.0
+    ],
+    "has_distractor": true,
+    "image_id": 2348026,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_107523",
+    "phenomenon": "negation",
+    "probe_id": "negation_107523",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      0.0,
+      0.0,
+      47.0,
+      269.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      0.0,
+      47.0,
+      269.0
+    ],
+    "has_distractor": true,
+    "image_id": 2348026,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_107523",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_107524",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      95.0,
+      36.0,
+      328.0,
+      320.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      170.0,
+      2.0,
+      415.0,
+      327.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347753,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_107883",
+    "phenomenon": "negation",
+    "probe_id": "negation_107883",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      63.0,
+      108.0,
+      186.0,
+      261.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      63.0,
+      108.0,
+      186.0,
+      261.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347753,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_107883",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_107884",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      170.0,
+      2.0,
+      415.0,
+      327.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      72.0,
+      116.0,
+      133.0,
+      193.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347024,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_109070",
+    "phenomenon": "negation",
+    "probe_id": "negation_109070",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      10.0,
+      114.0,
+      68.0,
+      206.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      10.0,
+      114.0,
+      68.0,
+      206.0
+    ],
+    "has_distractor": true,
+    "image_id": 2347024,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_109070",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_109071",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      72.0,
+      116.0,
+      133.0,
+      193.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      134.0,
+      110.0,
+      189.0,
+      268.0
+    ],
+    "has_distractor": true,
+    "image_id": 2343954,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_113524",
+    "phenomenon": "negation",
+    "probe_id": "negation_113524",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      20.0,
+      79.0,
+      85.0,
+      265.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      20.0,
+      79.0,
+      85.0,
+      265.0
+    ],
+    "has_distractor": true,
+    "image_id": 2343954,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_113524",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_113525",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      134.0,
+      110.0,
+      189.0,
+      268.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      291.0,
+      25.0,
+      332.0,
+      269.0
+    ],
+    "has_distractor": true,
+    "image_id": 2343141,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_114810",
+    "phenomenon": "negation",
+    "probe_id": "negation_114810",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      166.0,
+      32.0,
+      281.0,
+      402.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      166.0,
+      32.0,
+      281.0,
+      402.0
+    ],
+    "has_distractor": true,
+    "image_id": 2343141,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_114810",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_114811",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      291.0,
+      25.0,
+      332.0,
+      269.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      79.0,
+      58.0,
+      197.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2341719,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, n_persons=3, needs_full_verification",
+    "pair_id": "neg_117010",
+    "phenomenon": "negation",
+    "probe_id": "negation_117010",
+    "prompt": "the person not holding an umbrella",
+    "target_box": [
+      302.0,
+      56.0,
+      373.0,
+      333.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      302.0,
+      56.0,
+      373.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2341719,
+    "image_source": "visual_genome",
+    "notes": "item=umbrella, verb=holding, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_117010",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_117011",
+    "prompt": "the person holding an umbrella",
+    "target_box": [
+      79.0,
+      58.0,
+      197.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      109.0,
+      56.0,
+      228.0
+    ],
+    "has_distractor": true,
+    "image_id": 2339464,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_120132",
+    "phenomenon": "negation",
+    "probe_id": "negation_120132",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      399.0,
+      125.0,
+      479.0,
+      335.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      399.0,
+      125.0,
+      479.0,
+      335.0
+    ],
+    "has_distractor": true,
+    "image_id": 2339464,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_120132",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_120133",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      0.0,
+      109.0,
+      56.0,
+      228.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      314.0,
+      15.0,
+      417.0,
+      258.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335961,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_125324",
+    "phenomenon": "negation",
+    "probe_id": "negation_125324",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      453.0,
+      145.0,
+      500.0,
+      261.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      453.0,
+      145.0,
+      500.0,
+      261.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335961,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_125324",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_125325",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      314.0,
+      15.0,
+      417.0,
+      258.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      49.0,
+      177.0,
+      249.0,
+      499.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335289,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_126300",
+    "phenomenon": "negation",
+    "probe_id": "negation_126300",
+    "prompt": "the person not wearing a tie",
+    "target_box": [
+      212.0,
+      144.0,
+      363.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      212.0,
+      144.0,
+      363.0,
+      499.0
+    ],
+    "has_distractor": true,
+    "image_id": 2335289,
+    "image_source": "visual_genome",
+    "notes": "item=tie, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_126300",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_126301",
+    "prompt": "the person wearing a tie",
+    "target_box": [
+      49.0,
+      177.0,
+      249.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      215.0,
+      143.0,
+      303.0,
+      413.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334787,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_127048",
+    "phenomenon": "negation",
+    "probe_id": "negation_127048",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      74.0,
+      143.0,
+      165.0,
+      401.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      74.0,
+      143.0,
+      165.0,
+      401.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334787,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_127048",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_127049",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      215.0,
+      143.0,
+      303.0,
+      413.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      244.0,
+      71.0,
+      299.0,
+      165.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334781,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_127052",
+    "phenomenon": "negation",
+    "probe_id": "negation_127052",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      0.0,
+      43.0,
+      73.0,
+      245.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      43.0,
+      73.0,
+      245.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334781,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_127052",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_127053",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      244.0,
+      71.0,
+      299.0,
+      165.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      403.0,
+      115.0,
+      500.0,
+      374.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334577,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_127328",
+    "phenomenon": "negation",
+    "probe_id": "negation_127328",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      128.0,
+      110.0,
+      235.0,
+      309.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      128.0,
+      110.0,
+      235.0,
+      309.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334577,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_127328",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_127329",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      403.0,
+      115.0,
+      500.0,
+      374.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      313.0,
+      108.0,
+      387.0,
+      234.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334316,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_127786",
+    "phenomenon": "negation",
+    "probe_id": "negation_127786",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      173.0,
+      104.0,
+      233.0,
+      207.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      173.0,
+      104.0,
+      233.0,
+      207.0
+    ],
+    "has_distractor": true,
+    "image_id": 2334316,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_127786",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_127787",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      313.0,
+      108.0,
+      387.0,
+      234.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      240.0,
+      116.0,
+      418.0,
+      276.0
+    ],
+    "has_distractor": true,
+    "image_id": 2333813,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_128551",
+    "phenomenon": "negation",
+    "probe_id": "negation_128551",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      38.0,
+      145.0,
+      95.0,
+      276.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      38.0,
+      145.0,
+      95.0,
+      276.0
+    ],
+    "has_distractor": true,
+    "image_id": 2333813,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_128551",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_128552",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      240.0,
+      116.0,
+      418.0,
+      276.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      337.0,
+      107.0,
+      491.0,
+      283.0
+    ],
+    "has_distractor": true,
+    "image_id": 2332798,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_130233",
+    "phenomenon": "negation",
+    "probe_id": "negation_130233",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      20.0,
+      24.0,
+      182.0,
+      282.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      20.0,
+      24.0,
+      182.0,
+      282.0
+    ],
+    "has_distractor": true,
+    "image_id": 2332798,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_130233",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_130234",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      337.0,
+      107.0,
+      491.0,
+      283.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      233.0,
+      49.0,
+      326.0,
+      334.0
+    ],
+    "has_distractor": true,
+    "image_id": 2331294,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_132257",
+    "phenomenon": "negation",
+    "probe_id": "negation_132257",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      319.0,
+      61.0,
+      472.0,
+      333.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      319.0,
+      61.0,
+      472.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2331294,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_132257",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_132258",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      233.0,
+      49.0,
+      326.0,
+      334.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      203.0,
+      117.0,
+      290.0,
+      306.0
+    ],
+    "has_distractor": true,
+    "image_id": 2330116,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_133825",
+    "phenomenon": "negation",
+    "probe_id": "negation_133825",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      271.0,
+      120.0,
+      333.0,
+      311.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      271.0,
+      120.0,
+      333.0,
+      311.0
+    ],
+    "has_distractor": true,
+    "image_id": 2330116,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_133825",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_133826",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      203.0,
+      117.0,
+      290.0,
+      306.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      384.0,
+      58.0,
+      430.0,
+      186.0
+    ],
+    "has_distractor": true,
+    "image_id": 2324119,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_142941",
+    "phenomenon": "negation",
+    "probe_id": "negation_142941",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      23.0,
+      60.0,
+      73.0,
+      166.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      23.0,
+      60.0,
+      73.0,
+      166.0
+    ],
+    "has_distractor": true,
+    "image_id": 2324119,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_142941",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_142942",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      384.0,
+      58.0,
+      430.0,
+      186.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      263.0,
+      76.0,
+      331.0,
+      238.0
+    ],
+    "has_distractor": true,
+    "image_id": 2323847,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_143377",
+    "phenomenon": "negation",
+    "probe_id": "negation_143377",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      0.0,
+      44.0,
+      38.0,
+      244.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      44.0,
+      38.0,
+      244.0
+    ],
+    "has_distractor": true,
+    "image_id": 2323847,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_143377",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_143378",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      263.0,
+      76.0,
+      331.0,
+      238.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      115.0,
+      39.0,
+      226.0,
+      500.0
+    ],
+    "has_distractor": true,
+    "image_id": 2322991,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=4, needs_full_verification",
+    "pair_id": "neg_144759",
+    "phenomenon": "negation",
+    "probe_id": "negation_144759",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      279.0,
+      314.0,
+      320.0,
+      446.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      279.0,
+      314.0,
+      320.0,
+      446.0
+    ],
+    "has_distractor": true,
+    "image_id": 2322991,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=4, needs_full_verification",
+    "pair_id": "neg_144759",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_144760",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      115.0,
+      39.0,
+      226.0,
+      500.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      117.0,
+      90.0,
+      252.0,
+      333.0
+    ],
+    "has_distractor": true,
+    "image_id": 2321033,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_147811",
+    "phenomenon": "negation",
+    "probe_id": "negation_147811",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      364.0,
+      84.0,
+      413.0,
+      225.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      364.0,
+      84.0,
+      413.0,
+      225.0
+    ],
+    "has_distractor": true,
+    "image_id": 2321033,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_147811",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_147812",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      117.0,
+      90.0,
+      252.0,
+      333.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      64.0,
+      73.0,
+      228.0,
+      499.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320941,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_148007",
+    "phenomenon": "negation",
+    "probe_id": "negation_148007",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      274.0,
+      240.0,
+      339.0,
+      360.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      274.0,
+      240.0,
+      339.0,
+      360.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320941,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_148007",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_148008",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      64.0,
+      73.0,
+      228.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      243.0,
+      118.0,
+      372.0,
+      258.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320496,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_148742",
+    "phenomenon": "negation",
+    "probe_id": "negation_148742",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      0.0,
+      64.0,
+      128.0,
+      258.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      64.0,
+      128.0,
+      258.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320496,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_148742",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_148743",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      243.0,
+      118.0,
+      372.0,
+      258.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      211.0,
+      21.0,
+      475.0,
+      350.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320400,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_148859",
+    "phenomenon": "negation",
+    "probe_id": "negation_148859",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      35.0,
+      121.0,
+      116.0,
+      272.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      35.0,
+      121.0,
+      116.0,
+      272.0
+    ],
+    "has_distractor": true,
+    "image_id": 2320400,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_148859",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_148860",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      211.0,
+      21.0,
+      475.0,
+      350.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      0.0,
+      279.0,
+      68.0,
+      498.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317453,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_153406",
+    "phenomenon": "negation",
+    "probe_id": "negation_153406",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      177.0,
+      262.0,
+      290.0,
+      499.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      177.0,
+      262.0,
+      290.0,
+      499.0
+    ],
+    "has_distractor": true,
+    "image_id": 2317453,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_153406",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_153407",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      0.0,
+      279.0,
+      68.0,
+      498.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      301.0,
+      30.0,
+      496.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2413602,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_157615",
+    "phenomenon": "negation",
+    "probe_id": "negation_157615",
+    "prompt": "the person not wearing glasses",
+    "target_box": [
+      39.0,
+      93.0,
+      235.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      39.0,
+      93.0,
+      235.0,
+      332.0
+    ],
+    "has_distractor": true,
+    "image_id": 2413602,
+    "image_source": "visual_genome",
+    "notes": "item=glasses, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_157615",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_157616",
+    "prompt": "the person wearing glasses",
+    "target_box": [
+      301.0,
+      30.0,
+      496.0,
+      332.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      116.0,
+      45.0,
+      162.0,
+      167.0
+    ],
+    "has_distractor": true,
+    "image_id": 2415767,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, n_persons=3, needs_full_verification",
+    "pair_id": "neg_160682",
+    "phenomenon": "negation",
+    "probe_id": "negation_160682",
+    "prompt": "the person not wearing a helmet",
+    "target_box": [
+      181.0,
+      12.0,
+      264.0,
+      165.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      181.0,
+      12.0,
+      264.0,
+      165.0
+    ],
+    "has_distractor": true,
+    "image_id": 2415767,
+    "image_source": "visual_genome",
+    "notes": "item=helmet, verb=wearing, positive_mirror, n_persons=3, needs_full_verification",
+    "pair_id": "neg_160682",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_160683",
+    "prompt": "the person wearing a helmet",
+    "target_box": [
+      116.0,
+      45.0,
+      162.0,
+      167.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      5.0,
+      32.0,
+      110.0,
+      326.0
+    ],
+    "has_distractor": true,
+    "image_id": 2416282,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, n_persons=2, needs_full_verification",
+    "pair_id": "neg_161345",
+    "phenomenon": "negation",
+    "probe_id": "negation_161345",
+    "prompt": "the person not wearing a hat",
+    "target_box": [
+      300.0,
+      50.0,
+      407.0,
+      247.0
+    ],
+    "target_mask": null
+  },
+  {
+    "distractor_box": [
+      300.0,
+      50.0,
+      407.0,
+      247.0
+    ],
+    "has_distractor": true,
+    "image_id": 2416282,
+    "image_source": "visual_genome",
+    "notes": "item=hat, verb=wearing, positive_mirror, n_persons=2, needs_full_verification",
+    "pair_id": "neg_161345",
+    "phenomenon": "negation_positive",
+    "probe_id": "negation_161346",
+    "prompt": "the person wearing a hat",
+    "target_box": [
+      5.0,
+      32.0,
+      110.0,
+      326.0
+    ],
+    "target_mask": null
+  }
+]
