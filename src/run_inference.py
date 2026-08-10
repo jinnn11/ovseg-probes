@@ -141,6 +141,7 @@ def run_inference(
     probe_file: Path,
     out_dir: Path,
     oracle_box: bool = False,
+    max_probes: int = 0,
 ) -> None:
     probes = load_probes(probe_file)
     pred_dir = out_dir / model_name
@@ -154,6 +155,10 @@ def run_inference(
         print(f"Oracle mode: {len(probes)} probes with masks")
     else:
         model = _build_model(model_name)
+
+    if max_probes > 0:
+        probes = probes[:max_probes]
+        print(f"Smoke test: limited to {max_probes} probes")
 
     processed = 0
     skipped = 0
@@ -199,9 +204,12 @@ def main() -> None:
     parser.add_argument("--out-dir", type=Path, default=Path("predictions"))
     parser.add_argument("--oracle-box", action="store_true",
                         help="Use ground-truth box + SAM instead of detection")
+    parser.add_argument("--max-probes", type=int, default=0,
+                        help="Limit to N probes (0=all, for smoke testing)")
     args = parser.parse_args()
 
-    run_inference(args.model, args.probe_file, args.out_dir, args.oracle_box)
+    run_inference(args.model, args.probe_file, args.out_dir,
+                  args.oracle_box, args.max_probes)
 
 
 if __name__ == "__main__":

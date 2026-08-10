@@ -1,20 +1,30 @@
 #!/usr/bin/env bash
 # Run full inference + analysis pipeline. Tmux-friendly (one shot).
 # Usage:
-#   bash run_all.sh                    # Session 1: RefCOCO gate + Session 2: full run
-#   bash run_all.sh --skip-refcoco     # Skip Session 1, go straight to probes
-#   bash run_all.sh mock               # Use mock model (local testing)
+#   bash run_all.sh                        # Full run with RefCOCO gate
+#   bash run_all.sh --smoke 5              # Smoke test: 5 probes only
+#   bash run_all.sh --skip-refcoco         # Skip RefCOCO gate
+#   bash run_all.sh mock                   # Use mock model (local testing)
 set -euo pipefail
 
 SKIP_REFCOCO=false
 MODEL="grounded_sam"
+SMOKE=0
 
-for arg in "$@"; do
-    case "$arg" in
-        --skip-refcoco) SKIP_REFCOCO=true ;;
-        mock|mock_cheat|grounded_sam) MODEL="$arg" ;;
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        --skip-refcoco) SKIP_REFCOCO=true; shift ;;
+        --smoke) SMOKE="$2"; SKIP_REFCOCO=true; shift 2 ;;
+        mock|mock_cheat|grounded_sam) MODEL="$1"; shift ;;
+        *) echo "Unknown arg: $1"; exit 1 ;;
     esac
 done
+
+MAX_PROBES_FLAG=""
+if [ "$SMOKE" -gt 0 ]; then
+    MAX_PROBES_FLAG="--max-probes $SMOKE"
+    echo "*** SMOKE TEST: $SMOKE probes per step ***"
+fi
 
 PROBE_FILE="probes/probe_set_v1.json"
 CONTROL_FILE="probes/control_set_v1.json"
@@ -69,14 +79,16 @@ echo "=== SESSION 2, Step 1: Inference on distractor probes ==="
 python -m src.run_inference \
     --model "$MODEL" \
     --probe-file "$PROBE_FILE" \
-    --out-dir "$PRED_DIR"
+    --out-dir "$PRED_DIR" \
+    $MAX_PROBES_FLAG
 
 echo ""
 echo "=== SESSION 2, Step 2: Inference on control probes ==="
 python -m src.run_inference \
     --model "$MODEL" \
     --probe-file "$CONTROL_FILE" \
-    --out-dir "$PRED_DIR"
+    --out-dir "$PRED_DIR" \
+    $MAX_PROBES_FLAG
 
 echo ""
 echo "=== SESSION 2, Step 3: Oracle-box inference (SAM with GT boxes) ==="
@@ -84,12 +96,14 @@ python -m src.run_inference \
     --model "$MODEL" \
     --probe-file "$PROBE_FILE" \
     --out-dir "$PRED_DIR" \
+    $MAX_PROBES_FLAG \
     --oracle-box
 
 python -m src.run_inference \
     --model "$MODEL" \
     --probe-file "$CONTROL_FILE" \
     --out-dir "$PRED_DIR" \
+    $MAX_PROBES_FLAG \
     --oracle-box
 
 echo ""
