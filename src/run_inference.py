@@ -53,7 +53,8 @@ def _build_model(model_name: str):
         from src.mock_model import MockCheatModel
         return MockCheatModel(seed=42, hit_rate=0.90)
     elif model_name == "grounded_sam":
-        raise NotImplementedError("Grounded-SAM model not yet implemented")
+        from src.grounded_sam import GroundedSAMModel
+        return GroundedSAMModel()
     else:
         raise ValueError(f"Unknown model: {model_name}")
 
@@ -63,7 +64,8 @@ def _build_sam(model_name: str):
         from src.mock_model import MockSAM
         return MockSAM()
     elif model_name == "grounded_sam":
-        raise NotImplementedError("SAM model not yet implemented")
+        from src.grounded_sam import GroundedSAM
+        return GroundedSAM()
     else:
         raise ValueError(f"Unknown model for SAM: {model_name}")
 

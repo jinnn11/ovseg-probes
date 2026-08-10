@@ -7,3 +7,4 @@ pytest
 ipywidgets
 requests
 tqdm
+opencv-python
