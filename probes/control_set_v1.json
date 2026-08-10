@@ -26,30 +26,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 293852,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=chair, cat_b=couch, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_1166",
-    "prompt": "the chair to the left of the couch",
-    "target_box": [
-      43.25,
-      262.85,
-      277.27,
-      421.45000000000005
-    ],
-    "target_mask": {
-      "counts": "aVb06T=5L4K5K5K5K5K5L4K5L4L4K5L4L4K5L4L4K5L4L4K4M0VFnL[9T3aFoL]9T3_FoL`9S3\\FoLd9]3N101N2O1O2M3N2N2M3N2N3L3N2N5K7I01O0000001O0000001O0000001O000000001O0000001O0000001O000000001O000000001O000000001O000000001O000000001O00000000001O000000001O000000001O000000001O000000001O000000001O000000001O00000000001O000000001O00001O00001O001O001O001O001O001O2N3M2N3M3M2N3M3M2N3M3Mf0ZO00001O00001O00001O00001O000000001O0000000000001O0000000000O100O1O1O1O1O100O1O1O1O1000O10000000000000000000000000000000002N2TN[En0g:mNdEj0_:POmEc0Z:XOQF7U[g4",
-      "size": [
-        427,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 279331,
     "image_source": "coco_train2017",
     "notes": "cat_a=dog, cat_b=handbag, control",
@@ -98,30 +74,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 421393,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=couch, cat_b=tv, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_1717",
-    "prompt": "the couch to the left of the tv",
-    "target_box": [
-      114.16,
-      156.18,
-      235.73,
-      271.4
-    ],
-    "target_mask": {
-      "counts": "Sd_1:P=1N101O0O2O001N101O000O2O001N101O0O2mNFTE:k:1kD0T;S101N2O1O1O1N2O1O1N2O001N2O1O1O1N2O1O1N2O1O0O2O1O0O2O1O001N2O001N20O10000O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1OO10001O2N1O2M3N1O2N2N1O00O0O2O1N2N2O1N101N2N2O1N2O0O3M4M3L3N3L4L3N3L4L3N3L4M2M4L4M2MokW5",
-      "size": [
-        426,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 144202,
     "image_source": "coco_train2017",
     "notes": "cat_a=vase, cat_b=laptop, control",
@@ -140,30 +92,6 @@
       "size": [
         640,
         480
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 381384,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=couch, cat_b=chair, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_1584",
-    "prompt": "the couch to the left of the chair",
-    "target_box": [
-      1.3,
-      2.92,
-      59.64,
-      572.14
-    ],
-    "target_mask": {
-      "counts": "Tb0ia08L4M3L4M3L4M3L4M3L4M3M3L4M3L4M3L4M3L4M3L4M3L4M3L4M3L4M3L4M3L4M3L4M3M3L4M3L4M3L4M3L4M3L4UOk0`H`7WOi0N2O1O1N2O1O1N2O1N2O:Fm2RMnfV:",
-      "size": [
-        577,
-        640
       ]
     }
   },
@@ -242,54 +170,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 285357,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=tv, cat_b=couch, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_1126",
-    "prompt": "the tv to the left of the couch",
-    "target_box": [
-      23.98,
-      227.56,
-      107.04,
-      352.6
-    ],
-    "target_mask": {
-      "counts": "SY?4ec09G9H8G8H9G9G9G8I8L3O0000000c_O]M]?c2b@_M]?a2b@aM]?_2b@cM]?]2a@fM^?Z2a@hM^?X2a@jM^?W2`@lM^?T2a@nM^?R2a@nM`?R2`@nM`?R2`@nM`?R2`@mMa?S2_@mMa?S2_@mMa?T2^@kMc?U2]@kMc?U2]@kMc?U2]@jMd?V2\\@jMd?V2\\@jMd?V2\\@iMe?X2Z@hMf?X2Z@hMf?X2Z@gMg?Y2Z@fMf?Z2Z@fMf?Z2Z@eMg?[2Y@eMg?[2Y@eMg?\\2X@cMi?]2W@cMi?]2W@cMi?]2W@bMj?_2V@`Mj?`2\\@ZMd?g2j0001O001O001O001O001O001O001O001O001O001O001O0000O1O100O1O10?@g1YNhjX7",
-      "size": [
-        640,
-        480
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 486383,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=tv, cat_b=laptop, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_1959",
-    "prompt": "the tv to the left of the laptop",
-    "target_box": [
-      107.66,
-      35.06,
-      252.42,
-      177.05
-    ],
-    "target_mask": {
-      "counts": "Z^V1i0b:2O003M:E;F:F9G:E;F:F3MO01000O10O10O10O010000O01000O10O010000O01000O01000000O2O001O0O2O001O1N101O001O0O1000O1000gHaLe6_3SIiLm6W3kHQMU7o2jHSMU7m2kHSMU7l2kHUMT7l2lHTMT7l2kHUMU7k2kHUMU7k2kHUMU7a30YOkHWMU7`30000O10O10000000000O1000O1000WOkHZMV7f2jHZMV7f2jHZMV7e2kH[MU7e2kH[MU7e2kHZMV7e2kH[MT7f2lHZMT7f2lHZMT7e2mHZMT7f2lHZMT7f2lHYMU7f2lHZMT7f2lHYMU7g2kHYMU7f2lHYMU7g2kHYMT7h2lHXMT7g2mHXMT7h2lHXMT7h2mHVMT7i2mHWMS7i2nHUMS7k2mHUMS7j2oHTMR7l2nHQMU7o2kHmLX7S3a00000O10000O1000O010000O10000O10000O01000O10000O10000O01000O1000R1mN\\kY4",
-      "size": [
-        364,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 92575,
     "image_source": "coco_train2017",
     "notes": "cat_a=cup, cat_b=teddy bear, control",
@@ -308,30 +188,6 @@
       "size": [
         640,
         427
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 119081,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=vase, cat_b=chair, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_0442",
-    "prompt": "the vase to the left of the chair",
-    "target_box": [
-      93.26,
-      287.45,
-      135.96,
-      453.75
-    ],
-    "target_mask": {
-      "counts": "mj]13Z?8G9eK\\4O00010O0000O1O1N2O1O1O1O4L6J9G=C=B2O2N1O1O2N1O1O2N1N3N1O1O2N1O2N1O2M2YOh0H=C>B?AaYP3",
-      "size": [
-        500,
-        334
       ]
     }
   },
@@ -434,102 +290,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 563885,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=chair, cat_b=teddy bear, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_2270",
-    "prompt": "the chair to the left of the teddy bear",
-    "target_box": [
-      0.0,
-      161.73,
-      166.36,
-      331.0
-    ],
-    "target_mask": {
-      "counts": "V5U5V50O100000000O100000000O100000000O100000000001O001O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O001O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O001O1O001O001O1O001O1O001O1O001O1O001O1O001O1O001O1O001O001O1O001O1O001O1O001O1O0000001O000000001O000000001O000000001O000000001O000000001O000000001O00000000001O000000001O000000001O009Gc0]Oc0]Ob0^OUe[3",
-      "size": [
-        331,
-        500
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 324817,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=motorcycle, cat_b=backpack, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_1342",
-    "prompt": "the motorcycle to the left of the backpack",
-    "target_box": [
-      4.13,
-      284.68,
-      165.03,
-      452.81
-    ],
-    "target_mask": {
-      "counts": "_W21Y>1N2O1O1N2O1O1N2O1N2O1O1N2O1N2O1O1N2O1N2O1O1N2O1N2O1O1N2nNPOhDQ1T;TOiDn0T;VOjDk0S;ZOjDg0S;]OjDe0S;_OkDb0R;BlD?R;DkD>R;FlD;Q;IlD9T;_1O1O1O100O1O1O100O1O1O1\\NgLUHZ3j7mLPHT3o7PMlGQ3S8TMhGm2W8XMdGi2[8\\MaGd2_8`M\\Ga2c8cMYG^2g8fMTG[2m8TMmFI2S3R9SMoF`3Q9`LRG]3o8bLTG[3n8cLUGZ3n8cLUGZ3m8dLVGY3m8cLWGZ3n8`LUG^3l90001O00000N2N2O1N2N2O1]Od0M2M3M3M3M3O1000001O2N1O1O2N1O2N1O1O2N1O2M2O1O2O0O101N1O01O00001O00001O00001O000000O1N10O1O10L3H8ZOg01O2N1O1O1000000O101O000000000001O000000001O000000000O2O2M6J6Ilie4",
-      "size": [
-        459,
-        500
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 138780,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=truck, cat_b=cup, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_0526",
-    "prompt": "the truck to the left of the cup",
-    "target_box": [
-      0.46,
-      542.06,
-      264.02,
-      612.0
-    ],
-    "target_mask": {
-      "counts": "db01Rc05K5L4K3M1O1O1O100O1O1O1O1O1O100O1O2N10000O100000000O100000000O10000000000O100000000O10000000000O1O1O1O1O1O1O1O100000000004LO10000000000O1000000000000O10000000000O10000000000O10000000000000000000000N2O1N2O1N2O1O1N2O1N2O1N2O1N2O1O1O100001O00000000001O0000000000001O00000000001O00000000001O00000000001O0000000000001O00000000001O00000000001O00000000001O00000000001O0000000000001O00000000001O00000000001O00000000001O00000000001O0000000000001O00000000001O00000000001O00000000001O0000000000001O00000000001O00000000001O00000000001O00j]_6",
-      "size": [
-        612,
-        612
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 388923,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=motorcycle, cat_b=car, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_1601",
-    "prompt": "the motorcycle to the left of the car",
-    "target_box": [
-      160.78,
-      241.89,
-      389.51,
-      378.62
-    ],
-    "target_mask": {
-      "counts": "nTS2;j<>B6J5K5O1O1N2O1O1N2O1O1N2O1N2O000YO[NiEf1V:\\NiEd1U:_NjEa1U:bNhE_1W:cNhE]1W:fNgEZ1X:hNfEY1X:jNgEV1X:mNeET1Z:nNeER1P:WNSFi0LP1Q:[OmEf0R:Y1O100O1000000O10O1O001O1O000000OTMoEc2Q:]MPFa2P:_MQFa2o9^MSFa2m9^MTFa2l9`MUFa2i9^MXFd2f9[M\\Ff2a9[M`Ff2^9YMcFi2[9VMgFj2W9VMjFl2T9TMmFl2Q9TMPGn2m8RMUGn2i8RMYGo2d8RM]Gn2c8PM_GP3a8nL`GT3_8kLbGU3Y90000001O[MoER2Q:nMPFQ2P:nMQFS2n9mMSFR2m9mMUFR2k9nMVFP2k9PNVF1LW1P:gNUF1MW1P:dNUF3OW1o9^NWF:MV1_:jNcET1^:kNcET1]:kNfES1Z:mNhEQ1X:oNjEo0V:POlEo0T:QOnE>WOEk:MPF;WOGi:NRF9VOHh:NUF7UOIg:0UF5VOJf:0VF4UOKe:0YF2TOMc:1[FOSO0g:LWF3RO1g:LYF0QO4e:LkF4U9LkF6S9JmF7R9ImF:Q9EPG<o8DQG7VNKf:OTG7R9HoF8Q9HnF:Q9FoF:Q9FoF:P;1O0PNEQG<o8DQG<n:000N1O2N2N20000O10000O10000O01000O10000O10000O10O10QOo00000O10O001O0011O3L3N2M3N3L10O10L4L4K5L4L4O100O1O100O100O010O1O100O100O1O1N2O1N2O1O1N101N2O1N1001O1N2O1O1O1O1O2O1O2N2N2M3N1N3N1N2O2N1N2O2N1O00001`NVE?j:AWE>i:BYE<h:B[E;f:E[E:e:F]E7d:H^E7c:H_E5b:K`E3`:MaEECHn:a0bECDJj:c0cE^OHMf:e0dEYOK0c:d0a1L4L4L4KWlW3",
-      "size": [
-        425,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 87738,
     "image_source": "coco_train2017",
     "notes": "cat_a=cat, cat_b=cup, control",
@@ -548,30 +308,6 @@
       "size": [
         640,
         640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 574356,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=chair, cat_b=laptop, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_2308",
-    "prompt": "the chair to the left of the laptop",
-    "target_box": [
-      44.66,
-      226.69,
-      148.31,
-      352.25
-    ],
-    "target_mask": {
-      "counts": "lh`05];5K6L4O0O2oM]OlHd0T7_OgHc0X7@eH`0\\7C_H?a7D[H=d7GWH:j7IRH8n7JnG8Q8LkG4V8OeG3[80aG1^82_GNb85YGMf87VGJj89QGHP9`1O10O10O10O10O10O10O1O1O001O1O001O1O010O1O001O1O001O[N[G9d8G]G8c8H]G9b8G_G9W9oNjFQ1W9nNjFR1W9lNiFU1W9jNjFU1X9iNhFX1X9gNiFY1X9eNiF[1W9cNjF]1X9aNiF_1W9`NiFa1X9]NiFb1Y9\\NgFe1Y9ZNhFe1f9O001O001O0O2O001O1O001O001O0O2O1O001O001O001O0O2O1O001O001O1N3M3L5L3L4M3L4M3MdbP4",
-      "size": [
-        375,
-        500
       ]
     }
   },
@@ -668,30 +404,6 @@
       "size": [
         640,
         426
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 33111,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=cat, cat_b=chair, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_0133",
-    "prompt": "the cat to the left of the chair",
-    "target_box": [
-      110.23,
-      3.6,
-      325.63,
-      197.4
-    ],
-    "target_mask": {
-      "counts": "[RT11]:4M4K4L4M3L5K4L4M3L4L5L3L3M1O101N1O1O1N0100O1O100O010O1ON3M2N2N2N12N2001O000O2O001O00001O00001O001O00001O00010O001O00001O001O001O1O010O10O100O10O10O1000O0100O1000O010000O010O100000O100oJiMj1W2QNPNm1P2nMXNn1i1mM_NP2a1kMfNS2Z1hMnNU2R1WLlMa0Z1U3j0VL\\N4P1e3d0SLlNGe0V4?nKS1R4mNjKW1V4iNfK[1Z4]2000000000000000O2N1O1O1O1O1O1O1O100O1O1O1O1mNS1J6I8H7J6J61O1O1O1O1O1O100O1O1O00O101O00000000000O2O00000000001N100000000O10000O100O10000O10000O100O10000O100O2O0O2O0O101N100O2O0O2O0O101N101N102M5K4L5L3L5K5K4L9H;D3M3K6J5K5J7JgUi1",
-      "size": [
-        335,
-        500
       ]
     }
   },
@@ -818,30 +530,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 362944,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=truck, cat_b=car, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_1506",
-    "prompt": "the truck to the left of the car",
-    "target_box": [
-      0.27,
-      145.23,
-      77.71,
-      277.5
-    ],
-    "target_mask": {
-      "counts": "b5T3k:P110001O000000000000000O1000001O0O100O100O10001N1O1O100O2N1O1O1O1O2N1N2O1O1N3M2M3[OVDQNm;o1b001O000O101O00001N101O000O2O000O2O0O101O0O101O0O2O1N106G:F5K3M3WOUB:n=FRB7R>HnA4]>EeA1kfW8",
-      "size": [
-        480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 72817,
     "image_source": "coco_train2017",
     "notes": "cat_a=bottle, cat_b=bowl, control",
@@ -884,30 +572,6 @@
       "size": [
         425,
         640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 23879,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=umbrella, cat_b=car, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_0090",
-    "prompt": "the umbrella to the left of the car",
-    "target_box": [
-      0.0,
-      207.28,
-      99.53,
-      265.65
-    ],
-    "target_mask": {
-      "counts": "_6h1e80000000000000000000000001O00000000000000000000000000001O0000000001O000000001O000001OO2O0O1O2N10001O000O2O00001O00001O0O101O001O00001O0O2O00001O001O001O00001O1O1O2N2N1O2N2N1O2N1O2N2N1O2N2N2N2M3N3MmTR4",
-      "size": [
-        333,
-        500
       ]
     }
   },
@@ -979,30 +643,6 @@
       "counts": "oPX18P=<D;hCRO`;Y1\\DhN\\;d1_D]NY;P2I000O010000000000O10O10000000O100000O1000O1000000000O010000000000O010000000O100000O1000O1000000000O010000000000O10O10000000O1000O100000O10000000O10O10000000000O010000000O100000O1000O10000000O10O10000000000O01000000000O1000O100000O10000000O10O10000000000O010000000O1000O100000O10000000O10O10000000000O01000000000O1000O100000O100000O1000O100O1O100O010O1O100O1O100O010O1C=B>BW`a4",
       "size": [
         424,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 119834,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=couch, cat_b=chair, control",
-    "pair_id": "",
-    "phenomenon": "spatial_left_control",
-    "probe_id": "spatial_0445",
-    "prompt": "the couch to the left of the chair",
-    "target_box": [
-      0.0,
-      215.55,
-      236.06,
-      429.0
-    ],
-    "target_mask": {
-      "counts": "i6_6n65J100000000000000000000000000000000001O0000000000001O0000001O00001O00001O001O1O001O001O001O1O001O1O1O1O00001O000000001O000000001O00001O0000001O0000001O00001O0000001O0000001O0000001O00001O0000001O000000001O0000001O000000001O00001O0000001O00001O0000001O0000001O00001O0000001O00001O0000001O0000001O00001O0000001O00001O0000001O0000001O0000001O0000001O0000001O00001O0000001O0000001O0000001O0000001O0000001O0000001O00001O0000001O000gMbGC^87oGBR8:XH_Oh7?aHZO_7d0jHUOW7i0QIPOo6n0ZIkNg6S1`IgN`6W1dIgN]6W1fIgN[6V1iIhNW6W1lIgNU6V1oIhNR6V1QJhNo5V1UJhNl5V1WJhNj5U1ZJiNg5T1]JjNd5T1]3L4I:FToX5",
-      "size": [
-        429,
         640
       ]
     }
@@ -1250,30 +890,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 489785,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=couch, cat_b=chair, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_1970",
-    "prompt": "the couch to the right of the chair",
-    "target_box": [
-      448.07,
-      205.6,
-      640.0,
-      447.65999999999997
-    ],
-    "target_mask": {
-      "counts": "UWb61o>3L4M2M4M3L3N3M3L3N3PDQOh9R1TFZOb9i0ZFA\\9c0_F@`9b0]FAa9b0ZFBc9?\\FDb9=\\FFa9;]FIa97^FK`96_FM_93aFO]91cF1Z90fF2W9OiF2T90lF2P90PG2l80TG2h81VG2f80ZG2c8O]G2b8N^G4_8MaG5]8KcG7[8IeG9Y8GfG;Y8EfG>X8BhG>X8BhG?W8BhG>X8AjG?U8_OmGa0S8]OoGc0Q8[ORHe0m7YOUHg0k7XOVHi0i7UOZHj0g7SO[Hn0e7oN]HQ1d7lN_HS1b7kN_HV1`7jN`HV1`7iNbHW1]7hNdHX1\\7gNeHY1[7gNfHY1Z7eNgH[1Y7dNiH\\1V7cNkH]1U7cNkH^1T7aNnH^1R7aNoH_1Q7aNoH`1P7_NRI`1o6^NRIc1m6\\NTId1l6\\NUId1j6[NWIe1i6ZNXIf1h6ZNXIg1g6XNZIh1g6VNZIk1e6TN\\Il1d6TN\\Im1c6RN^In1b6QN_IP2`6oMaIQ2_6oMbIQ2]6nMdIS2\\6kMeIU2[6kMeIV2Z6iMgIX2X6gMiIY2W6fMjI[2U6bMnI^2R6_MQJb2o5ZMTJg2k5VMXJj2o81O1O010O001O1O001O1O001O00100O001O1O0010O01O1O001O1O010O00QM\\Dc2c;RMiDn2d;0PMUMlIk2Q6YMmIh2Q6\\MmIc2R6`MlIa2R6cMlI\\2S6hMjIY2T6jMkIV2S6nMjIR2U6QNiIP2U6TNiIl1U6WNiIi1V6[NgIf1W6]NgIc1X6aNeI`1Y6cNdI_1Z6dNdI\\1]6dNbI]1]6dNbI]1]6dNcI[1^6dNbI]1]6dNcI[1]6fNcIZ1]6fNbI[1]6fNcIY1]6gNdIY1[6hNdIX1]6hNcIV1^6kNbIS1_6nN`IP1c6PO]In0d6RO]Ik0e6VOZIi0h6WOWIh0j6XOVIf0l6ZOTIe0n6YOTId0n6\\ORIc0o6]OQIa0Q7_OoH`0S7^OnHa0S7_OnH>T7BlH=V7AkH=W7CiH<X7DhH;Z7DfH:\\7EfH9[7GeH7^7HbH7_7HbH8^7HbH7`7H`H7a7I`H5a7K_H5a7K_H4c7L\\H3e7M[H2f7N[H1f7NZH1g7OYH0h70XH0i7OWH0j70VHOk71VHMk74THLl74THKl76THIl78THGm79SHG_9gNbFW1d;O1OmD",
-      "size": [
-        480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 82338,
     "image_source": "coco_train2017",
     "notes": "cat_a=cow, cat_b=motorcycle, control",
@@ -1298,30 +914,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 322445,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=backpack, cat_b=handbag, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_1327",
-    "prompt": "the backpack to the right of the handbag",
-    "target_box": [
-      319.42,
-      146.66,
-      444.05,
-      322.61
-    ],
-    "target_mask": {
-      "counts": "fdW61lc05J6K5J7K4L4W]ORO[b0Y1O3N2M3L5L3M3M3M4L2K0M23N22N3L3N<De0[O4LN3H9H7H9G8J6O2M310CY^OaNfa0^1\\^OaNda0^1^^ObNba0\\1`^OdN_a0[1c^OdN^a0Z1d^OfN[a0Y1f^OhNYa0W1i^OiNWa0U1k^OjNUa0U1m^OkNRa0T1P_OlNo`0S1S_OlNn`0R1S_OoNl`0P1V_OPOi`0o0Y_OPOg`0o0[_OQOe`0m0]_OSOb`0l0`_OSO``0l0a_OUO^`0j0d_OVO\\`0h0f_OWOZ`0h0h_OXOW`0g0k_OYOT`0f0m_OZOS`0e0o_O[OQ`0c0Q@]On?b0T@^Ok?a0W@^Oi?a0Y@_Of?`0[@Ad?>^@Ab?>`@B_?=c@C\\?=e@B[?=g@CX?<j@DU?;m@DT?;m@ER?:PAFP?8RAGn>9SAGm>8UAGk>9UAGk>9UAFk>:VAFj>:VAFj>:VAEk>:]2100000O01000O10O10O11O0O101O001GDk\\O=Vc0610O011O001O00001N101O2N5K5K4L5J5L2N2N1ON3M?A?A`0@_Yf0",
-      "size": [
-        640,
-        480
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 321960,
     "image_source": "coco_train2017",
     "notes": "cat_a=tv, cat_b=chair, control",
@@ -1339,102 +931,6 @@
       "counts": "fdf6f0cb0l0YN`Nk_OZ2R`0l0M2O1000000000000000000000001O0000000000000001O0000000001O0000000000000000000000001O00000000000000000001O0000000000000001O0000000000000000000000000000000000000001O0^Nc_OA]`0>Q@UOo?j0_@jN`?U1o@]NQ?b1g1O10000000000O1000000000000000000000000O1000001O000ASn`3",
       "size": [
         640,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 28253,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=dog, cat_b=suitcase, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_0111",
-    "prompt": "the dog to the right of the suitcase",
-    "target_box": [
-      350.88,
-      263.57,
-      469.49,
-      343.34
-    ],
-    "target_mask": {
-      "counts": "WkT56j>3L2O0`AFZ>;cAG\\>?O0O2N2N101N1O2O1M2N3L4N1ROSOjCm0T<ZOfCh0X<\\OdCe0^<\\O_Cd0c<]OYCd0i<i02M2O1N2O2M2O1N3N1N2O0O100O010O10O01000O01000001N1000001O0O0100O1O101N101NTOeB5[=JfB7X=HjB8V=GkB:T=EmB<Q=CQC=o<BSC>l<AUCa0MRO`<<eCd0GROd<9fCg0CQOg<7gCo0\\<mNeCS1^<hNeCW1R=00O10001O00001O00001O00001O0000001N101O0O2O001N101O001N101O1O2M2O1O1O1N2O1O2N1N2O1N2O1N3Mhj_2",
-      "size": [
-        480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 39512,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=laptop, cat_b=chair, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_0158",
-    "prompt": "the laptop to the right of the chair",
-    "target_box": [
-      449.07,
-      244.69,
-      593.96,
-      337.76
-    ],
-    "target_mask": {
-      "counts": "g`k51Z=1O1O2N1O1O2N1O1O1O2M1000001O000000001O00000O10001O001O001O1O001O001O0O2O001O001O00001O001O0N2M4L3M3M4L3M3M4L3M3M4L3M4L3M3M4L3N201O00001O001O00001O00001O00O10000000000O1000001O000O10001O000O2O001O00001N10001O001O0O101O00001N10001O001O0O101O0O1M4M2M3N3L3N3L3N2N3L3N2M3N3L3M3M3M4K4M3M3M3M4Kfmb0",
-      "size": [
-        427,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 234948,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=backpack, cat_b=bottle, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_0871",
-    "prompt": "the backpack to the right of the bottle",
-    "target_box": [
-      268.82,
-      0.0,
-      602.12,
-      196.31
-    ],
-    "target_mask": {
-      "counts": "[Un34h>5J6K4K6K5L4K4M4L4L4K4M4L4K5K4M4K5K4L5L4O1O001O1O1O2N1O2N1O2N1O1O2N1O2N1O2N1O2N1O2N1O1O1O1O1O1O1O1O1O1O1O001O001O001O001O00001O001O0O101O001O000000000000000000O100000000000000O10000000000000000O100000000001O001O00001O00001O000010O0001O010O3M4L3N3L5K4L3N0O001O100O1O00100O1O1O10O01O1O100O001O100O1O00100OeNfFPMZ9m2jFSMU9k2oFSMR9j2QGVMn8h2UGWMk8g2XGYMg8f2[GZMd8e2^GZMb8e2aGZM_8c2dG\\M\\8c2fG[M[8d2gGYM[8e2hGYMY8f2iGWMY8h2jGTMX8k2kGRMV8n2kGoLX8o2kGmLW8S3kGjLV8V3lGfLV8Y3mGfLR8Z3oGfLP8Z3RHeLm7Z3VHdLk7[3m10000O100001O100O001O1O1O100O001O1O100O001O1O1O100O001O1O100O001O1O100O001O1O010O1O001O1O010O1O00N2O2M2N2O1N2O2O02N1O2N101N1O2N1O2O0O2N1O2N1O2O0O2N1O00010O001O00001O010O00001O001O00001O010O00001O001O000010O000001O0000000001O0001O00000000000001O01O00000000000001O000O101O0O100`MiE7X:CQF8P:CXF:h9AaF;_9@jF<W9^OQG>P9^OXG>h8@_G;a8CiG4Y8IRHNn70\\HHd76gH@Z7>PIZOQ7c0g3N2L4M4K4Llha0",
-      "size": [
-        480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 262991,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=couch, cat_b=laptop, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_1019",
-    "prompt": "the couch to the right of the laptop",
-    "target_box": [
-      445.33,
-      215.33,
-      636.8299999999999,
-      411.42
-    ],
-    "target_mask": {
-      "counts": "SVj56U=4K5L5J5L4M4K4L4L5K4L4L5K4L4L5K4L4L5K4M3L4L1O000000001O000000001O01O0001O000000001O0000000010O00000001O0000001O0000000010O00000001O000000001O00000010O00000001O000000001O000001O01O000000001O0000001O000001O01O000000001_HdLQ5\\3nJeLR5[3lJgLT5Y3kJhLU5X3jJiLV5X3gJjLY5V3fJkLZ5U3eJlL\\5S3bJoL^5R3`JoL`5Q3_JPMa5P3]JRMc5n2\\JSMd5m2[JTMe5m2XJUMh5k2WJVMi5j2VJWMj5i2TJYMl5g2SJZMm5g2QJZMo5f2oI\\MR6c2mI^MS6b2lI_MT6a2kI`MU6a2hIaMX6_2gIbMY6^2fIcMZ6^2cIdM]6\\2bIeM^6\\2`IeM`6\\2]IfMc6[2[IfMe6Z2ZIgMf6Z2WIhMi6Y2UIhMl6X2RIiMn6W2PIkMP7V2nHkMR7V2lHkMT7V2iHlMW7T2hHmMX7T2fHmMZ7T2cHnM]7S2aHnM_7R2`HoM`7n30000001O0000000000000000000000001O000000000000000000000000001O00000000000^L^T1",
-      "size": [
-        427,
         640
       ]
     }
@@ -1586,30 +1082,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 527375,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=chair, cat_b=laptop, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_2135",
-    "prompt": "the chair to the right of the laptop",
-    "target_box": [
-      445.53,
-      182.34,
-      500.0,
-      277.45
-    ],
-    "target_mask": {
-      "counts": "Pej32f81O1N2O1N2O1N2O1O1N2O1N2O1O1N2O1N2O1N2O1N2O1N3N1N2O1N2O1N2O1N2O1N2O1N2O1M3N2N2M3N2N2M3N2N2M3N2M3N2N2M3N2O1YJ",
-      "size": [
-        281,
-        500
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 361055,
     "image_source": "coco_train2017",
     "notes": "cat_a=dog, cat_b=couch, control",
@@ -1628,30 +1100,6 @@
       "size": [
         640,
         427
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 309580,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=couch, cat_b=cat, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_1250",
-    "prompt": "the couch to the right of the cat",
-    "target_box": [
-      349.48,
-      228.67,
-      640.0,
-      473.53
-    ],
-    "target_mask": {
-      "counts": "foT51o>0O1O100O1O100O1O1O1N2O2N1O100O1O100O1O100O100O1O100O1O100O1O100O1O100O1O100O10000O10000O1000000O1000000O100O1O1O1O100O1O1O1O1O1O1O100O1O1O1O1O100O100O1O100O100O1O100O100O1O100O100O100O1O100O100O1O100O100O1O100O1O100O1O1O100O1O1O100O1O1O1O100O1O1O100O1O1O100O1O100O100O1O100O1O100O100O1O2O0O100O1O100O100O1O100O100O100O100O100O10000O100O100O100O10000O100O100O100O10000O100O100O100O10000O100K5J6L4O1O1O1O1O1O1O100O1O1O1O1O1O1O1O1O100O1O1O1O100O1O1O1O1O1O1O1O1O1O1N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O2N1O1O1O1O1O1O1O1O1O1O1O1kH",
-      "size": [
-        480,
-        640
       ]
     }
   },
@@ -1898,30 +1346,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 95308,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=couch, cat_b=chair, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_0329",
-    "prompt": "the couch to the right of the chair",
-    "target_box": [
-      568.84,
-      189.81,
-      640.0,
-      423.0
-    ],
-    "target_mask": {
-      "counts": "lk[71U=100O1O100O100O1O100O100O1O100O100TIFj0;VOGg0:YOHe08[OJb07^OL?4AN<3DO92G070I24OL3TK_Og3>U15bJ7n3E`1g1[NZNd1j1WNXNi1l1QNVNo1n1kMTNU2P2eMRN[2^2SMdMm2_2nLcMR3_2jLcMV3`2eLbM[3a2`LaM`3b2ZLaMf3b2TLaMl3b2oK`MQ4b2jKaMV4b2dKaM\\4b2_K`Ma4c2YK`Mg4c2SK`Mm4c2nJ_MR5d2hJ_MX5c2aJbM_5a2XJeMh5m400O10000000000000000000000000000000iNYK",
-      "size": [
-        423,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 318346,
     "image_source": "coco_train2017",
     "notes": "cat_a=laptop, cat_b=bowl, control",
@@ -2083,78 +1507,6 @@
       "counts": "nU[32l>=E;E:F;E0bBiNS=b1PC[Nd<R2^CkMW<`20:G9H8E9F9H9G8H9G6J00000000001OCTFfKl9Y4\\F`Kd9`4>0O10000000000000000000000000O10O1000000000000000000000000000O10O1000000000000000000000000000O010000000000000000000000000000O0100000000000000004L4L4L4L1M2M301O00000000G8QOP1mNS1gMd^[4",
       "size": [
         480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 133667,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=car, cat_b=chair, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_0507",
-    "prompt": "the car to the right of the chair",
-    "target_box": [
-      67.29,
-      346.63,
-      480.0,
-      527.03
-    ],
-    "target_mask": {
-      "counts": "WYZ19ob0o0B?G8H9G2N2N2N2N1O2N2N2N2N101N2N2N2N2N1O2N2N2O1O0O2O1O1N2O0O2O1O0O10000O01000O01000O01000O0100O0100O0100O10000O100O10000O010O10000O100O10000O10O2O000000001O000000001N10000000001O000000001N100000001O000000001O0O1000001O000000001O00000O101O000000001O000000001O000000001N100000001O000000001O000O10001O000000001O000O10001O000000001O000O10001O000000001O000O10001O000000001O000O10001O000000001O000O11O01O0001O0001O01O0000010O00000010O000001O01O000000001O000000001O000000001O000000001O0000000O101O000000001O000000001O000000001O000000001O000000001N100000001O000000001N100000001O0000000O2O000000001O0000000O2O000000001O0000000O2O000000001O0000000O2O000000001O00000O101O000000001O000000010O0001O0010O01O0bNbAZM^>_2jA`MW>W2RBiMm=S2XBlMi=S2XBlMh=T2YBhMk=W2VBeMm=[2TBaMo=^2SB^MQ>a2PB[MS>e2nAWMV>h2kATMX>l2iAPM[>o2fAmL]>S3X1O2O001O001O000O2O001O001O00001N100000O100000O1000000000000O10O1000000000O100000000000O0100000000000gD",
-      "size": [
-        640,
-        480
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 490471,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=vase, cat_b=cup, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_1975",
-    "prompt": "the vase to the right of the cup",
-    "target_box": [
-      186.13,
-      330.88,
-      294.94,
-      476.91999999999996
-    ],
-    "target_mask": {
-      "counts": "Qcd33nc0=D<C<D=D<C<E<C=C4M0O10N1O1O2N1O10N1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1N2O1O1O1O1O1O1O1O1O1O1N2O1N2N2O1N2O1N2N200001O001O001O001O010O001O001O001O001O001O001O00001O001O00O10000000G9K4L5K4K6K4L4K5L5K4L5J5H9G9G8H9G9G8H9GkUb2",
-      "size": [
-        640,
-        427
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 552159,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=truck, cat_b=bus, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_2230",
-    "prompt": "the truck to the right of the bus",
-    "target_box": [
-      301.61,
-      205.95,
-      601.31,
-      302.65999999999997
-    ],
-    "target_mask": {
-      "counts": "Y^n3>n0CQ;l0_DUOb;Z100000000000000001O00000000000000001O00000000000000001O000000000c0]O1O010O0012M5L3oNR1E:FPS70e`H3c;NZD7c;KXD;e;FXD`0d;BXDc0e;^OXDg0e;ZOXDl0d;a0M3MN2O1O1N2O1N2O1O10005K<D;E7I5K5LXY30dfL3N3M2N2M3WDF^:=`ENT:5jELU:6hELY:4eEM\\:3bEN_:2_E0a:O]E3d::mDGT;X11O5K5K4M4K<D1O001O1O1O0G\\X6[OWhI>C=TDWOo:k1G8I000000000O1000000006J9G3M001O0L4L4L4L5J5@a?CZA1J7F:2N2N2N2M`NKnE2j96XFHf9;[FCe9>\\F@d9a0eE6Y:L_E;a:F[E=e:DXE>h:FSE;m:R10000000dNmD?Q<O1O1O1O1O2N\\OoNQEm0j:ZO]E=_:HiEOR:7UFAi9a0a1O2N1N2O2N1N2O2FmX10XgN4K6M20010O01OeC0[;0dD7U;IkD?n:AQEc0l:ZOUEg0k:XOVEh0k:UOWEk0i:SOYEm0c;1O000004L6J5J6J6IcR75Z`H>V<b0J6J6JO10@`NTE`1l:eNoD[1R;hNjDX1V;?000O101O0000001O0O10001O000]Oc00001O0001O01O00000010O0000010O00001O01O01O01O7J6I7H\\Q`0",
-      "size": [
-        428,
         640
       ]
     }
@@ -2348,30 +1700,6 @@
       "size": [
         640,
         480
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 465137,
-    "image_source": "coco_train2017",
-    "notes": "cat_a=chair, cat_b=couch, control",
-    "pair_id": "",
-    "phenomenon": "spatial_right_control",
-    "probe_id": "spatial_1880",
-    "prompt": "the chair to the right of the couch",
-    "target_box": [
-      294.69,
-      153.37,
-      464.63,
-      319.15
-    ],
-    "target_mask": {
-      "counts": "VWk35U=6K5K2M2O1O1N2O001N3N1N4cNJ_E;[:_1L5K4L4K6K3M4L4K5L=CO010000O0100N1K6J5O2O7H9H6I7I`0@7I8H7_NdDf0X<H8H8GPd4i0X[K2O1N2O1N2OK3L2N6K6H7G`f65_YI<G<YOVOWDn0d;`0I6K5J6K5J6K5O010000000YO[MhFe2d7_MUI:iNW2R8eMoHR3Q7gMUHZ2j7hMUHX2k7hMTHY2l7hMSHX2m7iMQHX2o7iMPHW2P8b100O11O1O1O2N1O1O2N1O1O1O1O1O001O1O002N1O2N2N1O2N2Nn0RO00O10000O10000001O000000001O00001O001O1O1M3K5L4L3L5L4QNVEX1n:gNTES1R;kNPEh0];VO^1N2L]UY2",
-      "size": [
-        427,
-        640
       ]
     }
   },
@@ -2690,30 +2018,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 53047,
-    "image_source": "lvis_v1_train",
-    "notes": "group=bowl_plate, target=bowl, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_0820",
-    "prompt": "bowl",
-    "target_box": [
-      217.85,
-      7.6,
-      420.81,
-      108.36999999999999
-    ],
-    "target_mask": {
-      "counts": "bec2S1V;b1^N?AN2O1O1O1O100O1O1O1O1O1O1O100O1O100O100O1O100O100O100O100O10000O1000000O10000O10000O10000O1O100O100O100O100O100O10000O10000O10000O10000O10000O100O100O100O100O100O1O100O100O1O100O100O1O100O100O10000O100O10000O100O100O10000O100O100O100O1O1O1O100O1O10000O100O10000O10000000000O100000000000000O1000000000000O10000000000O100O10000000000000000000000000000000000000000000000000000000000000000000000000000001ZQd2",
-      "size": [
-        393,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 514404,
     "image_source": "lvis_v1_train",
     "notes": "group=utensils, target=spoon, control",
@@ -2729,54 +2033,6 @@
     ],
     "target_mask": {
       "counts": "[cf25ic05L3N1N2N2O100O1O100O001N2N1O2N2O1N1O101O001O00010O01O00100O6J2N3N1N1O1O1O1O001O1O001O001O00O1O0EFR]O:ob0Hk\\O;Wc061O1O1O1J6L5M4K[Pi00eoVO3M2O10010O00001O01O0001O0000010O0000000010O000000010O00000001O01O000001O0001O0001O000001O01O0000001O01O00000001O0001O000001O00000001O01O00000000010O000000000010O000000000000001O0000000000001O0000000000001O00001N101O00001O0O`k`2",
-      "size": [
-        640,
-        480
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 498137,
-    "image_source": "lvis_v1_train",
-    "notes": "group=headwear, target=helmet, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_7645",
-    "prompt": "helmet",
-    "target_box": [
-      458.68,
-      65.0,
-      525.07,
-      126.44
-    ],
-    "target_mask": {
-      "counts": "mWg6;`>8J6K3L4M2N3N2N1O2M3N1O2O0O101O0O101O0O101O0O101O00001O00001O0000001O0000001O0000001O00000001O0000000O2O0O1N2O1O2M2L4L4L5J5J6J6H8HSke1",
-      "size": [
-        480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 297829,
-    "image_source": "lvis_v1_train",
-    "notes": "group=cup_mug_glass, target=cup, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_4563",
-    "prompt": "cup",
-    "target_box": [
-      162.17,
-      464.86,
-      280.48,
-      604.38
-    ],
-    "target_mask": {
-      "counts": "VjU36Wc0e0QOo0L4L3G8\\Oe0]Ob0H8O2N1O1O2O0N2M4N10001O000O2O00001O0001O0000000000000001O00000000000000000O10000000001O0000000000000000000000000000000000000000O100000000000000O100000000000000O100000000000000O10000000000O10003L3N1O1N2O1N3N4L3Ln0SOa0^O3N2Nl0SO`^l3",
       "size": [
         640,
         480
@@ -3098,30 +2354,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 133281,
-    "image_source": "lvis_v1_train",
-    "notes": "group=seating, target=chair, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_2079",
-    "prompt": "chair",
-    "target_box": [
-      378.0,
-      255.48,
-      424.14,
-      372.52
-    ],
-    "target_mask": {
-      "counts": "fYn41o;1dD11NZ;7^D:K_Of;U1[DlNd;S1\\DPO];T1dDlNS;\\1nDdNP;d0kDKe;BRE9o:FRE9o:GQE9o:GQE8P;GQE8P;HPE7Q;HQE7o:IQE6P;JPE6o:KQE4P;KQE5o:KkD:4DR:3eE=6CU:0gE:5FU:NiE:2HU:MkE91JT:MlE80KT:MmE60MS:3hEO5NS:8dEI9OS:;bED<1R:=aEA=2R:6iEG54Q:NSG1m8OSG1m8OSG1n8NRG2n8OQG1o8ObFNjN3d:0aF2fNNHNn:2fF4`N1g0IS93eG4^N458L]Og94iG]1`NaNf92[Fa0e0j0ZOcNg9i0TGc0UOcNh9c0[GG0DV95l2N]Pj2",
-      "size": [
-        428,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 155493,
     "image_source": "lvis_v1_train",
     "notes": "group=knife_scissors, target=scissors, control",
@@ -3161,30 +2393,6 @@
     ],
     "target_mask": {
       "counts": "ZQl45i>4K5L5L3M2M201N101O1N101O0O10001N1000000O2O000000001O0O1000001O000000001O00000001O0001O00000000000000010O00000000000000010O00000000000IlNbBT1\\=9N2N2O1O100O1O100O10000O10000000000O100000000O1000000000000000000000000000000000000001O0000001O0000001O0N2M4O001O0:GO01O01O010O00010O010O00010O100O12N0001O;D6KO0001O00001O01O0001O00000O2O00001O000O101N101N10001O00011N3M4M0O00010O00010O0000010O0010O01O01O01O010O0010O01O001O0010O01O00001O001O001O001O001O001O00001O001O001O001O001O001O00001O001O010O001O001O001O00001O001O001O00R^g0",
-      "size": [
-        480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 399294,
-    "image_source": "lvis_v1_train",
-    "notes": "group=pillow_cushion, target=cushion, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_6182",
-    "prompt": "cushion",
-    "target_box": [
-      256.58,
-      122.71,
-      586.29,
-      355.89
-    ],
-    "target_mask": {
-      "counts": "ffh32m>2N2O1N2N2N2N2O0O2N1O2N2N101N1O2N2N101N1N2O2N1O2N1O2N1O2N1O1O1O1O1O1N201O000O10POkB5U=HPC6P=HTC7k<IVC6j<IWC7i<HXC8h<GZC8g<FZC:f<D]C<b<B`C>`<@bC`0^<^OdCb0]<\\OdCe0[<ZOfCf0Z=10O01O001O00100O0000001O00001O0000001N10001N1000001O00001O0000001O0000000010O00001O01O000O100000000O2O000000000000001OO2O000O01O100O010O100O001N2O1N101N101N2O0O1000000000O10kNbNiD^1X;dNcD^1^;dN^D]1c;eNjCj1X<>1O1O2N1N3N1O1O1N2O1O001O0O2O000000001N100000001O000O10001O00001N2O1O1O1O1O1O1N2O1O1O1O001O1O1O1O1O1O1O100O1O1O1O1O1O1O100O1O1OdBi0Q;P2DO000000000000O100O10O01O1O1O1O1O1O1O001O10O01O001O010O0010O01O100O100O100O100O1O10O010:E2O2M2O1N3M2O1N2O1N2N2O1N3M2O2M2N3iG_Jk6d5lHcJR7b5fHbJY7d5_H`J`7a6N101N1O100O1O100O1O01O1O1O1N3N1M3M3L4M3M3M3L4L4L4L4L4L4K6K4L4L4K6J5K6J5L5L3L5K4L6J6K4M4K5L3L5L8G9H6I8I6G:F;AhTi0",
       "size": [
         480,
         640
@@ -3242,54 +2450,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 81782,
-    "image_source": "lvis_v1_train",
-    "notes": "group=knife_scissors, target=knife, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_1264",
-    "prompt": "knife",
-    "target_box": [
-      70.69,
-      58.54,
-      208.89,
-      85.92
-    ],
-    "target_mask": {
-      "counts": "aik0:T<4M3L3N2O001O1O1O00000000000000001O0000000000000001O00000000000000000000000000000001O000000000000000000000000000000000000O10000O1000000O10000O10000O10000O10000O10000O100O10001N10000O10000O10000O100000000O100000000O10000000000O101O00000O100000000O10000000000O100000O100002M3N_ca3",
-      "size": [
-        400,
-        500
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 67065,
-    "image_source": "lvis_v1_train",
-    "notes": "group=cooking_vessels, target=pot, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_1028",
-    "prompt": "pot",
-    "target_box": [
-      399.03,
-      0.0,
-      640.0,
-      76.32
-    ],
-    "target_mask": {
-      "counts": "PQk51o>2N3M2N2N3M2N2N2N1O1O1O1O2N1O1O1O1O1O1O1O1O1O1O001O1O1O1O001O1O1O1O001O001O001O001O001O001O001O001O001O001O1O001O001O001O001O001O1O001O001O00001O00001O00001O00001O0000001O00001O00001O001O00001O00001O00001O001O000000000000000000001O000000000000000000001O000000000000000000000000000000000000000000000000000000000000O10000000000O100000000O10000000000O10000O10000O10000O10000O10000O10000O10000O100O10000O10000O100O100O1O1O1O100O1O1O1O100O1O1O100O1O1O1O1N2O1N2N2O1N2O1N2N2O1N2N2M3M3N2K5",
-      "size": [
-        480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 233888,
     "image_source": "lvis_v1_train",
     "notes": "group=headwear, target=helmet, control",
@@ -3307,30 +2467,6 @@
       "counts": "Zbn07];5L5L3L4M2N3M2O1N2N2O1N2O000O1000O010O1000O]ObEN_:1cEN]:1eEN[:1fEN\\:0eEO[:1gEMZ:2hELY:3jEJX:5jEGY:7e0N3J`D0d;0O2O1N3M2N9HEmDJ24ONj:4\\E3d:L]E3c:M`E0a:Od0O1OiZW4",
       "size": [
         375,
-        500
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 503938,
-    "image_source": "lvis_v1_train",
-    "notes": "group=bags, target=suitcase, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_7730",
-    "prompt": "suitcase",
-    "target_box": [
-      258.76,
-      149.09,
-      499.91999999999996,
-      334.0
-    ],
-    "target_mask": {
-      "counts": "\\hd234No9<J5N2N2M3K5K6K4M3O00O101^OoFDR99RGFn86VGIk8O]G1c8KaG5_8HdG7Z9000000O2O00001O010OSFL`94]F4^9M^Fa0X9:001OO1M3FnNUGU1k8700IeN[G[1e87O1O1O0N1N3O2N101O000O2O1O001O1SOmM^Im1WOVN[70VILBk13VNV75SILAe1j7aNcH]1c7dN\\H\\1d7fNYH[1h7fNRHENg1n7i0L7I8H9HO00000000O1N2O1O1O1O1FeL_I]3^6;N2L4L4M3M3N200O1O1O1O1N2M3N2AYKUKi4e4c0N2O100O1000000O10000000000O10000000000000000000000O1000000O1O1O1001O002NO1000000000000000000000000001O0000001O000000000000001O0000000000000000000000000000000000001O001O0000000000001O00001O001O00001O1O001O001O001O001O1O3M1O1O1O1O002N1SKfJc4e5N2N1O2N1O1O1O001O1O1O3M001O001O002N2N2N2N2N4L00O1O10^L\\IZ3l60RI",
-      "size": [
-        334,
         500
       ]
     }
@@ -3427,30 +2563,6 @@
       "counts": "R5h2Y7c0[JJX55iJ7j4JWK7g4IYK8f4G[K:c4G]K;a4E_K<`4C`K?_4AaK`0^4@bKa0]4^OdKd0Z4\\OfKe0Y4[OgKe0Y4ZOhKg0W4YOiKg0W4YOiKh0V4WOkKi0U4WOkKj0T4UOmKk0S4TOnKl0R4SOoKn0P4QOQLo0o3oNSLR1l3mNULS1k3lNVLT1j3kNWLV1h3iNYLW1g3hNZLX1f3gN[LZ1d3eN]L[1c3cN_L]1a3bN`L_1_3`NbL`1^3_NcLa1]3^NcLc1]3\\NdLe1[3ZNfLf1Z3YNgLg1Y3WNiLi1W3VNiLl1V3SNkLm1U3RNlLn1T3QNmLo1S3QNmLP2R3PNmLQ2S3nMnLR2R3nMnLR2R3nMnLS2Q3mMnLT2R3kMoLU2Q3kMoLU2Q3jMPMW2o2iMQMW2o2iMPMX2P3fMRMZ2m2fMTMZ2l2dMVM]2i2bMXM^2h2aMXM`2h2_MYMa2g2^MZMb2f2\\M\\Me2c2ZM]Mg2c2XM^Mh2b2WM_Mi2a2VM`Mj2`2UMaMl2^2SMbMn2^2QMcMo2]2PMdMP3\\2PMdMP3\\2oLeMQ3[2oLdMR3\\2mLeMS3[2mLeMS3[2lLfMT3Z2lLeMU3[2jLfMV3Z2jLfMV3Z2iLgMX3X2iLgMW3Y2iLfMX3Z2hLfMX3Z2iLeMW3[2iLdMX3\\2iLcMW3]2iLcMW3]2iLcMW3]2jLaMW3_2jL`MV3`2jL`MU3b2kL\\MV3d2jL\\MV3e2jLZMV3g2jLWMW3j2hLVMX3k2hLTMX3m2hLRMX3n2iLPMX3Q3gLoLY3R3eLoL[3R3cLnL^3S3aLmL_3S3`LnL_3T3`LkLa3V3]LkLc3U3]LkLc3V3\\LiLe3W3[LiLe3X3YLiLf3Y3XLgLi3Y3VLhLj3Y3TLgLm3Y3SLgLm3Z3QLgLo3Y3QLfLo3\\3PLdLP4]3nKdLR4\\3nKcLS4^3kKcLU4]3kKbLU4`3jK`LV4`3iKaLW4`3hK_LX4b3gK_LY4b3eK^L\\4b3cK_L]4b3aK^L_4c3`K^L`4c3^K]Lc4c3\\K^Lc4d3ZK^Lf4b3YK^Lh4c3UK_Lj4b3UK^Ll4c3QK_Lo4a3oJ`LR5g6O01000O010O010O010O010O010O0100O0010O010O01O010O010O010O0010O010O01O010O001O010O00010O000010O0001O01O0000000000000mNZFmLg9V2YGfMg8b1TH[Nl7P1mHlNS7P1TImNl6Q1ZIkNf6R1`IkN_6U1eIhN[6X1hIeNW6\\1lI`NU6`1e30O101N12N2O1N1O2O1N3M2O0O2O1N3M;F;EblR6",
       "size": [
         480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 63521,
-    "image_source": "lvis_v1_train",
-    "notes": "group=cup_mug_glass, target=cup, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_0972",
-    "prompt": "cup",
-    "target_box": [
-      416.03,
-      361.36,
-      505.67999999999995,
-      481.0
-    ],
-    "target_mask": {
-      "counts": "niS6=\\><I7J3M3M2N3L301NiN]C2c<KbC2HJk;4cC4:KL<T<FdC7<DCj0\\<[OcC;<c0n;KiC=V<X1O2M2O1N3M2O1N1O1O1O1O1O1O10000O10000O100000000000000000000O1M3M3M3N2M30000001O0000001O001O001N1O1O2M3N1O2M2O`0@2N2O1N2N3M3N2M2N2N2N3M3WNmB64h0Z=QOkBm0f=N2M2N4K6J6Dk`n1",
-      "size": [
-        481,
         640
       ]
     }
@@ -3818,30 +2930,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 415604,
-    "image_source": "lvis_v1_train",
-    "notes": "group=seating, target=chair, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_6422",
-    "prompt": "chair",
-    "target_box": [
-      423.19,
-      173.05,
-      542.08,
-      231.14000000000001
-    ],
-    "target_mask": {
-      "counts": "b_V66f>:I4L1O1O100O100O100O100O2O000O2O0O4M0O2O000O010000O010O10O10O10O10O10O10O10O10O1000O01000O010000O01000O01000O10O10O10O10O10O10O1000O010000O01000O01000O10O10O1000O010000O01000O01000O100000O010000O1000O01000000O101O0O101O1N101O1O1N3N3M4KUh]1",
-      "size": [
-        480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 351991,
     "image_source": "lvis_v1_train",
     "notes": "group=bags, target=handbag, control",
@@ -3890,30 +2978,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 379177,
-    "image_source": "lvis_v1_train",
-    "notes": "group=utensils, target=spoon, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_5894",
-    "prompt": "spoon",
-    "target_box": [
-      88.76,
-      28.56,
-      149.74,
-      71.81
-    ],
-    "target_mask": {
-      "counts": "i`[12a?2O0O010O001O010O0010O01O0010O01O010O0010O01O0010O01O010O0010O01O010O000010O00010O000001O01O0001O00001O0001N101O1N2N2Na[[5",
-      "size": [
-        500,
-        500
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 576702,
     "image_source": "lvis_v1_train",
     "notes": "group=cup_mug_glass, target=cup, control",
@@ -3932,30 +2996,6 @@
       "size": [
         478,
         640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 92646,
-    "image_source": "lvis_v1_train",
-    "notes": "group=seating, target=chair, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_1451",
-    "prompt": "chair",
-    "target_box": [
-      428.33,
-      270.58,
-      492.94,
-      372.12
-    ],
-    "target_mask": {
-      "counts": "j[m44h25j5OaIb0_6BjHQ1V7SOmGf1S8o00000000000000000000000000000000000000000000000000000000000000000000000000000001O1O1O005K6J6J7I6J6J7I6J6J6J7I6J6J3M2N4LfV2",
-      "size": [
-        375,
-        500
       ]
     }
   },
@@ -4034,30 +3074,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 168291,
-    "image_source": "lvis_v1_train",
-    "notes": "group=seating, target=chair, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_2643",
-    "prompt": "chair",
-    "target_box": [
-      40.93,
-      174.53,
-      135.79,
-      324.74
-    ],
-    "target_mask": {
-      "counts": "P]c0h0Q>b0B=D6J6K5K4M4K5L3M4L3M3M3M2N3M2N2N2N2N3M2N2N2N2N3M2N1O1O1O1O2N001O001O0010O01O0000001O0000001O0001O0001O0000aL_E_2a:aMdEh0NG^:AdEYOMT113]:@eEYONS104^:_OdEYOO0NOl0Y1c9^OeEZON0S11iNn0a:FjEWOI4V1NiNo0]:FjGXOiMR1h=0003POSBg0o=WOSBh0R>01O0001O02N2N1O2N1O2O1N1O1O1O1O1O1O100O1O1O1O1O001O100Olm[7",
-      "size": [
-        480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 297812,
     "image_source": "lvis_v1_train",
     "notes": "group=bags, target=handbag, control",
@@ -4099,54 +3115,6 @@
       "counts": "jZR63Y>001O01O01O00000010OaB1`<0^C4`<L^C8`<H_C:`<G]C=`<D_C>`<B^Ca0a<_OZCf0e<[OWCj0h<WOTCl0k<<O0O2O0O2N1L5H7O2N1L4L4L5jN`MYFe2f9^MSFg2m9\\MkEi2T:h001O00000002O1N6J7I8H?A4L4K5L4L3M4K5L3M1O0O2O2N1N3N1lNbC7_<GfC5^=J2NR_o1",
       "size": [
         460,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 323128,
-    "image_source": "lvis_v1_train",
-    "notes": "group=knife_scissors, target=knife, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_4976",
-    "prompt": "knife",
-    "target_box": [
-      362.27,
-      523.3,
-      479.0,
-      640.0
-    ],
-    "target_mask": {
-      "counts": "bhR71oc02M2O1O1N2O1O1N2O001O1N3N3M2M3N2N2N1O2N2N2N2N1O2N2M3N2M3O0O2O1M3N2N110O1O1N2O11NO2N2N2N2N101N2N2O1N2O0O2O1O1O1O0013MO1OO2O0N2O1N3N1O1N3N1N2O1N3N1N2O1O2M2O1N2O1N3N1NP^ObNaa0]1_^OcNba0\\1]^OeNda0Y1]^OgNda0X1\\^OhNea0V1[^OkNfa0T1Z^OlNga0R1Y^OoNha0P1X^OPOia0n0W^OSOja0l0V^OTOla0j0T^OVOma0h0S^OYOna0f0R^OZOoa0d0Q^O]OPb0b0P^O^OQb0`0o]OARb0>n]OCRb0;o]OERb0:m]OGUb07k]OIVb05j]OLWb03i]OMYb00g]O1Zb0Nf]O2[b0Lf]O4\\b0Jc]O7^b0Gc]O9^b0Fa]O;ab0C_]O=Qc0100O100O1",
-      "size": [
-        640,
-        479
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 141447,
-    "image_source": "lvis_v1_train",
-    "notes": "group=headwear, target=hat, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_2201",
-    "prompt": "hat",
-    "target_box": [
-      82.73,
-      198.19,
-      122.93,
-      264.23
-    ],
-    "target_mask": {
-      "counts": "fcQ1;`<4L3M3M2N2O1F:K5L4M3M3N2M2016I6J0O2O01N3E:M300O11O0O2O1O1N2N1O2O1N2N4K6K6H<D8Ffh_6",
-      "size": [
-        412,
         640
       ]
     }
@@ -4274,78 +3242,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 314979,
-    "image_source": "lvis_v1_train",
-    "notes": "group=cup_mug_glass, target=drinking glass, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_4864",
-    "prompt": "drinking glass",
-    "target_box": [
-      36.1,
-      0.0,
-      183.44,
-      114.65
-    ],
-    "target_mask": {
-      "counts": "P[a02n>1O1O2N1O1O2N1O1O2N1O1O1O2N1O1O2N1O1O2N1O1O2N1O1O2N1O1O2N1O1O2N1O2N2N1O2N1O2N1O2lCXNl:i1SEXNl:i1REXNn:j1PEWNo:j1PEWNo:k1nDWNQ;k1mDUNS;l1lDUNS;m1jDUNU;o1gDRNX;R2dDnM\\;Z2[DhMd;k2O1O1O001O1O001O1O1O001O1O1O1OO100000000000000000000000000000000000000YNmDAS;9ZE@f:<bE@^:=gEAY:;kEEU:8nEHR:5QFKo92TFNl9NXF2h9K[F5e9H^F8b9F`F:`9CcF=]9AeF?[9^OhFb0X9\\OjFd0V9YOmFg0S9WOoFi0Q9UOQGk0o8ROTGn0_;0000000000000001O00000O2O00001O0O10001N101N1O101O001O0O2O0O2O1N1O2O0O2O2M2N2NnSf6",
-      "size": [
-        480,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 471658,
-    "image_source": "lvis_v1_train",
-    "notes": "group=knife_scissors, target=knife, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_7256",
-    "prompt": "knife",
-    "target_box": [
-      45.77,
-      325.58,
-      132.0,
-      393.33
-    ],
-    "target_mask": {
-      "counts": "QTm03kc04N2M1O2N100O1O1O100O1O1O10O01O100O1O1O100O001O100O1O1O00001O00001O00001O0001O00000000000000000O10000000O1000O1000000000O10O10001O1O1O1O1O1N2O1O1O1N2O1N2O1N2O1O1N2O1N2Ok]g5",
-      "size": [
-        640,
-        425
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 163033,
-    "image_source": "lvis_v1_train",
-    "notes": "group=bags, target=suitcase, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_2564",
-    "prompt": "suitcase",
-    "target_box": [
-      410.64,
-      241.14,
-      475.59999999999997,
-      376.07
-    ],
-    "target_mask": {
-      "counts": "eSQ84lc00O1X^OLc?7[@Kc?7[@La?7]@Ka?7]@L`?6\\@Oa?3\\@0a?3]@1_?1_@3^?N]@YOfNP1h`0G`@g0W?ZOf@k0W?UOi@j0X?VOf@k0[?UOc@k0_?UO_@l0b?TO\\@l0f?UOW@l0j?TOT@n0l?ROR@o0P`0POn_OQ1S`0oNk_OS1U`0mNi_OS1Y`0nNd_OR1^`0nN__OS1c`0mN[_OS1g`0mNV_OT1l`0lNQ_OU1Qa0kNm^OU1Ua0j03M2N2N2O1N2N2N2N2N3M2M3N3L2O101N6J2N2O1N2N2N2N3N1N2N2N2AQ]OJPc03S]OKob02T]OLob00U]OLnb01_i2",
-      "size": [
-        640,
-        480
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 263358,
     "image_source": "lvis_v1_train",
     "notes": "group=seating, target=armchair, control",
@@ -4436,54 +3332,6 @@
       "size": [
         427,
         640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 436856,
-    "image_source": "lvis_v1_train",
-    "notes": "group=pillow_cushion, target=cushion, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_6718",
-    "prompt": "cushion",
-    "target_box": [
-      150.56,
-      109.14,
-      271.85,
-      164.43
-    ],
-    "target_mask": {
-      "counts": "nbh1b0[;6I5L4M3N2O1N2N1O2N101N01O1O100O001O1O100O1O110N2N2N2O1N2N2N2N2N1O2N2N1O001N10001O001O0000001O000000001O00000000001O01O0000000000000001OO10001O001O0000O10O010000000O1000000O1000000O10000O100000001O00000000000O10000000000000000000O100O100EdDMc;OV`Y4",
-      "size": [
-        383,
-        640
-      ]
-    }
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 551494,
-    "image_source": "lvis_v1_train",
-    "notes": "group=seating, target=armchair, control",
-    "pair_id": "",
-    "phenomenon": "finegrained_control",
-    "probe_id": "finegrained_8424",
-    "prompt": "armchair",
-    "target_box": [
-      0.0,
-      460.39,
-      426.0,
-      640.0
-    ],
-    "target_mask": {
-      "counts": "\\>f4[?<C=C2N000001O00000000001TMQBEo=:TBDl=:XBDh=;[BCe=<^BBb==aBA`=<cBC]=9iBEW=8nBFR=6TCHl<4ZCJf<3^CLb<0cCO^<LfC4Z<IjC6V<FnC:R<CRD<n;CSD=m;CTD<m;BTD>l;AVD>j;AWD?i;@YD?g;AYD?g;@[D?f;_O[Da0e;^O\\Db0d;]O]Dc0c;\\O^Dd0b;\\O^Dd0b;[O`Dd0a;ZO`Df0`;YOaDg0_;XObDh0^;XObDh0^;WOcDi0];VOdDj0\\;UOeDk0\\;SOeDm0[;ROgDm0Y;SOfDn0Z;QOgDP1X;oNhDR1X;mNiDS1R?0O10N2M2M4L4M2O21O0O101N1N3M2N3N11O010O0010O01O0010O01O010O0010O01O0010O01O010O0010O01O1O010O1O10O01O1O000010O000000000001O0000000000010O0000000000001O00001O01O01N100O2O001N10001N2O2N1M4J5L4Km[[3NWddL3N3M2N3N1O100O2N1O1O100O1O2N1O10O000000010O00000010O000000010O000000010O00000001O01O000001O01O0001O0001O0001O0001O0001O0001O0001O0001g]OQ1_?k1M4M3L3M4L3M4M3L3M4L10O000000001O000000001O000000001O000000001O00",
-      "size": [
-        640,
-        426
       ]
     }
   },
@@ -4820,42 +3668,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2412022,
-    "image_source": "visual_genome",
-    "notes": "color=red, object=bus, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_16015",
-    "prompt": "the red bus",
-    "target_box": [
-      121.0,
-      107.0,
-      399.0,
-      189.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2342128,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=car, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_108143",
-    "prompt": "the white car",
-    "target_box": [
-      0.0,
-      1.0,
-      41.0,
-      105.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2362717,
     "image_source": "visual_genome",
     "notes": "color=black, object=bag, control",
@@ -4946,42 +3758,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2316668,
-    "image_source": "visual_genome",
-    "notes": "color=brown, object=shirt, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_141830",
-    "prompt": "the brown shirt",
-    "target_box": [
-      219.0,
-      202.0,
-      498.0,
-      373.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2376848,
-    "image_source": "visual_genome",
-    "notes": "color=black, object=shoe, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_60479",
-    "prompt": "the black shoe",
-    "target_box": [
-      151.0,
-      310.0,
-      191.0,
-      339.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2378368,
     "image_source": "visual_genome",
     "notes": "color=yellow, object=kite, control",
@@ -5054,60 +3830,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2408350,
-    "image_source": "visual_genome",
-    "notes": "color=blue, object=shoe, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_20935",
-    "prompt": "the blue shoe",
-    "target_box": [
-      151.0,
-      170.0,
-      273.0,
-      207.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 285745,
-    "image_source": "visual_genome",
-    "notes": "color=brown, object=shirt, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_8035",
-    "prompt": "the brown shirt",
-    "target_box": [
-      145.0,
-      272.0,
-      658.0,
-      752.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 1793,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=car, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_2759",
-    "prompt": "the white car",
-    "target_box": [
-      450.0,
-      97.0,
-      508.0,
-      140.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2356191,
     "image_source": "visual_genome",
     "notes": "color=black, object=shoe, control",
@@ -5138,24 +3860,6 @@
       187.0,
       207.0,
       251.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2364149,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=shirt, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_77204",
-    "prompt": "the white shirt",
-    "target_box": [
-      158.0,
-      104.0,
-      185.0,
-      148.0
     ],
     "target_mask": null
   },
@@ -5198,42 +3902,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2409513,
-    "image_source": "visual_genome",
-    "notes": "color=yellow, object=shirt, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_19084",
-    "prompt": "the yellow shirt",
-    "target_box": [
-      271.0,
-      188.0,
-      318.0,
-      237.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2321514,
-    "image_source": "visual_genome",
-    "notes": "color=blue, object=flower, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_133022",
-    "prompt": "the blue flower",
-    "target_box": [
-      12.0,
-      6.0,
-      496.0,
-      188.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2315357,
     "image_source": "visual_genome",
     "notes": "color=brown, object=jacket, control",
@@ -5246,24 +3914,6 @@
       0.0,
       227.0,
       183.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2383150,
-    "image_source": "visual_genome",
-    "notes": "color=black, object=suitcase, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_52707",
-    "prompt": "the black suitcase",
-    "target_box": [
-      381.0,
-      154.0,
-      443.0,
-      271.0
     ],
     "target_mask": null
   },
@@ -5306,42 +3956,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2320105,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=shirt, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_136305",
-    "prompt": "the white shirt",
-    "target_box": [
-      407.0,
-      93.0,
-      459.0,
-      160.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2343482,
-    "image_source": "visual_genome",
-    "notes": "color=orange, object=shorts, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_106250",
-    "prompt": "the orange shorts",
-    "target_box": [
-      114.0,
-      247.0,
-      220.0,
-      352.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 1592610,
     "image_source": "visual_genome",
     "notes": "color=black, object=bag, control",
@@ -5354,24 +3968,6 @@
       504.0,
       839.0,
       572.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2395872,
-    "image_source": "visual_genome",
-    "notes": "color=blue, object=jacket, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_37417",
-    "prompt": "the blue jacket",
-    "target_box": [
-      235.0,
-      59.0,
-      307.0,
-      180.0
     ],
     "target_mask": null
   },
@@ -5396,24 +3992,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2391722,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=flower, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_42165",
-    "prompt": "the white flower",
-    "target_box": [
-      101.0,
-      236.0,
-      154.0,
-      285.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2324464,
     "image_source": "visual_genome",
     "notes": "color=white, object=shoe, control",
@@ -5426,78 +4004,6 @@
       300.0,
       201.0,
       324.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2373131,
-    "image_source": "visual_genome",
-    "notes": "color=blue, object=jacket, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_65399",
-    "prompt": "the blue jacket",
-    "target_box": [
-      451.0,
-      197.0,
-      485.0,
-      236.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2347540,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=shirt, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_99878",
-    "prompt": "the white shirt",
-    "target_box": [
-      114.0,
-      155.0,
-      158.0,
-      189.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2348618,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=towel, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_98610",
-    "prompt": "the white towel",
-    "target_box": [
-      432.0,
-      275.0,
-      499.0,
-      318.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2339651,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=flower, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_111022",
-    "prompt": "the white flower",
-    "target_box": [
-      257.0,
-      290.0,
-      321.0,
-      446.0
     ],
     "target_mask": null
   },
@@ -5540,24 +4046,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2354140,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=bag, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_91011",
-    "prompt": "the white bag",
-    "target_box": [
-      163.0,
-      124.0,
-      194.0,
-      151.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2404848,
     "image_source": "visual_genome",
     "notes": "color=orange, object=shirt, control",
@@ -5570,78 +4058,6 @@
       56.0,
       488.0,
       216.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2406001,
-    "image_source": "visual_genome",
-    "notes": "color=black, object=bag, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_24323",
-    "prompt": "the black bag",
-    "target_box": [
-      189.0,
-      375.0,
-      276.0,
-      460.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2373277,
-    "image_source": "visual_genome",
-    "notes": "color=purple, object=flower, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_65261",
-    "prompt": "the purple flower",
-    "target_box": [
-      1.0,
-      76.0,
-      29.0,
-      107.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2414380,
-    "image_source": "visual_genome",
-    "notes": "color=yellow, object=bag, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_144442",
-    "prompt": "the yellow bag",
-    "target_box": [
-      281.0,
-      28.0,
-      313.0,
-      60.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2374963,
-    "image_source": "visual_genome",
-    "notes": "color=red, object=car, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_62908",
-    "prompt": "the red car",
-    "target_box": [
-      75.0,
-      154.0,
-      321.0,
-      239.0
     ],
     "target_mask": null
   },
@@ -5720,42 +4136,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2359470,
-    "image_source": "visual_genome",
-    "notes": "color=blue, object=shorts, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_83199",
-    "prompt": "the blue shorts",
-    "target_box": [
-      180.0,
-      174.0,
-      234.0,
-      199.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2356206,
-    "image_source": "visual_genome",
-    "notes": "color=black, object=shoe, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_88188",
-    "prompt": "the black shoe",
-    "target_box": [
-      305.0,
-      178.0,
-      340.0,
-      205.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2370082,
     "image_source": "visual_genome",
     "notes": "color=green, object=hat, control",
@@ -5792,42 +4172,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2413186,
-    "image_source": "visual_genome",
-    "notes": "color=orange, object=plate, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_145550",
-    "prompt": "the orange plate",
-    "target_box": [
-      95.0,
-      26.0,
-      398.0,
-      328.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 150314,
-    "image_source": "visual_genome",
-    "notes": "color=black, object=jacket, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_7444",
-    "prompt": "the black jacket",
-    "target_box": [
-      324.0,
-      304.0,
-      452.0,
-      460.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2378117,
     "image_source": "visual_genome",
     "notes": "color=white, object=surfboard, control",
@@ -5840,24 +4184,6 @@
       140.0,
       303.0,
       208.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2413165,
-    "image_source": "visual_genome",
-    "notes": "color=blue, object=pants, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_145581",
-    "prompt": "the blue pants",
-    "target_box": [
-      3.0,
-      371.0,
-      22.0,
-      498.0
     ],
     "target_mask": null
   },
@@ -5936,24 +4262,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 4067,
-    "image_source": "visual_genome",
-    "notes": "color=green, object=flower, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_6010",
-    "prompt": "the green flower",
-    "target_box": [
-      9.0,
-      101.0,
-      57.0,
-      153.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2398535,
     "image_source": "visual_genome",
     "notes": "color=black, object=suitcase, control",
@@ -5966,42 +4274,6 @@
       248.0,
       385.0,
       396.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2347365,
-    "image_source": "visual_genome",
-    "notes": "color=blue, object=box, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_100089",
-    "prompt": "the blue box",
-    "target_box": [
-      407.0,
-      145.0,
-      445.0,
-      188.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2402090,
-    "image_source": "visual_genome",
-    "notes": "color=yellow, object=flag, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_29236",
-    "prompt": "the yellow flag",
-    "target_box": [
-      250.0,
-      172.0,
-      393.0,
-      252.0
     ],
     "target_mask": null
   },
@@ -6026,60 +4298,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2400429,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=pants, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_31544",
-    "prompt": "the white pants",
-    "target_box": [
-      207.0,
-      225.0,
-      295.0,
-      270.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2337845,
-    "image_source": "visual_genome",
-    "notes": "color=brown, object=pillow, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_113137",
-    "prompt": "the brown pillow",
-    "target_box": [
-      4.0,
-      235.0,
-      59.0,
-      257.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2390518,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=flower, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_43471",
-    "prompt": "the white flower",
-    "target_box": [
-      3.0,
-      167.0,
-      82.0,
-      243.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2363910,
     "image_source": "visual_genome",
     "notes": "color=yellow, object=door, control",
@@ -6092,24 +4310,6 @@
       184.0,
       252.0,
       256.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2319543,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=pillow, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_137099",
-    "prompt": "the white pillow",
-    "target_box": [
-      238.0,
-      187.0,
-      302.0,
-      269.0
     ],
     "target_mask": null
   },
@@ -6146,42 +4346,6 @@
       61.0,
       455.0,
       111.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2404051,
-    "image_source": "visual_genome",
-    "notes": "color=green, object=sign, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_26799",
-    "prompt": "the green sign",
-    "target_box": [
-      26.0,
-      18.0,
-      479.0,
-      318.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2397750,
-    "image_source": "visual_genome",
-    "notes": "color=red, object=shoe, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_34897",
-    "prompt": "the red shoe",
-    "target_box": [
-      182.0,
-      257.0,
-      279.0,
-      349.0
     ],
     "target_mask": null
   },
@@ -6260,114 +4424,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2378644,
-    "image_source": "visual_genome",
-    "notes": "color=red, object=car, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_58082",
-    "prompt": "the red car",
-    "target_box": [
-      225.0,
-      315.0,
-      337.0,
-      381.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2327345,
-    "image_source": "visual_genome",
-    "notes": "color=red, object=building, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_125511",
-    "prompt": "the red building",
-    "target_box": [
-      128.0,
-      107.0,
-      277.0,
-      214.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 713353,
-    "image_source": "visual_genome",
-    "notes": "color=black, object=bag, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_10360",
-    "prompt": "the black bag",
-    "target_box": [
-      132.0,
-      5.0,
-      247.0,
-      64.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2396938,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=building, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_35974",
-    "prompt": "the white building",
-    "target_box": [
-      298.0,
-      131.0,
-      358.0,
-      181.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2413777,
-    "image_source": "visual_genome",
-    "notes": "color=blue, object=pants, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_144958",
-    "prompt": "the blue pants",
-    "target_box": [
-      53.0,
-      91.0,
-      126.0,
-      144.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2400373,
-    "image_source": "visual_genome",
-    "notes": "color=white, object=building, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_31603",
-    "prompt": "the white building",
-    "target_box": [
-      30.0,
-      31.0,
-      326.0,
-      447.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2364887,
     "image_source": "visual_genome",
     "notes": "color=red, object=bus, control",
@@ -6422,42 +4478,6 @@
   {
     "distractor_box": null,
     "has_distractor": false,
-    "image_id": 2320842,
-    "image_source": "visual_genome",
-    "notes": "color=black, object=jacket, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_134316",
-    "prompt": "the black jacket",
-    "target_box": [
-      0.0,
-      202.0,
-      365.0,
-      497.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2361742,
-    "image_source": "visual_genome",
-    "notes": "color=blue, object=boat, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_80123",
-    "prompt": "the blue boat",
-    "target_box": [
-      192.0,
-      156.0,
-      278.0,
-      248.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
     "image_id": 2334813,
     "image_source": "visual_genome",
     "notes": "color=blue, object=building, control",
@@ -6470,60 +4490,6 @@
       170.0,
       52.0,
       243.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2358607,
-    "image_source": "visual_genome",
-    "notes": "color=green, object=fence, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_84307",
-    "prompt": "the green fence",
-    "target_box": [
-      3.0,
-      42.0,
-      499.0,
-      370.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 498293,
-    "image_source": "visual_genome",
-    "notes": "color=red, object=bag, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_9514",
-    "prompt": "the red bag",
-    "target_box": [
-      591.0,
-      733.0,
-      747.0,
-      925.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2343014,
-    "image_source": "visual_genome",
-    "notes": "color=orange, object=chair, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_106929",
-    "prompt": "the orange chair",
-    "target_box": [
-      4.0,
-      185.0,
-      186.0,
-      254.0
     ],
     "target_mask": null
   },
@@ -6560,24 +4526,6 @@
       194.0,
       207.0,
       275.0
-    ],
-    "target_mask": null
-  },
-  {
-    "distractor_box": null,
-    "has_distractor": false,
-    "image_id": 2364326,
-    "image_source": "visual_genome",
-    "notes": "color=black, object=shoe, control",
-    "pair_id": "",
-    "phenomenon": "attribute_color_control",
-    "probe_id": "attribute_76992",
-    "prompt": "the black shoe",
-    "target_box": [
-      282.0,
-      234.0,
-      314.0,
-      271.0
     ],
     "target_mask": null
   },
