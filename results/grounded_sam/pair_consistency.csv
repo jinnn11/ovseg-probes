@@ -1,0 +1,7 @@
+phenomenon,pairs,both_correct,consistency
+attribute_color,55,29,0.5273
+finegrained_confusable,34,25,0.7353
+finegrained_distinct,24,15,0.6250
+negation,74,1,0.0135
+spatial_left,51,0,0.0000
+overall,238,70,0.2941

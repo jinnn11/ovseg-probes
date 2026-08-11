@@ -1,0 +1,17 @@
+phenomenon,failure_type,count
+attribute_color,other-grounding,31
+attribute_color,distractor-capture,19
+finegrained_confusable,distractor-capture,6
+finegrained_confusable,other-grounding,4
+finegrained_distinct,distractor-capture,6
+finegrained_distinct,other-grounding,4
+negation,distractor-capture,61
+negation,other-grounding,4
+negation_positive,other-grounding,19
+negation_positive,distractor-capture,13
+spatial_left,other-grounding,32
+spatial_left,distractor-capture,21
+spatial_right,other-grounding,27
+spatial_right,distractor-capture,26
+overall,distractor-capture,152
+overall,other-grounding,121

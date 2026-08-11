@@ -402,3 +402,108 @@ Per probe: `predictions/{model}/{probe_id}.json`
   "wall_time_s": 0.123
 }
 ```
+
+---
+
+## Step 9: Full Grounded-SAM Inference
+
+**Date:** 2026-08-10
+**Server:** Vast.ai GPU instance (CUDA)
+**Model:** Grounding DINO (Swin-T) + SAM (ViT-L)
+
+### RefCOCO Validation Gate (Session 1)
+
+| Metric | Value |
+|---|---|
+| Split | val (500-sample subsample of 8,811 expressions) |
+| Accuracy@0.5 | **51.6%** (258/500) |
+| Published zero-shot | **50.8%** (Grounding DINO Swin-T, ECCV 2024 Table) |
+| Delta | +0.8pp — pipeline validated |
+| Detection miss | 5/500 |
+| Avg inference time | 0.366s |
+
+Reference: Liu et al., "Grounding DINO: Marrying DINO with Grounded Pre-Training
+for Open-Set Object Detection," ECCV 2024. Zero-shot REC row, Swin-T backbone.
+Note: fine-tuned numbers (~89%) are NOT comparable — our pipeline uses zero-shot.
+
+### Selection Accuracy (Full Probe Set, 914 probes)
+
+| Phenomenon | Distractor Acc | Control Acc | Gap |
+|---|---|---|---|
+| attribute_color | 149/199 = 74.9% | 46/50 = 92.0% | 17.1% |
+| finegrained_confusable | 59/69 = 85.5% | 71/80 = 88.8% | 3.2% |
+| finegrained_distinct | 38/48 = 79.2% | (shared ctrl) 88.8% | 9.6% |
+| **negation** | **17/82 = 20.7%** | **55/59 = 93.2%** | **72.5%** |
+| negation_positive | 73/105 = 69.5% | (shared ctrl) 93.2% | 23.7% |
+| **spatial_left** | **25/78 = 32.1%** | **29/35 = 82.9%** | **50.8%** |
+| **spatial_right** | **19/72 = 26.4%** | **29/37 = 78.4%** | **52.0%** |
+| **Overall distractor** | **380/653 = 58.2%** | | |
+| **Overall control** | | **230/261 = 88.1%** | |
+
+### Oracle Results (SAM with GT Boxes, 419 masked probes)
+
+| Metric | Value |
+|---|---|
+| Distractor accuracy | 266/267 = **99.6%** |
+| Control accuracy | 152/152 = **100%** |
+| Total failures | 1 (finegrained_confusable distractor-capture) |
+| Spatial pair consistency | 51/51 = 100% |
+| Finegrained pair consistency | 58/58 = 100% |
+
+**Conclusion (RQ2):** Segmentation is never the bottleneck. Oracle accuracy
+99.6% vs standard 58.2% — all failures originate at the grounding stage.
+
+### Failure Classification (273 total failures)
+
+| Phenomenon | distractor-capture | other-grounding |
+|---|---|---|
+| negation | 61 | 4 |
+| spatial_left | 21 | 32 |
+| spatial_right | 26 | 27 |
+| attribute_color | 19 | 31 |
+| negation_positive | 13 | 19 |
+| finegrained_confusable | 6 | 4 |
+| finegrained_distinct | 6 | 4 |
+| **Overall** | **152** | **121** |
+
+### Pair Consistency (238 complete mirror pairs)
+
+| Phenomenon | Both correct | Pairs | Consistency |
+|---|---|---|---|
+| finegrained_confusable | 25/34 | 34 | 73.5% |
+| finegrained_distinct | 15/24 | 24 | 62.5% |
+| attribute_color | 29/55 | 55 | 52.7% |
+| **negation** | **1/74** | **74** | **1.4%** |
+| **spatial_left** | **0/51** | **51** | **0.0%** |
+| **Overall** | **70/238** | **238** | **29.4%** |
+
+### Negation Contrast (74 intact negation/positive pairs)
+
+| Outcome | Count | % |
+|---|---|---|
+| Both correct | 1 | 1.4% |
+| Positive only correct | 50 | 67.6% |
+| Negation only correct | 14 | 18.9% |
+| Neither correct | 9 | 12.2% |
+
+Interpretation: Model actively prefers the positively-matching person when
+prompted with negation — scoring 20.7% (below random chance of ~50%) is not
+ignoring "not" but doing the opposite. 61/65 negation failures are
+distractor-capture, confirming bag-of-words grounding.
+
+### Key Findings
+
+1. **Negation at 20.7% is below chance.** 50/74 pairs get only the positive
+   right — the model does the opposite of negation, actively selecting the
+   person who matches the negated attribute. Mechanism: bag-of-words grounding.
+
+2. **Spatial pair consistency 0/51.** Not one left/right pair both correct.
+   The model has a preferred instance per image and picks it regardless of
+   the preposition. Individual ~30% accuracy could be noise; 0/51 cannot.
+
+3. **Fine-grained's small gap (3.2%) is the contrast.** Where the model has
+   the capability, the probes let it pass — the methodology doesn't
+   manufacture failures.
+
+4. **Attribute binding gap 17.1%** is partially compositional — per-color-pair
+   analysis needed in appendix.

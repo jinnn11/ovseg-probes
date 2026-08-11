@@ -1,0 +1,5 @@
+phenomenon,control_acc,distractor_acc,gap
+spatial_left,1.0000,1.0000,0.0000
+spatial_right,1.0000,1.0000,0.0000
+finegrained_confusable,1.0000,0.9855,0.0145
+finegrained_distinct,1.0000,1.0000,0.0000

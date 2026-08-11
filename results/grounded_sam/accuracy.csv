@@ -1,0 +1,13 @@
+type,phenomenon,correct,total,accuracy
+distractor,attribute_color,149,199,0.7487
+distractor,finegrained_confusable,59,69,0.8551
+distractor,finegrained_distinct,38,48,0.7917
+distractor,negation,17,82,0.2073
+distractor,negation_positive,73,105,0.6952
+distractor,spatial_left,25,78,0.3205
+distractor,spatial_right,19,72,0.2639
+control,attribute_color_control,46,50,0.9200
+control,finegrained_control,71,80,0.8875
+control,negation_control,55,59,0.9322
+control,spatial_left_control,29,35,0.8286
+control,spatial_right_control,29,37,0.7838

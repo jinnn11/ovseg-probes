@@ -1,0 +1,10 @@
+{
+  "model": "grounded_sam",
+  "split": "val",
+  "total": 500,
+  "correct": 258,
+  "accuracy": 0.516,
+  "detection_miss": 5,
+  "iou_threshold": 0.5,
+  "avg_time_s": 0.366
+}

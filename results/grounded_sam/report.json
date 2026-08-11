@@ -1,0 +1,287 @@
+{
+  "iou_threshold": 0.5,
+  "total_probes": 914,
+  "missing_predictions": 0,
+  "accuracy": {
+    "distractor": {
+      "attribute_color": {
+        "correct": 149,
+        "total": 199,
+        "accuracy": 0.7487437185929648
+      },
+      "finegrained_confusable": {
+        "correct": 59,
+        "total": 69,
+        "accuracy": 0.855072463768116
+      },
+      "finegrained_distinct": {
+        "correct": 38,
+        "total": 48,
+        "accuracy": 0.7916666666666666
+      },
+      "negation": {
+        "correct": 17,
+        "total": 82,
+        "accuracy": 0.2073170731707317
+      },
+      "negation_positive": {
+        "correct": 73,
+        "total": 105,
+        "accuracy": 0.6952380952380952
+      },
+      "spatial_left": {
+        "correct": 25,
+        "total": 78,
+        "accuracy": 0.32051282051282054
+      },
+      "spatial_right": {
+        "correct": 19,
+        "total": 72,
+        "accuracy": 0.2638888888888889
+      }
+    },
+    "control": {
+      "attribute_color_control": {
+        "correct": 46,
+        "total": 50,
+        "accuracy": 0.92
+      },
+      "finegrained_control": {
+        "correct": 71,
+        "total": 80,
+        "accuracy": 0.8875
+      },
+      "negation_control": {
+        "correct": 55,
+        "total": 59,
+        "accuracy": 0.9322033898305084
+      },
+      "spatial_left_control": {
+        "correct": 29,
+        "total": 35,
+        "accuracy": 0.8285714285714286
+      },
+      "spatial_right_control": {
+        "correct": 29,
+        "total": 37,
+        "accuracy": 0.7837837837837838
+      }
+    },
+    "distractor_overall": {
+      "correct": 380,
+      "total": 653,
+      "accuracy": 0.5819295558958653
+    },
+    "control_overall": {
+      "correct": 230,
+      "total": 261,
+      "accuracy": 0.8812260536398467
+    }
+  },
+  "distractor_gap": {
+    "attribute_color": {
+      "control_acc": 0.92,
+      "distractor_acc": 0.7487437185929648,
+      "gap": 0.1712562814070352
+    },
+    "spatial_left": {
+      "control_acc": 0.8285714285714286,
+      "distractor_acc": 0.32051282051282054,
+      "gap": 0.508058608058608
+    },
+    "spatial_right": {
+      "control_acc": 0.7837837837837838,
+      "distractor_acc": 0.2638888888888889,
+      "gap": 0.5198948948948949
+    },
+    "finegrained_confusable": {
+      "control_acc": 0.8875,
+      "distractor_acc": 0.855072463768116,
+      "gap": 0.03242753623188399
+    },
+    "finegrained_distinct": {
+      "control_acc": 0.8875,
+      "distractor_acc": 0.7916666666666666,
+      "gap": 0.09583333333333333
+    },
+    "negation": {
+      "control_acc": 0.9322033898305084,
+      "distractor_acc": 0.2073170731707317,
+      "gap": 0.7248863166597768
+    },
+    "negation_positive": {
+      "control_acc": 0.9322033898305084,
+      "distractor_acc": 0.6952380952380952,
+      "gap": 0.23696529459241322
+    }
+  },
+  "mask_miou": {
+    "finegrained_confusable": {
+      "mean_iou": 0.8071860116922135,
+      "count": 69
+    },
+    "finegrained_control": {
+      "mean_iou": 0.8208411501403791,
+      "count": 79
+    },
+    "finegrained_distinct": {
+      "mean_iou": 0.6532448263105702,
+      "count": 48
+    },
+    "spatial_left": {
+      "mean_iou": 0.2711109185112273,
+      "count": 78
+    },
+    "spatial_left_control": {
+      "mean_iou": 0.6695547795929292,
+      "count": 35
+    },
+    "spatial_right": {
+      "mean_iou": 0.23085653762653052,
+      "count": 72
+    },
+    "spatial_right_control": {
+      "mean_iou": 0.6235079596782274,
+      "count": 37
+    },
+    "overall": {
+      "mean_iou": 0.5650013671712749,
+      "count": 418
+    }
+  },
+  "failures": {
+    "attribute_color": {
+      "other-grounding": 31,
+      "distractor-capture": 19
+    },
+    "finegrained_confusable": {
+      "distractor-capture": 6,
+      "other-grounding": 4
+    },
+    "finegrained_distinct": {
+      "distractor-capture": 6,
+      "other-grounding": 4
+    },
+    "negation": {
+      "distractor-capture": 61,
+      "other-grounding": 4
+    },
+    "negation_positive": {
+      "other-grounding": 19,
+      "distractor-capture": 13
+    },
+    "spatial_left": {
+      "other-grounding": 32,
+      "distractor-capture": 21
+    },
+    "spatial_right": {
+      "other-grounding": 27,
+      "distractor-capture": 26
+    },
+    "overall": {
+      "distractor-capture": 152,
+      "other-grounding": 121
+    }
+  },
+  "pair_consistency": {
+    "attribute_color": {
+      "pairs": 55,
+      "both_correct": 29,
+      "consistency": 0.5272727272727272
+    },
+    "finegrained_confusable": {
+      "pairs": 34,
+      "both_correct": 25,
+      "consistency": 0.7352941176470589
+    },
+    "finegrained_distinct": {
+      "pairs": 24,
+      "both_correct": 15,
+      "consistency": 0.625
+    },
+    "negation": {
+      "pairs": 74,
+      "both_correct": 1,
+      "consistency": 0.013513513513513514
+    },
+    "spatial_left": {
+      "pairs": 51,
+      "both_correct": 0,
+      "consistency": 0.0
+    },
+    "overall": {
+      "pairs": 238,
+      "both_correct": 70,
+      "consistency": 0.29411764705882354
+    }
+  },
+  "negation_contrast": {
+    "negation": {
+      "correct": 17,
+      "total": 82,
+      "accuracy": 0.2073170731707317
+    },
+    "negation_positive": {
+      "correct": 73,
+      "total": 105,
+      "accuracy": 0.6952380952380952
+    },
+    "intact_pairs": {
+      "total": 74,
+      "both_correct": 1,
+      "neg_only": 14,
+      "pos_only": 50,
+      "neither": 9
+    }
+  },
+  "threshold_sweep": [
+    {
+      "confidence_cutoff": 0.15,
+      "evaluated": 914,
+      "correct": 610,
+      "accuracy": 0.6673960612691466
+    },
+    {
+      "confidence_cutoff": 0.2,
+      "evaluated": 914,
+      "correct": 610,
+      "accuracy": 0.6673960612691466
+    },
+    {
+      "confidence_cutoff": 0.25,
+      "evaluated": 914,
+      "correct": 610,
+      "accuracy": 0.6673960612691466
+    },
+    {
+      "confidence_cutoff": 0.3,
+      "evaluated": 906,
+      "correct": 609,
+      "accuracy": 0.6721854304635762
+    },
+    {
+      "confidence_cutoff": 0.35,
+      "evaluated": 894,
+      "correct": 603,
+      "accuracy": 0.674496644295302
+    },
+    {
+      "confidence_cutoff": 0.4,
+      "evaluated": 844,
+      "correct": 575,
+      "accuracy": 0.6812796208530806
+    },
+    {
+      "confidence_cutoff": 0.45,
+      "evaluated": 745,
+      "correct": 526,
+      "accuracy": 0.7060402684563758
+    },
+    {
+      "confidence_cutoff": 0.5,
+      "evaluated": 638,
+      "correct": 469,
+      "accuracy": 0.7351097178683386
+    }
+  ]
+}
