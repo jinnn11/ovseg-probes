@@ -8,3 +8,4 @@ ipywidgets
 requests
 tqdm
 opencv-python
+datasets

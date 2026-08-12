@@ -7,6 +7,15 @@ __pycache__/
 # Local datasets and model outputs.
 data/
 predictions/
+results/
+gallery/
+
+# Report and build artifacts.
+report/
+
+# Model weights.
+weights/
+third_party/
 
 # OS/editor noise.
 .DS_Store

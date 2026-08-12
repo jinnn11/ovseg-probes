@@ -408,8 +408,9 @@ Per probe: `predictions/{model}/{probe_id}.json`
 ## Step 9: Full Grounded-SAM Inference
 
 **Date:** 2026-08-10
-**Server:** Vast.ai GPU instance (CUDA)
+**Server:** Vast.ai, 1x RTX 3090 (24 GB VRAM), $0.126/hr
 **Model:** Grounding DINO (Swin-T) + SAM (ViT-L)
+**Setup:** `bash setup_server.sh` (handles venv, deps, weights, data, smoke test)
 
 ### RefCOCO Validation Gate (Session 1)
 
